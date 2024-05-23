@@ -1,0 +1,3453 @@
+Global Rank,Institution,Country,Sector
+1,Chinese Academy of Sciences *,CHN,Government
+2,Ministry of Education of the People's Republic of China,CHN,Government
+3,U.S. Department of Health and Human Services *,USA,Government
+4,National Institutes of Health,USA,Health
+5,Centre National de la Recherche Scientifique *,FRA,Government
+6,Harvard University *,USA,Universities
+7,Institut National de la Sante et de la Recherche Medicale *,FRA,Health
+8,China Pharmaceutical University,CHN,Universities
+9,Harvard Medical School,USA,Universities
+10,Johns Hopkins University *,USA,Universities
+11,Veterans Affairs Medical Centers *,USA,Health
+12,Chinese Academy of Medical Sciences and Peking Union Medical College *,CHN,Universities
+13,Zhejiang University *,CHN,Universities
+14,Peking University *,CHN,Universities
+15,F Hoffmann-La Roche *,MUL,Companies
+16,Universidade de Sao Paulo *,BRA,Universities
+17,Massachusetts Institute of Technology *,USA,Universities
+18,Shanghai Jiao Tong University *,CHN,Universities
+19,University of Oxford,GBR,Universities
+20,"University of North Carolina, Chapel Hill *",USA,Universities
+21,"University of Michigan, Ann Arbor *",USA,Universities
+22,Merck *,MUL,Companies
+23,Stanford University *,USA,Universities
+24,University College London *,GBR,Universities
+25,AstraZeneca *,MUL,Companies
+26,University of Washington *,USA,Universities
+27,Council of Scientific and Industrial Research *,IND,Government
+28,"Hoffmann-La Roche Ltd, United States",USA,Companies
+29,Sichuan University *,CHN,Universities
+30,Fudan University *,CHN,Universities
+31,GlaxoSmithKline *,MUL,Companies
+32,Pfizer *,MUL,Companies
+32,Instituto de Salud Carlos III *,ESP,Health
+33,University of Pennsylvania *,USA,Universities
+34,"Merck & Co Inc, United States",USA,Companies
+35,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+36,University of Chinese Academy of Sciences,CHN,Universities
+37,Johns Hopkins Medicine,USA,Health
+38,Helmholtz Gemeinschaft *,DEU,Government
+39,Sun Yat-Sen University *,CHN,Universities
+40,Genentech Inc,USA,Companies
+40,Harvard-MIT Division of Health Sciences and Tecnology,USA,Universities
+41,"University of California, San Francisco *",USA,Universities
+42,"Pfizer Inc, United States",USA,Companies
+43,Russian Academy of Sciences *,RUS,Government
+44,Shenyang Pharmaceutical University,CHN,Universities
+45,"Monash University, Melbourne *",AUS,Universities
+46,Consiglio Nazionale delle Ricerche *,ITA,Government
+47,The University of Queensland *,AUS,Universities
+48,Yale University *,USA,Universities
+49,"University of California, San Diego *",USA,Universities
+50,Samsung Corp *,MUL,Companies
+51,Dana Farber Cancer Institute ,USA,Health
+52,Howard Hughes Medical Institute *,USA,Health
+53,Tsinghua University *,CHN,Universities
+54,University of Toronto,CAN,Universities
+55,Catholic University of Leuven,BEL,Universities
+56,University of Copenhagen,DNK,Universities
+57,Cornell University *,USA,Universities
+58,"University of California, Santa Barbara",USA,Universities
+59,Cancer Research UK,GBR,Health
+60,University of Florida *,USA,Universities
+61,Scripps Research Institute,USA,Health
+62,US Food and Drug Administration,USA,Government
+63,Shandong University *,CHN,Universities
+64,Institute of Cancer Research,GBR,Health
+65,Duke University *,USA,Universities
+66,Novartis *,MUL,Companies
+67,IBM United States,USA,Companies
+68,Shanghai Institutes for Biological Sciences Chinese Academy of Sciences,CHN,Government
+69,Seoul National University *,KOR,Universities
+70,National University of Singapore *,SGP,Universities
+71,"University of California, Los Angeles *",USA,Universities
+72,King Saud University *,SAU,Universities
+73,Jilin University *,CHN,Universities
+74,Imperial College London,GBR,Universities
+75,Tehran University of Medical Sciences *,IRN,Universities
+76,Tabriz University of Medical Sciences,IRN,Universities
+77,Columbia University *,USA,Universities
+78,Peking University Health Science Center,CHN,Universities
+79,Karolinska Institute,SWE,Universities
+80,University of Pittsburgh *,USA,Universities
+81,California Institute of Technology *,USA,Universities
+82,Universite de Paris *,FRA,Universities
+83,Massachusetts General Hospital,USA,Health
+84,Public Health England,GBR,Health
+85,National Cancer Institute,USA,Health
+86,University of Melbourne *,AUS,Universities
+87,University of Sydney,AUS,Universities
+88,University of Cambridge *,GBR,Universities
+89,"University of Wisconsin, Madison *",USA,Universities
+90,Utrecht University *,NLD,Universities
+91,Mashhad University of Medical Sciences,IRN,Universities
+91,Ghent University,BEL,Universities
+92,University of Massachusetts Medical School,USA,Universities
+92,Flanders Interuniversity Institute for Biotechnology,BEL,Government
+92,City of Hope,USA,Health
+93,Huazhong University of Science and Technology *,CHN,Universities
+94,Al Mustaqbal University College,IRQ,Universities
+95,Assistance Publique Hopitaux de Paris *,FRA,Health
+96,"Rutgers, The State University of New Jersey",USA,Universities
+97,Kings College London,GBR,Universities
+98,Central South University *,CHN,Universities
+99,Johnson & Johnson *,MUL,Companies
+100,Emory University *,USA,Universities
+101,Leiden University *,NLD,Universities
+102,"Soochow University, Suzhou *",CHN,Universities
+103,"University of California, Berkeley *",USA,Universities
+104,Xi'an Jiaotong University *,CHN,Universities
+104,Purdue University,USA,Universities
+105,Centers for Disease Control and Prevention,USA,Health
+106,"University of Minnesota, Twin Cities *",USA,Universities
+107,"Northwestern University, Evanston *",USA,Universities
+108,Bristol-Myers Squibb Company *,MUL,Companies
+109,Memorial Sloan-Kettering Cancer Center,USA,Health
+110,"Bristol-Myers Squibb Company, United States",USA,Companies
+111,"University of Maryland, Baltimore",USA,Universities
+112,Vanderbilt University *,USA,Universities
+113,Broad Institute of MIT and Harvard,USA,Health
+114,Los Alamos National Laboratory *,USA,Government
+114,Universidade do Porto *,PRT,Universities
+115,"GlaxoSmithKline, United States",USA,Companies
+116,"Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences",CHN,Government
+117,Sorbonne Universite *,FRA,Universities
+118,Janssen,MUL,Companies
+119,German Cancer Consortium,DEU,Government
+120,Regeneron Pharmaceuticals Inc,USA,Companies
+121,Washington University in Saint Louis *,USA,Universities
+122,Houston Methodist,USA,Health
+123,Universita degli Studi di Milano,ITA,Universities
+124,"Ohio State University, Columbus *",USA,Universities
+125,Universita degli Studi di Firenze,ITA,Universities
+125,The University of British Columbia,CAN,Universities
+126,University of Texas M.D. Anderson Cancer Center ,USA,Health
+127,University of Utah *,USA,Universities
+128,"University of Illinois, Chicago *",USA,Universities
+129,Universita degli Studi di Roma La Sapienza,ITA,Universities
+130,Duke Medicine,USA,Health
+130,University of Pennsylvania Health System,USA,Health
+131,University of Helsinki,FIN,Universities
+132,IBM Research *,MUL,Companies
+132,National Institute of Biomedical Imaging and Bioengineering,USA,Health
+132,World Health Organization Switzerland,CHE,Health
+133,"Agency for Science, Technology and Research Singapore *",SGP,Government
+134,European Commission *,MUL,Government
+134,"University of California, Davis *",USA,Universities
+135,Swiss Federal Institute of Technology,CHE,Universities
+136,Nanyang Technological University *,SGP,Universities
+137,Walter and Eliza Hall Institute of Medical Research,AUS,Health
+137,Fundacao Oswaldo Cruz *,BRA,Health
+138,Stanford Medicine,USA,Health
+139,European Commission - Joint Research Centre,MUL,Government
+139,Mount Sinai Health System *,USA,Health
+140,Nanjing University *,CHN,Universities
+141,Mayo Clinic *,USA,Health
+142,"Eli Lilly and Company, United States",USA,Companies
+143,Baylor College of Medicine,USA,Universities
+144,Icahn School of Medicine at Mount Sinai,USA,Universities
+144,Texas Children's Hospital ,USA,Health
+145,New York University *,USA,Universities
+145,Brigham and Women's Hospital,USA,Health
+145,Medical Research Council,GBR,Health
+146,Eli Lilly *,MUL,Companies
+147,University of Nottingham *,GBR,Universities
+148,The University of Manchester,GBR,Universities
+149,Weill Cornell Medical College,USA,Universities
+150,Yale University Health & Medicine,USA,Health
+151,University of Kansas *,USA,Universities
+151,Universita degli Studi di Napoli Federico II,ITA,Universities
+152,Sanford Burnham Prebys Medical Discovery Institute,USA,Health
+153,West China Hospital,CHN,Health
+154,Universitat Basel,CHE,Universities
+155,Universitat de Barcelona *,ESP,Universities
+156,University of Tokyo *,JPN,Universities
+157,Barbara Ann Karmanos Cancer Institute,USA,Health
+158,King Abdullah University of Science and Technology,SAU,Universities
+158,Case Western Reserve University,USA,Universities
+159,St Jude Childrens Research Hospital,USA,Health
+160,"Novartis Institutes for Biomedical Research, United States",USA,Companies
+160,"Hoffmann-La Roche, GmbH., Germany",DEU,Companies
+161,University of Dundee,GBR,Universities
+162,University of Texas Southwestern Medical Center ,USA,Universities
+163,Zhengzhou University *,CHN,Universities
+164,University of Chicago *,USA,Universities
+165,University of Texas Medical Branch ,USA,Universities
+166,Weizmann Institute of Science,ISR,Universities
+167,"AstraZeneca, United States",USA,Companies
+168,Institut des Maladies Genetiques Imagine,FRA,Government
+169,Max Planck Gesellschaft *,DEU,Government
+169,Leibniz Gemeinschaft *,DEU,Government
+170,Institute for Molecular Medicine,FIN,Health
+170,"University of Texas, Austin",USA,Universities
+171,University of Michigan Health System,USA,Health
+172,Rutgers Cancer Institute of New Jersey,USA,Health
+172,National Institute on Aging,USA,Health
+173,"AstraZeneca, United Kingdom",GBR,Companies
+174,Uppsala University,SWE,Universities
+175,Freie Universitat Berlin,DEU,Universities
+176,Institut Pasteur de Paris *,FRA,Health
+177,Tongji University *,CHN,Universities
+178,University of Southern California *,USA,Universities
+179,Roehampton University *,GBR,Universities
+180,Korea Institute of Science and Technology,KOR,Government
+181,National Institute on Drug Abuse,USA,Health
+182,University of Twente,NLD,Universities
+183,Takeda Pharmaceuticals International Inc *,MUL,Companies
+184,Cairo University *,EGY,Universities
+185,Jinan University *,CHN,Universities
+185,Robert Bosch *,MUL,Companies
+186,CareGroup Healthcare System *,USA,Health
+186,Universitat Heidelberg,DEU,Universities
+187,"Novartis Institutes for Biomedical Research, Switzerland",CHE,Companies
+187,The University of Edinburgh *,GBR,Universities
+188,Washington University Medical Center ,USA,Health
+188,University of New South Wales,AUS,Universities
+189,University of Groningen *,NLD,Universities
+190,"University of California, Irvine *",USA,Universities
+191,Nanjing Medical University *,CHN,Universities
+192,University of Iowa *,USA,Universities
+193,University of Auckland,NZL,Universities
+194,Erasmus University Rotterdam *,NLD,Universities
+195,Leiden University Medical Center,NLD,Health
+196,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+196,Center for Drug Evaluation & Research,USA,Government
+197,Beth Israel Deaconess Medical Center,USA,Health
+198,Virginia Commonwealth University *,USA,Universities
+199,Polish Academy of Sciences *,POL,Government
+199,Vanderbilt University Medical Center,USA,Health
+200,Shahid Beheshti University of Medical Sciences and Health Services,IRN,Universities
+201,University of Kentucky *,USA,Universities
+201,Huanghuai University,CHN,Universities
+202,Deutsches Krebsforschungszentrum,DEU,Government
+202,Technische Universitat Darmstadt,DEU,Universities
+202,Wistar Institute,USA,Health
+203,Children's Hospital Boston  *,USA,Health
+204,Bayer *,MUL,Companies
+205,Tianjin University *,CHN,Universities
+206,Ecole Polytechnique Federale de Lausanne,CHE,Universities
+207,Janssen Biotech Inc,USA,Companies
+207,Woodruff Health Sciences Center,USA,Health
+208,City University of New York *,USA,Universities
+208,European Bioinformatics Institute EMBL,GBR,Government
+209,Technical University of Denmark,DNK,Universities
+209,Universite de Geneve,CHE,Universities
+210,Sungkyunkwan University,KOR,Universities
+210,Celgene Corp,USA,Companies
+211,Robert H. Lurie Comprehensive Cancer Center,USA,Health
+211,"Hoffmann-La Roche Ltd, Switzerland",CHE,Companies
+212,"City University of New York, Hunter College",USA,Universities
+212,"Bayer AG, Germany",DEU,Companies
+212,National University of Science and Technology MISIS,RUS,Universities
+213,Virginia Polytechnic Institute and State University,USA,Universities
+214,Skolkovo Institute of Science and Technology,RUS,Universities
+215,North Carolina State University,USA,Universities
+215,Singapore Eye Research Institute,SGP,Health
+216,Paul Scherrer Institute,CHE,Government
+217,Universita degli Studi di Padova,ITA,Universities
+218,"Amgen, USA",USA,Companies
+218,Singapore National Eye Centre *,SGP,Health
+218,Columbia University Irving Medical Center,USA,Health
+219,Lunds University,SWE,Universities
+219,Amgen *,MUL,Companies
+220,Wuhan University *,CHN,Universities
+220,University of South Florida System *,USA,Universities
+221,Wenzhou Medical University *,CHN,Universities
+222,University of South Florida,USA,Universities
+222,"GlaxoSmithKline, United Kingdom",GBR,Companies
+222,Roswell Park Cancer Institute,USA,Health
+223,Nankai University *,CHN,Universities
+224,Radboud University Nijmegen Medical Centre,NLD,Health
+225,Pennsylvania State University *,USA,Universities
+226,Charite - Universitatsmedizin Berlin *,DEU,Health
+226,Universite Montpellier *,FRA,Universities
+227,Wayne State University,USA,Universities
+227,US Naval Research Laboratory,USA,Government
+227,"Montana State University, Bozeman",USA,Universities
+228,University of Pittsburgh Medical Center ,USA,Health
+229,National Institute of Allergy and Infectious Diseases,USA,Health
+229,Istituto Italiano di Tecnologia,ITA,Non-Profit
+229,"MedImmune, LLC.",USA,Companies
+229,Universite Paris-Saclay *,FRA,Universities
+230,University of Florida Health Science Center,USA,Health
+231,Erasmus Medical Center,NLD,Health
+231,University of Alberta,CAN,Universities
+232,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+233,King Abdulaziz University *,SAU,Universities
+233,University of Arizona *,USA,Universities
+234,Moorfields Eye Hospital NHS Trust,GBR,Health
+235,University of Washington Medicine ,USA,Health
+235,Cedars-Sinai Medical Center ,USA,Health
+235,McGill University,CAN,Universities
+236,Mitsubishi Corp *,MUL,Companies
+237,Arizona State University,USA,Universities
+238,Seattle Children's Hospital,USA,Health
+238,"University of Connecticut, Storrs *",USA,Universities
+238,University of Virginia *,USA,Universities
+239,University Health Network *,CAN,Health
+240,University of Notre Dame,USA,Universities
+240,"AstraZeneca, Sweden",SWE,Companies
+241,Universite de Lausanne,CHE,Universities
+242,Kennedy Krieger Institute,USA,Health
+242,Universidad Nacional Autonoma de Mexico,MEX,Universities
+242,Princeton University,USA,Universities
+243,"Takeda Pharmaceuticals International Inc, USA",USA,Companies
+243,Temple University *,USA,Universities
+244,University of Nebraska Medical Center,USA,Universities
+244,Academy of Sciences of the Czech Republic *,CZE,Government
+245,University of Glasgow *,GBR,Universities
+245,Centre de Recherche des Cordeliers,FRA,Government
+245,Princess Margaret Cancer Centre,CAN,Health
+246,Universitat Zurich,CHE,Universities
+246,National Research Centre,EGY,Government
+247,Cardiff University,GBR,Universities
+247,Eberhard-Karls-Universitat Tubingen,DEU,Universities
+248,AbbVie *,MUL,Companies
+248,Jagiellonian University,POL,Universities
+249,Georgia State University,USA,Universities
+249,Universitatsklinikum Freiburg,DEU,Health
+249,Indiana University-Purdue University Indianapolis,USA,Universities
+250,"AbbVie Inc, United States",USA,Companies
+251,Hokkaido University *,JPN,Universities
+252,Johann Wolfgang Goethe-Universitat Frankfurt am Main *,DEU,Universities
+253,University of Amsterdam *,NLD,Universities
+254,Georgia Institute of Technology *,USA,Universities
+255,Leibniz Institut fur Polymerforschung Dresden,DEU,Government
+255,National Institute for Materials Science,JPN,Government
+256,Hebrew University of Jerusalem,ISR,Universities
+256,Second Military Medical University *,CHN,Universities
+257,Queen's University Belfast,GBR,Universities
+257,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+257,Southern Medical University *,CHN,Universities
+258,Gilead Sciences *,MUL,Companies
+259,"Gilead Sciences Inc, United States",USA,Companies
+260,Korea University *,KOR,Universities
+261,"Southeast University, Nanjing *",CHN,Universities
+262,Medizinische Hochschule Hannover,DEU,Universities
+263,Catholic University of Louvain,BEL,Universities
+264,Swiss Tropical and Public Health Institute,CHE,Government
+264,H. Lee Moffitt Cancer Center and Research Institute,USA,Health
+265,Universidade de Lisboa,PRT,Universities
+266,"Northeastern University, USA",USA,Universities
+266,University of Macau,MAC,Universities
+267,UCLA Health System,USA,Health
+267,City University of New York Graduate Center,USA,Universities
+268,Center for Disease Control and Prevention China,CHN,Health
+269,Institut Pasteur de Lille *,FRA,Health
+270,University of Central Lancashire,GBR,Universities
+271,National Institute of Pharmaceutical Education and Research,IND,Universities
+272,University of Georgia,USA,Universities
+272,Aarhus University *,DNK,Universities
+272,"Colorado State University, Fort Collins *",USA,Universities
+273,Istituto per l'Endocrinologia e l'Oncologia Gaetano Salvatore,ITA,Government
+274,University of East Anglia *,GBR,Universities
+275,Capital University of Medical Sciences,CHN,Universities
+275,Kyung Hee University *,KOR,Universities
+275,Aix-Marseille Universite *,FRA,Universities
+276,Universidad Complutense de Madrid *,ESP,Universities
+276,Ministerio da Saude,BRA,Health
+277,"China Medical University, Taichung *",TWN,Universities
+278,North China Electric Power University,CHN,Universities
+279,"Hefei Institutes of Physical Sciences, Chinese Academy of Sciences",CHN,Government
+279,Eindhoven University of Technology,NLD,Universities
+279,Institute for Basic Science,KOR,Government
+279,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities
+280,University of Mississippi *,USA,Universities
+280,Lomonosov  Moscow State University,RUS,Universities
+280,Universidade Federal do Rio de Janeiro,BRA,Universities
+280,U.S. Army *,USA,Government
+281,Helmholtz Zentrum Dresden Rossendorf ,DEU,Government
+282,University of Strathclyde,GBR,Universities
+282,National Cancer Center,KOR,Health
+283,Rice University,USA,Universities
+283,UC San Diego Health System,USA,Health
+284,The University of Hong Kong *,HKG,Universities
+284,Centre de Biochimie Structurale,FRA,Government
+285,Vrije Universiteit Amsterdam *,NLD,Universities
+285,"University of Colorado, Anschutz Medical Campus",USA,Universities
+286,London School of Hygiene and Tropical Medicine,GBR,Universities
+286,"University of Colorado, Denver *",USA,Universities
+287,Air Force Medical University *,CHN,Universities
+288,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+289,University of Maryland Medical Center,USA,Health
+290,University of Arkansas for Medical Sciences,USA,Universities
+291,Universidade do Minho,PRT,Universities
+292,Trinity College Dublin *,IRL,Universities
+292,Tufts University,USA,Universities
+293,Universite de Strasbourg *,FRA,Universities
+293,National Institute on Alcohol Abuse and Alcoholism,USA,Health
+294,University of New Mexico *,USA,Universities
+295,NYU Langone Medical Center,USA,Health
+296,University of Delaware,USA,Universities
+297,Yulin Normal University,CHN,Universities
+298,University of Gothenburg,SWE,Universities
+299,East China Normal University,CHN,Universities
+300,Texas Tech University Health Sciences Center,USA,Universities
+300,University College Cork *,IRL,Universities
+300,Japan Science & Technology Agency,JPN,Government
+301,UC Davis Health System,USA,Health
+302,Institute of Organic Chemistry and Biochemistry of the ASCR,CZE,Government
+302,Universita degli Studi di Torino,ITA,Universities
+302,National Taiwan University,TWN,Universities
+303,University of Pittsburgh Health Sciences,USA,Universities
+304,Dartmouth College *,USA,Universities
+305,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina",ESP,Health
+305,"State University of New York, Buffalo",USA,Universities
+305,Children's Hospital of Philadelphia,USA,Health
+306,Oxford University Hospitals NHS Trust,GBR,Health
+306,University of Southampton,GBR,Universities
+307,Xiamen University *,CHN,Universities
+308,"University of Alabama, Birmingham *",USA,Universities
+308,"University of Montana, Missoula",USA,Universities
+308,Korea University of Science and Technology,KOR,Universities
+309,"Takeda Pharmaceutical Co Inc, Japan",JPN,Companies
+309,University of Illinois at Urbana-Champaign *,USA,Universities
+310,Friedrich-Schiller-Universitat Jena *,DEU,Universities
+310,Kyoto University *,JPN,Universities
+310,University of Calgary,CAN,Universities
+310,"Janssen Research & Development, LLC",BEL,Companies
+311,Wake Forest University *,USA,Universities
+311,Ataturk University,TUR,Universities
+312,Konkuk University *,KOR,Universities
+313,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities
+313,University of North Dakota,USA,Universities
+314,Sanofi *,MUL,Companies
+314,Academia Sinica *,TWN,Government
+314,Cleveland Clinic *,USA,Health
+315,Istituto Europeo di Oncologia,ITA,Health
+315,Boston University *,USA,Universities
+316,Zhejiang University of Technology,CHN,Universities
+317,Westfalische Wilhelms-Universitat Munster *,DEU,Universities
+317,Pohang University of Science and Technology,KOR,Universities
+318,University of Science and Technology of China,CHN,Universities
+318,Sarah Cannon Research Institute,USA,Health
+319,European Molecular Biology Organization *,DEU,Government
+319,Helmholtz Zentrum fur Infektionsforschung,DEU,Government
+320,Korea Advanced Institute of Science and Technology *,KOR,Universities
+321,University of Ljubljana *,SVN,Universities
+322,Shanghai University of Traditional Chinese Medicine *,CHN,Universities
+322,Albert Einstein College of Medicine,USA,Universities
+323,United States Department of Agriculture,USA,Government
+324,University of Athens,GRC,Universities
+324,"Sanofi, United States",USA,Companies
+324,Dublin City University,IRL,Universities
+325,Biotechnology and Biological Sciences Research Council *,GBR,Government
+326,South China University of Technology,CHN,Universities
+327,Carnegie Mellon University *,USA,Universities
+327,National Center for Toxicological Research,USA,Government
+328,Johannes Gutenberg-Universitat Mainz *,DEU,Universities
+329,Universitat Stuttgart,DEU,Universities
+330,Baker IDI Heart and Diabetes Institute,AUS,Health
+331,Universitat Leipzig *,DEU,Universities
+332,University of Leeds,GBR,Universities
+332,East China University of Science and Technology,CHN,Universities
+333,Universitat Regensburg *,DEU,Universities
+333,National Institute of Mental Health,USA,Health
+333,Technische Universitat Munchen *,DEU,Universities
+333,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+333,University of Greenwich,GBR,Universities
+334,Boehringer Ingelheim *,MUL,Companies
+335,University of North Texas Health Science Center,USA,Health
+336,University of Liverpool *,GBR,Universities
+336,Tel Aviv University,ISR,Universities
+336,Hanyang University *,KOR,Universities
+337,Universita degli Studi di Pisa,ITA,Universities
+337,Universita degli Studi di Siena,ITA,Universities
+338,Beijing Institute of Technology,CHN,Universities
+339,Medizinische Universitat Wien,AUT,Universities
+340,Universite de Fribourg,CHE,Universities
+340,Nanjing University of Chinese Medicine *,CHN,Universities
+341,Universitatsklinikum Gottingen,DEU,Health
+341,University of Cincinnati *,USA,Universities
+342,University Medical Center Utrecht,NLD,Health
+342,Sumitomo Group *,MUL,Companies
+343,Montefiore Medical Center *,USA,Health
+344,"University of Maryland, College Park *",USA,Universities
+344,Ludwig-Maximilians Universitat Munchen *,DEU,Universities
+344,Northwestern Medicine,USA,Health
+344,University of North Carolina Health Care,USA,Health
+345,Griffith University,AUS,Universities
+345,The Chinese University of Hong Kong *,HKG,Universities
+346,Taipei Medical University,TWN,Universities
+347,Oregon Health & Science University *,USA,Universities
+347,Brown University,USA,Universities
+347,Hong Kong Polytechnic University,HKG,Universities
+348,Singapore Immunology Network,SGP,Government
+348,Mahidol University *,THA,Universities
+348,University College Dublin,IRL,Universities
+348,University of Texas Health Science Center at San Antonio ,USA,Universities
+349,Commissariat a l’Energie Atomique et aux Energies Alternatives *,FRA,Government
+349,Universitatsspital Basel,CHE,Health
+350,Max Planck Institut fur Psychiatrie,DEU,Government
+350,"Institute of Microbiology, Chinese Academy of Sciences",CHN,Government
+350,"University of Colorado, Boulder *",USA,Universities
+350,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+350,University of Miami *,USA,Universities
+351,Drexel University,USA,Universities
+351,Universidad Autonoma de Madrid *,ESP,Universities
+351,SRI International,USA,Non-Profit
+352,"Biogen Idec, USA",USA,Companies
+353,Universidade Federal de Minas Gerais,BRA,Universities
+353,Osaka University *,JPN,Universities
+353,"Institute of Oceanology, Chinese Academy of Sciences",CHN,Government
+354,Harbin Institute of Technology,CHN,Universities
+355,Universitat Autonoma de Barcelona *,ESP,Universities
+356,Paracelsus Medizinische Privatuniversitat,AUT,Universities
+357,University of South Australia,AUS,Universities
+358,Wake Forest University Baptist Medical Center,USA,Health
+358,Indiana University-Bloomington,USA,Universities
+359,US Environmental Protection Agency,USA,Government
+359,National Human Genome Research Institute,USA,Health
+359,Max-Delbruck-Centrum fur Molekulare Medizin ,DEU,Government
+360,Yonsei University *,KOR,Universities
+360,University of Wisconsin Health,USA,Health
+360,British Columbia Cancer Agency,CAN,Health
+361,Moscow Institute of Physics and Technology,RUS,Universities
+362,Mansoura University *,EGY,Universities
+362,Universidad de Navarra *,ESP,Universities
+362,Institute of Chemical Biology and Fundamental Medicine Russian Academy of Sciences,RUS,Government
+362,Heinrich Heine Universitat Dusseldorf  *,DEU,Universities
+362,Michigan State University,USA,Universities
+363,Universidade de Coimbra *,PRT,Universities
+363,Dalian Medical University *,CHN,Universities
+364,Queensland Institute of Medical Research,AUS,Health
+364,"Merck KGaA, Germany",DEU,Companies
+365,University of Hawai'i Cancer Center,USA,Health
+365,Centre de Recherche sur l'Inflammation,FRA,Government
+365,European Molecular Biology Laboratory Heidelberg,DEU,Government
+366,Biogen Idec *,MUL,Companies
+366,Fred Hutchinson Cancer Research Center,USA,Health
+366,University of Birmingham,GBR,Universities
+366,Abo Academy University,FIN,Universities
+367,Augusta University *,USA,Universities
+367,University of Missouri Health Care ,USA,Health
+367,Shanghai Cancer Institute,CHN,Government
+368,"University of Missouri, Columbia *",USA,Universities
+369,Vrije Universiteit Brussel,BEL,Universities
+370,VU University Medical Center,NLD,Health
+371,OHSU Knight Cancer Institute,USA,Health
+371,Indian Institute of Chemical Technology,IND,Government
+372,Institut Curie,FRA,Health
+373,Charles University *,CZE,Universities
+373,University of New Mexico Health Sciences Center,USA,Health
+374,University Hospital Antwerp,BEL,Health
+374,Universita degli Studi di Parma,ITA,Universities
+375,Magee-Womens Research Institute,USA,Health
+376,Universitatsklinikums Aachen,DEU,Health
+377,National Tsing Hua University,TWN,Universities
+377,Centro de Investigaciones Biologicas Margarita Salas,ESP,Government
+377,Universitat Wien,AUT,Universities
+377,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+378,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",CHN,Government
+379,Netherlands Cancer Institute - Antoni van Leeuwenhoek Hospital,NLD,Health
+379,Universita degli Studi Gabriele d'Annunzio di Chieti e Pescara,ITA,Universities
+380,University of Antwerp,BEL,Universities
+380,Universita degli Studi di Catania,ITA,Universities
+381,National Institute of Environmental Health Sciences,USA,Health
+382,University Hospitals of Cleveland  *,USA,Health
+382,Jiangnan University *,CHN,Universities
+383,"Institute of Biophysics, Chinese Academy of Sciences",CHN,Government
+384,Albert-Ludwigs-Universitat Freiburg im Breisgau,DEU,Universities
+385,Jackson Laboratory,USA,Health
+385,Universidad de Granada *,ESP,Universities
+386,Shanghai East Hospital,CHN,Health
+387,Chinese Academy of Agricultural Sciences *,CHN,Government
+387,Wageningen University and Research Centre *,NLD,Universities
+387,Copenhagen University Hospital,DNK,Health
+388,The University of Reading,GBR,Universities
+389,"China Medical University, Shenyang *",CHN,Universities
+390,Universita degli Studi di Pavia,ITA,Universities
+390,Universita degli Studi di Ferrara,ITA,Universities
+391,University of Bath,GBR,Universities
+391,University Medical Center Groningen,NLD,Health
+392,Academisch Medisch Centrum,NLD,Health
+393,Florida Agricultural & Mechanical University,USA,Universities
+393,Cooperativa de Ensino Superior Politecnico e Universitario,PRT,Universities
+393,Bar-Ilan University,ISR,Universities
+394,University of KwaZulu-Natal *,ZAF,Universities
+395,Yeungnam University,KOR,Universities
+395,University of Rochester *,USA,Universities
+395,Instituto Oswaldo Cruz,BRA,Health
+396,Florey Neuroscience Institutes,AUS,Health
+396,Ministry of Agriculture,CHN,Government
+396,Guangdong University of Technology,CHN,Universities
+396,Temple Health,USA,Health
+397,"Northwest University, Xi'an",CHN,Universities
+397,National Heart Lung and Blood Institute,USA,Health
+397,Universitat des Saarlandes *,DEU,Universities
+398,Australian Research Council *,AUS,Government
+399,University of Bristol,GBR,Universities
+400,Centro de Biologia Molecular Severo Ochoa,ESP,Government
+401,Robert Koch Institut,DEU,Government
+401,Universitat Innsbruck *,AUT,Universities
+402,Istituto di Chimica Biomolecolare,ITA,Government
+402,Swiss Institute of Bioinformatics,CHE,Non-Profit
+403,Athinoula A Martinos Center for Biomedical Imaging,USA,Health
+404,Unilever *,MUL,Companies
+405,Institute of Macromolecular Chemistry of the ASCR,CZE,Government
+405,Saveetha University,IND,Universities
+405,Gachon University,KOR,Universities
+405,Kyungpook National University *,KOR,Universities
+406,Linkoping University,SWE,Universities
+407,University of Oulu,FIN,Universities
+408,McGill University Health Centre,CAN,Health
+408,Ohio State University Wexner Medical Center,USA,Health
+409,University of Exeter,GBR,Universities
+409,Fraunhofer Gesellschaft *,DEU,Government
+410,"Kunming Institute of Botany, Chinese Academy of Science",CHN,Government
+411,Nanchang University *,CHN,Universities
+411,Chungnam National University,KOR,Universities
+412,National Center for Nanoscience and Technology of China,CHN,Government
+412,Karolinska University Hospital,SWE,Health
+412,Northwest A and F University,CHN,Universities
+412,University of Electronic Science and Technology of China,CHN,Universities
+412,"University of Illinois, College of Medicine at Chicago",USA,Health
+413,"Texas A&M University, College Station",USA,Universities
+413,Kyungpook National University Hospital,KOR,Health
+413,Universidad Politecnica de Madrid *,ESP,Universities
+414,University of Kentucky HealthCare,USA,Health
+414,"University of North Carolina, Greensboro",USA,Universities
+414,Delft University of Technology,NLD,Universities
+415,Technion - Israel Institute of Technology *,ISR,Universities
+415,University of Eastern Finland,FIN,Universities
+416,Universidade de Santiago de Compostela *,ESP,Universities
+416,Army Medical University *,CHN,Universities
+416,The University of Western Australia,AUS,Universities
+416,The University of Adelaide,AUS,Universities
+417,Fox Chase Cancer Center,USA,Health
+417,Rush University Medical Center,USA,Health
+418,Liverpool School of Tropical Medicine,GBR,Universities
+419,Kingston University,GBR,Universities
+419,Justus-Liebig-Universitat Giessen *,DEU,Universities
+419,"University of Massachusetts, Amherst",USA,Universities
+420,West Virginia University *,USA,Universities
+420,Rensselaer Polytechnic Institute,USA,Universities
+421,Academy of Athens,GRC,Government
+421,China Agricultural University,CHN,Universities
+421,Sherbrooke University,CAN,Universities
+421,Institut de Recherche pour le Developpement Paris *,FRA,Government
+421,Academy of Scientific and Innovative Research,IND,Universities
+422,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+422,Universite Cote d’Azur *,FRA,Universities
+423,Maastricht University,NLD,Universities
+423,Universidade Estadual de Campinas,BRA,Universities
+423,Florida International University,USA,Universities
+423,McLean Hospital,USA,Health
+424,The Leeds Teaching Hospitals NHS Trust,GBR,Health
+424,Syngenta *,MUL,Companies
+424,Universita degli Studi di Messina,ITA,Universities
+425,Tianjin Medical University *,CHN,Universities
+426,Universita degli Studi di Modena e Reggio Emilia,ITA,Universities
+426,Allergan plc *,MUL,Companies
+426,"Allergan plc, USA",USA,Companies
+426,Astellas Pharma Inc,JPN,Companies
+427,Technische Universitat Dresden,DEU,Universities
+428,Rush University *,USA,Universities
+428,Universitat Konstanz,DEU,Universities
+428,University of Cape Town,ZAF,Universities
+428,National Defense Medical Center,TWN,Health
+429,Tampere University,FIN,Universities
+429,"Agenzia Nazionale per le nuove Tecnologie, l'Energia e lo Sviluppo Economico Sostenibile",ITA,Government
+430,Curtin University *,AUS,Universities
+430,University of Tennessee Health Science Center,USA,Health
+431,Fondazione IRCCS San Raffaele del Monte Tabor,ITA,Health
+431,Georgetown University *,USA,Universities
+431,Collaborative Innovation Center of Chemical Science and Engineering,CHN,Government
+432,Istituto Superiore di Sanita,ITA,Health
+432,University of Oslo,NOR,Universities
+432,Oregon State University,USA,Universities
+433,Suez Canal University *,EGY,Universities
+434,Universitat Hamburg *,DEU,Universities
+434,Novo Nordisk *,MUL,Companies
+434,Universitatsspital Zurich,CHE,Health
+434,"Texas A&M University, Health Science Center",USA,Universities
+435,"Saint Louis University, Saint Louis *",USA,Universities
+435,Rowan University,USA,Universities
+436,Alexandria University *,EGY,Universities
+436,Wuhan University of Technology,CHN,Universities
+436,"University of Missouri, Kansas City",USA,Universities
+437,Universite Claude Bernard Lyon 1 *,FRA,Universities
+437,Zhejiang Ocean University,CHN,Universities
+438,Universitat Bern,CHE,Universities
+438,Centre Hospitalier Universitaire de Quebec,CAN,Health
+438,Concord Repatriation General Hospital ,AUS,Health
+438,Royal Melbourne Institute of Technology *,AUS,Universities
+438,Khalifa University,ARE,Universities
+439,Lanzhou University *,CHN,Universities
+439,Fuzhou University,CHN,Universities
+440,Chongqing Medical University *,CHN,Universities
+440,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Barcelona",ESP,Health
+440,"Queen Mary, University of London",GBR,Universities
+441,Medical University of South Carolina *,USA,Universities
+441,Universite PSL *,FRA,Universities
+442,Universite de Montreal,CAN,Universities
+442,Universite Grenoble-Alpes *,FRA,Universities
+442,Universita degli Studi di Bari,ITA,Universities
+442,Universitatsklinikum Erlangen,DEU,Health
+442,Al-Azhar University *,EGY,Universities
+442,Iowa State University,USA,Universities
+443,Taiyuan University of Technology,CHN,Universities
+443,Wuhan University of Science and Technology,CHN,Universities
+443,Ain Shams University *,EGY,Universities
+444,Universitat zu Koln,DEU,Universities
+445,Helmholtz Zentrum Munchen Forschungszentrum fur Umwelt und Gesundheit,DEU,Government
+445,Tulane University *,USA,Universities
+445,University of Utah Health Care,USA,Health
+445,Novo Nordisk A/S,DNK,Companies
+445,University of Miami Health System,USA,Health
+446,RIKEN-Institute of Physical and Chemical Research,JPN,Government
+446,Universidade Nova de Lisboa,PRT,Universities
+447,Liverpool John Moores University,GBR,Universities
+447,The Rockefeller University *,USA,Universities
+448,Centre de Recherche de l'Institut du Cerveau et de la Moelle Epiniere,FRA,Government
+448,Beijing University of Chinese Medicine *,CHN,Universities
+449,Istituto Nazionale dei Tumori Fondazione Giovanni Pascale IRCCS,ITA,Health
+449,Guangzhou University of Traditional Chinese Medicine *,CHN,Universities
+450,Deutsches Zentrum fur Neurodegenerative Erkrankungen,DEU,Government
+450,"Unilever, United Kingdom",GBR,Companies
+450,Los Angeles Biomedical Research Institute,USA,Health
+451,University of Oklahoma *,USA,Universities
+451,Hungarian Academy of Sciences *,HUN,Government
+451,Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas,ESP,Health
+452,University of Iowa Health Care,USA,Health
+453,Centro de Quimica Organica Manuel Lora Tamayo,ESP,Government
+453,University of Tartu,EST,Universities
+453,China Medical University Hospital,TWN,Health
+454,"Daiichi Sankyo Co., Ltd. *",MUL,Companies
+455,ShanghaiTech University,CHN,Universities
+455,VA Nebraska-Western Iowa Health Care System,USA,Health
+455,San Francisco General Hospital,USA,Health
+456,Universitat de Valencia *,ESP,Universities
+456,Universita Cattolica del Sacro Cuore,ITA,Universities
+456,University of Wollongong *,AUS,Universities
+456,Ewha Womans University *,KOR,Universities
+456,Universidade Federal do Rio Grande do Sul,BRA,Universities
+457,Pusan National University,KOR,Universities
+457,NHS Greater Glasgow and Clyde,GBR,Health
+457,Qingdao University *,CHN,Universities
+458,Centro Nacional de Microbiologia,ESP,Health
+458,"University of Texas, Health Science Center at Houston",USA,Universities
+458,Hadassah Medical Center,ISR,Health
+458,Universite de Liege,BEL,Universities
+458,University of Minnesota Health and Medicine,USA,Universities
+459,Gwangju Institute of Science and Technology,KOR,Universities
+459,First Affiliated Hospital of Dalian Medical University ,CHN,Health
+459,Heart of England NHS Foundation Trust,GBR,Health
+459,Ajou University,KOR,Universities
+460,Universitatsklinikum Regensburg,DEU,Health
+460,Cambridge University Hospitals NHS Foundation Trust,GBR,Health
+461,BASF Group *,MUL,Companies
+461,VA Pittsburgh Healthcare System,USA,Health
+461,Anhui Medical University *,CHN,Universities
+462,"BASF, Germany",DEU,Companies
+462,The University of Sheffield,GBR,Universities
+462,University of Malaya *,MYS,Universities
+462,Universita degli Studi di Cagliari,ITA,Universities
+462,Universita degli Studi di Perugia,ITA,Universities
+463,Universitatsklinikum Tubingen,DEU,Health
+464,Salk Institute for Biological Studies,USA,Health
+464,University Putra Malaysia,MYS,Universities
+464,University of Aberdeen,GBR,Universities
+464,The University of Kent,GBR,Universities
+465,Oslo University Hospital,NOR,Health
+466,"Changchun Institute of Applied Chemistry, Chinese Academy of Sciences",CHN,Government
+466,Dartmouth-Hitchcock Health Care System,USA,Health
+467,University Hospitals Leuven,BEL,Health
+467,National Institute of Mental Health,CZE,Health
+467,Lawson Health Research Institute,CAN,Health
+468,Ecole Nationale Superieure de Chimie de Paris,FRA,Universities
+468,Martin-Luther-Universitat Halle-Wittenberg *,DEU,Universities
+468,George Washington University *,USA,Universities
+469,Ecole Nationale Veterinaire de Toulouse *,FRA,Universities
+469,University of Manitoba,CAN,Universities
+470,"Institute of Zoology, Chinese Academy of Sciences",CHN,Government
+470,Southwest University *,CHN,Universities
+470,Hong Kong Baptist University,HKG,Universities
+471,Baylor University,USA,Universities
+471,San Francisco VA Medical Center,USA,Health
+471,The Francis Crick Institute,GBR,Health
+471,Universite de Franche-Comte *,FRA,Universities
+471,"GlaxoSmithKline, Belgium",BEL,Companies
+471,Oakland University,USA,Universities
+472,"Novartis, Switzerland",CHE,Companies
+472,Universite d'Orleans *,FRA,Universities
+473,Chrono-Environnement,FRA,Government
+473,Universite de Lorraine *,FRA,Universities
+474,University of Agronomic Sciences and Veterinary Medicine,ROU,Universities
+474,University of Kansas Medical Center,USA,Health
+474,National Taiwan University Hospital,TWN,Health
+475,Swiss Federal Laboratories for Materials Science and Technology,CHE,Government
+475,Hospital Clinic i Provincial de Barcelona,ESP,Health
+475,Universidade Fernando Pessoa,PRT,Universities
+476,Harbor–UCLA Medical Center,USA,Health
+476,Beijing Normal University *,CHN,Universities
+476,Korea Research Institute of Bioscience and Biotechnology,KOR,Government
+477,Cincinnati Children's Hospital Medical Center,USA,Health
+478,"University of Massachusetts, Boston",USA,Universities
+478,University of Wolverhampton,GBR,Universities
+478,Universidad de Chile *,CHL,Universities
+478,Universitat Duisburg Essen *,DEU,Universities
+478,Chung-Ang University *,KOR,Universities
+479,University of Mississippi Medical Center,USA,Universities
+479,Chiba University *,JPN,Universities
+479,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+480,"Centro de Investigacion Biomedica en Red de Enfermedades Respiratorias, Madrid",ESP,Health
+480,University of Bergen,NOR,Universities
+480,Boehringer Ingelheim GmbH Germany,DEU,Companies
+481,Chonnam National University,KOR,Universities
+482,Deakin University *,AUS,Universities
+482,Istituto Nazionale Tumori Regina Elena,ITA,Health
+482,"University of Texas, El Paso",USA,Universities
+482,Institut d'Investigacions Biomediques August Pi i Sunyer,ESP,Health
+483,Tohoku University *,JPN,Universities
+483,University of Rochester Medical Center,USA,Health
+483,Toronto General Hospital,CAN,Health
+483,National Cheng Kung University,TWN,Universities
+483,Jiangsu University *,CHN,Universities
+484,"Daiichi Sankyo Co., Ltd. Japan",JPN,Companies
+484,Chongqing University of Technology,CHN,Universities
+484,University of Pretoria,ZAF,Universities
+484,Beijing University of Technology,CHN,Universities
+484,Centre Hospitalier Universitaire Vaudois ,CHE,Health
+484,Universite de Nantes *,FRA,Universities
+484,VA Salt Lake City Health Care System,USA,Health
+485,Palacky University,CZE,Universities
+485,Institut Universitaire de France,FRA,Government
+485,Indiana University Health,USA,Health
+485,Bose Institute Kolkata,IND,Government
+485,Agriculture and Agri-Food Canada,CAN,Government
+486,Fondazione Santa Lucia IRCCS,ITA,Health
+486,Universitatsklinikum Wurzburg,DEU,Health
+486,Texas Tech University,USA,Universities
+486,National Health Research Institutes,TWN,Health
+486,Institut de Genetique et Biologie Moleculaire et Cellulaire,FRA,Government
+486,Kyushu University *,JPN,Universities
+486,Bingol University,TUR,Universities
+487,American University of Beirut *,LBN,Universities
+488,Dalian University of Technology,CHN,Universities
+488,"State University of New York, Stony Brook *",USA,Universities
+489,Institut Francais de Recherche pour l'Exploitation de la Mer *,FRA,Government
+489,USF Health,USA,Universities
+489,VA Puget Sound Health Care System,USA,Health
+490,Massachusetts Eye and Ear Infirmary ,USA,Health
+490,Medical College of Wisconsin,USA,Universities
+490,University of Saskatchewan,CAN,Universities
+490,Shanghai Institute of Organic Chemistry Chinese Academy of Sciences,CHN,Government
+490,National Institute of Diabetes and Digestive and Kidney Diseases,USA,Health
+490,Royal College of Surgeons,IRL,Universities
+491,Laval University,CAN,Universities
+491,Stiftung Tierarztliche Hochschule Hannover,DEU,Universities
+492,University of Portsmouth,GBR,Universities
+493,Ernst-Moritz-Arndt-Universitat Greifswald *,DEU,Universities
+494,Chang Gung University,TWN,Universities
+494,Academy of Military Medical Sciences *,CHN,Health
+494,Monash Health *,AUS,Health
+495,General Electric Company *,MUL,Companies
+495,Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior,BRA,Government
+495,Huazhong Normal University,CHN,Universities
+495,Universidade Federal de Santa Catarina,BRA,Universities
+495,National Institute of Technology Rourkela,IND,Universities
+495,Istituti Fisioterapici Ospitalieri IRCCS *,ITA,Health
+496,"Eli Lilly and Company Ltd., United Kingdom",GBR,Companies
+497,Politecnico di Milano,ITA,Universities
+497,Centro Nacional de Investigaciones Oncologicas,ESP,Health
+497,Universidad de Sevilla *,ESP,Universities
+497,Universita degli Studi di Salerno,ITA,Universities
+497,NHS Tayside,GBR,Health
+498,DowDupont *,MUL,Companies
+498,Central Drug Research Institute,IND,Government
+498,Instituto de Quimica Medica ,ESP,Government
+498,National Cancer Center,JPN,Health
+498,Universitatsklinikum Heidelberg,DEU,Health
+499,Shenzhen University,CHN,Universities
+499,New York State Psychiatric Institute,USA,Health
+499,Centro de Investigacion Biomedica en Red de Enfermedades Raras,ESP,Health
+499,University of Iceland,ISL,Universities
+500,"Instituto de Investigacion Sanitaria FJD, UAM",ESP,Health
+500,University of Louisville *,USA,Universities
+500,VA Palo Alto Health Care System,USA,Health
+500,National Institute for Public Health and the Environment,NLD,Health
+500,University of Cincinnati Medical Center,USA,Health
+500,University of Durham,GBR,Universities
+500,Shiraz University of Medical Sciences,IRN,Universities
+501,University of Akron,USA,Universities
+501,Centro de Investigacion Biomedica en Red de Enfermedades Respiratorias,ESP,Health
+501,St Josephs Hospital and Medical Center ,USA,Health
+501,"Institut Charles Gerhardt, Institut de Chimie Moleculaire et des Materiaux de Montpellier",FRA,Government
+502,Universite Francois Rabelais de Tours *,FRA,Universities
+502,Catholic University of Korea *,KOR,Universities
+502,Universita degli Studi di Milano-Bicocca,ITA,Universities
+502,Xuzhou Central Hospital,CHN,Health
+502,Deutsches Zentrum fur Herz Kreislauf Forschung,DEU,Health
+502,Queen's University,CAN,Universities
+502,University of Ottawa,CAN,Universities
+503,University of Lincoln,GBR,Universities
+503,Center for Devices and Radiological Health,USA,Government
+503,Michigan Technological University,USA,Universities
+503,Jamia Hamdard University,IND,Universities
+503,VCU Medical Center,USA,Health
+504,University of Guelph,CAN,Universities
+504,Constantine the Philosopher University in Nitra,SVK,Universities
+504,Portland VA Medical Center,USA,Health
+504,North Khorasan University of Medical Sciences,IRN,Universities
+504,N.N. Vorozhtsov Novosibirsk Institute of Organic Chemistry Russian Academy of Sciences,RUS,Government
+504,Third Affiliated Daping Hospital to Third Military Medical University,CHN,Health
+504,Wellcome Trust Sanger Institute,GBR,Health
+505,Institut National Polytechnique de Toulouse *,FRA,Universities
+505,Universitatsklinikum Jena,DEU,Health
+505,Harbin Medical University *,CHN,Universities
+505,University of St. Andrews,GBR,Universities
+505,National Institute of Advanced Industrial Science & Technology,JPN,Government
+506,Red de Institutos IMDEA *,ESP,Government
+506,Royal Melbourne Hospital,AUS,Health
+506,"University of Nebraska, Lincoln",USA,Universities
+506,University of South Alabama *,USA,Universities
+506,Ben-Gurion University of the Negev,ISR,Universities
+506,Russian Academy of Medical Sciences,RUS,Health
+506,University of Southern California Health Sciences Campus,USA,Health
+507,Second Affiliated Hospital of Nanjing Medical University,CHN,Health
+507,Nationwide Children's Hospital ,USA,Health
+508,University of Lodz,POL,Universities
+508,"Chang Gung Memorial Hospital, Taipei *",TWN,Health
+508,University of Otago,NZL,Universities
+508,Philipps-Universitat Marburg *,DEU,Universities
+509,Royal Perth Hospital ,AUS,Health
+509,"University of Hawaii, Manoa *",USA,Universities
+509,VA Northeast Ohio Healthcare System,USA,Health
+510,National Institute of Health Sciences,JPN,Health
+510,West Virginia University Health Sciences Center,USA,Health
+510,Brandeis University,USA,Universities
+511,Sun Yat-sen University Cancer Center,CHN,Health
+511,"Royal Veterinary College, University of London",GBR,Universities
+511,Boston University Medical Campus ,USA,Health
+511,Technische Universitat Dortmund *,DEU,Universities
+511,"University of North Carolina, Charlotte",USA,Universities
+512,Novosibirsk State University,RUS,Universities
+512,Universitatsklinikum Frankfurt,DEU,Health
+513,Flinders University,AUS,Universities
+514,Miami University of Ohio,USA,Universities
+514,Complexo Hospitalario Universitario a Coruna,ESP,Health
+514,Universitat zu Lubeck,DEU,Universities
+514,Universitat Politecnica de Catalunya *,ESP,Universities
+514,Helsinki University Central Hospital,FIN,Health
+514,Wuhan Union Hospital,CHN,Health
+515,McMaster University,CAN,Universities
+515,Jackson State University,USA,Universities
+515,University of Houston,USA,Universities
+516,Aristotle University of Thessaloniki,GRC,Universities
+517,"University of Wisconsin, Milwaukee",USA,Universities
+517,University of Connecticut Health Center,USA,Universities
+518,"University of Texas, Dallas",USA,Universities
+518,Saint Louis University Care,USA,Health
+518,University of Szeged,HUN,Universities
+519,Institute of Organic Synthesis Russian Academy of Sciences,RUS,Government
+519,Ariel University,ISR,Universities
+519,Universite de Lille *,FRA,Universities
+519,Veterinarmedizinische Universitat Wien *,AUT,Universities
+519,Veterinary Research Institute,CZE,Government
+519,University of Belgrade,SRB,Universities
+519,Umea University *,SWE,Universities
+520,City University of Hong Kong *,HKG,Universities
+521,Renji Hospital,CHN,Health
+521,Beijing Institute for Brain Disorders,CHN,Health
+521,"University of the Witwatersrand, Johannesburg",ZAF,Universities
+521,"Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas, Madrid",ESP,Health
+522,Centro Nacional de Biotecnologia,ESP,Government
+522,University of Western Ontario,CAN,Universities
+522,Hunan University of Science and Technology,CHN,Universities
+523,"University of Science, Malaysia *",MYS,Universities
+523,Kaohsiung Medical University,TWN,Universities
+523,"Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences",CHN,Government
+524,Ocean University of China,CHN,Universities
+524,Center for Biologics Evaluation and Research,USA,Government
+525,University Hospital Southampton NHS Foundation Trust,GBR,Health
+525,Chapman University,USA,Universities
+525,Universite Libre de Bruxelles,BEL,Universities
+525,Nanjing Normal University,CHN,Universities
+525,Bangor University,GBR,Universities
+525,Guangxi Normal University,CHN,Universities
+526,Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,BRA,Government
+526,National University of Malaysia *,MYS,Universities
+527,Stellenbosch University,ZAF,Universities
+528,University of South Alabama Health System,USA,Health
+529,Hospital for Sick Children,CAN,Health
+530,Dongguk University *,KOR,Universities
+531,Universitatsklinikum Koln,DEU,Health
+531,University of Crete,GRC,Universities
+532,NHS Lothian,GBR,Health
+532,China Three Gorges University,CHN,Universities
+532,"Washington State University, Pullman *",USA,Universities
+532,Xiangya Hospital Affiliated to Central South University,CHN,Health
+532,Radboud University Nijmegen,NLD,Universities
+533,Loughborough University,GBR,Universities
+533,Duquesne University,USA,Universities
+533,King Abdulaziz City for Science and Technology,SAU,Government
+534,Kangwon National University *,KOR,Universities
+534,University of Phayao,THA,Universities
+534,The University of Newcastle,AUS,Universities
+534,Institute of Experimental Medicine of the NorthWest Branch of the Russian Academy of Medical Sciences,RUS,Health
+534,Ospedale Casa Sollievo della Sofferenza IRCCS,ITA,Health
+535,Comision Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad,MEX,Health
+535,Hopitaux Universitaires de Geneve,CHE,Health
+535,"Laboratoire TIMC-IMAG - Techniques de l'Ingenierie Medicale et de la Complexite - Informatique, Mathematiques et Applications de Grenoble",FRA,Government
+535,Universite de Bretagne Occidentale *,FRA,Universities
+536,Xijing Hospital,CHN,Health
+536,Tampere University Hospital,FIN,Health
+536,Norwegian University of Science and Technology,NOR,Universities
+536,Kunming University of Science and Technology,CHN,Universities
+536,Hubei University of Technology,CHN,Universities
+536,University of Southern Denmark,DNK,Universities
+536,Centro de Pesquisas Rene Rachou,BRA,Government
+537,Swansea University,GBR,Universities
+537,Ottawa Hospital Research Institute,CAN,Health
+537,University of Warwick,GBR,Universities
+537,Tan Tock Seng Hospital,SGP,Health
+538,University of Tromso - The Arctic University of Norway,NOR,Universities
+538,University of Central Florida,USA,Universities
+538,Universitatsklinikum Schleswig-Holstein,DEU,Health
+538,Beni Suef University *,EGY,Universities
+538,"University of Illinois, College of Medicine at Peoria",USA,Universities
+538,RTI Health Solutions,USA,Companies
+539,Nanjing University of Technology,CHN,Universities
+539,Centre International de Recherche en Infectiologie,FRA,Government
+539,Medical University of Warsaw,POL,Universities
+539,Nanjing Agricultural University,CHN,Universities
+540,Zelinsky Institute of Organic Chemistry Russian Academy of Sciences,RUS,Government
+540,UCB Pharma SA *,MUL,Companies
+540,Centre Hospitalier Universitaire de Clermont-Ferrand,FRA,Health
+540,Utah State University *,USA,Universities
+540,ToxAlim,FRA,Government
+540,Kansas State University,USA,Universities
+541,Beijing University of Agriculture,CHN,Universities
+541,Royal North Shore Hospital,AUS,Health
+541,Illawarra Health and Medical Research Institute,AUS,Health
+542,Universita Vita-Salute San Raffaele,ITA,Universities
+542,Fraunhofer Institut fur Molekularbiologie und Angewandte Oekologie,DEU,Government
+542,Wroclaw University of Science and Technology,POL,Universities
+542,"Novartis Pharmaceuticals, United States",USA,Companies
+542,Third Affiliated Hospital of Soochow University,CHN,Health
+542,Syracuse University,USA,Universities
+542,Hefei University of Technology,CHN,Universities
+542,Korea Research Institute of Chemical Technology,KOR,Government
+543,University of Waterloo,CAN,Universities
+543,Gyeongsang National University *,KOR,Universities
+543,The General Hospital of the People's Liberation Army,CHN,Health
+543,Universita degli Studi Magna Graecia di Catanzaro,ITA,Universities
+544,University College London Hospital NHS Trust,GBR,Health
+544,VA San Diego Healthcare System,USA,Health
+544,Sun Yat-sen University Sixth Hospital,CHN,Health
+544,Royal Netherlands Academy of Arts and Sciences *,NLD,Government
+545,University of Science and Technology Beijing,CHN,Universities
+545,Thomas Jefferson University *,USA,Universities
+545,Liaocheng University *,CHN,Universities
+545,Centre for Addiction and Mental Health,CAN,Health
+545,Manchester University NHS Foundation Trust,GBR,Health
+545,Universita degli Studi di Genova,ITA,Universities
+546,"Pfizer Inc, United Kingdom",GBR,Companies
+546,Technische Universitat Braunschweig,DEU,Universities
+546,Josip Juraj Strossmayer University of Osijek,HRV,Universities
+546,Universita degli Studi dell Aquila,ITA,Universities
+547,Zanjan University of Medical Sciences *,IRN,Universities
+547,Centro de Investigacion Biomedica en Red de Salud Mental,ESP,Health
+547,University of Tsukuba *,JPN,Universities
+547,Assiut University *,EGY,Universities
+548,Macau University of Science and Technology,MAC,Universities
+548,Henan University *,CHN,Universities
+548,Centro Nacional de Investigaciones Cardiovasculares,ESP,Health
+549,U.S. Department of Health & Human Services,USA,Health
+550,South China Agricultural University,CHN,Universities
+550,Medical University of Bialystok,POL,Universities
+550,"Universidad Nacional de San Martin, Argentina *",ARG,Universities
+550,Paul Ehrlich Institut,DEU,Government
+551,Universita degli Studi di Camerino,ITA,Universities
+552,University of Ulster,GBR,Universities
+552,Irish Agriculture and Food Development Authority,IRL,Government
+553,"Texas State University, San Marcos",USA,Universities
+553,Manchester Academic Health Science Centre,GBR,Health
+553,Arizona Health Sciences Center University of Arizona Tucson,USA,Health
+553,Hospital Universitario Son Espases,ESP,Health
+554,Instituto de Salud Global de Barcelona,ESP,Health
+554,Universitat Pompeu Fabra *,ESP,Universities
+554,Universitat fur Bodenkultur Wien *,AUT,Universities
+554,Universite de Caen Basse-Normandie *,FRA,Universities
+555,Institute of Tropical Medicine Antwerp,BEL,Universities
+555,Universite de Rennes 1 *,FRA,Universities
+555,"Louisiana State University, Baton Rouge",USA,Universities
+556,"National Institute of Biological Sciences, Beijing",CHN,Government
+556,Universite de Poitiers *,FRA,Universities
+556,The Ottawa Hospital  *,CAN,Health
+557,"University of Texas, Arlington",USA,Universities
+557,Centre Hospitalier Universitaire d'Angers,FRA,Health
+557,Institucio Catalana de Recerca i Estudis Avancats,ESP,Government
+557,Universita degli Studi della Campania Luigi Vanvitelli,ITA,Universities
+557,Dongguan University of Technology,CHN,Universities
+558,First Affiliated Hospital of Zhengzhou University,CHN,Health
+558,"Nova Southeastern University, Estados Unidos",USA,Universities
+558,Ministry of Health,CHN,Health
+559,Semmelweis University,HUN,Universities
+559,Laboratoire de Recherche Vasculaire Translationnelle,FRA,Government
+559,Simon Fraser University,CAN,Universities
+560,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Madrid",ESP,Health
+560,The Arizona Cancer Center,USA,Health
+560,Gangneung-Wonju National University,KOR,Universities
+560,Ningxia Medical University,CHN,Universities
+561,Nagasaki University *,JPN,Universities
+562,Uniformed Services University of the Health Sciences,USA,Universities
+562,University of Colorado Cancer Center,USA,Health
+562,Institut National de Recherche en Informatique et en Automatique *,FRA,Government
+563,University of Bradford,GBR,Universities
+564,"Procter & Gamble, USA",USA,Companies
+564,Ecole Nationale Superieure de Chimie de Lille *,FRA,Universities
+564,Universidad de Malaga *,ESP,Universities
+565,Indian Institute of Integrative Medicine,IND,Government
+565,Universita degli Studi del Piemonte Orientale Amedeo Avogadro,ITA,Universities
+565,Swinburne University of Technology *,AUS,Universities
+565,Shanghai Tenth People's Hospital,CHN,Health
+565,Chonnam National University Hospital,KOR,Health
+565,Yangzhou University,CHN,Universities
+565,Nanjing Forestry University,CHN,Universities
+566,University of Wroclaw,POL,Universities
+566,"University of California, Riverside",USA,Universities
+566,Eulji University *,KOR,Universities
+566,Kumamoto University *,JPN,Universities
+566,University of Delhi *,IND,Universities
+566,Ecole Nationale Superieure de Chimie de Montpellier *,FRA,Universities
+567,"Institute of Biomedical Science, Academia Sinica",TWN,Government
+567,The Royal Marsden NHS Foundation Trust,GBR,Health
+567,Hunan University,CHN,Universities
+567,Centro de Pesquisa Goncalo Moniz,BRA,Government
+568,Translational Research Institute,AUS,Companies
+568,Universite d'Artois *,FRA,Universities
+568,Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria  *,ESP,Government
+568,VIT University,IND,Universities
+568,Guangzhou Medical University *,CHN,Universities
+568,Iran University of Medical Sciences,IRN,Universities
+568,University of Oregon,USA,Universities
+569,Universitatsklinikum Hamburg Eppendorf,DEU,Health
+569,Nagoya City University *,JPN,Universities
+569,Universidade Federal de Sao Paulo *,BRA,Universities
+569,Guys & Saint Thomas NHS Foundation Trust,GBR,Health
+569,Huashan Hospital,CHN,Health
+569,Brigham Young University,USA,Universities
+570,University of York,GBR,Universities
+570,Medical University of Lublin,POL,Universities
+570,Universidade Catolica Dom Bosco,BRA,Universities
+571,Centre Hospitalier Universitaire de Nice *,FRA,Health
+571,Sun Yat-sen University Second Hospital,CHN,Health
+571,Institute of Immunology and Experimental Therapy Polish Academy of Sciences,POL,Government
+572,"Dalian Institute of Chemical Physics, Chinese Academy of Sciences",CHN,Government
+572,Peter Maccallum Cancer Centre,AUS,Health
+573,Suzhou University of Science and Technology,CHN,Universities
+574,State Oceanic Administration,CHN,Government
+574,Ralph H. Johnson VA Medical Center ,USA,Health
+575,Sir Mortimer B. Davis Jewish General Hospital,CAN,Health
+575,Universite de Toulouse,FRA,Universities
+575,Aalborg University *,DNK,Universities
+575,Chongqing University,CHN,Universities
+575,National Research Council Canada *,CAN,Government
+576,Masaryk University,CZE,Universities
+576,Isfahan University of Medical Sciences,IRN,Universities
+576,Centre Hospitalier Regional Universitaire de Lille *,FRA,Health
+577,University of South Carolina *,USA,Universities
+577,Aarhus University Hospital,DNK,Health
+577,University of Patras,GRC,Universities
+577,Universita degli Studi di Foggia,ITA,Universities
+577,"Indian Institute of Technology, Madras",IND,Universities
+577,Tufts Medical Center,USA,Health
+578,William S. Middleton Memorial Veterans Hospital,USA,Health
+578,Manipal University,IND,Universities
+578,Istituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori,ITA,Health
+579,Universidad de Santiago de Chile,CHL,Universities
+579,Universite de Haute-Alsace Mulhouse-Colmar *,FRA,Universities
+579,Queensland University of Technology,AUS,Universities
+579,University of Oklahoma Health Sciences Center,USA,Universities
+579,Universiti Teknologi MARA,MYS,Universities
+580,Ecole d'Ingenieurs SIGMA Clermont *,FRA,Universities
+580,"Boehringer Ingelheim, USA",USA,Companies
+580,Shionogi & Co Ltd,JPN,Companies
+580,The First Affiliated Hospital of Zhejiang University,CHN,Health
+581,Manipal Global Education Group *,MUL,Companies
+581,Universidade Federal do Tocantins,BRA,Universities
+581,Universidad de Puerto Rico *,PRI,Universities
+581,Sookmyung Womens University,KOR,Universities
+581,University of Virginia Health System,USA,Health
+581,Beijing National Laboratory for Molecular Sciences,CHN,Government
+581,National Yang-Ming University,TWN,Universities
+582,Shanghai University,CHN,Universities
+582,University of Thessaly,GRC,Universities
+582,Robarts Research Institute,CAN,Health
+582,Stockholm University,SWE,Universities
+582,National Institute of Public Health of Japan,JPN,Health
+582,Shanghai Ninth People's Hospital,CHN,Health
+582,Zhejiang Sci-Tech University,CHN,Universities
+582,Universidad Miguel Hernandez *,ESP,Universities
+582,Ecole des Hautes Etudes en Sante Publique,FRA,Universities
+583,Junta de Andalucia Sevilla *,ESP,Government
+583,Ruhr-Universitat Bochum *,DEU,Universities
+583,Universita degli Studi di Palermo,ITA,Universities
+584,Leibniz Institut fur Naturstoff-Forschung und Infektionsbiologie e.V. Hans-Knoll-Institut,DEU,Government
+584,Universita degli Studi di Verona,ITA,Universities
+584,Centro de Investigacion Principe Felipe,ESP,Health
+584,Wuhan Tongji Hospital,CHN,Health
+584,University Hospital in Olomouc,CZE,Health
+585,Westmead Hospital ,AUS,Health
+585,Nanjing University of Science and Technology,CHN,Universities
+585,Eastern Virginia Medical School,USA,Universities
+586,Kagoshima University *,JPN,Universities
+586,Hospital Universitario de La Princesa,ESP,Health
+586,University of Turku,FIN,Universities
+587,Universidade Federal de Goias,BRA,Universities
+587,"State University of New York, Albany",USA,Universities
+587,Hiroshima University *,JPN,Universities
+588,First Affiliated Hospital of Xi'an Jiaotong University,CHN,Health
+588,Wenzhou University,CHN,Universities
+588,Aston University,GBR,Universities
+589,Universitatsklinikum Bonn,DEU,Health
+589,Medical University of Lodz,POL,Universities
+589,Pontificia Universidad Catolica de Chile *,CHL,Universities
+590,Zagazig University *,EGY,Universities
+590,Hunter Medical Research Institute,AUS,Health
+590,Procter & Gamble Co *,MUL,Companies
+590,Aalto University,FIN,Universities
+590,Iuliu Hatieganu University of Medicine and Pharmacy Cluj Napoca,ROU,Universities
+590,Tianjin University of Traditional Chinese Medicine *,CHN,Universities
+591,Instituto de Investigacion Sanitaria de Santiago de Compostela,ESP,Health
+592,Obihiro University of Agriculture and Veterinary Medicine,JPN,Universities
+592,Bill and Melinda Gates Foundation,USA,Non-Profit
+592,Philadelphia VA Medical Center,USA,Health
+593,National Chung Hsing University,TWN,Universities
+593,Second Affiliated Hospital & Yuying Children s Hospital of Wenzhou Medical University,CHN,Health
+593,"University of Technology, Sydney",AUS,Universities
+593,Wan Fang Hospital,TWN,Health
+593,"University of Maryland, Baltimore County",USA,Universities
+594,University of Rhode Island,USA,Universities
+594,National Academy of Sciences of Ukraine *,UKR,Government
+594,University of Jinan,CHN,Universities
+594,Birla Institute of Technology and Science,IND,Universities
+594,"Bayer Corp, USA",USA,Companies
+595,Nantong University *,CHN,Universities
+595, Instituto de Investigacion Sanitaria del Hospital Universitario de La Princesa,ESP,Health
+596,Indian Council of Medical Research *,IND,Health
+596,Foundation for Research and Technology Hellas *,GRC,Government
+596,"National University of Ireland, Galway",IRL,Universities
+597,University of Hertfordshire,GBR,Universities
+597,Universidad de Salamanca *,ESP,Universities
+598,"University of Texas, San Antonio",USA,Universities
+598,Universidad de Oviedo *,ESP,Universities
+598,Centro de Investigacion y Desarrollo Pascual Vila,ESP,Government
+598,University of Toledo *,USA,Universities
+598,Statens Serum Institut,DNK,Health
+598,University Hospital of Bern,CHE,Health
+599,Panjab University,IND,Universities
+599,Shanghai Institute of Technology,CHN,Non-Profit
+599,Emory Healthcare,USA,Health
+599,Universidad Nacional de Rosario *,ARG,Universities
+599,Dalhousie University,CAN,Universities
+599,Henry Ford Health System,USA,Health
+599,Huaqiao University,CHN,Universities
+599,Universita Campus Bio-Medico di Roma,ITA,Universities
+599,Sunchon National University,KOR,Universities
+600,Chulalongkorn University,THA,Universities
+600,Universidade da Madeira,PRT,Universities
+600,University of Debrecen,HUN,Universities
+601,South China Botanical Garden Chinese Academy of Sciences,CHN,Government
+601,Second Xiangya Hospital Affiliated to Central South University,CHN,Health
+601,Universidad del Pais Vasco *,ESP,Universities
+601,National Cancer Centre,SGP,Health
+601,National Chemical Laboratory,IND,Government
+601,Instituto de Investigacion Hospital 12 de Octubre,ESP,Health
+601,Universita della Calabria,ITA,Universities
+601,Instituto de Investigacion Biomedica de Salamanca,ESP,Government
+602,Technische Universitat Wien *,AUT,Universities
+602,Chungbuk National University,KOR,Universities
+602,International Clinical Research Center,CZE,Health
+602,Yangtze University,CHN,Universities
+602,University of Louisville Health Sciences Center,USA,Health
+602,Centre Hospitalier Universitaire de Nantes *,FRA,Health
+602,Centro de Pesquisa Aggeu Magalhaes,BRA,Government
+603,Universidade Federal de Pernambuco,BRA,Universities
+603,Georg-August-Universitat Gottingen,DEU,Universities
+604,University of Stirling,GBR,Universities
+604,Ludong University,CHN,Universities
+605,Penn State Milton S. Hershey Medical Center,USA,Health
+605,"University of Nottingham, Malaysia Campus",MYS,Universities
+605,Ningbo University,CHN,Universities
+605,Universidade da Beira Interior,PRT,Universities
+605,Jain University,IND,Universities
+605,Nanfang Hospital,CHN,Health
+605,South African Medical Research Council,ZAF,Health
+606,Technische Universitat Berlin,DEU,Universities
+606,National University Health System *,SGP,Health
+607,Kyoto Prefectural University of Medicine,JPN,Universities
+607,Universite de Bordeaux *,FRA,Universities
+607,Universitat Rovira i Virgili *,ESP,Universities
+607,Hospital Universitario 12 de Octubre,ESP,Health
+607,Asan Medical Center Seoul *,KOR,Health
+608,National Institute of Radiological Sciences,JPN,Health
+608,Universitatsklinikum Munster,DEU,Health
+608,Universidade de Brasilia,BRA,Universities
+608,Universite Paris-Est Creteil *,FRA,Universities
+609,Institut de Quimica Avancada de Catalunya,ESP,Government
+609,Children's Hospital Los Angeles ,USA,Health
+610,"Indian Institute of Technology, Kanpur",IND,Universities
+611,COMSATS Institute of Information Technology *,PAK,Universities
+611,"Indian Institute of Technology, Varanasi",IND,Universities
+611,Second Affiliated Hospital of Zhengzhou University,CHN,Health
+611,Universita della Svizzera Italiana,CHE,Universities
+612,Zhongshan Hospital,CHN,Health
+612,Azienda Ospedaliera Careggi,ITA,Health
+613,Alfred Health,AUS,Health
+613,Hunan Normal University,CHN,Universities
+613,Keio University *,JPN,Universities
+613,Universita del Salento,ITA,Universities
+614,"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",CHN,Health
+614,United Arab Emirates University,ARE,Universities
+614,Centre for Cellular and Molecular Biology,IND,Government
+615,University of Victoria,CAN,Universities
+616,Tarbiat Modares University,IRN,Universities
+616,National Institute of Neurological Disorders and Stroke,USA,Health
+617,"Centro de Investigacion Biomedica en Red de Salud Mental, Barcelona",ESP,Health
+617,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+617,Shanghai Medical College of Fudan University,CHN,Universities
+617,Servicio Andaluz de Salud Sevilla *,ESP,Health
+617,Saitama University,JPN,Universities
+618,Memorial University of Newfoundland,CAN,Universities
+618,Tibet University,CHN,Universities
+618,National Taiwan Normal University,TWN,Universities
+618,Northeast Agricultural University,CHN,Universities
+619,Universita Politecnica delle Marche,ITA,Universities
+619,Plymouth University,GBR,Universities
+619,Instituto de Biomedicina de Sevilla,ESP,Government
+620,Universitatsklinikum Ulm,DEU,Health
+621,University of South Dakota,USA,Universities
+621,"UCB Pharma SA, Brussels",BEL,Companies
+621,Instituto de Investigacion Sanitaria de Navarra,ESP,Health
+621,Complejo Hospitalario Regional Reina Sofia,ESP,Health
+621,Instituto de Investigacion Sanitaria IdIPAZ,ESP,Health
+621,Kindai University *,JPN,Universities
+622,Universita degli Studi di Trieste,ITA,Universities
+622,Institut de Recerca Hospital Universitari Vall d'Hebron,ESP,Health
+622,Saint John's University,USA,Universities
+622,University of Sussex *,GBR,Universities
+622,International Centre for Diarrhoeal Disease Research,BGD,Health
+623,Istituto Nazionale di Fisica Nucleare,ITA,Government
+623,Chalmers University of Technology *,SWE,Universities
+623,Miriam Hospital ,USA,Health
+623,University of Tehran,IRN,Universities
+623,Universidad de Antioquia *,COL,Universities
+624,"Eye, Ear, Nose and Throat Hospital Fudan University",CHN,Health
+624,National Institute for Medical Research,TZA,Health
+624,Public Health Agency of Canada,CAN,Health
+624,University of Shizuoka,JPN,Universities
+624,Medizinische Universitat Innsbruck *,AUT,Universities
+624,Institut Catala d'Oncologia *,ESP,Health
+624,East Carolina University,USA,Universities
+625,Loyola University of Chicago *,USA,Universities
+625,Catholic University of Daegu,KOR,Universities
+626,Centre de Recherches en Cancerologie de Toulouse,FRA,Government
+626,Guangdong Pharmaceutical University,CHN,Universities
+627,Hospital Universitario Central de Asturias,ESP,Health
+627,Royal Brompton and Harefield NHS Foundation Trust,GBR,Health
+627,"Asia University, Taiwan",TWN,Universities
+627,Universitat Ulm *,DEU,Universities
+627,Taipei Veterans General Hospital,TWN,Health
+627,Universidade de Aveiro,PRT,Universities
+627,Christian-Albrechts-Universitat zu Kiel,DEU,Universities
+627,University of Jordan,JOR,Universities
+627,"Genomics Research Center, Academia Sinica",TWN,Government
+627,St Georges University of London,GBR,Universities
+628,Universitatsmedizin der Johannes Gutenberg-Universitat Mainz,DEU,Health
+629,Atlanta VA Medical Center,USA,Health
+629,University of Huddersfield,GBR,Universities
+629,First Affiliated Southwest Hospital to Third Military Medical University,CHN,Health
+630,Murdoch University,AUS,Universities
+630,Quaid-i-Azam University,PAK,Universities
+630,National Academy of Sciences of Belarus *,BLR,Government
+631,Fujian Normal University,CHN,Universities
+631,Gachon University Gil Medical Center,KOR,Health
+631,Australian National University,AUS,Universities
+631,Tokushima University *,JPN,Universities
+631,Universidad de Buenos Aires *,ARG,Universities
+632,Stazione Zoologica Anton Dohrn Napoli,ITA,Government
+632,Jamia Millia Islamia Central University,IND,Universities
+632,New Jersey Institute of Technology,USA,Universities
+632,Samsung Medical Center Seoul,KOR,Health
+633,La Trobe University *,AUS,Universities
+633,Institute of Molecular and Cell Biology,SGP,Government
+634,Universita degli Studi di Brescia,ITA,Universities
+634,National Cheng Kung University Hospital,TWN,Health
+635,Third Hospital Affiliated to Central South University,CHN,Health
+635,National Research Centre for the Working Environment,DNK,Government
+635,Humboldt-Universitat zu Berlin,DEU,Universities
+635,Bernhard Nocht Institut fur Tropenmedizin,DEU,Health
+635,Universidad de La Laguna,ESP,Universities
+635,"Oklahoma State University, Stillwater",USA,Universities
+636,North Dakota State University,USA,Universities
+636,Saint Petersburg State University,RUS,Universities
+636,Canisius Wilhelmina Ziekenhuis,NLD,Health
+636,Northeast Forestry University,CHN,Universities
+636,Friedrich Loeffler Institutes Bundesforschungsinstitut fur Tiergesundheit,DEU,Government
+636,"Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences",CHN,Government
+637,Yantai University,CHN,Universities
+637,Rural Development Administration *,KOR,Government
+637,University of Leicester,GBR,Universities
+638,Keimyung University,KOR,Universities
+638,Beijing University of Chemical Technology,CHN,Universities
+638,University of Nevada-Reno,USA,Universities
+638,Instituto de Investigacion Biomedica de A Coruna,ESP,Health
+638,Tokyo Womens Medical University *,JPN,Universities
+638,Zhongnan Hospital at Wuhan University,CHN,Health
+638,Renmin Hospital of Wuhan University,CHN,Health
+639,University of Surrey,GBR,Universities
+639,First Hospital of Jilin University,CHN,Health
+639,Jinling Hospital,CHN,Health
+639,Izmir Institute of Technology,TUR,Universities
+639,Universidad Autonoma Metropolitana,MEX,Universities
+639,Georgetown University Medical Center,USA,Health
+639,Universita degli Studi di Roma Tor Vergata,ITA,Universities
+639,Institut des Biomolecules Max Mousseron,FRA,Government
+640,Henan University Huaihe Hospital,CHN,Health
+640,Tianjin University of Science and Technology,CHN,Universities
+640,Baqiyatallah Medical Sciences University,IRN,Universities
+640,Tennessee Valley Healthcare System,USA,Health
+641,"University of Tennessee, Knoxville *",USA,Universities
+641,Karlsruher Institut fur Technologie,DEU,Universities
+641,Istituto di Neuroscienze,ITA,Government
+642,Institut Polytechnique de Grenoble *,FRA,Universities
+642,Tokyo Medical and Dental University,JPN,Universities
+643,Universidad Mayor *,CHL,Universities
+643,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,ITA,Health
+643,Shanghai Normal University,CHN,Universities
+643,Universitat Bielefeld,DEU,Universities
+643,Medical University of Gdansk,POL,Universities
+644,Korea Institute of Ocean Science & Technology,KOR,Government
+644,Instituto Nacional de Infectologia Evandro Chagas,BRA,Health
+644,Henan Institute of Science and Technology,CHN,Universities
+645,Shaare Zedek Medical Center,ISR,Health
+645,Alexandru Ioan Cuza University,ROU,Universities
+645,"Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences",CHN,Government
+645,BeiHang University *,CHN,Universities
+645,Universidad de Zaragoza *,ESP,Universities
+645,First Affiliated Hospital of Xinjiang Medical University,CHN,Health
+646,Institute of Pharmacology Polish Academy of Sciences,POL,Government
+646,Zhejiang Normal University,CHN,Universities
+647,Royal Free London NHS Foundation Trust,GBR,Health
+647,Japanese Foundation for Cancer Research,JPN,Health
+648,American University,USA,Universities
+648,Daegu Haany University,KOR,Universities
+648,Sichuan Agricultural University,CHN,Universities
+648,Universitatsklinikum Essen,DEU,Health
+648,Instituto Politecnico de Lisboa,PRT,Universities
+648,Sun Yat-sen University First Hospital,CHN,Health
+648,Istituto di Scienze e Tecnologie Molecolari,ITA,Government
+649,Korea Basic Science Institute,KOR,Government
+649,Tokyo University of Agriculture and Technology,JPN,Universities
+649,Instituto de Pesquisas Energeticas e Nucleares,BRA,Government
+649,Victoria University of Wellington,NZL,Universities
+649,"Chang Gung Memorial Hospital, Taoyuan",TWN,Health
+650,Fujian Medical University *,CHN,Universities
+650,All India Institute of Medical Sciences,IND,Universities
+650,Anhui University,CHN,Universities
+650,Institute of Physiology of the ASCR,CZE,Government
+650,Prince Sattam Bin Abdulaziz University,SAU,Universities
+650,Ufa Scientific Center Russian Academy of Sciences,RUS,Government
+650,Clinica Universidad de Navarra,ESP,Health
+650,University of Vermont,USA,Universities
+650,Auburn University,USA,Universities
+651,Mackay Medical College,TWN,Universities
+651,Shiga University of Medical Science *,JPN,Universities
+651,Huazhong Agricultural University,CHN,Universities
+651,Budapest University of Technology and Economics,HUN,Universities
+652,"Institute of Chemistry, Chinese Academy of Sciences",CHN,Government
+652,The Maharaja Sayajirao University of Baroda,IND,Universities
+652,Klinikum Rechts der Isar der Technische Universitat Munchen,DEU,Health
+652,Anhui Agricultural University,CHN,Universities
+653,Centre Hospitalier Universitaire de Montpellier *,FRA,Health
+653,University of Rijeka,HRV,Universities
+653,Kitasato University *,JPN,Universities
+653,Tottori University *,JPN,Universities
+654,Sahlgrenska University Hospital,SWE,Health
+654,St. Joseph's Healthcare Hamilton,CAN,Health
+655,Guangdong Ocean University,CHN,Universities
+655,Centro Medico Nacional Siglo XXI,MEX,Health
+655,Centro de Investigacion Cooperativa en Biomateriales,ESP,Government
+655,Adam Mickiewicz University,POL,Universities
+656,Nara Medical University *,JPN,Universities
+656,Bengbu Medical College,CHN,Universities
+656,Assistance Publique Hopitaux de Marseille *,FRA,Health
+657,Saga University *,JPN,Universities
+657,The Second Affiliated Hospital of Zhejiang University,CHN,Health
+657,Leibniz Institut fur Pflanzenbiochemie,DEU,Government
+657,Concordia University,CAN,Universities
+657,Engelhardt Institute of Molecular Biology Russian Academy of Sciences,RUS,Government
+657,Region Stockholm,SWE,Government
+658,Intermountain Healthcare,USA,Health
+658,Istituto di Scienze delle Produzioni Alimentari,ITA,Government
+658,Norwegian Institute for Air Research,NOR,Government
+658,Museum National d'Histoire Naturelle *,FRA,Government
+658,University of East London,GBR,Universities
+659,Rosalind Franklin University of Medicine and Science,USA,Universities
+659,International Centre for Genetic Engineering and Biotechnology *,MUL,Government
+659,Tokyo Metropolitan Institute of Medical Science,JPN,Health
+659,Universidade Federal da Bahia,BRA,Universities
+659,Mazandaran University of Medical Sciences,IRN,Universities
+659,Keele University,GBR,Universities
+659,Agricultural Research Council,ZAF,Government
+660,Universidade Estadual de Londrina,BRA,Universities
+660,Universidade Federal do Ceara,BRA,Universities
+660,Imperial College Healthcare NHS Trust,GBR,Health
+660,Children’s National Health System,USA,Health
+660,Fachhochschule Nordwestschweiz,CHE,Universities
+660,James Cook University *,AUS,Universities
+660,National Agriculture and Food Research Organization,JPN,Government
+661,University of Karachi,PAK,Universities
+661,M.M. Shemyakin and Yu.A. Ovchinnikov Institute of Bioorganic Chemistry Russian Academy of Sciences,RUS,Government
+661,Chonbuk National University *,KOR,Universities
+661,Forschungszentrum Julich in der Helmholtz Gemeinschaft,DEU,Government
+661,Institut Pasteur of Iran,IRN,Health
+661,National Sun Yat-sen University,TWN,Universities
+661,Poznan University of Medical Sciences,POL,Universities
+661,Karl Franzens Universitat Graz *,AUT,Universities
+662,Rabin Medical Center,ISR,Health
+662,State University of New York at Binghamton,USA,Universities
+662,National Institute of Chemistry Slovenia,SVN,Government
+662,Jeju National University *,KOR,Universities
+662,Nagoya University *,JPN,Universities
+663,Centre Hospitalier Regional et Universitaire de Tours,FRA,Health
+663,Normandie Universite,FRA,Universities
+663,Institut de Chimie des Substances Naturelles,FRA,Government
+663,Instituto Maimonides de Investigacion Biomedica de Cordoba,ESP,Health
+663,National Institute of Standards and Technology *,USA,Government
+663,University of Ioannina,GRC,Universities
+664,Osaka Prefecture University,JPN,Universities
+664,Tokyo Institute of Technology,JPN,Universities
+664,"University of Maine, Orono",USA,Universities
+664,First Affiliated Jiangsu Province Hospital with Nanjing Medical University,CHN,Health
+664,Princess Alexandra Hospital ,AUS,Health
+665,Petronas University of Technology,MYS,Universities
+665,Zentralinstitut fur Seelische Gesundheit,DEU,Government
+665,Lishui University,CHN,Universities
+665,Royal Institute of Technology,SWE,Universities
+666,Slovenian NMR Centre *,SVN,Government
+666,Universidad de la Republica *,URY,Universities
+666,Tangdu Hospital,CHN,Health
+666,Jiangxi Science and Technology Normal University,CHN,Universities
+667,Binzhou Medical University *,CHN,Universities
+667,Nesmeyanov Institute of Organoelement Compounds Russian Academy of Sciences,RUS,Government
+667,Kawasaki Medical School *,JPN,Universities
+668,"University of Massachusetts, Lowell",USA,Universities
+668,Hospital for Tropical Diseases *,VNM,Health
+668,Universitat Rostock *,DEU,Universities
+668,Creighton University,USA,Universities
+669,Central University of Punjab,IND,Universities
+669,South London and Maudsley NHS Foundation Trust,GBR,Health
+669,University of Zambia,ZMB,Universities
+669,The University of Hull,GBR,Universities
+669,Tokyo University of Science,JPN,Universities
+669,South Central University for Nationalities,CHN,Universities
+669,Gyeongsang National University Hospital,KOR,Health
+669,Azienda Usl di Reggio Emilia,ITA,Health
+669,Council for Scientific and Industrial Research,ZAF,Government
+670,Zhejiang Gongshang University,CHN,Universities
+670,Korea Atomic Energy Research Institute,KOR,Government
+670,Recep Tayyip Erdogan University,TUR,Universities
+671,U.S. Department of Energy *,USA,Government
+671,Hospital Universitario Puerta de Hierro Majadahonda,ESP,Health
+671,Miami VA Healthcare System,USA,Health
+671,Hospital Universitari Germans Trias i Pujol,ESP,Health
+671,Shandong University of Technology,CHN,Universities
+672,Hospital Universitari Vall d'Hebron,ESP,Health
+672,Shanghai Cancer Center Fudan University,CHN,Health
+672,Kantonsspital St. Gallen,CHE,Health
+672,University of Chemistry and Technology,CZE,Universities
+673,Universitat Politecnica de Valencia *,ESP,Universities
+673,North-West University,ZAF,Universities
+673,James J. Peters VA Medical Center,USA,Health
+673,Barts and the London NHS Trust,GBR,Health
+673,University of Zagreb,HRV,Universities
+673,University of Warsaw,POL,Universities
+673,Institute of Hydrobiology Chinese Academy of Sciences,CHN,Government
+673,Centro di Riferimento Oncologico Aviano IRCCS,ITA,Health
+674,"Institute of Chemical Technology, Mumbai",IND,Universities
+674,Universitat Bayreuth,DEU,Universities
+674,Ikerbasque-Basque Foundation for Science,ESP,Government
+674,Chung Shan Medical University,TWN,Universities
+674,"Louisiana State University, Health Sciences Center",USA,Universities
+674,Oxford University Clinical Research Unit,VNM,Universities
+674,First Affilated Hospital of Wenzhou Medical University,CHN,Health
+674,Ecole Normale Superieure de Paris *,FRA,Universities
+674,Universite du Quebec en Quebec *,CAN,Universities
+675,Institut de Bioenginyeria de Catalunya,ESP,Government
+675,Instituto Tecnologico y de Estudios Superiores de Monterrey,MEX,Universities
+675,Ecole Centrale Marseille *,FRA,Universities
+676,Universitat Jaume I *,ESP,Universities
+676,Royal Brisbane and Women's Hospital *,AUS,Health
+676,Sumitomo Chemical Co Ltd,MUL,Companies
+676,University of Veterinary and Pharmaceutical Sciences Brno,CZE,Universities
+676,Mokpo National University,KOR,Universities
+677,Universite de la Reunion,REU,Universities
+677,Titu Maiorescu University,ROU,Universities
+677,Hospital de la Santa Creu i Sant Pau,ESP,Health
+677,Instituto Politecnico do Porto,PRT,Universities
+678,Igdir University,TUR,Universities
+678,Cha University *,KOR,Universities
+678,Burnet Institute,AUS,Health
+678,Universite Paris-Nord 13 *,FRA,Universities
+678,Ghent University Hospital,BEL,Health
+678,Guizhou University,CHN,Universities
+679,Dalian University *,CHN,Universities
+679,Okayama University *,JPN,Universities
+679,"International Centre for Genetic Engineering and Biotechnology, New Delhi",IND,Government
+680,Marshall University,USA,Universities
+680,Universidad de Alcala *,ESP,Universities
+680,Lake Erie College,USA,Universities
+680,Korea Institute of Oriental Medicine,KOR,Government
+680,Mitsubishi Chemical Holdings Corp,MUL,Companies
+680,Istituto Dermopatico Dell'Immacolata IRCCS,ITA,Health
+680,Khon Kaen University,THA,Universities
+681,Kings College Hospital NHS Foundation Trust,GBR,Health
+681,Taibah University,SAU,Universities
+681,Institute of Bioorganic Chemistry Polish Academy of Sciences,POL,Government
+681,Hospital General Universitario Gregorio Maranon *,ESP,Health
+681,Complejo Hospitalario Virgen del Rocio,ESP,Health
+681,University of Plovdiv Paisii Hilendarski,BGR,Universities
+682,Universidade Federal de Santa Maria *,BRA,Universities
+682,University of Wyoming,USA,Universities
+682,University of Toyama *,JPN,Universities
+682,San Diego State University,USA,Universities
+682,"Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",CHN,Government
+682,Haukeland University Hospital,NOR,Health
+682,Instituto Adolfo Lutz,BRA,Health
+683,Centro de Investigacion y de Estudios Avanzados del IPN *,MEX,Universities
+683,Monash University Malaysia,MYS,Universities
+683,International Medical University,MYS,Universities
+683,Medical University of Silesia,POL,Universities
+683,Universidad Peruana Cayetano Heredia,PER,Universities
+684,Kagawa University *,JPN,Universities
+684,Universita degli Studi Roma Tre,ITA,Universities
+684,Banaras Hindu University,IND,Universities
+684,Comenius University in Bratislava,SVK,Universities
+684,Kongju National University,KOR,Universities
+685,Universitat Salzburg,AUT,Universities
+685,Ahvaz Jundishapur University of Medical Sciences *,IRN,Universities
+685,Abdul Wali Khan University,PAK,Universities
+685,Universite de Versailles Saint Quentin en Yvelines *,FRA,Universities
+685,Instituto Cajal,ESP,Government
+685,Lanzhou University of Technology,CHN,Universities
+685,University of Indonesia,IDN,Universities
+686,Chaim Sheba Medical Center,ISR,Health
+686,Zewail City of Science and Technology,EGY,Universities
+686,Humanitas University *,ITA,Universities
+686,Flinders Medical Centre,AUS,Health
+686,Centre Hospitalier Universitaire de Reims,FRA,Health
+686,Helmholtz Zentrum fur Umweltforschung,DEU,Government
+687,Yonsei University Health System,KOR,Health
+687,Sharif University of Technology,IRN,Universities
+687,"Fujian Institute of Research On the Structure of Matter, Chinese Academy of Sciences",CHN,Government
+687,Natural Environment Research Council *,GBR,Government
+687,Srinakharinwirot University,THA,Universities
+687,Hallym University *,KOR,Universities
+688,Universita degli Studi di Sassari,ITA,Universities
+688,Childrens Mercy Hospital ,USA,Health
+688,Qufu Normal University,CHN,Universities
+688,Tabuk University,SAU,Universities
+688,High Point University,USA,Universities
+689,Shanghai Public Health Clinical Center,CHN,Health
+689,Waseda University,JPN,Universities
+689,Deutsches Diabetes-Zentrum - Leibniz-Zentrum fur Diabetes-Forschung an der Heinrich-Heine-Universitat Dusseldorf,DEU,Government
+689,University Hospital Brussels,BEL,Health
+689,St. Olavs University Hospital,NOR,Health
+689,Helwan University Cairo *,EGY,Universities
+689,University of the West of Scotland,GBR,Universities
+690,Zhejiang Chinese Medical University *,CHN,Universities
+690,Foshan University,CHN,Universities
+690,Orygen Youth Health,AUS,Health
+690,Kasetsart University,THA,Universities
+691,Health Canada,CAN,Health
+691,Singapore General Hospital,SGP,Health
+691,University of Limerick,IRL,Universities
+691,Institut d'Investigacio Biomedica de Bellvitge,ESP,Health
+691,St. Anne's University Hospital Brno *,CZE,Health
+691,Chinese Academy of Forestry *,CHN,Government
+692,University of Toledo Medical Center,USA,Health
+693,Universitat Potsdam,DEU,Universities
+693,Ohio University,USA,Universities
+693,Universita degli Studi Ca Foscari di Venezia,ITA,Universities
+693,University of North Texas,USA,Universities
+693,Soon Chun Hyang University *,KOR,Universities
+694,Aichi Gakuin University,JPN,Universities
+694,University of Ulsan *,KOR,Universities
+694,Universita degli Studi di Urbino Carlo Bo,ITA,Universities
+694,Istituto di Biostrutture e Bioimmagini,ITA,Government
+694,Minneapolis VA Health Care System,USA,Health
+694,Shanghai Sixth People's Hospital,CHN,Health
+694,Centre Hospitalier Universitaire de Toulouse *,FRA,Health
+694,National Hospital for Tropical Diseases *,VNM,Health
+694,Complejo Hospitalario Virgen de La Victoria,ESP,Health
+694,Yunnan University,CHN,Universities
+695,Lancaster University,GBR,Universities
+695,Universitatsklinikum Carl Gustav Carus Dresden,DEU,Health
+695,Vilnius University,LTU,Universities
+695,Kwame Nkrumah University of Science and Technology,GHA,Universities
+695,Yunnan Agricultural University,CHN,Universities
+695,Yamaguchi University *,JPN,Universities
+695,Doctor Harisingh Gour University,IND,Universities
+695,University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,ROU,Universities
+696,Universidade Catolica de Brasilia,BRA,Universities
+696,Universidad San Pablo CEU ,ESP,Universities
+696,Qingdao Agricultural University,CHN,Universities
+696,Instituto Portugues de Oncologia de Francisco Gentil Porto,PRT,Health
+696,Berlin Institute of Health,DEU,Health
+697,Zhujiang Hospital,CHN,Health
+697,Chosun University *,KOR,Universities
+697,University of Namur,BEL,Universities
+698,Oita University *,JPN,Universities
+698,University Hospital Maastricht,NLD,Health
+698,Consorzio Interuniversitario Nazionale per la Scienza e la Tecnologia dei Materiali,ITA,Government
+698,University of Hradec Kralove,CZE,Universities
+698,The Affiliated Hospital of Qingdao University Medical College,CHN,Health
+698,Second Affiliated Hospital of Chongqing Medical University,CHN,Health
+698,Universidad Rey Juan Carlos *,ESP,Universities
+698,First Affiliated Hospital of Soochow University,CHN,Health
+699,Sciences Chimiques de Rennes,FRA,Government
+699,Inje University *,KOR,Universities
+699,Istituto Neurologico Mediterraneo Neuromed IRCCS,ITA,Health
+699,Tri-Service General Hospital,TWN,Health
+700,Universidad Cardenal Herrera CEU,ESP,Universities
+700,Institut National des Sciences Appliquees de Lyon *,FRA,Universities
+700,N.I. Lobachevsky State University of Nizhni Novgorod *,RUS,Universities
+700,Centre Hospitalier Universitaire de Poitiers,FRA,Health
+700,Macquarie University *,AUS,Universities
+700,Clemson University,USA,Universities
+700,Minia University *,EGY,Universities
+701,National Institute of Health Clinical Center,USA,Health
+701,Wonkwang University *,KOR,Universities
+701,Xinhua Hospital,CHN,Health
+701,Pedagogical University of Kielce,POL,Universities
+702,Mossakowski Medical Research Centre Polish Academy of Sciences,POL,Government
+702,"Universite de Picardie Jules Verne, Amiens *",FRA,Universities
+703,Skane University Hospital,SWE,Health
+703,Jozef Stefan Institute,SVN,Government
+703,Institut de Diagnosi Ambiental i Estudis de l'Aigua,ESP,Government
+703,"Demokritos, National Centre for Scientific Research",GRC,Government
+703,Universidade Federal da Paraiba,BRA,Universities
+703,Guangxi University for Nationalities,CHN,Universities
+703,Kurume University *,JPN,Universities
+704,Korea Food Research Institute,KOR,Government
+704,Iwate University,JPN,Universities
+704,Dow Chemical Co USA,USA,Companies
+704,Mackay Memorial Hospital,TWN,Health
+704,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement *,FRA,Government
+705,Florida State University *,USA,Universities
+705,National Center for Global Health and Medicine,JPN,Health
+705,Indian Council of Agricultural Research *,IND,Government
+705,Dow Chemical Co,MUL,Companies
+705,XuanWu Hospital,CHN,Health
+705,Shantou University *,CHN,Universities
+706,Politehnica University of Bucharest,ROU,Universities
+706,"Institut Catala d'Oncologia, Hospitalet de Llobregat",ESP,Health
+706,University of Jyvaskyla,FIN,Universities
+706,Shaanxi Normal University,CHN,Universities
+706,Universidad de Huelva *,ESP,Universities
+706,Chung-Ho Memorial Hospital,TWN,Health
+707,Instituto Mexicano del Seguro Social *,MEX,Health
+707,King Abdullah International Medical Research Center,SAU,Health
+707,Nottingham University Hospitals NHS Trust,GBR,Health
+707,Xuzhou Medical University,CHN,Universities
+707,Institut d'Investigacio Biomedic Sant Pau,ESP,Health
+707,I-Shou University,TWN,Universities
+707,Chengdu University of Traditional Chinese Medicine,CHN,Universities
+708,Azienda Ospedaliera di Padova,ITA,Health
+708,Hangzhou Normal University *,CHN,Universities
+708,American University of Beirut Medical Center,LBN,Health
+708,St Georges Healthcare NHS Trust,GBR,Health
+708,Institute of Epidemiology and Microbiology of the Russian Academy of Medical Sciences,RUS,Health
+708,Sociedade Beneficiente Israelita Brasileira Albert Einstein,BRA,Health
+709,Hallym University Medical Center,KOR,Health
+709,University of Brighton *,GBR,Universities
+709,Tianjin University of Technology,CHN,Universities
+709,Romanian Academy *,ROU,Government
+709,"Institute of Earth Environment, Chinese Academy of Science",CHN,Government
+709,Northeast Ohio Medical University,USA,Universities
+709,South China Sea Institute of Oceanology Chinese Academy of Sciences,CHN,Government
+709,Fujian University of Traditional Chinese Medicine,CHN,Universities
+710,University of South China,CHN,Universities
+710,St Antonius Hospital,NLD,Health
+710,Universite de Reims Champagne-Ardenne *,FRA,Universities
+710,Middle East Technical University,TUR,Universities
+710,Orebro Universitet,SWE,Universities
+711,Ege University,TUR,Universities
+711,Kosin University,KOR,Universities
+711,Fundación IBYME *,ARG,Non-Profit
+711,Leibniz-Institut fur Arbeitsforschung an der TU Dortmund,DEU,Government
+711,Instituto de Biologia y Medicina Experimental,ARG,Government
+711,Taipei Medical University Hospital,TWN,Health
+711,Tianjin Medical University Cancer Institute and Hospital,CHN,Health
+711,Centro Cientifico Tecnologico Rosario,ARG,Government
+711,George Mason University,USA,Universities
+711,Instituto Politecnico de Braganca,PRT,Universities
+711,Beijing Institute of Microbiology and Epidemiology,CHN,Non-Profit
+711,University of Notre Dame Australia,AUS,Universities
+712,Pontificia Universidad Catolica del Ecuador,ECU,Universities
+712,Universidad Nacional de Colombia *,COL,Universities
+712,Wroclaw University of Environmental and Life Sciences,POL,Universities
+712,William Paterson University,USA,Universities
+713,Istanbul Medipol University *,TUR,Universities
+713,Nihon University *,JPN,Universities
+713,Shantou University Medical College,CHN,Universities
+714,Safdarjang Hospital,IND,Health
+714,Jimei University,CHN,Universities
+715,Al Ain University,ARE,Universities
+715,Sapporo Medical University *,JPN,Universities
+715,Hebei Medical University *,CHN,Universities
+716,Biological Research Center Hungarian Academy of Sciences,HUN,Government
+716,Guru Nanak Dev University,IND,Universities
+716,Environment Canada,CAN,Government
+716,York University,CAN,Universities
+716,Centre for Ecology and Hydrology,GBR,Government
+716,Hospital Universitario La Paz,ESP,Health
+717,Changhai Hospital of Shanghai,CHN,Health
+717,Shanghai University of Medicine and Health Sciences,CHN,Universities
+717,Universidade Federal de Sergipe,BRA,Universities
+717,Universidad Nacional de Cordoba *,ARG,Universities
+717,Second Affiliated Hospital of China Medical University-Sheng Jing Hospital,CHN,Health
+718,South Eastern Sydney Local Health District *,AUS,Health
+718,Ecole Normale Superieure de Lyon *,FRA,Universities
+718,Qilu University of Technology,CHN,Universities
+718,Portland State University,USA,Universities
+718,Heriot-Watt University *,MUL,Universities
+718,Xidian University,CHN,Universities
+718,"Kunming Institute of Zoology, Chinese Academy of Sciences",CHN,Government
+718,University of Ghana,GHA,Universities
+719,Shanghai Jiao Tong University Affiliated First People's Hospital,CHN,Health
+719,"Universidad Andres Bello, Chile",CHL,Universities
+719,Comissao Nacional de Energia Nuclear *,BRA,Government
+719,SUNY Downstate Medical Center,USA,Universities
+719,Rhode Island Hospital ,USA,Health
+719,Universite de Lyon,FRA,Universities
+719,Yanbian University *,CHN,Universities
+719,"Syngenta, United Kingdom",GBR,Companies
+719,University Hospital Hradec Kralove,CZE,Health
+719,Bharath Institute of Higher Education and Research,IND,Universities
+720,Kanazawa University *,JPN,Universities
+720,Universidade Federal de Alfenas,BRA,Universities
+720,Universidad de Extremadura *,ESP,Universities
+720,"Heriot-Watt University, United Kingdom",GBR,Universities
+721,"Wuhan Institute of Virology, Chinese Academy of Sciences",CHN,Government
+721,Hudson Institute of Medical Research,AUS,Non-Profit
+721,Fourth Hospital of Harbin Medical University,CHN,Health
+721,Universidade Federal do Parana,BRA,Universities
+721,Meharry Medical College,USA,Universities
+721,Hospital de Clinicas de Porto Alegre,BRA,Health
+721,Institute of General Pathology and Physiopathology of the Russian Academy of Medical Sciences,RUS,Health
+721,Amirkabir University of Technology,IRN,Universities
+722,Institut Gustave Roussy *,FRA,Health
+722,Universitat Witten-Herdecke,DEU,Universities
+722,Chung Shan Medical University Hospital,TWN,Health
+722,National Chiao Tung University,TWN,Universities
+722,China-Japan Union Hospital of Jilin University,CHN,Health
+722,Universitatsklinikum Greifswald,DEU,Health
+722,"University of California, Irvine Healthcare",USA,Health
+722,Norwegian Institute of Public Health,NOR,Health
+722,University of Gdansk,POL,Universities
+723,Medical University of Kerman,IRN,Universities
+723,Hospital Regional Universitario de Malaga,ESP,Health
+724,"Universidad de Puerto Rico, Ciencias Medicas",PRI,Universities
+724,Kunming Medical University *,CHN,Universities
+724,Istanbul University *,TUR,Universities
+725,Central University of Gujarat,IND,Universities
+725,Universidade Lusofona de Humanidades e Tecnologias,PRT,Universities
+725,Istituto Clinico Humanitas,ITA,Health
+725,Jesse Brown VA Medical Center,USA,Health
+725,Kafr El-Sheikh University,EGY,Universities
+725,Complejo Hospitalario Regional Virgen Macarena,ESP,Health
+725,"University of Arkansas, Fayetteville",USA,Universities
+725,Universitat de Lleida,ESP,Universities
+726,Institut National de la Recherche Scientifique,CAN,Universities
+726,Istituto di Fisiologia Clinica,ITA,Government
+726,National Dong Hwa University,TWN,Universities
+726,Shandong Agricultural University,CHN,Universities
+726,Seoul National University Hospital *,KOR,Health
+726,University of the Western Cape,ZAF,Universities
+726,Shiraz University,IRN,Universities
+726,Beijing Technology and Business University,CHN,Universities
+726,Fundacion Agencia Aragonesa para la Investigacion y Desarrollo,ESP,Government
+727,Wroclaw Medical University,POL,Universities
+727,Instituto de Investigacion Sanitaria del Hospital Clinico San Carlos,ESP,Health
+727,Incheon National University,KOR,Universities
+727,Shandong University Qilu Hospital,CHN,Health
+727,Atrium Health *,USA,Health
+727,Anhui University of Science and Technology,CHN,Universities
+727,Peter the Great St Petersburg Polytechnic University,RUS,Universities
+727,Warsaw University of Life Sciences,POL,Universities
+727,New York State Department of Health *,USA,Health
+728,University of Qatar,QAT,Universities
+728,Ruijin Hospital,CHN,Health
+728,Gifu University *,JPN,Universities
+728,Instituto Politecnico Nacional *,MEX,Universities
+728,Universidade Federal do ABC,BRA,Universities
+728,Malek-Ashtar University of Technology,IRN,Universities
+728,Centre Hospitalier Universitaire de Liege,BEL,Health
+729,Huaiyin Teachers University,CHN,Universities
+729,University of Western Sydney,AUS,Universities
+729,De Montfort University,GBR,Universities
+729,Jadavpur University,IND,Universities
+729,Slovenian Academy of Sciences and Arts *,SVN,Government
+729,Hazara University,PAK,Universities
+729,Hospital del Mar,ESP,Health
+729,Instituto de Quimica-Fisica Rocasolano,ESP,Government
+730,Universitat Bremen,DEU,Universities
+730,Ruder Boskovic Institute *,HRV,Government
+731,Florida Atlantic University,USA,Universities
+731,Mae Fah Luang University,THA,Universities
+731,Pukyong National University,KOR,Universities
+731,Universita degli Studi di Trento,ITA,Universities
+731,"Indian Institute of Technology, Delhi",IND,Universities
+731,Naresuan University,THA,Universities
+732,Yanshan University,CHN,Universities
+732,Philadelphia University,JOR,Universities
+732,Hasselt University,BEL,Universities
+732,Tomsk Polytechnic University,RUS,Universities
+732,Affiliated Hospital of Hebei University,CHN,Health
+732,Universidade Federal do Para,BRA,Universities
+732,BC Children's Hospital and Sunny Hill Health Centre for Children Vancouver,CAN,Health
+732,Northwestern Polytechnical University,CHN,Universities
+733,VA Connecticut Healthcare System,USA,Health
+733,Institute of Macromolecular Compounds Russian Academy of Sciences,RUS,Government
+733,Aljouf University,SAU,Universities
+734,University of Mauritius,MUS,Universities
+734,Newcastle upon Tyne Hospitals NHS Foundation Trust,GBR,Health
+734,Brock University,CAN,Universities
+734,National Chiayi University,TWN,Universities
+734,Consejo Nacional de Ciencia y Tecnologia *,MEX,Government
+734,Attikon Athens University Hospital,GRC,Health
+735,Marmara University *,TUR,Universities
+735,Netherlands Organisation for Applied Scientific Research,NLD,Government
+735,Bogazici University,TUR,Universities
+735,Universidade do Sul de Santa Catarina,BRA,Universities
+735,New York Medical College,USA,Universities
+735,National Center for Genetic Engineering and Biotechnology,THA,Government
+735,Universite Clermont-Auvergne,FRA,Universities
+735,Southwest Jiaotong University,CHN,Universities
+736,Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez,MEX,Health
+736,Slovak Academy of Sciences *,SVK,Government
+736,Umm Al-Qura University,SAU,Universities
+736,Universidad de Costa Rica,CRI,Universities
+737,Netherlands Organisation for Applied Scientific Research *,MUL,Government
+737,King Faisal University,SAU,Universities
+738,First Affiliated Hospital of Chongqing Medical University,CHN,Health
+738,Universidade Federal do Rio Grande do Norte,BRA,Universities
+738,Linkou Chang Gung Memorial Hospital,TWN,Health
+738,University of Fort Hare,ZAF,Universities
+738,Teikyo University *,JPN,Universities
+738,Zhengzhou University of Light Industry,CHN,Universities
+739,Eastern Hepatobiliary Surgery Hospital,CHN,Health
+739,"Universidad de Las Americas, Ecuador",ECU,Universities
+739,Istituto Giannina Gaslini Ospedale Pediatrico IRCCS,ITA,Health
+739,Ann & Robert H. Lurie Children s Hospital,USA,Health
+740,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities
+740,"Beijing Institute of Genomics, Chinese Academy of Sciences",CHN,Government
+740,Nathan S. Kline Institute for Psychiatric Research,USA,Health
+740,Universidade de Vigo *,ESP,Universities
+740,Toronto Western Hospital,CAN,Health
+741,Academic Center for Education Culture and Research,IRN,Government
+741,Tanta University,EGY,Universities
+741,University of Canterbury,NZL,Universities
+741,Zurich University of Applied Sciences,CHE,Universities
+741,Institute of Macromolecular Chemistry Petru Poni Romanian Academy,ROU,Government
+741,First Affiliated Hospital of Nanchang University,CHN,Health
+741,"Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences",CHN,Government
+742,Hopitaux Universitaires de Strasbourg,FRA,Health
+742,Hospices Civils de Lyon *,FRA,Health
+742,The North Shore-LIJ Health System *,USA,Health
+742,Institut d'Investigacio Sanitaria Pere Virgili,ESP,Health
+742,Eskisehir Osmangazi University *,TUR,Universities
+743,University of Bucharest,ROU,Universities
+743,University of the Ryukyus *,JPN,Universities
+743,Jianghan University,CHN,Universities
+743,"Institute of Process Engineering, Chinese Academy of Sciences",CHN,Government
+743,Donghua University,CHN,Universities
+743,University of Chicago Medical Center ,USA,Health
+743,Mendel University in Brno,CZE,Universities
+743,Institute of Ecology and Biological Resources,VNM,Government
+743,Tokyo University of Pharmacy and Life Science,JPN,Universities
+743,Robert Gordon University,GBR,Universities
+743,Gansu Agricultural University,CHN,Universities
+744,Fondazione IRCCS Policlinico San Matteo ,ITA,Health
+744,Jiangxi University of Traditional Chinese Medicine,CHN,Universities
+745,University of Medicine and Pharmacy Grigore T. Popa of Iasi,ROU,Universities
+745,Anadolu University,TUR,Universities
+745,Sakarya University *,TUR,Universities
+745,International Islamic University Malaysia,MYS,Universities
+745,University of Shanghai for Science and Technology,CHN,Universities
+746,Murdoch Children's Research Institute,AUS,Health
+746,University of Tasmania,AUS,Universities
+746,Toho University *,JPN,Universities
+746,Providence VA Medical Center,USA,Health
+746,Pacific Northwest National Laboratory,USA,Government
+746,Sir Run Run Shaw Hospital,CHN,Health
+746,Great Ormond Street Hospital for Children NHS Trust,GBR,Health
+746,Jinshan Hospital,CHN,Health
+746,Dankook University,KOR,Universities
+746,Shenyang University of Chemical Technology,CHN,Universities
+747,Second Affiliated Hospital of Soochow University,CHN,Health
+747,Hartford Hospital ,USA,Health
+747,Instituto Nacional de Rehabilitacion,MEX,Health
+747,University of Nigeria,NGA,Universities
+747,Universidade Federal Rural do Rio de Janeiro,BRA,Universities
+748,Prince of Songkla University,THA,Universities
+748,"University of Malaysia, Pahang",MYS,Universities
+748,Liaoning Medical University *,CHN,Universities
+748,VA Greater Los Angeles Healthcare System,USA,Health
+748,Azienda Ospedaliero Universitaria Policlinico Sant'Orsola Malpighi,ITA,Health
+748,Norwegian University of Life Sciences,NOR,Universities
+749,Azienda Ospedaliera Sant Andrea,ITA,Health
+749,Technical University of Lodz,POL,Universities
+750,Hacettepe University,TUR,Universities
+750,Gunma University *,JPN,Universities
+750,Second Hospital of Xi'an Jiaotong University,CHN,Health
+750,Bundang Cha Medical Center,KOR,Health
+750,National Institute of Child Health and Human Development,USA,Health
+750,Egyptian Atomic Energy Authority *,EGY,Government
+750,Fujita Health University *,JPN,Universities
+751,Otto-von-Guericke-Universitat Magdeburg *,DEU,Universities
+751,First Affiliated Hospital of Jinan University,CHN,Health
+752,Shandong Provincial Hospital,CHN,Health
+752,Shaanxi University of Science and Technology,CHN,Universities
+752,Alberta Health Services,CAN,Health
+752,Shanxi Medical University *,CHN,Universities
+752,University of Health Sciences,PAK,Universities
+752,Tomsk State University,RUS,Universities
+752,Chinese Academy of Tropical Agricultural Sciences,CHN,Universities
+752,Universidade Federal do Amapa,BRA,Universities
+753,Affiliated Zhongshan Hospital of Dalian University,CHN,Health
+753,Shuang Ho Hospital,TWN,Health
+753,Defence Research and Development Organisation,IND,Government
+753,Jiaxing University,CHN,Universities
+753,Hoseo University,KOR,Universities
+753,Centre Hospitalier Universitaire de Nancy,FRA,Health
+754,Xinjiang Medical University *,CHN,Universities
+754,"Christian Medical College, Vellore",IND,Universities
+754,Alberta Children's Hospital,CAN,Health
+754,Second Hospital of Shanxi Medical University,CHN,Health
+754,Taras Shevchenko National University of Kyiv,UKR,Universities
+754,"Chang Gung Memorial Hospital, Kaohsiung",TWN,Health
+754,Federal Research Centre Fundamentals of Biotechnology Russian Academy of Sciences,RUS,Government
+755,Zhongda Hospital,CHN,Health
+755,Instituto Nacional de Salud Publica,MEX,Health
+755,Agri Ibrahim Cecen University,TUR,Universities
+755,Guangxi Medical University *,CHN,Universities
+755,Mario Negri Istituto di Ricerche Farmacologiche,ITA,Health
+755,Istituto per la Tecnologia delle Membrane,ITA,Government
+756,Guangxi University,CHN,Universities
+756,United States Geological Survey,USA,Government
+756,Universita degli Studi della Basilicata,ITA,Universities
+756,Tohoku Medical and Pharmaceutical University,JPN,Universities
+757,VetAgro Sup *,FRA,Universities
+757,Mie University *,JPN,Universities
+757,Slovak University of Technology,SVK,Universities
+757,National Science and Technology Development Agency *,THA,Government
+757,Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas,ESP,Health
+757,Technische Universitat Graz *,AUT,Universities
+758,Hubei University of Medicine,CHN,Universities
+758,National Technical University of Athens,GRC,Universities
+758,University of Pecs,HUN,Universities
+759,Shaoxing University,CHN,Universities
+759,First Affiliated Hospital of China Medical University,CHN,Health
+759,Hubei University of Science And Technology,CHN,Universities
+759,Fujian Agriculture and Forestry University,CHN,Universities
+759,Shanghai Institute of Mental Health,CHN,Health
+759,Universite de Bourgogne *,FRA,Universities
+760,Jiangsu Normal University,CHN,Universities
+760,Poznan University of Life Sciences,POL,Universities
+760,Menoufia University *,EGY,Universities
+760,Nazarbayev University,KAZ,Universities
+760,MCPHS University,USA,Universities
+760,Addis Ababa University,ETH,Universities
+760,Medizinische Universitat Graz *,AUT,Universities
+761,Centre Hospitalier Universitaire Dijon,FRA,Health
+761,Jawaharlal Nehru University,IND,Universities
+761,Silpakorn University,THA,Universities
+761,Xihua University,CHN,Universities
+761,Universidad Nacional de La Plata *,ARG,Universities
+762,Marquette University,USA,Universities
+762,Prince of Wales Hospital,HKG,Health
+762,Jiangxi Normal University,CHN,Universities
+762,Complejo Hospitalario Universitario de Santiago,ESP,Health
+762,Massey University,NZL,Universities
+762,Hohai University,CHN,Universities
+762,Adnan Menderes University,TUR,Universities
+762,Pandit Ravishankar Shukla University,IND,Universities
+762,The Children's Hospital at Westmead,AUS,Health
+762,Roskilde University,DNK,Universities
+763,Institute of Atomic Physics *,ROU,Government
+763,Universite du Littoral Cote d'Opale *,FRA,Universities
+763,Fondazione IRCCS Istituto Nazionale Tumori di Milano,ITA,Health
+763,The Hong Kong University of Science and Technology,HKG,Universities
+763,Chinese Academy of Fishery Sciences,CHN,Government
+763,The First Affiliated Hospital of Fujian Medical University,CHN,Health
+764,Bergische Universitat Wuppertal,DEU,Universities
+764,Cumhuriyet University *,TUR,Universities
+764,Southern University of Science and Technology,CHN,Universities
+764,Al-Zaytoonah Private University of Jordan,JOR,Universities
+764,Institut de Psychiatrie et Neurosciences de Paris,FRA,Government
+764,VA Ann Arbor Healthcare System,USA,Health
+765,Hirosaki University *,JPN,Universities
+765,Universitats Kinderspital beider Basel,CHE,Health
+765,Tel Aviv Sourasky Medical Center,ISR,Health
+765,Opole University,POL,Universities
+765,Sun Yat-sen University Fifth Hospital,CHN,Health
+765,Poznan University of Technology,POL,Universities
+765,Third Affiliated Hospital of Nanchang,CHN,Health
+766,RAND Corp,USA,Non-Profit
+766,Changzhou University,CHN,Universities
+766,Institute of High Energy Physics Chinese Academy of Science,CHN,Government
+766,Jordan University of Science and Technology,JOR,Universities
+767,Loma Linda University *,USA,Universities
+767,Kent State University,USA,Universities
+767,Aligarh Muslim University,IND,Universities
+767,Centro de Investigacion Biomedica en Red Fisiopatologia de la Obesidad y Nutricion,ESP,Health
+767,Carol Davila University of Medicine and Pharmacy,ROU,Universities
+767,Far Eastern Federal University,RUS,Universities
+768,Agilent Technologies *,MUL,Companies
+768,Ankara University,TUR,Universities
+768,Center for Food Safety and Applied Nutrition,USA,Government
+768,Nanjing Drum Tower Hospital,CHN,Health
+768,Wuhan Institute of Technology,CHN,Universities
+769,Slovak University of Agriculture in Nitra,SVK,Universities
+769,Guangdong Medical University,CHN,Universities
+769,First Affiliated Hospital Harbin Medical University,CHN,Health
+769,Escola Nacional de Saude Publica Sergio Arouca,BRA,Universities
+769,St Michaels Hospital Toronto,CAN,Health
+769,Universidad Autonoma de Nuevo Leon *,MEX,Universities
+769,Kazan Federal University,RUS,Universities
+770,"National Institutes of Biomedical Innovation, Health and Nutrition",JPN,Health
+770,Loyola Medicine,USA,Health
+770,Gifu Pharmaceutical University,JPN,Universities
+770,Universidade Estadual do Centro-Oeste,BRA,Universities
+770,Mount Sinai Hospital Joseph and Wolf Lebovic Health Complex,CAN,Health
+770,Liaoning Normal University,CHN,Universities
+770,Guangzhou University,CHN,Universities
+770,Kirikkale University *,TUR,Universities
+771,Centro Cientifico Tecnologico de Santa Fe,ARG,Government
+771,Instituto de Investigacion en Ciencias de la Alimentacion,ESP,Government
+771,Carolinas Medical Center ,USA,Health
+771,Chiang Mai University,THA,Universities
+771,Nencki Institute of Experimental Biology Polish Academy of Sciences,POL,Government
+771,Public Health Institute,USA,Health
+772,National Cerebral and Cardiovascular Center,JPN,Health
+772,The Manchester Metropolitan University,GBR,Universities
+772,The American University in Cairo,EGY,Universities
+772,Zanjan University,IRN,Universities
+773,Shanghai Shuguang Hospital,CHN,Health
+773,Ospedale Pediatrico Bambino Gesu,VAT,Health
+773,Ramathibodi Hospital,THA,Health
+773,South Texas Veterans Health Care System,USA,Health
+773,Universidad Nacional de Asuncion,PRY,Universities
+774,University of the Sciences in Philadelphia,USA,Universities
+774,Instituto de Investigacion en Ciencias de la Salud Germans Trias i Pujol,ESP,Health
+774,Instituto Butantan,BRA,Health
+774,Institut Cochin,FRA,Government
+774,VA Maryland Health Care System,USA,Health
+774,Instituto Ramon y Cajal de Investigacion Sanitaria,ESP,Health
+775,University Hospitals Birmingham NHS Foundation Trust,GBR,Health
+775,Universita degli Studi del Molise,ITA,Universities
+775,Osaka City University *,JPN,Universities
+775,Sun Yat-sen University Third Hospital,CHN,Health
+775,Anglia Ruskin University,GBR,Universities
+776,State University of New York Upstate Medical University *,USA,Universities
+776,Iwate Medical University *,JPN,Universities
+776,Cliniques Universitaires Saint-Luc,BEL,Health
+776,"Washington State University, Spokane Campus",USA,Universities
+776,Sanming First Hospital Affiliated to Fujian Medical University,CHN,Health
+776,Pontificia Universidad Javeriana *,COL,Universities
+777,Kuopio University Hospital,FIN,Health
+777,Gorgan University of Agriculture and Natural Resources,IRN,Universities
+777,Xiangtan University,CHN,Universities
+777,University of Zimbabwe,ZWE,Universities
+777,Wuyi University,CHN,Universities
+777,Menzies School of Health Research,AUS,Universities
+777,Instituto de Investigacion Sanitaria Fundacion para la Investigacion del Hospital Clinico de Valencia - INCLIVA,ESP,Health
+777,Universidad de Murcia *,ESP,Universities
+777,Qiqihar Medical University,CHN,Universities
+777,"University of New England, United States",USA,Universities
+777,University of Seoul,KOR,Universities
+778,Klinikum Ludwig Maximilians Universitat Munchen,DEU,Health
+778,Yokohama City University *,JPN,Universities
+778,State Key Joint Laboratory of Environmental Simulation and Pollution Control,CHN,Government
+778,Kyungsung University,KOR,Universities
+778,General Hospital of Tianjin Medical University,CHN,Health
+778,Odense University Hospital,DNK,Health
+779,Vietnam Academy of Science and Technology *,VNM,Government
+779,Affiliated Hospital of Shandong University of Traditional Chinese Medicine,CHN,Health
+779,Kermanshah University of Medical Sciences *,IRN,Universities
+779,Centro Cientifico Tecnologico La Plata,ARG,Government
+779,Research Centre for Natural Sciences,HUN,Government
+779,Imam Abdulrahman Bin Faisal University,SAU,Universities
+779,Universidad Autonoma de Chile,CHL,Universities
+779,Universitat d'Alacant *,ESP,Universities
+779,Nirma University,IND,Universities
+780,"Agence Nationale de la Securite Sanitaire de l'Alimentation, de l'Environnement et du Travail *",FRA,Health
+780,Second Hospital of Shandong University,CHN,Health
+780,University of Johannesburg,ZAF,Universities
+780,Chelsea and Westminster Hospital NHS Foundation Trust,GBR,Health
+780,Northern Illinois University,USA,Universities
+780,Tianjin Normal University,CHN,Universities
+780,Peking Union Medical College Hospital Beijing,CHN,Health
+780,Northeast Normal University,CHN,Universities
+781,George Washington The School of Medicine & Health Sciences,USA,Health
+781,Kurukshetra University,IND,Universities
+781,Pontificia Universidad Catolica de Valparaiso *,CHL,Universities
+781,Akdeniz University,TUR,Universities
+781,Xinxiang Medical University,CHN,Universities
+781,University of Medicine and Pharmacy Craiova,ROU,Universities
+781,Azienda Ospedaliera Universitaria Policlinico Gaetano Martino,ITA,Health
+781,Universidad de Valladolid *,ESP,Universities
+782,Postgraduate Institute of Medical Education and Research,IND,Universities
+782,Indian Veterinary Research Institute,IND,Universities
+782,Shahrekord University of Medical Sciences,IRN,Universities
+782,October University for Modern Sciences and Arts,EGY,Universities
+782,Madurai Kamaraj University,IND,Universities
+782,Seoul National University Bundang Hospital,KOR,Health
+782,Northumbria University,GBR,Universities
+782,Inha University,KOR,Universities
+782,The Islamia University of Bahawalpur,PAK,Universities
+782,D. Mendeleev University of Chemical Technology ,RUS,Universities
+782,First Affiliated Hospital of Henan University of Science and Technology,CHN,Health
+782,Shivaji University,IND,Universities
+783,"Institute of Modern Physics, Chinese Academy of Sciences",CHN,Government
+783,University of Memphis,USA,Universities
+783,Universidad Austral de Chile *,CHL,Universities
+783,Bogor Agricultural University,IDN,Universities
+783,The Affiliated Hospital of Nanjing University of Chinese Medicine,CHN,Health
+783,Hospital Universitari de Bellvitge,ESP,Health
+783,Hospital Universitario La Fe,ESP,Health
+784,West Pomeranian University of Technology,POL,Universities
+784,Shanxi Agricultural University,CHN,Universities
+784,Misr University for Science and Technology,EGY,Universities
+785,High Institute for Research and Education in Transfusion Medicine,IRN,Universities
+785,Chung Hwa University of Medical Technology,TWN,Universities
+785,Second Affiliated Hospital Harbin Medical University,CHN,Health
+785,Egyptian National Cancer Institute,EGY,Health
+785,"University of the West Indies, Mona Campus *",JAM,Universities
+785,Deutsche Sporthochschule Koln,DEU,Universities
+786,Walailak University,THA,Universities
+786,Nippon Medical School *,JPN,Universities
+786,Selcuk University *,TUR,Universities
+786,Sejong University,KOR,Universities
+786,Yuzuncu Yil University *,TUR,Universities
+786,Shahid Beheshti University,IRN,Universities
+786,Institut Mondor de Recherche Biomedicale,FRA,Government
+786,Old Dominion University,USA,Universities
+787,University of Tabriz,IRN,Universities
+787,Nicolaus Copernicus University,POL,Universities
+787,Universidad Autonoma del Estado de Mexico,MEX,Universities
+787,Oak Ridge Institute for Science and Education,USA,Government
+787,South China Normal University,CHN,Universities
+787,Central University of Rajasthan,IND,Universities
+788,Universidad de Cordoba *,ESP,Universities
+788,Aalborg University Hospital,DNK,Health
+788,Shahed University,IRN,Universities
+788,Aichi Medical University *,JPN,Universities
+788,University of Colombo,LKA,Universities
+788,"Vietnam National University, Ho Chi Minh City",VNM,Universities
+788,Universitat de Girona,ESP,Universities
+788,Kyoto Pharmaceutical University,JPN,Universities
+789,Hopital Erasme,BEL,Health
+789,Hunan University of Traditional Chinese Medicine,CHN,Universities
+789,Complejo Universitario de San Carlos,ESP,Health
+790,Changhua Christian Hospital,TWN,Health
+790,Kenya Medical Research Institute,KEN,Health
+790,Fu Jen Catholic University,TWN,Universities
+790,"Suleyman Demirel University, Isparta",TUR,Universities
+791,Shanghai Institute of Applied Physics Chinese Academy of Sciences,CHN,Government
+791,Yuan-Ze University,TWN,Universities
+791,China State Institute of Pharmaceutical Industry,CHN,Companies
+791,Denver Health Medical Center,USA,Health
+791,"Kaiser Permanente, Oakland *",USA,Health
+792,Universidade Federal do Pampa,BRA,Universities
+792,China University of Mining and Technology,CHN,Universities
+792,King Saud University Medical City,SAU,Health
+792,Centre Hospitalier Regional et Universitaire de Besancon,FRA,Health
+792,Azienda Ospedaliera San Camillo Forlanini,ITA,Health
+792,Institute of Biophysics of the ASCR,CZE,Government
+792,Ton Duc Thang University,VNM,Universities
+792,Taishan Medical University,CHN,Universities
+793,University of Sharjah,ARE,Universities
+794,University of Rzeszow,POL,Universities
+794,Bond University,AUS,Universities
+794,University of the Pacific,USA,Universities
+794,Tokyo Medical University *,JPN,Universities
+794,Politecnico di Torino *,ITA,Universities
+794,Hunan Agricultural University,CHN,Universities
+794,Shanghai Changzheng Hospital,CHN,Health
+794,Isala Clinics,NLD,Health
+794,Universidade do Algarve,PRT,Universities
+795,Affiliated Jiangsu Cancer Hospital,CHN,Health
+795,"Laboratoire d’Automatique, de Genie des Procedes et de Genie Pharmaceutique",FRA,Government
+795,Universidade Federal de Vicosa,BRA,Universities
+795,First Hospital of Shanxi Medical University,CHN,Health
+796,Future University in Egypt,EGY,Universities
+796,Universidad de Talca *,CHL,Universities
+796,Institut National des Sciences Appliquees de Rouen *,FRA,Universities
+796,University of Gondar,ETH,Universities
+796,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities
+796,Gadjah Mada University,IDN,Universities
+797,Universidade Estadual de Maringa,BRA,Universities
+797,Izmir Katip Celebi University *,TUR,Universities
+797,"Indian Institute of Technology, Bombay",IND,Universities
+797,East Tennessee State University,USA,Universities
+797,Al-Quds University,PSE,Universities
+797,Austin Health,AUS,Health
+797,Centre Hospitalier Universitaire de Amiens-Picardie,FRA,Health
+798,Universidad Autonoma del Estado de Morelos,MEX,Universities
+798,Dong-A University,KOR,Universities
+798,Shahid Sadoughi University of Medical Sciences,IRN,Universities
+798,University of Oradea,ROU,Universities
+798,Institute of Microbiology of the ASCR,CZE,Government
+798,"Guangdong Institute of Microbiology, Chinese Academy of Sciences",CHN,Government
+799,University of Silesia in Katowice,POL,Universities
+799,Helmholtz-Zentrum fur Ozeanforschung Kiel Umgewandelt,DEU,Government
+799,Jiamusi University *,CHN,Universities
+799,Institut de Recherche en Cancerologie de Montpellier,FRA,Government
+799,Universidade Federal de Mato Grosso,BRA,Universities
+800,North China University of Science and Technology,CHN,Universities
+800,Zhaoqing University,CHN,Universities
+800,Barwon Health,AUS,Non-Profit
+800,Institute of Genomics and Integrative Biology,IND,Government
+800,Second Clinical Hospital of Jilin University,CHN,Health
+800,Meijo University,JPN,Universities
+801,Medical University - Plovdiv,BGR,Universities
+801,University of Dhaka,BGD,Universities
+801,Instituto de Investigacion Sanitaria Gregorio Maranon,ESP,Health
+801,Eotvos Lorand University,HUN,Universities
+801,Universidade Federal Fluminense,BRA,Universities
+801,Mekelle University,ETH,Universities
+802,Universite d'Angers *,FRA,Universities
+802,Henan Agricultural University,CHN,Universities
+802,University of Babylon,IRQ,Universities
+802,Zunyi Medical University *,CHN,Universities
+802,Northern Border University,SAU,Universities
+802,Shanghai Pulmonary Hospital,CHN,Health
+802,Anhui University of Traditional Chinese Medicine,CHN,Universities
+803,Centre Hospitalier Universitaire de Rennes,FRA,Health
+803,Universidade Federal de Sao Carlos,BRA,Universities
+803,Michael E. DeBakey VA Medical Center,USA,Health
+803,Babol University of Medical Sciences,IRN,Universities
+803,Bandung Institute of Technology,IDN,Universities
+803,Programa Iniciativa Cientifica Milenio *,CHL,Government
+804,Lithuanian University of Health Sciences,LTU,Universities
+804,Punjabi University,IND,Universities
+804,I.M. Sechenov First Moscow State Medical University,RUS,Universities
+804,Nanjing University of Information Science and Technology,CHN,Universities
+804,Adiyaman University,TUR,Universities
+804,Swedish University of Agricultural Sciences,SWE,Universities
+804,Charles Sturt University,AUS,Universities
+805,Universite de Yaounde I,CMR,Universities
+805,Institut Claudius Regaud - Centre de Lutte contre le Cancer de Toulouse,FRA,Health
+805,Jilin Agricultural University,CHN,Universities
+805, Centre Hospitalier de l'Universite de Montreal,CAN,Health
+805,University Prof. Dr. Assen Zlatarov,BGR,Universities
+806,Stony Brook University Medicine,USA,Health
+806,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+806,National Central University,TWN,Universities
+806,Sunnybrook Health Sciences Centre,CAN,Health
+806,South Dakota State University,USA,Universities
+806,Annamalai University,IND,Universities
+807,Universite de La Rochelle *,FRA,Universities
+807,Ospedale Luigi Sacco,ITA,Health
+807,Bundesanstalt fur Materialforschung und -Prufung,DEU,Government
+807,Universitatsklinikum Mannheim,DEU,Health
+807,Xinjiang University,CHN,Universities
+807,Universita degli Studi dell'Insubria,ITA,Universities
+807,"Indian Institute of Technology, Kharagpur",IND,Universities
+808,Western University of Health Sciences,USA,Universities
+808,Beijing Forestry University,CHN,Universities
+808,Taif University,SAU,Universities
+808,The Jikei University School of Medicine *,JPN,Universities
+809,Second Affiliated Hospital of Nanchang University,CHN,Health
+809,Yanbian University Hospital,CHN,Health
+809,Affiliated Nanjing First Hospital,CHN,Health
+809,St. James's Hospital,IRL,Health
+809,National Institutes for Food and Drug Control,CHN,Government
+809,Jiangsu Academy of Agricultural Sciences *,CHN,Government
+809,NMIMS University,IND,Universities
+809,Midwestern University,USA,Universities
+809,King Mongkut's University of Technology Thonburi,THA,Universities
+809,Universite de Rouen Normandie *,FRA,Universities
+810,Boston Medical Center ,USA,Health
+810,University of Novi Sad,SRB,Universities
+810,Universidade da Coruna,ESP,Universities
+810,Korea University Medical Center,KOR,Health
+810,George Institute for International Health *,AUS,Health
+810,Centre Hospitalier Universitaire de Grenoble,FRA,Health
+811,First Affiliated Hospital of Anhui Medical University,CHN,Health
+811,National Center of Neurology and Psychiatry,JPN,Health
+811,University of Zululand,ZAF,Universities
+811,Royal Prince Alfred Hospital ,AUS,Health
+811,Institute of Physiologically Active Compounds of Russian Academy of Sciences,RUS,Government
+812,Universite de Carthage,TUN,Universities
+812,Hospital Universitario Ramon y Cajal *,ESP,Health
+812,University of Sargodha,PAK,Universities
+812,Universidad de Cadiz *,ESP,Universities
+812,JSS Academy of Higher Education and Research,IND,Universities
+812,Kuwait University *,KWT,Universities
+813,Universidade Estadual de Ponta Grossa,BRA,Universities
+813,Mississippi State University,USA,Universities
+813,"Government College University, Faisalabad",PAK,Universities
+813,University of Calcutta,IND,Universities
+813,VA Boston Healthcare System,USA,Health
+814,Universite du Luxembourg,LUX,Universities
+814,Pusan National University Hospital,KOR,Health
+814,Oberlin College,USA,Universities
+814,University of Latvia,LVA,Universities
+814,Jiangxi Agricultural University,CHN,Universities
+814,Woosuk University,KOR,Universities
+814,Universidade Federal do Espirito Santo,BRA,Universities
+814,Umberto I Policlinico di Roma,ITA,Health
+814,Shihezi University,CHN,Universities
+815,Universidade Federal do Piaui,BRA,Universities
+815,Universidade Federal de Alagoas,BRA,Universities
+815,Henan University of Science and Technology *,CHN,Universities
+815,"Kaiser Permanente Research, Washington",USA,Health
+815,Seton Hall University,USA,Universities
+815,Muhimbili University of Health and Allied Sciences,TZA,Universities
+815,Universita degli Studi di Udine,ITA,Universities
+816,Universite de Sfax,TUN,Universities
+816,Gazi University,TUR,Universities
+816,U.S. Air Force,USA,Government
+816,Bharati Vidyapeeth Deemed University,IND,Universities
+816,Lebanese University,LBN,Universities
+816,Detroit Medical Center,USA,Health
+816,University of Malta,MLT,Universities
+816,Guizhou Medical University,CHN,Universities
+816,Centre Hospitalier Universitaire de Bordeaux,FRA,Health
+816,China-Japan Friendship Hospital,CHN,Health
+816,Gangnam Severance Hospital,KOR,Health
+817,Universidad de Castilla-La Mancha *,ESP,Universities
+817,Hoshi University,JPN,Universities
+817,Qingdao University of Science and Technology,CHN,Universities
+817,Indian Institute of Chemical Biology,IND,Government
+817,Hospital de Sant Joan de Deu de Esplugues de Llobregat,ESP,Health
+817,Taylors University,MYS,Universities
+817,Istituto Oncologico Veneto,ITA,Health
+817,Showa University *,JPN,Universities
+817,University of Ibadan,NGA,Universities
+817,Makerere University *,UGA,Universities
+818,New York Presbyterian Hospital,USA,Health
+818,Sri Ramaswamy Memorial University,IND,Universities
+818,Universidad Pablo de Olavide *,ESP,Universities
+819,Universidad Nacional del Litoral *,ARG,Universities
+819,Indian Institute of Science,IND,Universities
+819,University General Hospital of Thessaloniki AHEPA,GRC,Health
+819,Atomic Energy Organization of Iran *,IRN,Government
+819,Nuclear Science and Technology Research Institute,IRN,Government
+820,University of Kerala,IND,Universities
+820,International University of Health and Welfare *,JPN,Universities
+820,Cardiff and Vale NHS Trust,GBR,Health
+820,Jember University,IDN,Universities
+820,Bhabha Atomic Research Centre,IND,Government
+821,"Southern Illinois University, Carbondale *",USA,Universities
+821,Wadsworth Center,USA,Health
+821,Battelle Memorial Institute *,USA,Non-Profit
+821,Liaoning University of Traditional Chinese Medicine *,CHN,Universities
+822,An-Najah National University,PSE,Universities
+822,Yokohama National University,JPN,Universities
+822,Harvard Pilgrim Health Care,USA,Health
+822,Shanxi University,CHN,Universities
+823,"Chang Gung Memorial Hospital, Keelung",TWN,Health
+823,Meiji Pharmaceutical University,JPN,Universities
+823,Ardabil University of Medical Sciences,IRN,Universities
+823,Cleveland State University,USA,Universities
+823,"Fondazione IRCCS Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena",ITA,Health
+823,Institut Hospital del Mar d’Investigacions Mediques,ESP,Health
+824,Universidade Federal do Maranhao,BRA,Universities
+824,Democritus University Of Thrace,GRC,Universities
+824,University of Alberta Hospital,CAN,Health
+824,University of Defence,CZE,Universities
+824,Okayama University of Science,JPN,Universities
+824,Universidade do Estado do Rio de Janeiro,BRA,Universities
+824,Princess Nourah bint Abdul Rahman University,SAU,Universities
+824,King Saud bin Abdulaziz University for Health Sciences,SAU,Universities
+825,Turku University Hospital,FIN,Health
+825,University of Medicine and Pharmacy Victor Babes,ROU,Universities
+825,Heilongjiang Bayi Agricultural University,CHN,Universities
+826,Ministry of Environmental Protection,CHN,Government
+826,Complejo Hospitalario Regional Virgen de las Nieves,ESP,Health
+826,Semnan University of Medical Sciences,IRN,Universities
+826,Hospital Universitario Marques de Valdecilla,ESP,Health
+826,Hokkaido University Hospital,JPN,Health
+826,Silesian University of Technology,POL,Universities
+827,Wright State University,USA,Universities
+827,Mercer University,USA,Universities
+827,Henan University of Technology,CHN,Universities
+827,University of Nizwa,OMN,Universities
+827,Universite de Kinshasa,COD,Universities
+827,Okayama University Hospital,JPN,Health
+827,Weifang Medical University,CHN,Universities
+827,Hamadan University of Medical Sciences,IRN,Universities
+827,Centre Hospitalier Universitaire de Caen *,FRA,Health
+828,Tumour Hospital of Harbin Medical University,CHN,Health
+828,Universite de Sousse,TUN,Universities
+828,Universidad de Colima,MEX,Universities
+828,National Institute of Mental Health and Neuro Sciences,IND,Universities
+829,Hanoi University of Science,VNM,Universities
+829,Charles Darwin University *,AUS,Universities
+829,Polish Mothers Memorial Hospital Research Institute,POL,Health
+829,Pavol Jozef Safarik University in Kosice,SVK,Universities
+830,Riphah International University,PAK,Universities
+830,Mahatma Gandhi University,IND,Universities
+830,Flemish Institute for Technological Research,BEL,Government
+830,China University of Geosciences,CHN,Universities
+831,Hospitais da Universidade de Coimbra,PRT,Health
+831,Mahawithayalai Rangsit,THA,Universities
+831,University of Malawi,MWI,Universities
+831,Aja University of Medical Sciences,IRN,Universities
+831,Chang Gung University of Science and Technology,TWN,Universities
+831,University of Cyprus,CYP,Universities
+831,Duksung Womens University,KOR,Universities
+832,Buddhist Tzu Chi General Hospital,TWN,Health
+832,Thammasat University,THA,Universities
+832,Pontificia Universidade Catolica do Rio Grande do Sul,BRA,Universities
+832,International Livestock Research Institute Kenya,KEN,Government
+832,Covenant University,NGA,Universities
+832,Edith Cowan University,AUS,Universities
+832,Universite de Tunis El Manar,TUN,Universities
+832,Providence University,TWN,Universities
+832,"Universidad de los Andes, Colombia *",COL,Universities
+833,Azienda Ospedaliera San Gerardo Monza,ITA,Health
+834,Yeditepe University *,TUR,Universities
+834,Second Affiliated Xinqiao Hospital to Third Military Medical University,CHN,Health
+834,University of Miyazaki *,JPN,Universities
+835,Kobe University *,JPN,Universities
+835,Yamagata University *,JPN,Universities
+836,Jichi Medical University *,JPN,Universities
+836,Universitat de les Illes Balears *,ESP,Universities
+836,Shandong Normal University,CHN,Universities
+836,Zhongshan Hospital Xiamen University,CHN,Health
+836,"Universidad de Leon, Spain *",ESP,Universities
+837,Zhejiang University City College,CHN,Universities
+837,Instituto Nacional de Cardiologia Ignacio Chavez,MEX,Health
+837,Qassim University,SAU,Universities
+837,Forman Christian College University,PAK,Universities
+837,Universidad Autonoma de San Luis Potosi,MEX,Universities
+837,Universidad de Cantabria *,ESP,Universities
+837,"University of Technology, Malaysia",MYS,Universities
+838,Padjadjaran University,IDN,Universities
+838,Maharshi Dayanand University,IND,Universities
+838,"University of Agriculture, Faisalabad",PAK,Universities
+838,Nanyang Normal University,CHN,Universities
+838,University of Malakand,PAK,Universities
+838,"Chang Gung Memorial Hospital, Chiayi",TWN,Health
+839,Chinese Research Academy of Environmental Sciences,CHN,Non-Profit
+839,Centre Hospitalier Universitaire Sainte-Justine,CAN,Health
+840,Alfaisal University,SAU,Universities
+840,Bruyere Research Institute,CAN,Health
+840,Centro de Investigacion Biomedica en Red de Epidemiologia y Salud Publica,ESP,Health
+840,Longhua Hospital Shanghai University of Traditional Chinese Medicine,CHN,Health
+840,"Institute of Urban Environment, Chinese Academy of Sciences",CHN,Government
+840,Kuwait University Health Science Center,KWT,Health
+841,Universite de Monastir,TUN,Universities
+841,Lovely Professional University,IND,Universities
+842,Henry M Jackson Foundation for the Advancement of Military Medicine,USA,Health
+842,University of Kashmir,IND,Universities
+842,University of Tokyo Hospital,JPN,Health
+842,University of Zabol,IRN,Universities
+842,Faculdade Sao Leopoldo Mandic,BRA,Universities
+842,Jazan University,SAU,Universities
+842,Centro Cientifico Tecnologico de Cordoba,ARG,Government
+843,Urmia University of Medical Sciences *,IRN,Universities
+843,Indian Institute of Toxicology Research,IND,Government
+844,Rafsanjan University of Medical Sciences,IRN,Universities
+844,Affiliated Hospital of Nantong University,CHN,Health
+844,Inonu University,TUR,Universities
+844,Zabol University of Medical Sciences,IRN,Universities
+844,The First Affilliated Hospital of Kunming Medical College,CHN,Health
+844,Royal Adelaide Hospital ,AUS,Health
+844,Ondokuz Mayis University *,TUR,Universities
+844,Second Affiliated Hospital of Dalian Medical University ,CHN,Health
+844,London Health Sciences Centre,CAN,Health
+844,Obstetrics and Gynecology Hospital Fudan University,CHN,Health
+845,Seth Gordhandas Sunderdas Medical College and King Edward Memorial Hospital ,IND,Health
+845,Tzu Chi University,TWN,Universities
+845,Universite du Quebec en Montreal,CAN,Universities
+845,Centre de Recherche Bordeaux Population Health,FRA,Government
+845,Ferdowsi University of Mashhad,IRN,Universities
+846,Maria Sklodowska-Curie Memorial Institute of Oncology,POL,Health
+846,Luxembourg Institute of Science and Technology,LUX,Government
+846,Lebanese American University,LBN,Universities
+847,"Jawaharlal Nehru Technological University, Hyderabad",IND,Universities
+847,Prince of Wales Hospital ,AUS,Health
+847,Cape Peninsula University of Technology,ZAF,Universities
+847,Universidad Central de Venezuela,VEN,Universities
+847,"University of Minnesota, Duluth",USA,Universities
+847,Universidad Tecnica de Ambato,ECU,Universities
+848,Universidade Federal de Sao Joao del Rei,BRA,Universities
+848,Central Taiwan University of Science and Technology,TWN,Universities
+848,"Guangzhou Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+848,Shenyang Agricultural University,CHN,Universities
+848,Lorestan University of Medical Sciences,IRN,Universities
+848,Sofia University,BGR,Universities
+849,Fukuoka University *,JPN,Universities
+849,"Islamic Azad University, Science and Research",IRN,Universities
+849,Qazvin University of Medical Sciences,IRN,Universities
+849,University of Nis,SRB,Universities
+849,Tokushima Bunri University,JPN,Universities
+849,Ural Federal University,RUS,Universities
+849,Tongji Hospital,CHN,Health
+850,Razi Vaccine and Serum Research Institute,IRN,Health
+850,Dokuz Eylul University *,TUR,Universities
+850,Horbachevsky Ternopil State Medical University,UKR,Universities
+851,Kuvempu University,IND,Universities
+851,Universidad Nacional Mayor de San Marcos,PER,Universities
+851,"Junia, Grande Ecole d'Ingenieurs *",FRA,Universities
+851,University of Peshawar,PAK,Universities
+852,National Institute of Technology Warangal,IND,Universities
+852,Centro Hospitalar de Sao Joao,PRT,Health
+852,ITMO University,RUS,Universities
+852,Azienda Ospedaliera Universitaria Senese,ITA,Health
+852,Dalian Minzu University,CHN,Universities
+853,University of Maribor,SVN,Universities
+853,Tokai University *,JPN,Universities
+853,"Shenzhen Peoples Hospital, 2nd Clinical Medical College of Jinan University",CHN,Health
+853,University of the Philippines *,PHL,Universities
+853,University of the Philippines Manila,PHL,Universities
+854,Durham VA Medical Center ,USA,Health
+854,"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",CHN,Government
+854,University of Pune,IND,Universities
+854,Babasaheb Bhimrao Ambedkar University,IND,Universities
+854,Sri Venkateswara University,IND,Universities
+854,Semyung University,KOR,Universities
+854,King Khalid University,SAU,Universities
+854,Motol University Hospital,CZE,Health
+854,Universitatsklinikum Rostock,DEU,Health
+855,University of Northern Colorado *,USA,Universities
+855,Mahasarakham University,THA,Universities
+855,Centre Hospitalier Universitaire de Saint-Etienne,FRA,Health
+855,Universidade Estadual da Paraiba,BRA,Universities
+855,Guilin University of Technology,CHN,Universities
+855,Niigata University *,JPN,Universities
+855,Affiliated People's Hospital of Jiangsu University,CHN,Health
+855,Amity University,IND,Universities
+855,University of Nairobi,KEN,Universities
+856,The Queen Elizabeth Hospital,AUS,Health
+856,Bahauddin Zakariya University,PAK,Universities
+856,First Affiliated Hospital of Zhejiang Chinese Medical University,CHN,Health
+856,German University in Cairo,EGY,Universities
+857,Ecole Pratique des Hautes Etudes,FRA,Universities
+857,Pomeranian Medical University,POL,Universities
+857,Institut des Sciences Moleculaires,FRA,Government
+857,Bulgarian Academy of Sciences *,BGR,Government
+857,Universidad de Concepcion *,CHL,Universities
+857,Warsaw University of Technology,POL,Universities
+858,Erciyes University,TUR,Universities
+858,"Universidad del Valle, Colombia *",COL,Universities
+858,Sultan Qaboos University,OMN,Universities
+858,Fayoum University *,EGY,Universities
+858,Southwest Minzu University,CHN,Universities
+858,Chengdu University,CHN,Universities
+858,Universite de Dschang,CMR,Universities
+858,Nelson Mandela Metropolitan University,ZAF,Universities
+858,Central Institute of Medicinal and Aromatic Plants,IND,Government
+859,West China Hospital of Stomatology,CHN,Health
+859,National Taiwan Ocean University,TWN,Universities
+859,Ministry of Health and Medical Education,IRN,Health
+859,"Institute of Soil Science, Chinese Academy of Sciences",CHN,Government
+859,Sheffield Teaching Hospitals NHS Trust,GBR,Health
+859,Beirut Arab University,LBN,Universities
+859,Nnamdi Azikiwe University,NGA,Universities
+860,Hospital Universitario Miguel Servet,ESP,Health
+860,Razi University,IRN,Universities
+860,University of Khartoum *,SDN,Universities
+860,Max Planck Institut fur Herz und Lungenforschung,DEU,Government
+860,Providence Health Care,CAN,Health
+860,Bozok University *,TUR,Universities
+860,Imam Khomeini Hospital Complex,IRN,Health
+860,The Second Hospital of Tianjin,CHN,Health
+861,Aga Khan University *,PAK,Universities
+861,National University of Malaysia Medical Center,MYS,Health
+861,Durban University of Technology,ZAF,Universities
+861,University of Veterinary Medicine and Pharmacy,SVK,Universities
+862,National Institute of Genetic Engineering and Biotechnology,IRN,Government
+862,Gaziosmanpasa University,TUR,Universities
+862,Hainan University,CHN,Universities
+862,Heilongjiang University of Chinese Medicine,CHN,Universities
+862,Dibrugarh University,IND,Universities
+862,Universidade Federal do Amazonas,BRA,Universities
+863,Universidade de Pernambuco,BRA,Universities
+863,Guilin Medical University,CHN,Health
+863,Institute of Himalayan Bioresource Technology,IND,Government
+863,Chia Nan University of Pharmacy and Science,TWN,Universities
+863,Universidad Autonoma de Baja California,MEX,Universities
+863,Bezmialem Vakif University,TUR,Universities
+863,Uludag University,TUR,Universities
+863,Universidade Regional do Cariri,BRA,Universities
+863,Centre Hospitalier Universitaire de Brest,FRA,Health
+863,Institute for Clinical Evaluative Sciences,CAN,Health
+864,Istanbul Technical University,TUR,Universities
+864,Yueyang Hospital,CHN,Health
+864,Universidad de Antofagasta,CHL,Universities
+864,Shizuoka Cancer Center,JPN,Health
+865,Universidad Nacional de Mar del Plata *,ARG,Universities
+865,"Northeastern University, China",CHN,Universities
+865,Gifu University Hospital,JPN,Health
+865,Universidade de Caxias do Sul,BRA,Universities
+865,Shandong University of Traditional Chinese Medicine *,CHN,Universities
+865,Federal University of Technology Akure,NGA,Universities
+865,Kashan University of Medical Sciences and Health Services,IRN,Universities
+865,Centre de Recherche en Epidemiologie et Statistiques,FRA,Government
+866,University of Mazandaran,IRN,Universities
+866,Universitatsklinikum Leipzig,DEU,Health
+866,Mangalore University,IND,Universities
+866,Universidade Federal de Pelotas,BRA,Universities
+866,Charite Campus Virchow Klinikum,DEU,Health
+867,Universite Cadi Ayyad,MAR,Universities
+867,Babes-Bolyai University,ROU,Universities
+867,"Centro de Investigacion Biomedica en Red de Epidemiologia y Salud Publica, Madrid",ESP,Health
+867,Alagappa University,IND,Universities
+867,University of Pardubice,CZE,Universities
+867,Pharmaceutical Product Development LLC,USA,Companies
+867,I K Gujral Punjab Technical University,IND,Universities
+867,Yunnan Minzu University,CHN,Universities
+867,University of Sadat City,EGY,Universities
+867,University Malaysia Terengganu,MYS,Universities
+867,University of the Free State,ZAF,Universities
+868,Hebei University *,CHN,Universities
+868,Maulana Azad Medical College,IND,Health
+868,"Johnson & Johnson, United States",USA,Companies
+868,"University of Technology, Iraq",IRQ,Universities
+868,Damanhour University,EGY,Universities
+868,Gdansk University of Technology,POL,Universities
+868,"Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas, Madrid",ESP,Health
+868,Butler University,USA,Universities
+868,Institute for Clinical and Experimental Medicine,CZE,Health
+869,Ljubljana University Medical Centre,SVN,Health
+869,"University of Kurdistan, Sanandaj",IRN,Universities
+870,Indian Institute of Technology Guwahati,IND,Universities
+870,Universidad Industrial de Santander,COL,Universities
+870,University of Mysore,IND,Universities
+870,Douglas Mental Health University Institute,CAN,Government
+870,Henan Normal University,CHN,Universities
+871,University of Occupational and Environmental Health,JPN,Universities
+871,Universidade Vila Velha,BRA,Universities
+871,St Marianna University School of Medicine *,JPN,Universities
+871,Carleton University,CAN,Universities
+871,Golestan University of Medical Sciences and Health Services,IRN,Universities
+871,Shinshu University *,JPN,Universities
+871,Shimane University *,JPN,Universities
+871,Institute of Organic Chemistry Polish Academy of Sciences,POL,Government
+871,University of Madras,IND,Universities
+871,"University of Medicine, Pharmacy, Science and Technology of Targu Mures",ROU,Universities
+871,Universidade Tecnologica Federal do Parana,BRA,Universities
+871,Universidad Autonoma de Queretaro,MEX,Universities
+871,Yunnan Normal University,CHN,Universities
+871,Universite Jean Monnet *,FRA,Universities
+872,Centre Hospitalier Universitaire de Limoges *,FRA,Health
+872,"Epidemiologie et Analyses en Sante Publique: Risques, Maladies Chroniques, Handicaps",FRA,Government
+872,Tata Institute of Fundamental Research,IND,Universities
+872,Hubei University for Nationalities,CHN,Universities
+872,Universita degli Studi della Tuscia,ITA,Universities
+872,Universitas Sumatera Utara,IDN,Universities
+872,"Vietnam National University, Hanoi",VNM,Universities
+872,Chubu University,JPN,Universities
+872,"Instituto Nacional del Cancer, Brasil",BRA,Government
+872,Universidad de La Rioja *,ESP,Universities
+872,First Affiliated Wuxi People's Hospital,CHN,Health
+873,Taipei City Hospital,TWN,Health
+873,Afyon Kocatepe University *,TUR,Universities
+873,University of Kragujevac,SRB,Universities
+873,Kyushu University Hospital,JPN,Health
+873,First Affiliated Hospital of Guangxi Medical University,CHN,Health
+873,Universitatsklinikum des Saarlandes,DEU,Health
+873,"Instituto Nacional de Cancerologia, Mexico",MEX,Health
+873,Universidad Catolica del Norte,CHL,Universities
+873,"University of the Punjab, Lahore",PAK,Universities
+874,Qingdao Municipal Hospital,CHN,Health
+874,Universidad de Guadalajara,MEX,Universities
+874,Institut National de l'Environnement Industriel et des Risques,FRA,Government
+874,Universidade Federal de Uberlandia,BRA,Universities
+874,Centro de Investigacion Biomedica en Red de Diabetes y Enfermedades Metabolicas Asociadas,ESP,Health
+874,"Jawaharlal Nehru Technological University, Kakinada",IND,Universities
+875,Chengdu Medical College,CHN,Universities
+875,University of Basrah,IRQ,Universities
+875,Benemerita Universidad Autonoma de Puebla *,MEX,Universities
+875,Oxford Brookes University,GBR,Universities
+875,Thapar Institute of Engineering and Technology,IND,Universities
+875,Huzhou University,CHN,Universities
+876,Akita University *,JPN,Universities
+876,Harbin University of Commerce,CHN,Universities
+876,Telethon Kids Institute,AUS,Health
+876,Kyung Hee University Medical Center,KOR,Health
+877,University of Warmia and Mazury,POL,Universities
+877,Juntendo University *,JPN,Universities
+877,Universidad de Sonora,MEX,Universities
+877,Urmia University,IRN,Universities
+877,Heraklion University General Hospital,GRC,Health
+878,Hubei Key Laboratory of Cardiology,CHN,Government
+878,Hospital Universitario Virgen de La Arrixaca,ESP,Health
+878,Dong-Eui University,KOR,Universities
+878,Gaziantep University *,TUR,Universities
+878,Ehime University *,JPN,Universities
+879,The Royal Liverpool and Broadgreen University Hospitals NHS Trust,GBR,Health
+879,King Faisal Specialist Hospital and Research Centre ,SAU,Health
+879,Zhejiang A & F University *,CHN,Universities
+879,Howard University *,USA,Universities
+879,Wuhan Botanical Garden Chinese Academy of Sciences,CHN,Government
+879,Centre Leon-Berard,FRA,Health
+879,Universidade Federal de Juiz de Fora *,BRA,Universities
+879,Gebze Technical University,TUR,Universities
+879,Osaka University of Pharmaceutical Sciences,JPN,Universities
+880,Brighton and Sussex University Hospitals NHS Trust,GBR,Health
+880,National Organization for Drug Control and Research,EGY,Health
+880,Payame Noor University,IRN,Universities
+880,University Hospital Centre Zagreb,HRV,Health
+880,Sunway University,MYS,Universities
+880,"Centro de Investigacion Biomedica en Red Fisiopatologia de la Obesidad y Nutricion, Madrid",ESP,Health
+881,Seoul St. Mary's Hospital,KOR,Health
+881,Second Hospital of Hebei Medical University,CHN,Health
+881,Albany Medical College,USA,Universities
+881,Ahmadu Bello University *,NGA,Universities
+881,University of the Sunshine Coast,AUS,Universities
+881,Chongqing Technology and Business University,CHN,Universities
+881,Bharathidasan University,IND,Universities
+881,University of Agriculture,PAK,Universities
+882,Bharathiar University,IND,Universities
+882,Karadeniz Technical University,TUR,Universities
+882,University of Canberra,AUS,Universities
+882,Hasanuddin University,IDN,Universities
+882,"University of Alabama, Huntsville",USA,Universities
+883,Universite de Corse Pascal Paoli *,FRA,Universities
+883,National Botanical Research Institute,IND,Government
+883,Bushehr University of Medical Sciences,IRN,Universities
+883,University of Agriculture in Krakow,POL,Universities
+883,Heilongjiang University,CHN,Universities
+883,Birla Institute of Technology,IND,Universities
+883,Kastamonu University,TUR,Universities
+884,Queen Elizabeth Hospital Hong Kong,HKG,Health
+884,I.M. Sechenov Institute of Evolutionary Physiology and Biochemistry Russian Academy of Sciences,RUS,Government
+884,Hokkaido University of Health Sciences,JPN,Universities
+884,Institut Pierre Louis d'Epidemiologie et de Sante Publique,FRA,Government
+884,Pakistan Atomic Energy Commission *,PAK,Government
+884,Maria Curie Sklodowska University,POL,Universities
+885,"Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences",CHN,Government
+886,Nestle Switzerland,CHE,Companies
+886,Kohat University of Science and Technology,PAK,Universities
+886,Fujian Medical University Union Hospital,CHN,Health
+886,Brno University of Technology,CZE,Universities
+887,Azabu University,JPN,Universities
+887,"National University of Science and Technology, Islamabad",PAK,Universities
+887,Sri Krishnadevaraya University,IND,Universities
+888,National Hellenic Research Foundation,GRC,Government
+888,Hainan Medical University *,CHN,Universities
+888,Dalian Maritime University,CHN,Universities
+888,Long Island University,USA,Universities
+889,"Indian Institute of Technology, Roorkee",IND,Universities
+889,Toyama Prefectural University,JPN,Universities
+889,University Tunku Abdul Rahman,MYS,Universities
+889,Shanghai Ocean University,CHN,Universities
+889,Centro de Investigacion Cientifica y de Educacion Superior de Ensenada,MEX,Government
+889,Research Institute for Fragrance Materials,USA,Government
+890,Wuhan Polytechnic University,CHN,Universities
+890,Shandong Academy of Medical Sciences *,CHN,Health
+890,Osaka University Hospital,JPN,Health
+890,"Secretaria de Ciencia, Tecnologia e Innovacion Productiva *",ARG,Government
+891,National Institute for Health and Welfare,FIN,Health
+891,Shahroud University of Medical Sciences,IRN,Universities
+891,Zhejiang Cancer Hospital,CHN,Health
+892,Mersin University,TUR,Universities
+892,Beihua University *,CHN,Universities
+892,University of Mumbai,IND,Universities
+893,Hofstra University *,USA,Universities
+893,Azienda Ospedaliera di Verona,ITA,Health
+893,University of Central Punjab,PAK,Universities
+893,Alborz University of Medical Sciences,IRN,Universities
+894,Uzbekistan Academy of Sciences *,UZB,Government
+894,Shanghai Academy of Agricultural Sciences,CHN,Government
+894,Jiwaji University,IND,Universities
+894,University of South Africa,ZAF,Universities
+894,AGH University of Science and Technology,POL,Universities
+894,Universite de Buea,CMR,Universities
+895,N.N. Blokhin Cancer Research Center of the Russian Academy of Medical Sciences,RUS,Health
+895,Universidad Autonoma de Yucatan,MEX,Universities
+895,South Valley University *,EGY,Universities
+895,"King Abdulaziz Medical City, Riyadh",SAU,Health
+895,Jimma University *,ETH,Universities
+895,Medical University of Sofia *,BGR,Universities
+896,National Research Institute for Child Health and Development,JPN,Health
+896,Kaohsiung Veterans General Hospital,TWN,Health
+896,Universidade do Estado do Amazonas,BRA,Universities
+896,Second Affiliated Hospital of Fujian Medical University,CHN,Health
+897,University Hospital of Larissa,GRC,Health
+897,Universitas Negeri Sebelas Maret,IDN,Universities
+897,Albany Medical Center *,USA,Health
+897,Applied Science Private University,JOR,Universities
+897,Empresa Brasileira de Pesquisa Agropecuaria,BRA,Government
+897,University of Life Sciences in Lublin,POL,Universities
+898,Ministry of Health,MYS,Health
+898,National Veterinary Research Institute,POL,Government
+898,University of Hyderabad,IND,Universities
+898,Czech University of Life Sciences Prague,CZE,Universities
+899,Hainan Normal University,CHN,Universities
+899,Qinghai University,CHN,Universities
+899,University of Lucknow,IND,Universities
+899,"Usmanu Danfodiyo University, Sokoto *",NGA,Universities
+899,Daegu University,KOR,Universities
+900,Saitama Medical University *,JPN,Universities
+900,Sri Ramachandra Institute of Higher Education and Research,IND,Universities
+900,"Bayero University, Kano",NGA,Universities
+900,Universidad Central del Ecuador,ECU,Universities
+901,Wannan Medical College *,CHN,Universities
+901,Universidade Federal do Vale do Sao Francisco,BRA,Universities
+901,Neshabur University of Medical Sciences,IRN,Universities
+901,Airlangga university,IDN,Universities
+901,Boise State University,USA,Universities
+901,University of Kirkuk,IRQ,Universities
+901,Mugla University,TUR,Universities
+902,Affiliated Suzhou Hospital,CHN,Health
+902,Rhodes University,ZAF,Universities
+902,Taichung Veterans General Hospital,TWN,Health
+902,Aegean University,GRC,Universities
+902,Corteva,MUL,Companies
+903,Yarmouk University,JOR,Universities
+903,Pirogov Russian National Research Medical University,RUS,Universities
+903,KIIT University,IND,Universities
+903,First Affiliated Hospital of Lanzhou University,CHN,Health
+903,Henan University of Traditional Chinese Medicine *,CHN,Universities
+903,Yijishan Hospital,CHN,Health
+903,Kakatiya University,IND,Universities
+904,Universidade Federal da Grande Dourados,BRA,Universities
+904,BioCubaFarma *,CUB,Government
+904,Amrita University,IND,Universities
+904,Sam Houston State University,USA,Universities
+904,Sanjay Gandhi Postgraduate Institute of Medical Sciences,IND,Universities
+904,Nestle *,MUL,Companies
+904,Showa Pharmaceutical University,JPN,Universities
+904,Women's Hospital School of Medicine Zhejiang University,CHN,Health
+904,Australian Catholic University,AUS,Universities
+904,Universidade Federal Rural de Pernambuco,BRA,Universities
+905,Tohoku University Hospital,JPN,Health
+905,University of Mons,BEL,Universities
+905,Burapha University,THA,Universities
+905,Ritsumeikan University,JPN,Universities
+905,Siriraj Hospital,THA,Health
+905,Acibadem University,TUR,Universities
+906,The Central Hospital of Wuhan,CHN,Health
+906,Guru Jambheshwar University of Science and Technology,IND,Universities
+906,"Indian Institute of Technology, Gandhinagar",IND,Universities
+906,Universidad de Guanajuato,MEX,Universities
+907,Peoples'Friendship University of Russia,RUS,Universities
+907,University of Bialystok,POL,Universities
+908,Sultan Zainal Abidin University,MYS,Universities
+908,University of Guilan,IRN,Universities
+908,Siksha O Anusandhan University,IND,Universities
+908,Colorado School of Public Health,USA,Universities
+908,Bam University of Medical Sciences,IRN,Universities
+908,Pedagogical University of Cracow,POL,Universities
+908,Biruni University,TUR,Universities
+908,Osmania University,IND,Universities
+908,Capital Normal University *,CHN,Universities
+909,University of Ilorin,NGA,Universities
+909,Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo,BRA,Health
+909,Port Said University,EGY,Universities
+910,China Jiliang University,CHN,Universities
+910,Shahid Chamran University,IRN,Universities
+910,MedStar Health *,USA,Health
+911,"Corteva, USA",USA,Companies
+911,University of Yamanashi *,JPN,Universities
+911,Norwegian Institute for Water Research,NOR,Government
+911,Jawaharlal Institute of Postgraduate Medical Education and Research,IND,Universities
+911,Kazan State Medical University,RUS,Universities
+911,SEGi University,MYS,Universities
+911,University of Split,HRV,Universities
+912,Laureate International Universities *,MUL,Universities
+912,Universite de Bejaia,DZA,Universities
+912,Universidade Federal de Ouro Preto,BRA,Universities
+913,Third Hospital of Hebei Medical University,CHN,Health
+913,Children Medical Center Hospital,IRN,Health
+913,Volgograd State Medical University,RUS,Universities
+913,Dicle University *,TUR,Universities
+914,Weill Cornell Medical College in Qatar,QAT,Universities
+914,Moscow Engineering Physics Institute,RUS,Universities
+914,University of Lagos,NGA,Universities
+914,Chonbuk National University Hospital,KOR,Health
+914,Holy Spirit University of Kaslik,LBN,Universities
+914,Shoolini University,IND,Universities
+914,Melaka Manipal Medical College,MYS,Universities
+914,Chongqing Normal University,CHN,Universities
+915,Universidad de la Frontera,CHL,Universities
+915,Konyang University *,KOR,Universities
+915,Clalit Health Services *,ISR,Health
+915,University of South Bohemia,CZE,Universities
+915,Universita degli Studi di Napoli Parthenope,ITA,Universities
+915,Universidad de Valparaiso,CHL,Universities
+915,University of Kalyani,IND,Universities
+915,Fraunhofer Institut fur Toxikologie und Experimentelle Medizin,DEU,Government
+915,London Metropolitan University,GBR,Universities
+915,Liaoning University,CHN,Universities
+915,Universite des Sciences et de la Technologie Houari Boumediene,DZA,Universities
+916,Vels Institute of Science Technology and Advanced Studies,IND,Universities
+917,Universidad El Bosque,COL,Universities
+917,University of Hail,SAU,Universities
+917,Universite de Tunis,TUN,Universities
+917,University of Baghdad,IRQ,Universities
+917,Allahabad University,IND,Universities
+917,Azienda Ospedaliera Universitaria Pisana,ITA,Health
+917,Anna University,IND,Universities
+917,Hanoi Medical University,VNM,Universities
+918,The University of Lahore,PAK,Universities
+918,Jiangsu Provincial Government *,CHN,Government
+918,Ospedale Niguarda,ITA,Health
+919,Dali University,CHN,Universities
+919,Shahid Bahonar University of Kerman,IRN,Universities
+920,Taizhou University,CHN,Universities
+920,University General Hospital,CZE,Health
+920,The Children's Hospital of Chongqing Medical University,CHN,Health
+921,Children's Hospital Affiliated to Soochow University,CHN,Health
+921,IRCCS San Raffaele Pisana,ITA,Health
+921,Sathyabama Institute of Science and Technology,IND,Universities
+921,Universidade Federal de Mato Grosso do Sul,BRA,Universities
+921,Integral University,IND,Universities
+921,Southwest Forestry University,CHN,Universities
+922,West China Second University Hospital,CHN,Health
+922,Fasa University of Medical Sciences,IRN,Universities
+922,Instituto de Investigacion Sanitaria Galicia Sur *,ESP,Health
+922,Instituto Nacional de Saude Dr. Ricardo Jorge,PRT,Health
+922,Hyogo College of Medicine *,JPN,Universities
+923,Centre Hospitalier Universitaire de Rouen,FRA,Health
+923,Chi Mei Medical Center,TWN,Health
+923,Binzhou Medical University Hospital,CHN,Health
+924,Cukurova University,TUR,Universities
+924,"Chengdu Institute of Biology, Chinese Academy of Sciences",CHN,Government
+924,Medical Biology Research Center,IRN,Health
+924,Istituto Nazionale Malattie Infettive Lazzaro Spallanzani IRCCS,ITA,Health
+924,University Mutah,JOR,Universities
+924,National Institute for Environmental Studies,JPN,Government
+924,Shaanxi University of Chinese Medicine,CHN,Universities
+925,Wuhan Institute of Physics and Mathematics Chinese Academy of Sciences,CHN,Government
+925,"Instituto Nacional de Metrologia, Calidad y Tecnologia",BRA,Government
+925,Andhra University,IND,Universities
+926,Northwest Normal University,CHN,Universities
+926,"Indian Institute of Science Education and Research, Bhopal",IND,Government
+926,Birjand University of Medical Sciences *,IRN,Universities
+926,University of Isfahan,IRN,Universities
+926,"Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences",CHN,Government
+926,Universidade Franciscana,BRA,Universities
+927,Hamamatsu University School of Medicine *,JPN,Universities
+927,Koc University,TUR,Universities
+928,Western New England University,USA,Universities
+928,Agricultural University of Hebei,CHN,Universities
+928,Far Eastern Memorial Hospital,TWN,Health
+928,Hospital de Cruces,ESP,Health
+929,"Government College University, Lahore",PAK,Universities
+929,Universidade de Fortaleza,BRA,Universities
+929,Universidad de Investigacion de Tecnologia Experimental Yachay,ECU,Universities
+929,Sun Moon University,KOR,Universities
+929,Gandhi Institute of Technology and Management,IND,Universities
+929,Diponegoro University,IDN,Universities
+930,Korea Research Institute of Standards and Science,KOR,Government
+930,Vancouver Coastal Health,CAN,Health
+930,Chung Yuan Christian University,TWN,Universities
+930,Lady Hardinge Medical College,IND,Health
+930,KL University,IND,Universities
+930,Zahedan University of Medical Sciences,IRN,Universities
+931,Tarim University,CHN,Universities
+931,Brawijaya University,IDN,Universities
+931,Institute of Experimental Medicine of the ASCR,CZE,Government
+931,Southern Ural State University,RUS,Universities
+931,Canakkale Onsekiz Mart Universitesi *,TUR,Universities
+931,Afe Babalola University,NGA,Universities
+932,Yazd University,IRN,Universities
+932,Seoul National University Boramae Hospital,KOR,Health
+932,Ministry of Public Health,THA,Health
+933,Inje University Busan-Paik Hospital,KOR,Health
+933,Mustansiriyah University,IRQ,Universities
+933,Institute of Organic Chemistry with Centre of Phytochemistry Bulgarian Academy of Sciences,BGR,Government
+933,Universidade Estadual de Goias,BRA,Universities
+933,Silla University,KOR,Universities
+933,Dalian Polytechnic University,CHN,Universities
+934,Universite de Limoges *,FRA,Universities
+934,Ilam University of Medical Sciences,IRN,Universities
+934,Ubon Ratchathani University,THA,Universities
+934,Universidad Nacional de San Luis *,ARG,Universities
+934,Near East University,CYP,Universities
+934,Shin Kong Wu Ho-Su Memorial Hospital,TWN,Health
+935,Cheongju University,KOR,Universities
+935,Syiah Kuala University,IDN,Universities
+935,Guilan University of Medical Sciences,IRN,Universities
+935,Karunya Institute of Technology and Sciences,IND,Universities
+936,Gujarat Technological University,IND,Universities
+936,Universidad de Jaen *,ESP,Universities
+936,Maharishi Markandeshwar University *,IND,Universities
+936,Firat University,TUR,Universities
+936,Universidade Tiradentes,BRA,Universities
+937,University of Sri Jayewardenepura,LKA,Universities
+937,University of Pannonia,HUN,Universities
+937,Hamad Medical Corp,QAT,Health
+937,Anhui Normal University,CHN,Universities
+938,Linyi University,CHN,Universities
+938,Andalas University,IDN,Universities
+938,Plekhanov Russian University of Economics,RUS,Universities
+938,Universite Badji Mokhtar - Annaba,DZA,Universities
+938,VSB-Technical University of Ostrava,CZE,Universities
+939,Beaumont Hospital,IRL,Health
+939,Lviv National Medical University Danylo Halycky,UKR,Universities
+939,Universidade do Vale do Itajai,BRA,Universities
+939,Soroka University Medical Center,ISR,Health
+939,Centro Cientifico Tecnologico Bahia Blanca,ARG,Government
+939,Lomonosov State Academy of Fine Chemical Technology,RUS,Universities
+939,Howard University Health Sciences,USA,Health
+939,Jahangirnagar University,BGD,Universities
+940,Hospital Clinico Universitario de Valencia,ESP,Health
+940,Laurentian University,CAN,Universities
+940,Torbat Heydarieh University of Medical Sciences,IRN,Universities
+940,Washington Hospital Center,USA,Health
+940,Kumaraguru College of Technology,IND,Universities
+940,Islamic Azad University of Mashhad,IRN,Universities
+941,Landmark University,NGA,Universities
+941,Shahrekord University,IRN,Universities
+941,Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,MEX,Health
+941,Rambam Health Care Campus,ISR,Health
+941,Ss Cyril and Methodius University of Skopje,MKD,Universities
+942,"Islamic Azad University, Shahrekord Branch",IRN,Universities
+942,Universidad Santiago de Cali,COL,Universities
+942,Universidade Estadual de Feira de Santana,BRA,Universities
+942,Pondicherry University,IND,Universities
+943,Fondazione IRCCS Istituto Neurologico Carlo Besta,ITA,Health
+943,Texas Christian University,USA,Universities
+944,"Shanmugha Arts, Science, Technology and Research Academy",IND,Universities
+944,Trakya University,TUR,Universities
+944,Daffodil International University,BGD,Universities
+944,Illinois State University,USA,Universities
+944,Obafemi Awolowo University,NGA,Universities
+944,University of Benin,NGA,Universities
+945,Carl von Ossietzky Universitat Oldenburg,DEU,Universities
+946,Universidad Nacional del Sur *,ARG,Universities
+947,University Hospitals Leicester NHS Trust,GBR,Health
+947,Comision de Investigaciones Cientificas *,ARG,Government
+947,Kandang Kerbau Women's and Children's Hospital,SGP,Health
+948,Amrita Institute for Medical Science and Research,IND,Health
+948,Bartin University,TUR,Universities
+948,University of Health Sciences,TUR,Universities
+948,Karnatak University,IND,Universities
+948,Duy Tan University,VNM,Universities
+948,University of Peradeniya,LKA,Universities
+949,Universidade Federal do Rio Grande,BRA,Universities
+949,Second Affiliated Hospital of Lanzhou University,CHN,Health
+950,Mulawarman University,IDN,Universities
+950,Shanghai University of Sport,CHN,Universities
+950,Complejo Hospitalario de Especialidades Virgen de Valme,ESP,Health
+950,Hippokration General Hospital,GRC,Health
+951,Southern Illinois University Edwardsville,USA,Universities
+951,"University of Medicine and Pharmacy, Ho Chi Minh City",VNM,Universities
+951,Universidad de Almeria,ESP,Universities
+952,Albaha University,SAU,Universities
+952,Hebei North University,CHN,Universities
+952,National Pingtung University of Science and Technology,TWN,Universities
+953,Kobe University Hospital,JPN,Health
+953,"University of the West Indies, St. Augustine Campus",TTO,Universities
+954,Ajman University of Science and Technology,ARE,Universities
+954,Kyoto University Hospital,JPN,Health
+954,Centre de Recherche en Neurosciences de Lyon,FRA,Government
+954,Isfahan University of Technology,IRN,Universities
+955,Institute of Animal Reproduction and Food Research Polish Academy of Sciences,POL,Government
+955,UCSI University,MYS,Universities
+955,Guangxi University of Chinese Medicine,CHN,Universities
+956,Kazan Scientific Center Russian Academy of Sciences,RUS,Government
+956,Nanjing Botanical Garden Memorial Sun Yat-Sen Jiangsu Province and Chinese Academy of Sciences,CHN,Government
+956,Azienda Ospedaliera di Parma,ITA,Health
+956,Bowling Green State University,USA,Universities
+957,Giresun University,TUR,Universities
+957,Okinawa Institute of Science and Technology Graduate University,JPN,Universities
+957,Ankara Yildirim Beyazit University,TUR,Universities
+958,Al-Furat Al-Awsat Technical University,IRQ,Universities
+958,University of Malaysia Sabah,MYS,Universities
+958,Transilvania University of Brasov,ROU,Universities
+958,Universite Abou Bekr Belkaid Tlemcen,DZA,Universities
+958,Aghia Sophia Children's Hospital,GRC,Health
+958,University of Al-Qadisiyah,IRQ,Universities
+959,AIMST University,MYS,Universities
+959,Wuhan Children's Hospital,CHN,Health
+959,Islamic Azad University - North Tehran Branch,IRN,Universities
+960,Harran University,TUR,Universities
+960,Renmin University of China,CHN,Universities
+961,Tumor Hospital of Guangxi Medical University,CHN,Health
+961,Dongzhimen Hospital,CHN,Health
+961,Universidade Estadual do Norte Fluminense Darcy Ribeiro,BRA,Universities
+961,Shanghai Chest Hospital,CHN,Health
+961,University College of Medical Sciences,IND,Universities
+961,Universidade Ceuma,BRA,Universities
+961,Instituto Nacional de Psiquiatria Ramon de la Fuente,MEX,Health
+962,Yasuj University of Medical Sciences,IRN,Universities
+962,Children's Hospital School of Medicine Zhejiang University,CHN,Health
+962,Inner Mongolia Agricultural University,CHN,Universities
+962,Samara State Medical University,RUS,Universities
+962,Yale New Haven Health System,USA,Health
+963,Institute of Biomedical Chemistry of the Russian Academy of Medical Sciences,RUS,Health
+963,International Hellenic University,GRC,Universities
+963,Sohag University *,EGY,Universities
+963,Minjiang University,CHN,Universities
+963,Assam University,IND,Universities
+963,Nara Institute of Science and Technology,JPN,Universities
+964,Universidade Estadual do Ceara,BRA,Universities
+964,Gonabad University of Medical Sciences,IRN,Universities
+964,Universitatsklinikum Giessen und Marburg GmbH Standort Giessen,DEU,Health
+964,Changchun University of Traditional Chinese Medicine,CHN,Universities
+964,Central Food Technological Research Institute,IND,Government
+965,Daejeon University,KOR,Universities
+965,Gyeongnam National University of Science and Technology,KOR,Universities
+965,Universidade Federal dos Vales do Jequitinhonha e Mucuri,BRA,Universities
+965,Centro de Investigacion en Alimentacion y Desarrollo,MEX,Government
+965,Universidad Tecnica Particular de Loja,ECU,Universities
+966,Wakayama Medical University *,JPN,Universities
+966,University of Surabaya,IDN,Universities
+966,Children's Hospital Fudan University,CHN,Health
+967,A.E. Arbuzov Institute of Organic and Physical Chemistry Russian Academy of Sciences,RUS,Government
+967,Universidad Autonoma del Estado de Hidalgo,MEX,Universities
+967,Spedali Civili di Brescia,ITA,Health
+967,BJC HealthCare,USA,Health
+967,Affiliated Provincial Hospital of Anhui Medical University,CHN,Health
+967,Instituto Nacional de Tecnologia Agropecuaria,ARG,Government
+968,University of Port Harcourt,NGA,Universities
+968,First Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine,CHN,Health
+968,Kochi University *,JPN,Universities
+968,"AgroSup Dijon, Institut National Superieur des Sciences Agronomiques, de l'Alimentation et de l'Environnement *",FRA,Universities
+968,"University of Texas, Tyler",USA,Universities
+969,Kookmin University,KOR,Universities
+969,University of Sulaimani,IRQ,Universities
+969,Acharya Nagarjuna University,IND,Universities
+969,Indian Agricultural Research Institute,IND,Government
+969,University of Namibia,NAM,Universities
+969,Yenepoya University,IND,Universities
+969,Yonsei University Severance Hospital,KOR,Health
+970,Banasthali University,IND,Universities
+970,Sangji University,KOR,Universities
+970,Baotou Medical College *,CHN,Universities
+970,Aichi Cancer Center Research,JPN,Health
+970,Rashtrasant Tukadoji Maharaj Nagpur University,IND,Universities
+970,Siberian State Medical University,RUS,Universities
+971,Universidade Federal de Lavras,BRA,Universities
+971,Universidade Federal de Ciencias da Saude de Porto Alegre,BRA,Universities
+971,University of Gujrat,PAK,Universities
+971,Shanghai First Maternity and Infant Health Hospital,CHN,Health
+971,Guru Tegh Bahadur Hospital,IND,Health
+971,Kafkas University,TUR,Universities
+972,Tadeusz Kosciuszko Cracow University of Technology,POL,Universities
+972,University at Texas Rio Grande Valley,USA,Universities
+972,Al-Farabi Kazakh National University,KAZ,Universities
+972,University of Veterinary and Animal Sciences,PAK,Universities
+972,"Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+972,Sichuan University of Science and Engineering,CHN,Universities
+972,"Lagos State University, Ojo",NGA,Universities
+972,Kurdistan University of Medical Sciences,IRN,Universities
+973,Universite Mohammed Premier,MAR,Universities
+973,Hubei University of Chinese Medicine,CHN,Universities
+973,Universitatsklinikum Dusseldorf,DEU,Health
+974,Universidade Federal de Itajuba,BRA,Universities
+974,Tata Memorial Centre,IND,Government
+974,Campbell University,USA,Universities
+974,University of Cape Coast,GHA,Universities
+975,Doshisha University,JPN,Universities
+975,Hospital Clinico Universitario Lozano Blesa,ESP,Health
+975,Tianjin University of Commerce China,CHN,Universities
+976,Universidad Autonoma de Coahuila *,MEX,Universities
+976,Universitas Muhammadiyah Surakarta,IDN,Universities
+976,University of Rajasthan,IND,Universities
+977,Korea Institute of Radiological and Medical Sciences,KOR,Health
+977,British University in Egypt,EGY,Universities
+977,Ospedale infantile Burlo Garofolo IRCCS,ITA,Health
+978,Institute of Cardiology,POL,Health
+978,Benha University *,EGY,Universities
+979,Agricultural Research Center Egypt *,EGY,Government
+979,"Institute of Tibetan Plateau Research, Chinese Academy of Sciences",CHN,Government
+979,Baskent University *,TUR,Universities
+979,Punjab Agricultural University,IND,Universities
+980,Periyar University,IND,Universities
+980,Hospital Puerta del Mar,ESP,Health
+980,Szent Istvan University,HUN,Universities
+981,Universidad de La Habana,CUB,Universities
+981,Universidade Luterana do Brasil,BRA,Universities
+981,Universite Saint-Joseph,LBN,Universities
+981,Qom University of Medical Sciences,IRN,Universities
+981,Aswan University *,EGY,Universities
+981,Yanan University,CHN,Universities
+982,Hospital General Universitario de Alicante,ESP,Health
+982,Rajshahi University,BGD,Universities
+983,Drake University,USA,Universities
+983,Salahaddin University-Erbil,IRQ,Universities
+983,Visva-Bharati University,IND,Universities
+983,Sahmyook University,KOR,Universities
+984,Belgorod State University,RUS,Universities
+984,National Institute of Environmental Research,KOR,Government
+984,Udayana University,IDN,Universities
+984,Universidad Michoacana de San Nicolas de Hidalgo,MEX,Universities
+984,Coventry University,GBR,Universities
+984,Universite Felix Houphouet-Boigny,CIV,Universities
+984,National Institute for Research and Development of Isotopic and Molecular Technologies,ROU,Government
+985,"University of Malaysia, Sarawak",MYS,Universities
+985,Southern Federal University,RUS,Universities
+986,Hitit University,TUR,Universities
+986,Beaumont Health System,USA,Health
+986,Uskudar University,TUR,Universities
+986,National University of Pharmacy,UKR,Universities
+987,Arak University of Medical Sciences *,IRN,Universities
+987,Islamic University of Indonesia,IDN,Universities
+987,General Hospital of Athens Laiko,GRC,Health
+988,Mohammad Ali Jinnah University,PAK,Universities
+988,Eastern Mediterranean University,CYP,Universities
+989,Agricultural Research Education and Externsion Organization,IRN,Government
+989,Ekiti State University,NGA,Universities
+989,Zonguldak Bulent Ecevit University,TUR,Universities
+990,Universidad Veracruzana,MEX,Universities
+990,Henryk Niewodniczanski Institute of Nuclear Physics Polish Academy of Sciences,POL,Government
+990,Universite Constantine 1,DZA,Universities
+990,University of Kufa,IRQ,Universities
+990,Krishna University,IND,Universities
+990,Istanbul Medeniyet University,TUR,Universities
+991,Inner Mongolia University for Nationalities,CHN,Universities
+991,University of Sarajevo,BIH,Universities
+992,Al-Ahliyya Amman University,JOR,Universities
+992,Beijing Union University,CHN,Universities
+993,Olabisi Onabanjo University,NGA,Universities
+993,Gujarat University,IND,Universities
+994,Slovak Medical University in Bratislava,SVK,Universities
+995,Tezpur University,IND,Universities
+995,Vidyasagar University,IND,Universities
+995,Kyorin University *,JPN,Universities
+996,University of Mohaghegh Ardabili,IRN,Universities
+996,Manonmaniam Sundaranar University,IND,Universities
+996,Islamia College Peshawar,PAK,Universities
+996,University of Kuala Lumpur,MYS,Universities
+997,Universidade de Passo Fundo,BRA,Universities
+997,Shaqra University,SAU,Universities
+997,Instituto Multidisciplinario de Biologia Vegetal,ARG,Government
+998,Tribhuvan University *,NPL,Universities
+998,South Asian University,IND,Universities
+998,Rakuno Gakuen University,JPN,Universities
+998,Cathay General Hospital,TWN,Health
+999,Kyonggi University,KOR,Universities
+999,University of Calabar,NGA,Universities
+999,Sultan Idris University of Education,MYS,Universities
+1000,Hashemite University,JOR,Universities
+1000,Faculdade de Medicina do ABC,BRA,Universities
+1000,Fuwai Heart Hospital and Cardiovascular Institute,CHN,Health
+1000,University of Mosul,IRQ,Universities
+1000,Fourth Hospital of Hebei Medical University,CHN,Health
+1000,Delta State University,NGA,Universities
+1000,Hanoi University of Science and Technology,VNM,Universities
+1001,Al-Qasim Green University,IRQ,Universities
+1001,Yildiz Technical University,TUR,Universities
+1002,Instituto Potosino de Investigacion Cientifica y Tecnologica,MEX,Government
+1002,Majmaah University,SAU,Universities
+1002,Bangladesh Agricultural University,BGD,Universities
+1002,University of Jeddah,SAU,Universities
+1003,Universite Ferhat Abbas de Setif,DZA,Universities
+1003,Al-Nahrain University,IRQ,Universities
+1003,Changwon National University,KOR,Universities
+1003,Universitas Ahmad Dahlan Yogyakarta,IDN,Universities
+1004,Pontificia Universidade Catolica do Parana,BRA,Universities
+1004,Afiliated Taizhou Hospital of Wenzhou Medical University,CHN,Health
+1005,Institute of Cytology and Genetics Russian Academy of Sciences,RUS,Government
+1005,Al-Balqa Applied University,JOR,Universities
+1005,University of the Philippines Diliman,PHL,Universities
+1006,Tikrit University,IRQ,Universities
+1006,Universidade Feevale,BRA,Universities
+1006,Catholic Kwandong University,KOR,Universities
+1006,EMMES Corp,USA,Companies
+1007,Universite Mohammed-V,MAR,Universities
+1007,Russian Research Centre Kurchatov Institute,RUS,Government
+1007,National Taipei College of Nursing,TWN,Universities
+1007,Tokyo University of Agriculture,JPN,Universities
+1008,Guizhou Normal University,CHN,Universities
+1009,Ebonyi State University,NGA,Universities
+1009,Gomal University,PAK,Universities
+1010,Minzu University of China,CHN,Universities
+1011,King Mongkut's Institute of Technology Ladkrabang,THA,Universities
+1011,Lahore College for Women University,PAK,Universities
+1012,Jiangsu Teachers University of Technology,CHN,Universities
+1013,Pamukkale University,TUR,Universities
+1013,Hospital General de Elche,ESP,Health
+1014,Dow University of Health Sciences,PAK,Universities
+1014,"Federal Research Center of Nutrition, Biotechnology and Food Safety",RUS,Government
+1015,University of Banja Luka,BIH,Universities
+1015,Ministry of Health,TUR,Health
+1016,Kanazawa Medical University *,JPN,Universities
+1016,Chinese Academy of Inspection and Quarantine,CHN,Government
+1016,Damascus University,SYR,Universities
+1016,Universidad de Cartagena,COL,Universities
+1017,Mater Misericordiae University Hospital,IRL,Health
+1017,Suan Sunandha Rajabhat University,THA,Universities
+1017,"Islamic Azad University, Tabriz",IRN,Universities
+1017,Universite Moulay Ismail,MAR,Universities
+1017,Tomsk National Research Medical Center of the Russian Academy of Sciences,RUS,Health
+1018,Centro Cientifico Tecnologico San Luis,ARG,Government
+1019,Central South University of Forestry and Technology,CHN,Universities
+1019,Sefako Makgatho Health Sciences University,ZAF,Universities
+1019,Maragheh University of Medical Sciences,IRN,Universities
+1020,Vinh University,VNM,Universities
+1021,Huaihai Institute of Technology,CHN,Universities
+1021,Gauhati University,IND,Universities
+1021,First Teaching Hospital of T.J.U.T.C.M,CHN,Health
+1022,Almazov National Medical Research Centre,RUS,Health
+1023,National Academy of Sciences of Armenia *,ARM,Government
+1024,N.M. Emanuel Institute of Biochemical Physics Russian Academy of Sciences,RUS,Government
+1025,BS Abdur Rahman Crescent Institute of Science and Technology,IND,Universities
+1026,Homi Bhabha National Institute,IND,Universities
+1026,Necmettin Erbakan University,TUR,Universities
+1026,Onze Lieve Vrouwe Hospital,NLD,Health
+1026,Universidade do Estado de Santa Catarina,BRA,Universities
+1027,Military Medical Academy,SRB,Health
+1028,Institute of Biodiversity and Ecosystems Research Bulgarian Academy of Sciences,BGR,Government
+1028,Escuela Superior Politecnica de Chimborazo,ECU,Universities
+1029,Hormozgan University of Medical Sciences,IRN,Universities
+1030,Kalasalingam Academy of Research and Education,IND,Universities
+1031,Clinical Center of Serbia,SRB,Health
+1031,Khyber Medical College *,PAK,Universities
+1031,Kaunas University of Technology ,LTU,Universities
+1031,Universitas Muslim Indonesia Makassar,IDN,Universities
+1032,Thiruvalluvar University,IND,Universities
+1033,Universidad Autonoma de Sinaloa,MEX,Universities
+1034,"Universidad Continental, Peru",PER,Universities
+1034,GLA University,IND,Universities
+1035,Kumaun University,IND,Universities
+1035,Southwest University of Science and Technology,CHN,Universities
+1036,University of Karbala,IRQ,Universities
+1037,University of Sindh,PAK,Universities
+1038,University of Anbar,IRQ,Universities
+1039,Universidad del Zulia,VEN,Universities
+1039,"Islamic Azad University, Karaj",IRN,Universities
+1040,Can Tho University,VNM,Universities
+1041,University of Thi-Qar,IRQ,Universities
+1042,Universidad de Guayaquil,ECU,Universities
+1042,Diyala University,IRQ,Universities
+1043,"Universidad Simon Bolivar, Barranquilla",COL,Universities
+1044,Habib Bourguiba Hopital,TUN,Health
+1045,Qiqihar University,CHN,Universities
+1046,University of Wasit,IRQ,Universities
+1047,Voronezh State University,RUS,Universities
+1048,Management and Science University,MYS,Universities
+1049,Chinese People's Police University,CHN,Universities
+1050,Mepco Schlenk Engineering College,IND,Universities
+1050,Gansu University of Chinese Medicine,CHN,Universities
+1051,"Federal Urdu University of Arts, Science and Technology",PAK,Universities
+1052,Symbiosis International University,IND,Universities
+1053,Kursk State Medical University,RUS,Universities
+1054,University of West Attica,GRC,Universities
+1055,Thu Dau Mot University,VNM,Universities
+1056,Qujing Normal University,CHN,Universities
+1057,Universidad de Cuenca,ECU,Universities
+1058,Universidad Catolica de Cuenca,ECU,Universities
+1059,Al-Muthanna University,IRQ,Universities
+1060,Middle Technical University,IRQ,Universities
+1061,Northern Technical University,IRQ,Universities
+1062,Asia Pacific University of Technology and Innovation,MYS,Universities

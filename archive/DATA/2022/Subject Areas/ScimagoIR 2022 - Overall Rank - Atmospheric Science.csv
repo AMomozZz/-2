@@ -1,0 +1,957 @@
+Global Rank,Institution,Country,Sector
+1,Chinese Academy of Sciences *,CHN,Government
+2,National Aeronautics and Space Administration *,USA,Government
+3,National Oceanic and Atmospheric Administration,USA,Government
+4,Centre National de la Recherche Scientifique *,FRA,Government
+5,Helmholtz Gemeinschaft *,DEU,Government
+6,Ministry of Education of the People's Republic of China,CHN,Government
+7,University of Chinese Academy of Sciences,CHN,Universities
+8,"Institute of Atmospheric Physics, Chinese Academy of Sciences",CHN,Government
+9,Nanjing University of Information Science and Technology,CHN,Universities
+10,Harvard University *,USA,Universities
+11,Tsinghua University *,CHN,Universities
+12,"University of Colorado, Boulder *",USA,Universities
+13,National Center for Atmospheric Research,USA,Government
+14,Xidian University,CHN,Universities
+15,Massachusetts Institute of Technology *,USA,Universities
+16,State Grid Corporation of China *,CHN,Companies
+17,China Meteorological Administration,CHN,Government
+18,NASA Goddard Space Flight Center,USA,Government
+19,Pennsylvania State University *,USA,Universities
+20,Beijing Normal University *,CHN,Universities
+21,Max Planck Gesellschaft *,DEU,Government
+22,Wuhan University *,CHN,Universities
+23,California Institute of Technology *,USA,Universities
+24,Agenzia Spaziale Italiana,ITA,Government
+25,University of Washington *,USA,Universities
+26,Peking University *,CHN,Universities
+27,BeiHang University *,CHN,Universities
+28,Jet Propulsion Laboratory,USA,Government
+29,European Centre for Medium-Range Weather Forecasts,GBR,Government
+30,"Colorado State University, Fort Collins *",USA,Universities
+31,Columbia University *,USA,Universities
+32,Met Office,GBR,Government
+33,Leibniz Gemeinschaft *,DEU,Government
+34,Environment Canada,CAN,Government
+35,"Southeast University, Nanjing *",CHN,Universities
+36,Deutsches Zentrum fur Luft- und Raumfahrt,DEU,Government
+37,European Commission *,MUL,Government
+37,Swiss Federal Institute of Technology,CHE,Universities
+38,"University of California, Berkeley *",USA,Universities
+39,The University of Reading,GBR,Universities
+40,University of Electronic Science and Technology of China,CHN,Universities
+41,Stanford University *,USA,Universities
+42,University of Oxford,GBR,Universities
+43,Russian Academy of Sciences *,RUS,Government
+44,Sorbonne Universite *,FRA,Universities
+45,United States Department of Agriculture,USA,Government
+46,China Aerospace Science and Technology Corp *,CHN,Government
+47,National Institute of Standards and Technology *,USA,Government
+48,Chinese Academy of Meteorological Sciences,CHN,Government
+48,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+49,"University of Michigan, Ann Arbor *",USA,Universities
+50,"University of California, Davis *",USA,Universities
+51,Consiglio Nazionale delle Ricerche *,ITA,Government
+52,"University of California, San Diego *",USA,Universities
+53,Institut Pierre Simon Laplace,FRA,Government
+54,Princeton University,USA,Universities
+55,US Environmental Protection Agency,USA,Government
+55,University of Helsinki,FIN,Universities
+56,Institut de Recherche pour le Developpement Paris *,FRA,Government
+57,"University of California, Los Angeles *",USA,Universities
+57,Karlsruher Institut fur Technologie,DEU,Universities
+58,United Nations *,MUL,Non-Profit
+58,Chengdu University of Technology,CHN,Universities
+59,Max Planck Institut fur Chemie,DEU,Government
+60,Johns Hopkins University *,USA,Universities
+61,Universidad Nacional Autonoma de Mexico,MEX,Universities
+62,Finnish Meteorological Institute,FIN,Government
+62,Northwestern Polytechnical University,CHN,Universities
+63,University of Leeds,GBR,Universities
+64,Nanjing University *,CHN,Universities
+65,Carnegie Mellon University *,USA,Universities
+66,Royal Netherlands Meteorological Institute,NLD,Government
+67,Universite de Versailles Saint Quentin en Yvelines *,FRA,Universities
+68,Swiss Federal Laboratories for Materials Science and Technology,CHE,Government
+69,European Commission - Joint Research Centre,MUL,Government
+69,Collaborative Innovation Center of Geospatial Technology,CHN,Government
+70,"University of Maryland, College Park *",USA,Universities
+71,Sun Yat-Sen University *,CHN,Universities
+72,Capital Normal University *,CHN,Universities
+72,"University of Wisconsin, Madison *",USA,Universities
+73,Cornell University *,USA,Universities
+74,Hong Kong Polytechnic University,HKG,Universities
+75,Georgia Institute of Technology *,USA,Universities
+76,Shanghai Jiao Tong University *,CHN,Universities
+77,China University of Mining and Technology,CHN,Universities
+78,United States Geological Survey,USA,Government
+79,University of Cambridge *,GBR,Universities
+79,"University of California, Irvine *",USA,Universities
+80,State Key Joint Laboratory of Environmental Simulation and Pollution Control,CHN,Government
+81,The University of Edinburgh *,GBR,Universities
+82,University of Oklahoma *,USA,Universities
+83,University of Toronto,CAN,Universities
+84,University of Illinois at Urbana-Champaign *,USA,Universities
+85,Purdue University,USA,Universities
+86,International Institute for Applied Systems Analysis,AUT,Government
+87,Wageningen University and Research Centre *,NLD,Universities
+88,Forschungszentrum Julich in der Helmholtz Gemeinschaft,DEU,Government
+89,"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",CHN,Government
+90,"Institute of Urban Environment, Chinese Academy of Sciences",CHN,Government
+91,Commissariat a l’Energie Atomique et aux Energies Alternatives *,FRA,Government
+92,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+93,Leibniz Institut fur Tropospharenforschung,DEU,Government
+94,National University of Defense Technology,CHN,Universities
+95,Utrecht University *,NLD,Universities
+96,Lawrence Berkeley National Laboratory *,USA,Government
+97,Duke University *,USA,Universities
+98,University College London *,GBR,Universities
+98,Pacific Northwest National Laboratory,USA,Government
+99,China University of Geosciences,CHN,Universities
+100,"Texas A&M University, College Station *",USA,Universities
+101,University of Arizona *,USA,Universities
+102,Smithsonian Institution *,USA,Government
+103,University of New South Wales,AUS,Universities
+104,Chang'an University ,CHN,Universities
+105,Royal Holloway - University of London,GBR,Universities
+106,Guangzhou University,CHN,Universities
+107,State Key Laboratory of Remote Sensing Science,CHN,Government
+108,Yale University *,USA,Universities
+109,The University of British Columbia,CAN,Universities
+110,University of Calgary,CAN,Universities
+110,Meteo-France *,FRA,Government
+111,Fudan University *,CHN,Universities
+111,"Science System and Applications, Inc",USA,Companies
+112,CGIAR Consortium of International Agricultural Research *,MUL,Non-Profit
+113,Netherlands Environmental Assessment Agency,NLD,Government
+113,"University of Texas, Austin",USA,Universities
+114,"University of Maryland, Baltimore",USA,Universities
+115,University of Southern California *,USA,Universities
+115,Laboratoire des Sciences du Climat et l'Environnement,FRA,Government
+116,Iowa State University,USA,Universities
+117,Hohai University,CHN,Universities
+118,European Space Agency *,MUL,Government
+119,University of Miami *,USA,Universities
+120,North Carolina State University,USA,Universities
+121,Centre National d'Etudes Spatiales *,FRA,Government
+122,University of Tehran,IRN,Universities
+123,Paul Scherrer Institute,CHE,Government
+124,Institut de Recherches sur la Catalyse et l'Environnement de Lyon,FRA,Government
+124,Institute of Remote Sensing and Digital Earth,CHN,Government
+125,University of Nottingham *,GBR,Universities
+125,NASA Langley Research Center,USA,Government
+126,University of Exeter,GBR,Universities
+127,International Maize and Wheat Improvement Center,MUL,Non-Profit
+127,Universitat Politecnica de Valencia *,ESP,Universities
+127,Universitat Bern,CHE,Universities
+127,Alfred Wegener Institut fur Polar und Meeresforschung,DEU,Government
+128,"Institute of Tibetan Plateau Research, Chinese Academy of Sciences",CHN,Government
+129,"Ohio State University, Columbus *",USA,Universities
+129,Arizona State University,USA,Universities
+130,Seoul National University *,KOR,Universities
+131,Delft University of Technology,NLD,Universities
+132,Universities Space Research Association,USA,Non-Profit
+133,Agricultural Research Education and Extension Organization *,IRN,Government
+134,The Chinese University of Hong Kong *,HKG,Universities
+135,"University of North Carolina, Chapel Hill *",USA,Universities
+136,Institucio Catalana de Recerca i Estudis Avancats,ESP,Government
+137,University of York,GBR,Universities
+138,Potsdam Institut fur Klimafolgenforschung,DEU,Government
+138,Zhejiang University *,CHN,Universities
+139,University of Tokyo *,JPN,Universities
+139,Technische Universitat Munchen *,DEU,Universities
+139,Huazhong University of Science and Technology *,CHN,Universities
+139,Tongji University *,CHN,Universities
+140,Dalian Maritime University,CHN,Universities
+141,Beijing Institute of Technology,CHN,Universities
+141,National Renewable Energy Laboratory,USA,Government
+141,University of Crete,GRC,Universities
+142,University of Florida *,USA,Universities
+143,"University of Technology, Malaysia",MYS,Universities
+144,Universitat Politecnica de Catalunya *,ESP,Universities
+145,University of Chicago *,USA,Universities
+146,University of Iowa *,USA,Universities
+147,Max Planck Institut fur Biogeochemie,DEU,Government
+147,"University of Massachusetts, Amherst",USA,Universities
+148,Lunds University,SWE,Universities
+148,Michigan State University,USA,Universities
+149,Universidade de Sao Paulo *,BRA,Universities
+149,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+150,Beijing University of Technology,CHN,Universities
+150,Deutscher Wetterdienst,DEU,Government
+151,South China University of Technology,CHN,Universities
+151,Oregon State University,USA,Universities
+152,Guizhou University,CHN,Universities
+152,Universitat Heidelberg,DEU,Universities
+153,London School of Economics and Political Science,GBR,Universities
+154,National University of Singapore *,SGP,Universities
+155,Natural Environment Research Council *,GBR,Government
+155,The University of Manchester,GBR,Universities
+155,Universitat Bremen,DEU,Universities
+156,University of Bergen,NOR,Universities
+157,U.S. Department of Energy *,USA,Government
+157,Ecole Polytechnique Federale de Lausanne,CHE,Universities
+157,University of Glasgow *,GBR,Universities
+158,International Centre for Integrated Mountain Development Nepal,NPL,Government
+159,University of New Hampshire,USA,Universities
+160,Clarkson University,USA,Universities
+161,Osaka University *,JPN,Universities
+162,University of Virginia *,USA,Universities
+162,Aalto University,FIN,Universities
+163,Imperial College London,GBR,Universities
+164,Institute of Oceanology Polish Academy of Sciences,POL,Government
+165,Universite Cote d’Azur *,FRA,Universities
+165,University College Cork *,IRL,Universities
+166,Kansas State University,USA,Universities
+167,Stockholm University,SWE,Universities
+168,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+169,Virginia Polytechnic Institute and State University,USA,Universities
+169,Centre d'Etudes Spatiales de la Biosphere,FRA,Government
+169,Shandong University *,CHN,Universities
+170,"State University of New York, Albany",USA,Universities
+171,Xi'an University of Science and Technology,CHN,Universities
+172,Stockholm Environment Institute,SWE,Government
+172,China Agricultural University,CHN,Universities
+173,Jinan University *,CHN,Universities
+173,University of Melbourne *,AUS,Universities
+173,Max Planck Institut fur Meteorologie,DEU,Government
+174,National Observatory of Athens,GRC,Government
+174,College of William and Mary,USA,Universities
+175,"Rutgers, The State University of New Jersey",USA,Universities
+176,Lanzhou University *,CHN,Universities
+176,Harbin Institute of Technology,CHN,Universities
+177,"University of Maryland, Baltimore County",USA,Universities
+178,Lancaster University,GBR,Universities
+179,"University of California, Santa Barbara",USA,Universities
+179,Tianjin University *,CHN,Universities
+180,NASA Goddard Institute for Space Studies,USA,Government
+180,Xiamen University *,CHN,Universities
+181,Fuzhou University,CHN,Universities
+182,Beijing University of Chemical Technology,CHN,Universities
+182,Nanyang Technological University *,SGP,Universities
+183,Polish Academy of Sciences *,POL,Government
+183,RIKEN-Institute of Physical and Chemical Research,JPN,Government
+183,Ocean University of China,CHN,Universities
+184,Universita degli Studi di Firenze,ITA,Universities
+184,"Institute of Earth Environment, Chinese Academy of Science",CHN,Government
+185,Indiana University-Bloomington,USA,Universities
+185,Catholic University of Louvain,BEL,Universities
+186,Japan Agency for Marine-Earth Science and Technology,JPN,Government
+187,Universitat Basel,CHE,Universities
+188,"University of Montana, Missoula",USA,Universities
+189,Universitat Potsdam,DEU,Universities
+190,University of Bristol,GBR,Universities
+191,University of Birmingham,GBR,Universities
+192,Universitat Innsbruck *,AUT,Universities
+192,Kyoto University *,JPN,Universities
+193,Xi'an Jiaotong University *,CHN,Universities
+193,Universitat Wien,AUT,Universities
+194,Swedish Meteorological and Hydrological Institute,SWE,Government
+195,"Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences",CHN,Government
+196,McGill University,CAN,Universities
+196,Aarhus University *,DNK,Universities
+197,Royal Melbourne Institute of Technology *,AUS,Universities
+197,National Institute for Environmental Studies,JPN,Government
+198,Institut Francais de Recherche pour l'Exploitation de la Mer *,FRA,Government
+199,University of Novi Sad,SRB,Universities
+199,Hankuk University of Foreign Studies,KOR,Universities
+199,Universitat Hamburg *,DEU,Universities
+200,Norwegian Institute for Air Research,NOR,Government
+201,George Mason University,USA,Universities
+202,"Laboratoire Atmospheres, Milieux, Observations Spatiales",FRA,Government
+203,Cardiff University,GBR,Universities
+203,"Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+203,"University of Hawaii, Manoa *",USA,Universities
+204,Dalian University of Technology,CHN,Universities
+205,University of Science and Technology of China,CHN,Universities
+205,Ghent University,BEL,Universities
+206,Geoforschungszentrum Potsdam,DEU,Government
+206,Ludwig-Maximilians Universitat Munchen *,DEU,Universities
+207,Xi'an University of Technology,CHN,Universities
+208,University of Tartu,EST,Universities
+208,Centre for Ecology and Hydrology,GBR,Government
+209,Bureau of Meteorology *,AUS,Government
+210,Osterreichische Akademie der Wissenschaften *,AUT,Government
+211,Japan Meteorological Agency,JPN,Government
+212,Ton Duc Thang University,VNM,Universities
+212,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+213,Universitat Autonoma de Barcelona *,ESP,Universities
+214,University of Utah *,USA,Universities
+214,Istituto di Scienze dell'Atmosfera e del Clima,ITA,Government
+215,Brookhaven National Laboratory *,USA,Government
+215,Universidad Complutense de Madrid *,ESP,Universities
+215,University of Waterloo,CAN,Universities
+215,"University of Nebraska, Lincoln",USA,Universities
+216,Jilin University *,CHN,Universities
+217,University of Alberta,CAN,Universities
+217,Universidade Federal do Rio Grande do Sul,BRA,Universities
+217,University of Saskatchewan,CAN,Universities
+218,Bjerknes Centre for Climate Research,NOR,Government
+218,Brown University,USA,Universities
+219,Washington University in Saint Louis *,USA,Universities
+219,"University of Minnesota, Twin Cities *",USA,Universities
+220,Aristotle University of Thessaloniki,GRC,Universities
+220,New York University *,USA,Universities
+221,Universitat de Barcelona *,ESP,Universities
+221,Universite Grenoble-Alpes *,FRA,Universities
+221,Woods Hole Oceanographic Institution,USA,Non-Profit
+222,Instituto Pirenaico de Ecologia ,ESP,Government
+222,University of Groningen *,NLD,Universities
+223,Meteorological Research Institute,JPN,Government
+223,Boston University *,USA,Universities
+223,Universite de Paris *,FRA,Universities
+224,Museum National d'Histoire Naturelle *,FRA,Government
+224,Utah State University *,USA,Universities
+225,Universite de Montreal,CAN,Universities
+225,Universitat Leipzig *,DEU,Universities
+226,Hokkaido University *,JPN,Universities
+227,Korea University of Science and Technology,KOR,Universities
+228,Indiana University-Purdue University Indianapolis,USA,Universities
+229,Trinity College Dublin *,IRL,Universities
+230,City University of Hong Kong *,HKG,Universities
+230,University of Twente,NLD,Universities
+231,Universite Paris-Est Creteil *,FRA,Universities
+231,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+232,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+232,The University of Queensland *,AUS,Universities
+233,Zhengzhou University *,CHN,Universities
+234,Nanjing Normal University,CHN,Universities
+234,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+234,Oak Ridge National Laboratory,USA,Government
+235,University of Leicester,GBR,Universities
+236,Norwegian Polar Institute,NOR,Government
+236,Universite PSL *,FRA,Universities
+237,Laboratoire Interuniversitaire des Systemes Atmospheriques,FRA,Government
+238,Chalmers University of Technology *,SWE,Universities
+238,Politecnico di Torino *,ITA,Universities
+239,Foundation for Research and Technology Hellas *,GRC,Government
+240,Nankai University *,CHN,Universities
+240,University of Copenhagen,DNK,Universities
+240,Universidade de Lisboa,PRT,Universities
+240,"University of Technology, Sydney",AUS,Universities
+241,Ulsan National Institute of Science and Technology *,KOR,Universities
+241,University of Gothenburg,SWE,Universities
+241,Florida State University *,USA,Universities
+241,Universita degli Studi di Napoli Federico II,ITA,Universities
+241,Humboldt-Universitat zu Berlin,DEU,Universities
+241,Slovenian Academy of Sciences and Arts *,SVN,Government
+242,Universita degli Studi di Padova,ITA,Universities
+242,University of East Anglia *,GBR,Universities
+243,Universidad de Chile *,CHL,Universities
+244,Australian National University,AUS,Universities
+244,Universita degli Studi di Roma La Sapienza,ITA,Universities
+245,University of Surrey,GBR,Universities
+245,US Naval Research Laboratory,USA,Government
+245,Swedish Institute of Space Physics,SWE,Government
+246,University of Rochester *,USA,Universities
+246,McMaster University,CAN,Universities
+247,Eberhard-Karls-Universitat Tubingen,DEU,Universities
+248,University of Rochester Medical Center,USA,Health
+248,Institut fur Weltraumforschung Osterreichische Akademie der Wissenschaften,AUT,Government
+249,Karl Franzens Universitat Graz *,AUT,Universities
+249,"State University of New York, Buffalo",USA,Universities
+249,Mississippi State University,USA,Universities
+249,University of Wollongong *,AUS,Universities
+250,University of Oslo,NOR,Universities
+250,"Guangzhou Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+250,Instituto Nacional de Pesquisas Espaciais,BRA,Government
+251,Johannes Gutenberg-Universitat Mainz *,DEU,Universities
+252,Yunnan University,CHN,Universities
+252,National Institute of Polar Research,JPN,Government
+252,University of Patras,GRC,Universities
+253,Australian Research Council *,AUS,Government
+253,Barcelona Supercomputing Center,ESP,Government
+254,Laboratoire d'Oceanographie Physique et Spatiale,FRA,Government
+254,North China Electric Power University,CHN,Universities
+254,University of Southampton,GBR,Universities
+254,Catholic University of Leuven,BEL,Universities
+255,"Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",CHN,Government
+255,Universite de Toulouse,FRA,Universities
+256,Vrije Universiteit Amsterdam *,NLD,Universities
+256,Universidade Federal Rural do Semi-Arido,BRA,Universities
+256,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+257,Universidad de Cantabria *,ESP,Universities
+258,University of Delaware,USA,Universities
+258,Central South University *,CHN,Universities
+258,Shanghai Astronomical Observatory Chinese Academy of Sciences ,CHN,Government
+259,Universidad de Zaragoza *,ESP,Universities
+259,City University of New York *,USA,Universities
+260,Istituto Nazionale di Geofisica e Vulcanologia,ITA,Government
+260,University of Central Florida,USA,Universities
+261,"Desert Research Institute, Reno",USA,Non-Profit
+261,SRON Netherlands Institute for Space Research,NLD,Government
+261,Hungarian Academy of Sciences *,HUN,Government
+261,Natural Resources Canada,CAN,Government
+262,Helmholtz Zentrum fur Umweltforschung,DEU,Government
+263,The University of Adelaide,AUS,Universities
+264,AGH University of Science and Technology,POL,Universities
+264,University of Sussex *,GBR,Universities
+265,British Antarctic Survey,GBR,Government
+265,Universite de Nantes *,FRA,Universities
+266,Kings College London,GBR,Universities
+266,San Diego State University,USA,Universities
+267,Chinese Research Academy of Environmental Sciences,CHN,Non-Profit
+268,Hebrew University of Jerusalem,ISR,Universities
+269,Netherlands Organisation for Applied Scientific Research *,MUL,Government
+269,Netherlands Organisation for Applied Scientific Research,NLD,Government
+269,University Corporation for Atmospheric Research,USA,Non-Profit
+270,Harvard-Smithsonian Center for Astrophysics,USA,Government
+270,Dartmouth College *,USA,Universities
+270,Universite Clermont-Auvergne,FRA,Universities
+270,Universidad de Castilla-La Mancha *,ESP,Universities
+271,National Central University,TWN,Universities
+271,University of Gdansk,POL,Universities
+272,Charles University *,CZE,Universities
+273,"Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences",CHN,Government
+273,King Abdullah University of Science and Technology,SAU,Universities
+273,Chongqing University,CHN,Universities
+274,University of Southern Queensland,AUS,Universities
+274,Institut de Diagnosi Ambiental i Estudis de l'Aigua,ESP,Government
+275,Argonne National Laboratory,USA,Government
+275,"Monash University, Melbourne *",AUS,Universities
+276,National Taiwan University,TWN,Universities
+276,Carl von Ossietzky Universitat Oldenburg,DEU,Universities
+276,Centro de Investigacion y Desarrollo Pascual Vila,ESP,Government
+277,International Livestock Research Institute,MUL,Non-Profit
+278,Geosciences Environnement Toulouse,FRA,Government
+278,U.S. Army *,USA,Government
+279,Technische Universitat Wien *,AUT,Universities
+280,The Hong Kong University of Science and Technology,HKG,Universities
+280,University of Cape Town,ZAF,Universities
+280,"University of Alaska, Fairbanks",USA,Universities
+281,Helmholtz-Zentrum fur Ozeanforschung Kiel Umgewandelt,DEU,Government
+281,State Oceanic Administration,CHN,Government
+281,Colorado School of Mines,USA,Universities
+282,Universidad de Granada *,ESP,Universities
+282,University of Macau,MAC,Universities
+283,University of Antwerp,BEL,Universities
+283,"University of California, Riverside",USA,Universities
+284,Shenzhen University,CHN,Universities
+285,Universite du Quebec en Quebec *,CAN,Universities
+285,European Space Research and Technology Centre,NLD,Government
+285,Rothamsted Research,GBR,Government
+285,Universitat Zurich,CHE,Universities
+286,Universita degli Studi di Trento,ITA,Universities
+286,Universite de Lille *,FRA,Universities
+286,Johann Wolfgang Goethe-Universitat Frankfurt am Main *,DEU,Universities
+287,Universitat zu Koln,DEU,Universities
+288,ESA Centre for Earth Observation,ITA,Government
+288,Biotechnology and Biological Sciences Research Council *,GBR,Government
+289,Universidad de Buenos Aires *,ARG,Universities
+290,Northeast Institute of Geography and Agroecology Chinese Academy of Sciences,CHN,Government
+290,Eotvos Lorand University,HUN,Universities
+291,The University of Sheffield,GBR,Universities
+292,"State University of New York, Stony Brook *",USA,Universities
+292,Abdus Salam International Centre for Theoretical Physics,ITA,Government
+292,The Catholic University of America,USA,Universities
+292,"National University of Ireland, Maynooth",IRL,Universities
+293,Technische Universitat Berlin,DEU,Universities
+293,"University of Tennessee, Knoxville *",USA,Universities
+294,NASA Ames Research Center,USA,Government
+294,Ministry of Agriculture,CHN,Government
+295,Council of Scientific and Industrial Research *,IND,Government
+295,University of Oulu,FIN,Universities
+295,Universite de Bretagne Occidentale *,FRA,Universities
+295,Freie Universitat Berlin,DEU,Universities
+296,University of Guelph,CAN,Universities
+296,Los Alamos National Laboratory *,USA,Government
+296,Universita degli Studi di Ferrara,ITA,Universities
+296,Chinese Academy of Agricultural Sciences *,CHN,Government
+296,"University of Wisconsin, Milwaukee",USA,Universities
+297,University of Science and Technology Beijing,CHN,Universities
+298,Kyushu University *,JPN,Universities
+299,"University of California, Santa Cruz",USA,Universities
+299,University of Bath,GBR,Universities
+300,National Technical University of Athens,GRC,Universities
+301,"Washington State University, Pullman *",USA,Universities
+301,Universidad Politecnica de Madrid *,ESP,Universities
+302,"Islamic Azad University, Science and Research Branch",IRN,Universities
+302,University of Victoria,CAN,Universities
+303,International Livestock Research Institute Kenya,KEN,Non-Profit
+303,University of Notre Dame,USA,Universities
+303,State University - Higher School of Economics,RUS,Universities
+303,Hong Kong Baptist University,HKG,Universities
+303,Natural Resources Institute Finland,FIN,Government
+304,"Swiss Federal Institute for Forest, Snow and Landscape Research",CHE,Government
+304,Tohoku University *,JPN,Universities
+304,Tel Aviv University,ISR,Universities
+305,Duy Tan University,VNM,Universities
+306,Istituto Nazionale di Astrofisica *,ITA,Government
+307,"Hefei Institutes of Physical Sciences, Chinese Academy of Sciences",CHN,Government
+307,Laboratoire d'Oceanographie et du Climat: Experimentations et Approches Numeriques,FRA,Government
+307,National Institute of Water & Atmospheric Research,NZL,Government
+308,Aix-Marseille Universite *,FRA,Universities
+308,University of Liverpool *,GBR,Universities
+308,Dalhousie University,CAN,Universities
+309,University of Houston,USA,Universities
+309,University of Athens,GRC,Universities
+309,Addis Ababa University,ETH,Universities
+310,"Indian Institute of Technology, Bombay",IND,Universities
+310,Observatoire Midi Pyrenees,FRA,Government
+310,University of South Florida System *,USA,Universities
+310,University of North Dakota,USA,Universities
+311,Gkss Forschungszentrum Geesthacht,DEU,Government
+312,National Institute of Information and Communications Technology,JPN,Government
+313,Queensland University of Technology,AUS,Universities
+313,Indian Institute of Tropical Meteorology,IND,Government
+314,University of Georgia,USA,Universities
+314,Shandong University of Science and Technology,CHN,Universities
+314,Technical University of Denmark,DNK,Universities
+315,Sichuan University *,CHN,Universities
+316,National Oceanography Centre Southampton,GBR,Government
+317,Institut National des Sciences de l'Univers,FRA,Government
+317,Universita degli Studi di Perugia,ITA,Universities
+318,Weizmann Institute of Science,ISR,Universities
+319,Adam Mickiewicz University,POL,Universities
+319,Norwegian University of Science and Technology,NOR,Universities
+320,Yonsei University *,KOR,Universities
+320,"Louisiana State University, Baton Rouge",USA,Universities
+320,Universite de Liege,BEL,Universities
+320,Bay Area Environmental Research Institute,USA,Government
+321,Pukyong National University,KOR,Universities
+322,Albert-Ludwigs-Universitat Freiburg im Breisgau,DEU,Universities
+323,Universita degli Studi di Milano,ITA,Universities
+323,"Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences",CHN,Government
+323,Ecole Polytechnique,FRA,Universities
+324,University of Eastern Finland,FIN,Universities
+324,Griffith University,AUS,Universities
+324,"Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas *",ESP,Government
+324,Lomonosov  Moscow State University,RUS,Universities
+325,Laval University,CAN,Universities
+325,"University of Alabama, Tuscaloosa",USA,Universities
+326,Curtin University *,AUS,Universities
+326,University of Turku,FIN,Universities
+326,Northwest A and F University,CHN,Universities
+327,University of Warsaw,POL,Universities
+327,Universite Montpellier *,FRA,Universities
+327,Universidade Federal de Vicosa,BRA,Universities
+327,Institut National de l'Environnement Industriel et des Risques,FRA,Government
+327,Academy of Sciences of the Czech Republic *,CZE,Government
+327,Northern Arizona University,USA,Universities
+328,Jagiellonian University,POL,Universities
+328,Anhui University,CHN,Universities
+329,Northeast Normal University,CHN,Universities
+329,York University,CAN,Universities
+330,"University of Connecticut, Storrs *",USA,Universities
+331,Portland State University,USA,Universities
+332,Loughborough University,GBR,Universities
+333,Istituto Nazionale di Fisica Nucleare,ITA,Government
+333,The University of Western Australia,AUS,Universities
+333,"Northeastern University, USA",USA,Universities
+334,Politecnico di Milano,ITA,Universities
+335,Universite Libre de Bruxelles,BEL,Universities
+335,University of Sydney,AUS,Universities
+336,Uppsala University,SWE,Universities
+337,Chengdu University of Information Technology,CHN,Universities
+337,Christian-Albrechts-Universitat zu Kiel,DEU,Universities
+337,Office National d'Etudes et de Recherches Aerospatiales Chatillon *,FRA,Government
+337,East China Normal University,CHN,Universities
+338,Lawrence Livermore National Laboratory *,USA,Government
+338,Academia Sinica *,TWN,Government
+339,Universitat de les Illes Balears *,ESP,Universities
+339,Masaryk University,CZE,Universities
+340,Electric Power Research Institute,USA,Non-Profit
+340,Universite de Geneve,CHE,Universities
+340,Nagoya University *,JPN,Universities
+341,Deltares,NLD,Government
+341,Science and Technology Facilities Council *,GBR,Government
+342,University of Tasmania,AUS,Universities
+342,University of South Carolina *,USA,Universities
+343,University of Wyoming,USA,Universities
+343,Georg-August-Universitat Gottingen,DEU,Universities
+344,Universidad de Costa Rica,CRI,Universities
+345,Institut National de Recherche en Informatique et en Automatique *,FRA,Government
+346,Institut Polytechnique de Grenoble *,FRA,Universities
+347,Istituto di Scienze Marine,ITA,Government
+348,K.N.Toosi University of Technology,IRN,Universities
+348,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement *,FRA,Government
+348,Universidade de Vigo *,ESP,Universities
+348,Michigan Technological University,USA,Universities
+349,Pusan National University,KOR,Universities
+349,University of Kansas *,USA,Universities
+349,Japan Aerospace Exploration Agency,JPN,Government
+349,Universite du Quebec en Montreal,CAN,Universities
+350,Estacion Experimental de Aula Dei,ESP,Government
+351,University of Tsukuba *,JPN,Universities
+352,Auburn University,USA,Universities
+352,"Institute of Soil and Water Conservation, Chinese Academy of Sciences",CHN,Government
+352,East China Institute of Technology,CHN,Universities
+353,University of Pretoria,ZAF,Universities
+353,"University of Alabama, Huntsville",USA,Universities
+353,Instituto de Quimica-Fisica Rocasolano,ESP,Government
+353,University of Western Ontario,CAN,Universities
+354,Universita degli Studi di Torino,ITA,Universities
+354,Simon Fraser University,CAN,Universities
+355,Fraunhofer Gesellschaft *,DEU,Government
+356,Kobe University *,JPN,Universities
+357,Universidade de Aveiro,PRT,Universities
+357,King Abdulaziz University *,SAU,Universities
+357,Laboratoire d'Etudes en Geophysique et Oceanographie Spatiales,FRA,Government
+357,Universitat Hohenheim,DEU,Universities
+358,NASA Stennis Space Center,USA,Government
+358,The University of Hong Kong *,HKG,Universities
+359,University of Idaho,USA,Universities
+360,University of Malaya *,MYS,Universities
+361,Shiraz University,IRN,Universities
+362,China Earthquake Administration,CHN,Government
+362,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+362,Universitat fur Bodenkultur Wien *,AUT,Universities
+363,Khalifa University *,ARE,Universities
+363,Universita degli Studi Ca Foscari di Venezia,ITA,Universities
+364,University of Vermont,USA,Universities
+365,Macquarie University *,AUS,Universities
+366,Universidade Estadual de Campinas,BRA,Universities
+366,Council for Scientific and Industrial Research,ZAF,Government
+367,Chubu University,JPN,Universities
+368,Universidad de Valladolid *,ESP,Universities
+369,Mendel University in Brno,CZE,Universities
+370,University of Otago,NZL,Universities
+370,National Astronomical Observatories Chinese Academy of Science,CHN,Government
+370,Central Research Institute of Electrical Power Industry,JPN,Non-Profit
+371,Universite Claude Bernard Lyon 1 *,FRA,Universities
+371,Universitat Stuttgart,DEU,Universities
+372,"National University of Ireland, Galway",IRL,Universities
+372,"Montana State University, Bozeman",USA,Universities
+373,Universita degli Studi dell Aquila,ITA,Universities
+373,"Indian Institute of Technology, Roorkee",IND,Universities
+374,Universidade Federal de Santa Maria *,BRA,Universities
+374,"University of Missouri, Columbia *",USA,Universities
+375,Center for Disease Control and Prevention China,CHN,Health
+375,Old Dominion University,USA,Universities
+375,Ecole Normale Superieure de Paris *,FRA,Universities
+376,National Institute of Environmental Research,KOR,Government
+376,Cranfield University,GBR,Universities
+377,Universita degli Studi di Roma Tor Vergata,ITA,Universities
+378,San Jose State University,USA,Universities
+379,University of Tromso - The Arctic University of Norway,NOR,Universities
+379,"University of New England, Australia",AUS,Universities
+379,U.S. Air Force,USA,Government
+379,North-West University,ZAF,Universities
+379,"Agenzia Nazionale per le nuove Tecnologie, l'Energia e lo Sviluppo Economico Sostenibile",ITA,Government
+379,Universidade Federal do Rio Grande do Norte,BRA,Universities
+380,"University of Maryland, Center for Environmental Science",USA,Government
+381,Universitat de Valencia *,ESP,Universities
+381,NASA Marshall Space Flight Center,USA,Government
+382,University of Nevada-Reno,USA,Universities
+382,"University of the South Pacific, Fiji",FJI,Universities
+382,Universite de Bordeaux *,FRA,Universities
+383,Nanjing University of Science and Technology,CHN,Universities
+383,New Mexico Institute of Mining and Technology *,USA,Universities
+383,Korea University *,KOR,Universities
+383,Instituto de Geociencias,ESP,Government
+384,Australian Nuclear Science & Technology Organisation,AUS,Government
+384,Vrije Universiteit Brussel,BEL,Universities
+385,Airbus SAS *,MUL,Companies
+385,Rice University,USA,Universities
+385,University of Tabriz,IRN,Universities
+386,University of Durham,GBR,Universities
+386,Universita degli Studi di Genova,ITA,Universities
+386,University of Southern Mississippi,USA,Universities
+386,South China Sea Institute of Oceanology Chinese Academy of Sciences,CHN,Government
+386,Polar Research Institute of China,CHN,Government
+387,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities
+387,Waseda University,JPN,Universities
+388,Royal Institute of Technology,SWE,Universities
+388,Observatoire de Paris,FRA,Government
+389,Umea University *,SWE,Universities
+389,Chiba University *,JPN,Universities
+389,Rutherford Appleton Laboratory,GBR,Government
+390,"University of Arkansas, Fayetteville",USA,Universities
+390,University of Mississippi *,USA,Universities
+391,Universidade do Porto *,PRT,Universities
+392,Instituto Nacional de Pesquisas da Amazonia,BRA,Government
+393,Agriculture and Agri-Food Canada,CAN,Government
+394,Technische Universitat Braunschweig,DEU,Universities
+394,Universite de la Reunion,REU,Universities
+394,Empresa Brasileira de Pesquisa Agropecuaria,BRA,Government
+395,COMSATS Institute of Information Technology *,PAK,Universities
+396,Universidad del Pais Vasco *,ESP,Universities
+396,Kwame Nkrumah University of Science and Technology,GHA,Universities
+397,"Indian Institute of Technology, Delhi",IND,Universities
+397,"Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences",CHN,Government
+397,Czech University of Life Sciences Prague,CZE,Universities
+397,Victoria University of Wellington,NZL,Universities
+397,Sharif University of Technology,IRN,Universities
+397,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities
+398,"University of Maine, Orono",USA,Universities
+399,University of Belgrade,SRB,Universities
+400,Hanyang University *,KOR,Universities
+400,Universita del Salento,ITA,Universities
+400,Technion - Israel Institute of Technology *,ISR,Universities
+401,"Universidad de Leon, Spain *",ESP,Universities
+401,National Cheng Kung University,TWN,Universities
+401,University of Auckland,NZL,Universities
+401,Universitat Rostock *,DEU,Universities
+402,Bergische Universitat Wuppertal,DEU,Universities
+402,Gwangju Institute of Science and Technology,KOR,Universities
+402,Universidad Nacional de Colombia *,COL,Universities
+403,Tokyo Institute of Technology,JPN,Universities
+403,Ministry of Water Resources of China,CHN,Government
+404,Global Change Research Institute of the ASCR,CZE,Government
+404,"City University of New York, City College",USA,Universities
+404,Institut de Physique du Globe de Paris,FRA,Government
+405,Universidade Federal do Rio de Janeiro,BRA,Universities
+405,National University of Malaysia *,MYS,Universities
+406,Universidade Federal Fluminense,BRA,Universities
+406,Academy of Scientific and Innovative Research,IND,Universities
+407,Instituto de Astrofisica de Andalucia ,ESP,Government
+407,Swedish University of Agricultural Sciences,SWE,Universities
+408,Naval Postgraduate School,USA,Universities
+409,Environnements et Paleoenvironnements Oceaniques et Continentaux,FRA,Government
+410,Universitat Augsburg,DEU,Universities
+410,Pohang University of Science and Technology,KOR,Universities
+410,Southwest Jiaotong University,CHN,Universities
+411,Ecole Pratique des Hautes Etudes,FRA,Universities
+411,"Indian Institute of Technology, Gandhinagar",IND,Universities
+411,China Institute of Water Resources and Hydropower Research,CHN,Government
+412,Universidad de Extremadura *,ESP,Universities
+412,Indian Space Research Organization *,IND,Government
+413,"University of California, Merced",USA,Universities
+414,University of Oregon,USA,Universities
+414,Universidade Federal de Santa Catarina,BRA,Universities
+414,Carnegie Institution for Science *,USA,Non-Profit
+415,"Research Center for Environmental Changes, Academia Sinica",TWN,Government
+415,Memorial University of Newfoundland,CAN,Universities
+416,South China Normal University,CHN,Universities
+417,Universidade do Estado do Amazonas,BRA,Universities
+417,Syracuse University,USA,Universities
+418,Pontificia Universidad Catolica de Chile *,CHL,Universities
+418,Universite de Lorraine *,FRA,Universities
+418,Universidad de Alcala *,ESP,Universities
+419,National Institute of Advanced Industrial Science & Technology,JPN,Government
+419,Nanjing Hydraulic Research Institute,CHN,Government
+420,University of Manitoba,CAN,Universities
+421,University of KwaZulu-Natal *,ZAF,Universities
+421,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+421,A.A Obukhov Institute of Atmospheric Physics Russian Academy of Sciences,RUS,Government
+421,Ben-Gurion University of the Negev *,ISR,Universities
+421,"University of the Witwatersrand, Johannesburg",ZAF,Universities
+422,Kent State University,USA,Universities
+422,Asian Institute of Technology,THA,Universities
+422,Max Planck Institut fur Sonnensystemforschung,DEU,Government
+423,Queen's University,CAN,Universities
+424,Nanjing University of Aeronautics and Astronautics,CHN,Universities
+424,National Taiwan Normal University,TWN,Universities
+425,Beijing Forestry University,CHN,Universities
+425,Universidade Federal da Paraiba,BRA,Universities
+425,Indian Institute of Science,IND,Universities
+425,Shanghai University,CHN,Universities
+426,"Indian Institute of Technology, Kanpur",IND,Universities
+426,"Indian Institute of Technology, Indore",IND,Universities
+427,"Saint Louis University, Saint Louis *",USA,Universities
+428,P N Lebedev Physics Institute Russian Academy of Sciences,RUS,Government
+428,Ruhr-Universitat Bochum *,DEU,Universities
+429,"Shenyang Institute of Applied Ecology, Chinese Academy of Sciences",CHN,Government
+429,Morgan State University,USA,Universities
+430,Ecole Nationale des Ponts ParisTech,FRA,Universities
+430,Clemson University,USA,Universities
+430,University of Canterbury,NZL,Universities
+430,Texas Tech University,USA,Universities
+430,University of Zagreb,HRV,Universities
+431,Universidade Federal Rural de Pernambuco,BRA,Universities
+432,Plymouth Marine Laboratory,GBR,Government
+432,University of Warwick,GBR,Universities
+433,"Institute of Oceanology, Chinese Academy of Sciences",CHN,Government
+434,Universita degli Studi di Cagliari,ITA,Universities
+434,Korea Polar Research Institute,KOR,Government
+434,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities
+435,Universidade Federal do Parana,BRA,Universities
+435,Universita degli Studi di Napoli Parthenope,ITA,Universities
+436,Universidade Federal de Alagoas,BRA,Universities
+436,"Indian Institute of Technology, Kharagpur",IND,Universities
+436,National Institute of Oceanography,IND,Government
+437,King Saud University *,SAU,Universities
+437,Consejo Nacional de Ciencia y Tecnologia *,MEX,Government
+437,University College Dublin,IRL,Universities
+438,James Cook University *,AUS,Universities
+438,Huazhong Agricultural University,CHN,Universities
+438,Ministry of Environmental Protection,CHN,Government
+438,The University of Newcastle,AUS,Universities
+439,Leibniz-Institut fur Ostseeforschung Warnemunde,DEU,Government
+439,Chonnam National University,KOR,Universities
+440,Universite du Littoral Cote d'Opale *,FRA,Universities
+441,National Institute of Technology Rourkela,IND,Universities
+442,Universite Savoie Mont Blanc *,FRA,Universities
+442,Lulea University of Technology,SWE,Universities
+443,Philipps-Universitat Marburg *,DEU,Universities
+443,"Northwest University, Xi'an",CHN,Universities
+443,Technische Universitat Darmstadt,DEU,Universities
+443,Universite de Rennes 1 *,FRA,Universities
+443,Kongju National University,KOR,Universities
+444,Royal Netherlands Institute for Sea Research,NLD,Government
+445,New Jersey Institute of Technology,USA,Universities
+446,University of the Philippines Diliman *,PHL,Universities
+447,Jawaharlal Nehru University,IND,Universities
+447,Istanbul Technical University,TUR,Universities
+447,Universidad Nacional de Cordoba *,ARG,Universities
+447,GNS Science,NZL,Companies
+447,University of Rhode Island,USA,Universities
+448,Saint Petersburg State University,RUS,Universities
+448,Eindhoven University of Technology,NLD,Universities
+448,Universita della Calabria,ITA,Universities
+449,Konkuk University *,KOR,Universities
+450,Tarbiat Modares University,IRN,Universities
+450,Universidade de Brasilia,BRA,Universities
+450,Centre Mediterrani d'Investigacions Marines i Ambientals,ESP,Government
+451,Embry-Riddle Aeronautical University *,USA,Universities
+451,Universidad Nacional de Cuyo *,ARG,Universities
+451,Universita degli Studi di Pisa,ITA,Universities
+451,National Agriculture and Food Research Organization,JPN,Government
+452,Graduate University for Advanced Studies,JPN,Universities
+453,"Montpellier SupAgro, Centre International d'Etudes Superieures en Sciences Agronomiques *",FRA,Universities
+454,"Institute of Mountain Hazards and Environment, Chinese Academy of Sciences",CHN,Government
+454,Institut de Ciencies del Mar ,ESP,Government
+454,Northumbria University,GBR,Universities
+454,Henan University *,CHN,Universities
+455,"Shaanxi Normal University, Xi'an",CHN,Universities
+456,Shahid Beheshti University,IRN,Universities
+456,Sejong University,KOR,Universities
+457,Universidad de las Palmas de Gran Canaria *,ESP,Universities
+457,Physical Research Laboratory,IND,Government
+457,Universidade Federal do Ceara,BRA,Universities
+458,Southwest Research Institute,USA,Non-Profit
+458,Kyungpook National University *,KOR,Universities
+459,Universidade Federal de Lavras,BRA,Universities
+460,Banaras Hindu University,IND,Universities
+460,Fujian Normal University,CHN,Universities
+461,Australian Antarctic Division,AUS,Government
+462,British Geological Survey,GBR,Government
+463,Gadjah Mada University,IDN,Universities
+463,University of Peshawar,PAK,Universities
+464,Tribhuvan University *,NPL,Universities
+464,Centro Cientifico Tecnologico Mendoza,ARG,Government
+464,Institute of Atmospheric Optics of Siberian Branch of the Russian Academy of Science,RUS,Government
+465,"National University of Science and Technology, Islamabad",PAK,Universities
+465,Northeast Forestry University,CHN,Universities
+466,Ferdowsi University of Mashhad,IRN,Universities
+467,University of Ioannina,GRC,Universities
+467,Universidade Federal do Para,BRA,Universities
+468,Universidade Federal de Pernambuco,BRA,Universities
+468,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+468,Osaka Prefecture University,JPN,Universities
+469,Universidade Estadual do Ceara,BRA,Universities
+470,"New York University, Abu Dhabi",ARE,Universities
+470,United States Naval Academy,USA,Universities
+470,University Malaysia Terengganu,MYS,Universities
+471,Kangwon National University *,KOR,Universities
+472,China University of Petroleum,CHN,Universities
+472,Universidade Federal de Campina Grande,BRA,Universities
+472,P P Shirshov Institute of Oceanology Russian Academy of Sciences,RUS,Government
+473,Appalachian State University,USA,Universities
+474,"Texas A&M University, Corpus Christi",USA,Universities
+475,Universidade Federal Rural do Rio de Janeiro,BRA,Universities
+476,Institute for Basic Science,KOR,Government
+476,Southern University of Science and Technology,CHN,Universities
+477,Institute of Geology and Geophysics Chinese Academy of Sciences,CHN,Government
+477,Universidad Tecnologica Nacional *,ARG,Universities
+478,Vikram Sarabhai Space Centre,IND,Government
+479,Brandenburgische Technische Universitat Cottbus,DEU,Universities
+479,Slovak Academy of Sciences *,SVK,Government
+480,Quaid-i-Azam University,PAK,Universities
+481,Sultan Qaboos University *,OMN,Universities
+482,Universidade Federal de Itajuba,BRA,Universities
+483,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities
+484,University Centre in Svalbard,NOR,Universities
+484,Xinjiang University,CHN,Universities
+484,Bedford Institute of Oceanography,CAN,Government
+484,University of Western Sydney,AUS,Universities
+484,Federal University of Technology Akure,NGA,Universities
+484,Universidade Federal do Espirito Santo,BRA,Universities
+485,Ecole Centrale de Lyon *,FRA,Universities
+486,Universite Felix Houphouet-Boigny,CIV,Universities
+487,Middle East Technical University,TUR,Universities
+487,Bahir Dar University,ETH,Universities
+488,University of Northern British Columbia,CAN,Universities
+488,Universidad de Concepcion *,CHL,Universities
+488,Ibaraki University,JPN,Universities
+489,"Indian Institute of Technology, Madras",IND,Universities
+490,University of Bucharest,ROU,Universities
+490,Ewha Womans University *,KOR,Universities
+491,Bulgarian Academy of Sciences *,BGR,Government
+491,Institute of Solar-Terrestrial Physics Russian Academy of Sciences,RUS,Government
+491,Indian Institute of Technology Bhubaneswar,IND,Universities
+492,Universidad Nacional de La Plata *,ARG,Universities
+492,Universite Cheikh Anta Diop de Dakar,SEN,Universities
+493,Tokyo University of Marine Science and Technology,JPN,Universities
+494,Sri Ramaswamy Memorial University,IND,Universities
+494,Indian Institute of Technology,IND,Universities
+494,Northwest Normal University,CHN,Universities
+495,Moscow Institute of Physics and Technology,RUS,Universities
+495,University of Ibadan,NGA,Universities
+496,Centro de Investigacion Cientifica y de Educacion Superior de Ensenada,MEX,Government
+497,Sherbrooke University,CAN,Universities
+497,Shihezi University,CHN,Universities
+498,University of Toyama *,JPN,Universities
+499,Yangzhou University,CHN,Universities
+499,Universite de Lyon,FRA,Universities
+500,Bogazici University,TUR,Universities
+500,Bordeaux Sciences Agro *,FRA,Universities
+500,KL University,IND,Universities
+501,University of Isfahan,IRN,Universities
+501,Universidade Federal de Pelotas,BRA,Universities
+501,University of Pune,IND,Universities
+501,Universidade Federal Rural da Amazonia,BRA,Universities
+502,Universidade Federal do Piaui,BRA,Universities
+502,Tokyo University of Science,JPN,Universities
+502,Institute of Applied Physics Russian Academy of Sciences,RUS,Government
+502,Universite Paris-Saclay *,FRA,Universities
+503,Universidad de Puerto Rico *,PRI,Universities
+503,Indian Council of Agricultural Research *,IND,Government
+503,Donghua University,CHN,Universities
+504,Chinese Academy of Forestry *,CHN,Government
+505,Tokyo Metropolitan University,JPN,Universities
+506,Universidad Autonoma de Baja California,MEX,Universities
+506,National Academy of Sciences of Ukraine *,UKR,Government
+507,"Vietnam National University, Hanoi",VNM,Universities
+508,Universidad de la Republica *,URY,Universities
+508,Tomsk State University,RUS,Universities
+508,University of Haifa,ISR,Universities
+509,Chungnam National University,KOR,Universities
+510,Yildiz Technical University,TUR,Universities
+511,Lockheed Martin Corp *,USA,Companies
+511,Polish Geological Institute,POL,Government
+512,Pontificia Universidad Catolica de Valparaiso *,CHL,Universities
+512,Space Research Institute Russian Academy of Sciences,RUS,Government
+513,Universite de Carthage *,TUN,Universities
+514,Guangdong Ocean University,CHN,Universities
+515,"University of Massachusetts, Dartmouth",USA,Universities
+516,Indian Institute of Remote Sensing,IND,Government
+517,Amity University *,IND,Universities
+518,Rhodes University,ZAF,Universities
+518,Laboratoire de Mecanique des Fluides et d'Acoustique,FRA,Government
+518,Ecole Normale Superieure de Lyon *,FRA,Universities
+519,"University of Colorado, Denver *",USA,Universities
+520,Institut National des Sciences Appliquees de Lyon *,FRA,Universities
+521,Institute of Terrestrial Magnetism Ionosphere and Radiowave Propagation Russian Academy of Sciences,RUS,Government
+522,Gansu Agricultural University,CHN,Universities
+522,Russian State Hydrometeorological University,RUS,Universities
+523,"University of Colorado, Colorado Springs",USA,Universities
+523,Allahabad University,IND,Universities
+524,Ehime University *,JPN,Universities
+525,"Universidad de Puerto Rico, Mayaguez",PRI,Universities
+525,Space Applications Centre,IND,Government
+526,Information Engineering University,CHN,Universities
+527,University of Calcutta,IND,Universities
+528,Changsha University of Science and Technology,CHN,Universities
+529,Centrale Supelec,FRA,Universities
+530,Andhra University,IND,Universities
+531,Ilia State University,GEO,Universities
+532,N.I. Lobachevsky State University of Nizhni Novgorod *,RUS,Universities
+533,Cochin University of Science and Technology,IND,Universities
+534,University of Zululand,ZAF,Universities
+534,China Geological Survey *,CHN,Government
+535,Arctic Antarctic Research Institute,RUS,Government
+536,Universite de Toulon *,FRA,Universities
+537,Institut National Polytechnique de Toulouse *,FRA,Universities
+538,United Schmidt Institute of Physics of the Earth Russian Academy of Sciences,RUS,Government
+539,Inner Mongolia Agricultural University,CHN,Universities
+540,Ural Federal University,RUS,Universities
+541,Institute of Numerical Mathematics Russian Academy of Sciences,RUS,Government
+541,Xinjiang Agricultural University,CHN,Universities
+542,Kola Science Centre Russian Academy of Sciences,RUS,Government
+543,Indian Agricultural Research Institute,IND,Government
+544,Marine Hydrophysical Institute National Academy of Sciences of Ukraine,UKR,Government
+545,Punjab Agricultural University,IND,Universities
+546,V.I. Il'ichev Pacific Oceanological Institute Russian Academy of Sciences,RUS,Government
+547,Max Planck Institut fur Dynamik und Selbstorganisation,DEU,Government
+548,Mizoram University,IND,Universities

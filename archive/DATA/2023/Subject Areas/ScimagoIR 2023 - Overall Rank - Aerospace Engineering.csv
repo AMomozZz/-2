@@ -1,0 +1,911 @@
+Global Rank,Institution,Country,Sector
+1,BeiHang University *,CHN,Universities
+2,National Aeronautics and Space Administration *,USA,Government
+3,Ministry of Education of the People's Republic of China,CHN,Government
+4,Northwestern Polytechnical University,CHN,Universities
+5,Nanjing University of Aeronautics and Astronautics,CHN,Universities
+6,Harbin Institute of Technology,CHN,Universities
+7,Chinese Academy of Sciences *,CHN,Government
+8,Tsinghua University *,CHN,Universities
+9,Beijing Institute of Technology,CHN,Universities
+10,Helmholtz Gemeinschaft *,DEU,Government
+11,Deutsches Zentrum fur Luft- und Raumfahrt,DEU,Government
+12,Centre National de la Recherche Scientifique *,FRA,Government
+13,National University of Defense Technology,CHN,Universities
+14,Shanghai Jiao Tong University *,CHN,Universities
+15,"Southeast University, Nanjing *",CHN,Universities
+16,China Aerospace Science and Technology Corp *,CHN,Government
+17,NASA Langley Research Center,USA,Government
+18,Xidian University,CHN,Universities
+19,Delft University of Technology,NLD,Universities
+20,Xi'an Jiaotong University *,CHN,Universities
+21,Massachusetts Institute of Technology *,USA,Universities
+22,The University of Hull,GBR,Universities
+23,California Institute of Technology *,USA,Universities
+24,NASA Ames Research Center,USA,Government
+25,University of Electronic Science and Technology of China,CHN,Universities
+26,Qatar University,QAT,Universities
+27,"University of Michigan, Ann Arbor *",USA,Universities
+28,Beijing University of Posts and Telecommunications,CHN,Universities
+29,Jet Propulsion Laboratory,USA,Government
+30,University of Waterloo,CAN,Universities
+31,Nanjing University of Posts and Telecommunications,CHN,Universities
+32,U.S. Air Force,USA,Government
+33,Georgia Institute of Technology *,USA,Universities
+34,Purdue University,USA,Universities
+35,Politecnico di Milano,ITA,Universities
+36,Glenn Research Center,USA,Government
+37,Dalian University of Technology,CHN,Universities
+38,Stanford University *,USA,Universities
+39,Qingdao University of Science and Technology,CHN,Universities
+40,Zhejiang University *,CHN,Universities
+41,Imam Khomeini International University,IRN,Universities
+42,State Grid Corporation of China *,CHN,Companies
+43,Cranfield University,GBR,Universities
+44,Nanyang Technological University *,SGP,Universities
+45,James Cook University *,AUS,Universities
+46,Vignan University,IND,Universities
+47,European Space Research and Technology Centre,NLD,Government
+48,European Space Agency *,MUL,Government
+49,Beijing Jiaotong University,CHN,Universities
+50,Russian Academy of Sciences *,RUS,Government
+51,"University of California, Berkeley *",USA,Universities
+52,"University of California, Irvine *",USA,Universities
+53,University of Illinois at Urbana-Champaign *,USA,Universities
+54,Huazhong University of Science and Technology *,CHN,Universities
+55,The University of Manchester *,GBR,Universities
+56,China Academy of Space Technology,CHN,Government
+57,"Texas A&M University, College Station *",USA,Universities
+58,NASA Goddard Space Flight Center,USA,Government
+59,University of Chinese Academy of Sciences,CHN,Universities
+60,"University of Texas, Austin",USA,Universities
+61,University of New South Wales,AUS,Universities
+62,Southwest Jiaotong University,CHN,Universities
+63,University of Southampton,GBR,Universities
+64,University of Oxford,GBR,Universities
+65,University of Washington *,USA,Universities
+66,Laboratoire d'Etudes en Geophysique et Oceanographie Spatiales,FRA,Government
+67,Imperial College London,GBR,Universities
+68,Virginia Polytechnic Institute and State University,USA,Universities
+69,Nanjing University of Science and Technology,CHN,Universities
+70,Tianjin University *,CHN,Universities
+71,Toyota Group *,MUL,Companies
+72,"University of California, Los Angeles *",USA,Universities
+73,Harvard University *,USA,Universities
+74,Carleton University,CAN,Universities
+75,Wuhan University *,CHN,Universities
+76,Politecnico di Torino *,ITA,Universities
+77,Japan Aerospace Exploration Agency,JPN,Government
+78,The University of British Columbia,CAN,Universities
+79,NASA Johnson Space Center,USA,Government
+79,Shenzhen University,CHN,Universities
+81,McMaster University,CAN,Universities
+82,Hong Kong Polytechnic University,HKG,Universities
+83,Universita degli Studi di Napoli Federico II,ITA,Universities
+84,NASA Marshall Space Flight Center,USA,Government
+85,Hunan University,CHN,Universities
+86,Chongqing University,CHN,Universities
+87,Technische Universitat Munchen *,DEU,Universities
+88,National University of Singapore *,SGP,Universities
+89,Tongji University *,CHN,Universities
+90,University of Cambridge *,GBR,Universities
+91,University of Sydney,AUS,Universities
+92,Jilin University *,CHN,Universities
+93,Guangdong University of Technology,CHN,Universities
+94,University of Bristol,GBR,Universities
+95,"Rutgers, The State University of New Jersey",USA,Universities
+96,Swiss Federal Institute of Technology,CHE,Universities
+97,University of Arizona *,USA,Universities
+98,Chongqing University of Post and Telecommunications,CHN,Universities
+99,Universite du Luxembourg,LUX,Universities
+100,South China University of Technology,CHN,Universities
+101,"Ohio State University, Columbus *",USA,Universities
+102,Consiglio Nazionale delle Ricerche *,ITA,Government
+103,Peking University *,CHN,Universities
+104,"University of Colorado, Boulder *",USA,Universities
+105,Pennsylvania State University *,USA,Universities
+106,Harbin Engineering University,CHN,Universities
+107,Universita degli Studi di Roma La Sapienza,ITA,Universities
+108,Institut de Recherche pour le Developpement Paris *,FRA,Government
+109,Korea Advanced Institute of Science and Technology *,KOR,Universities
+110,Fraunhofer Gesellschaft *,DEU,Government
+111,"Northeastern University, China",CHN,Universities
+112,University of Nottingham *,GBR,Universities
+113,ZTE Corp *,MUL,Companies
+114,Central South University *,CHN,Universities
+115,University of Glasgow *,GBR,Universities
+116,University of Surrey,GBR,Universities
+117,"ZTE, China",CHN,Companies
+118,"University of Technology, Sydney",AUS,Universities
+119,McGill University,CAN,Universities
+120,Auburn University,USA,Universities
+121,Johns Hopkins University *,USA,Universities
+122,Instituto Nacional de Pesquisas Espaciais,BRA,Government
+123,The University of Sheffield,GBR,Universities
+124,University of Alberta,CAN,Universities
+125,Columbia University *,USA,Universities
+126,Lehigh University,USA,Universities
+127,Concordia University,CAN,Universities
+128,"University of California, Davis *",USA,Universities
+129,Queensland University of Technology,AUS,Universities
+130,Airbus SAS *,MUL,Companies
+131,Cornell University *,USA,Universities
+132,University of Florida *,USA,Universities
+133,"University of Wisconsin, Madison *",USA,Universities
+134,Qingdao University of Technology,CHN,Universities
+135,University of Leeds,GBR,Universities
+136,Iowa State University,USA,Universities
+137,Norwegian University of Science and Technology,NOR,Universities
+138,Boeing Co *,MUL,Companies
+139,Embry-Riddle Aeronautical University *,USA,Universities
+140,University of Houston,USA,Universities
+141,University of Southern California *,USA,Universities
+142,University of Toronto,CAN,Universities
+143,The University of Edinburgh *,GBR,Universities
+144,Royal Melbourne Institute of Technology *,AUS,Universities
+145,University of Craiova,ROU,Universities
+146,University of Tokyo *,JPN,Universities
+147,Universitat Politecnica de Valencia *,ESP,Universities
+148,Jiangsu University *,CHN,Universities
+148,Qufu Normal University,CHN,Universities
+150,"Monash University, Melbourne *",AUS,Universities
+151,Sun Yat-Sen University *,CHN,Universities
+152,Carnegie Mellon University *,USA,Universities
+153,Budapest University of Technology and Economics,HUN,Universities
+154,"Queen Mary, University of London",GBR,Universities
+155,"University of California, San Diego *",USA,Universities
+156,Ton Duc Thang University,VNM,Universities
+157,ESA Centre for Earth Observation,ITA,Government
+158,City University of Hong Kong *,HKG,Universities
+159,Institut National de Recherche en Informatique et en Automatique *,FRA,Government
+160,Catholic University of Leuven,BEL,Universities
+160,Tarbiat Modares University,IRN,Universities
+162,New York University *,USA,Universities
+163,Hokkaido University *,JPN,Universities
+164,U.S. Army *,USA,Government
+165,Utah State University *,USA,Universities
+166,Princeton University,USA,Universities
+167,Chalmers University of Technology *,SWE,Universities
+168,Fudan University *,CHN,Universities
+169,Brunel University,GBR,Universities
+170,Universidad Politecnica de Madrid *,ESP,Universities
+171,Tohoku University *,JPN,Universities
+172,Shandong University *,CHN,Universities
+173,Pohang University of Science and Technology,KOR,Universities
+174,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+175,University College London *,GBR,Universities
+176,Curtin University *,AUS,Universities
+177,University of Virginia *,USA,Universities
+178,Panjab University,IND,Universities
+179,Arizona State University *,USA,Universities
+180,University of Science and Technology of China,CHN,Universities
+181,University of Cincinnati *,USA,Universities
+182,The Hong Kong University of Science and Technology,HKG,Universities
+183,China University of Mining and Technology,CHN,Universities
+184,"Boeing Co, USA",USA,Companies
+185,General Electric Company *,MUL,Companies
+186,Office National d'Etudes et de Recherches Aerospatiales Chatillon *,FRA,Government
+187,Universitat Politecnica de Catalunya *,ESP,Universities
+188,Seoul National University *,KOR,Universities
+189,Duy Tan University,VNM,Universities
+190,Lockheed Martin Corp *,USA,Companies
+191,Mitsubishi Corp *,MUL,Companies
+192,Siemens *,MUL,Companies
+193,Universite du Quebec en Quebec *,CAN,Universities
+194,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+195,Singapore University of Technology and Design,SGP,Universities
+196,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+197,Universitat Stuttgart,DEU,Universities
+198,"University of Maryland, College Park *",USA,Universities
+199,North Carolina State University,USA,Universities
+200,Eindhoven University of Technology,NLD,Universities
+201,Qingdao University *,CHN,Universities
+202,Xiamen University *,CHN,Universities
+203,Royal Institute of Technology,SWE,Universities
+203,Sorbonne Universite *,FRA,Universities
+205,Shanghai University,CHN,Universities
+206,Universite Paris-Saclay *,FRA,Universities
+207,"University of Minnesota, Twin Cities *",USA,Universities
+208,York University,CAN,Universities
+209,University of Exeter,GBR,Universities
+210,The Szewalski Institute of Fluid-Flow Machinery Polish Academy of Sciences,POL,Government
+211,Loughborough University,GBR,Universities
+212,University of South Carolina *,USA,Universities
+213,Zhejiang University of Technology,CHN,Universities
+214,Aalto University,FIN,Universities
+214,Sharif University of Technology,IRN,Universities
+216,"Sandia National Laboratories, New Mexico",USA,Government
+217,Universita degli Studi di Pisa,ITA,Universities
+218,University of Central Florida,USA,Universities
+219,Southwest University *,CHN,Universities
+220,University of Canterbury,NZL,Universities
+221,University of Warwick,GBR,Universities
+222,University of Science and Technology Beijing,CHN,Universities
+223,University of Huddersfield,GBR,Universities
+224,Technische Universitat Berlin,DEU,Universities
+225,Ryerson University,CAN,Universities
+226,The University of Queensland *,AUS,Universities
+227,University of Kentucky *,USA,Universities
+228,Queen's University Belfast,GBR,Universities
+229,University of Calgary,CAN,Universities
+230,Hefei University of Technology,CHN,Universities
+231,Sichuan University *,CHN,Universities
+232,University of Strathclyde *,GBR,Universities
+233,Ulsan National Institute of Science and Technology *,KOR,Universities
+234,Sungkyunkwan University,KOR,Universities
+235,ITMO University,RUS,Universities
+236,University of Birmingham,GBR,Universities
+237,Beijing University of Technology,CHN,Universities
+238,"University of Alabama, Tuscaloosa",USA,Universities
+239,Technion - Israel Institute of Technology *,ISR,Universities
+240,Nanjing University *,CHN,Universities
+241,University of Ljubljana *,SVN,Universities
+242,Ecole de Technologie Superieure,CAN,Universities
+242,University of Auckland,NZL,Universities
+244,Army Engineering University of PLA,CHN,Universities
+245,Ecole Polytechnique Federale de Lausanne,CHE,Universities
+246,Linkoping University,SWE,Universities
+247,Guangzhou University,CHN,Universities
+248,China Academy of Launch Vehicle Technology,CHN,Government
+249,China Electronics Technology Group Corp *,CHN,Companies
+250,"Institute of Automation, Chinese Academy of Sciences",CHN,Government
+251,University of Liverpool *,GBR,Universities
+252,Universidad de Sevilla *,ESP,Universities
+252,Shandong University of Science and Technology,CHN,Universities
+254,Kunming University of Science and Technology,CHN,Universities
+255,Los Alamos National Laboratory *,USA,Government
+256,"Soochow University, Suzhou *",CHN,Universities
+257,King Abdullah University of Science and Technology,SAU,Universities
+258,Yanshan University,CHN,Universities
+259,Xiangtan University,CHN,Universities
+260,Polish Academy of Sciences *,POL,Government
+261,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+262,Zhengzhou University of Light Industry,CHN,Universities
+263,University of Sussex *,GBR,Universities
+264,University of Notre Dame,USA,Universities
+265,China Aerodynamics Research and Development Center,CHN,Government
+266,"University of Maryland, Baltimore",USA,Universities
+267,Queen's University,CAN,Universities
+268,Southern University of Science and Technology,CHN,Universities
+269,Shenyang Jianzhu University,CHN,Universities
+270,Aalborg University *,DNK,Universities
+271,Northumbria University,GBR,Universities
+271,I K Gujral Punjab Technical University,IND,Universities
+273,The University of Hong Kong *,HKG,Universities
+274,Centre National d'Etudes Spatiales *,FRA,Government
+275,University of Bath,GBR,Universities
+276,University of Macau,MAC,Universities
+277,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+277,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+279,Sejong University,KOR,Universities
+280,The Chinese University of Hong Kong *,HKG,Universities
+281,"Northeastern University, USA",USA,Universities
+282,San Diego State University,USA,Universities
+283,National Cheng Kung University,TWN,Universities
+284,"General Motors Company, United States",USA,Companies
+285,China National Petroleum Corp *,CHN,Companies
+286,Jinan University *,CHN,Universities
+287,Universidade de Lisboa *,PRT,Universities
+288,University of South Florida System *,USA,Universities
+288,University of South Florida,USA,Universities
+290,Amirkabir University of Technology,IRN,Universities
+291,Rensselaer Polytechnic Institute,USA,Universities
+292,Beijing University of Chemical Technology,CHN,Universities
+293,"Institute of Mechanics, Chinese Academy of Sciences",CHN,Government
+294,Laboratoire des Signaux et Systemes,FRA,Government
+295,Universidade de Sao Paulo *,BRA,Universities
+296,Yonsei University *,KOR,Universities
+297,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities
+298,Ghent University,BEL,Universities
+299,University of Patras,GRC,Universities
+300,Universita degli Studi di Padova,ITA,Universities
+301,Institut National des Sciences Appliquees de Lyon *,FRA,Universities
+302,Air Force Engineering University,CHN,Universities
+303,Korea University *,KOR,Universities
+304,Nirma University,IND,Universities
+305,Michigan State University,USA,Universities
+306,Institute of Strength Physics and Materials Science Russian Academy of Sciences,RUS,Government
+307,North University of China,CHN,Universities
+308,Duke University *,USA,Universities
+309,Universita degli Studi di Perugia,ITA,Universities
+310,Karlsruher Institut fur Technologie,DEU,Universities
+310,University of York,GBR,Universities
+312,Fuzhou University,CHN,Universities
+313,Aristotle University of Thessaloniki,GRC,Universities
+314,Warsaw University of Technology,POL,Universities
+315,"University of Tennessee, Knoxville *",USA,Universities
+316,Robert Bosch *,MUL,Companies
+317,Technical University of Denmark,DNK,Universities
+318,Anhui University,CHN,Universities
+319,Ecole Centrale de Lille *,FRA,Universities
+320,Missouri University of Science & Technology,USA,Universities
+321,Centrale Supelec,FRA,Universities
+322,The University of Adelaide,AUS,Universities
+323,Changsha University of Science and Technology,CHN,Universities
+324,University of Zagreb,HRV,Universities
+325,University of Tehran,IRN,Universities
+326,Argonne National Laboratory,USA,Government
+327,Universite de Lyon,FRA,Universities
+328,Universita degli Studi di Parma,ITA,Universities
+329,Iran University of Science and Technology,IRN,Universities
+329,East China Normal University,CHN,Universities
+329,Swinburne University of Technology *,AUS,Universities
+332,Technische Universitat Braunschweig,DEU,Universities
+333,Peoples'Friendship University of Russia,RUS,Universities
+334,Xi'an University of Technology,CHN,Universities
+335,Universidade do Porto *,PRT,Universities
+336,Instituto Tecnologico de Aeronautica,BRA,Universities
+337,General Motors Company *,MUL,Companies
+338,Universite Grenoble-Alpes *,FRA,Universities
+339,Lodz University of Technology,POL,Universities
+340,University of Melbourne *,AUS,Universities
+341,New Mexico State University,USA,Universities
+342,Universita degli Studi di Roma Tor Vergata,ITA,Universities
+343,Universitat Bern,CHE,Universities
+344,Riga Technical University,LVA,Universities
+345,Zhejiang Sci-Tech University,CHN,Universities
+346,Hohai University,CHN,Universities
+347,University of Aberdeen,GBR,Universities
+348,Hunan University of Science and Technology,CHN,Universities
+349,Chosun University *,KOR,Universities
+349,Rolls-Royce Holdings plc *,MUL,Companies
+351,"Airbus, Germany",DEU,Companies
+352,MITRE Corp *,USA,Companies
+353,Zhengzhou University *,CHN,Universities
+354,University of Oulu,FIN,Universities
+354,ShanghaiTech University,CHN,Universities
+356,Nankai University *,CHN,Universities
+357,Florida Institute of Technology,USA,Universities
+358,University of Kashan,IRN,Universities
+359,National Technical University of Athens,GRC,Universities
+360,Universita del Salento,ITA,Universities
+361,Swansea University,GBR,Universities
+362,Donghua University,CHN,Universities
+363,Yildiz Technical University,TUR,Universities
+364,Dr BR Ambedkar National Institute of Technology,IND,Universities
+365,AGH University of Science and Technology,POL,Universities
+366,University of Kragujevac,SRB,Universities
+367,Cardiff University,GBR,Universities
+368,Wuhan University of Technology,CHN,Universities
+369,"University of Texas, Arlington",USA,Universities
+370,Technische Universitat Dresden,DEU,Universities
+371,National Aviation University,UKR,Universities
+372,Institute for Computer Science and Control Hungarian Academy of Sciences,HUN,Government
+373,University of Pretoria,ZAF,Universities
+374,Universidad Carlos III de Madrid *,ESP,Universities
+375,Oak Ridge National Laboratory,USA,Government
+376,North China Electric Power University,CHN,Universities
+377,Khalifa University *,ARE,Universities
+378,Peng Cheng Laboratory,CHN,Government
+379,Beijing Institute of Control Engineering,CHN,Government
+380,Nagoya University *,JPN,Universities
+380,University of Western Ontario,CAN,Universities
+382,Huaqiao University,CHN,Universities
+383,Ecole Normale Superieure Paris-Saclay *,FRA,Universities
+384,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities
+385,COMSATS Institute of Information Technology *,PAK,Universities
+386,Technische Universitat Darmstadt,DEU,Universities
+387,Kyung Hee University *,KOR,Universities
+388,University of Nottingham China Campus,CHN,Universities
+389,West Virginia University *,USA,Universities
+390,Inha University,KOR,Universities
+391,Institut National Polytechnique de Toulouse *,FRA,Universities
+392,City University London,GBR,Universities
+393,Universidade Estadual de Campinas *,BRA,Universities
+394,University College Dublin,IRL,Universities
+395,VIT University,IND,Universities
+396,"Airbus, France",FRA,Companies
+396,Ningbo University,CHN,Universities
+398,Pusan National University,KOR,Universities
+399,Wenzhou University,CHN,Universities
+400,"Siemens AG, Germany",DEU,Companies
+401,Deakin University *,AUS,Universities
+402,"State University of New York, Stony Brook *",USA,Universities
+403,University of Wollongong *,AUS,Universities
+404,"Indian Institute of Technology, Roorkee",IND,Universities
+405,King Abdulaziz University *,SAU,Universities
+406,Qian Xuesen Laboratory of Space Technology,CHN,Government
+407,National Yang Ming Chiao Tung University,TWN,Universities
+408,"University of Illinois, Chicago *",USA,Universities
+409,"Rolls-Royce plc, United Kingdom",GBR,Companies
+410,Universite de Lille *,FRA,Universities
+411,"Indian Institute of Technology, Madras",IND,Universities
+412,Thapar Institute of Engineering and Technology,IND,Universities
+413,Poznan University of Technology,POL,Universities
+414,Naval Postgraduate School,USA,Universities
+415,Shandong Normal University,CHN,Universities
+416,National Taiwan University,TWN,Universities
+417,Hangzhou Dianzi University,CHN,Universities
+418,Consejo Nacional de Ciencia y Tecnologia *,MEX,Government
+418,Hunan Normal University,CHN,Universities
+420,Universite de Liege,BEL,Universities
+420,Shanghai Maritime University,CHN,Universities
+422,Memorial University of Newfoundland,CAN,Universities
+423,Jiangnan University *,CHN,Universities
+424,"University of Missouri, Columbia *",USA,Universities
+425,Ecole Centrale de Lyon *,FRA,Universities
+426,"Indian Institute of Technology, Delhi",IND,Universities
+427,University of Defence,CZE,Universities
+427,Universita degli Studi di Trento,ITA,Universities
+429,Chengdu University,CHN,Universities
+430,PetroChina Co Ltd,CHN,Companies
+431,China University of Geosciences,CHN,Universities
+431,Universita Politecnica delle Marche,ITA,Universities
+433,Chang'an University ,CHN,Universities
+434,Lomonosov  Moscow State University,RUS,Universities
+435,Indian Institute of Science,IND,Universities
+436,Universite Cote d’Azur *,FRA,Universities
+437,Pandit Deendayal Petroleum University,IND,Universities
+438,Istanbul Technical University,TUR,Universities
+439,Universita degli Studi di Modena e Reggio Emilia,ITA,Universities
+440,Universite PSL *,FRA,Universities
+441,National Institute of Technology Rourkela,IND,Universities
+442,Institute of Science and Innovation in Mechanical and Industrial Engineering,PRT,Non-Profit
+443,Harbin University of Science and Technology,CHN,Universities
+444,"Agency for Science, Technology and Research Singapore *",SGP,Government
+445,"Indian Institute of Technology, Kanpur",IND,Universities
+446,Lunds University,SWE,Universities
+447,Agency for Defense Development,KOR,Government
+448,Centro de Investigacion y de Estudios Avanzados del IPN *,MEX,Universities
+448,Universite de Lorraine *,FRA,Universities
+450,Universidad de Castilla-La Mancha *,ESP,Universities
+451,University of Jinan,CHN,Universities
+452,"University of California, Santa Barbara",USA,Universities
+453,"Indian Institute of Technology, Bombay",IND,Universities
+454,Universite de Toulouse,FRA,Universities
+455,Ocean University of China,CHN,Universities
+456,"Institute of Acoustics, Chinese Academy of Sciences",CHN,Government
+457,Clemson University,USA,Universities
+458,Gdansk University of Technology,POL,Universities
+459,Observatoire de Paris,FRA,Government
+460,University of Twente,NLD,Universities
+461,Universidad Nacional Autonoma de Mexico,MEX,Universities
+462,"College of Engineering, Pune",IND,Universities
+463,Dalian Maritime University,CHN,Universities
+463,"Amity University, Dubai",ARE,Universities
+465,Universita degli Studi di Genova,ITA,Universities
+466,National Research Council Canada *,CAN,Government
+466,"Ford Motor Co, USA",USA,Companies
+468,"Indian Institute of Technology, Indore",IND,Universities
+469,Anna University,IND,Universities
+470,Lublin University of Technology,POL,Universities
+471,Vrije Universiteit Brussel,BEL,Universities
+472,Amity University *,IND,Universities
+473,Chungnam National University,KOR,Universities
+474,Beijing Aerospace Automatic Control Institute,CHN,Government
+475,Hungarian Academy of Sciences *,HUN,Government
+476,Rzeszow University of Technology,POL,Universities
+477,Indian Institute of Technology Guwahati,IND,Universities
+478,East China Jiaotong University,CHN,Universities
+479,Sherbrooke University,CAN,Universities
+480,Universite de Poitiers *,FRA,Universities
+481,APJ Abdul Kalam Technological University,IND,Universities
+482,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+483,Academy of Military Sciences of the Chinese People's Liberation Army *,CHN,Government
+484,Universita degli Studi di Firenze,ITA,Universities
+485,Lanzhou University of Technology,CHN,Universities
+486,"Shenyang Institute of Automation, Chinese Academy of Sciences",CHN,Government
+487,Stevens Institute of Technology,USA,Universities
+488,Indian Institute of Technology Mandi,IND,Universities
+489,Yeungnam University,KOR,Universities
+490,The University of Newcastle,AUS,Universities
+491,East China University of Science and Technology,CHN,Universities
+491,Lovely Professional University,IND,Universities
+493,Graduate University for Advanced Studies,JPN,Universities
+494,Johannes Kepler Universitat Linz,AUT,Universities
+495,Xi'an University of Post and Telecommunications,CHN,Universities
+495,Technische Universitat Wien *,AUT,Universities
+497,Southwest Petroleum University,CHN,Universities
+498,Mississippi State University,USA,Universities
+499,Universidade de Brasilia,BRA,Universities
+500,Motilal Nehru National Institute of Technology,IND,Universities
+501,Ecole Nationale Superieure d'Arts et Metiers,FRA,Universities
+502,"University of Hawaii, Manoa *",USA,Universities
+503,Technische Universitat Hamburg-Harburg,DEU,Universities
+504,"University of Connecticut, Storrs *",USA,Universities
+505,George Mason University,USA,Universities
+506,Hanoi University of Science and Technology,VNM,Universities
+507,Babol Noshirvani University of Technology,IRN,Universities
+508,Shaanxi University of Science and Technology,CHN,Universities
+509,Universite Claude Bernard Lyon 1 *,FRA,Universities
+510,Saint Petersburg State University,RUS,Universities
+511,Universite de Nantes *,FRA,Universities
+511,Universitat Autonoma de Barcelona *,ESP,Universities
+513,Chongqing Jiaotong University,CHN,Universities
+514,Civil Aviation University of China,CHN,Universities
+515,Ford Motor Company *,MUL,Companies
+516,Istituto Nazionale di Astrofisica *,ITA,Government
+517,Ferdowsi University of Mashhad,IRN,Universities
+518,"Moscow Aviation Institute, State University of Aerospace Technologies",RUS,Universities
+519,Universitat der Bundeswehr Munchen,DEU,Universities
+520,Taiyuan University of Science and Technology,CHN,Universities
+521,Universite de Franche-Comte *,FRA,Universities
+522,Istituto Nazionale di Fisica Nucleare *,ITA,Government
+523,Universite de Strasbourg *,FRA,Universities
+524,Shanghai Aerospace Control Technology Institute,CHN,Government
+525,Universite de Technologie de Belfort-Montbeliard *,FRA,Universities
+526,Henan University of Science and Technology *,CHN,Universities
+527,National Institute of Technology Silchar,IND,Universities
+528,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+529,Nanjing Forestry University,CHN,Universities
+530,Yangzhou University,CHN,Universities
+531,"Aerospace Information Research Institute, Chinese Academy of Sciences",CHN,Government
+532,Shiraz University of Technology,IRN,Universities
+533,North China University of Technology,CHN,Universities
+534,Zhejiang Normal University,CHN,Universities
+535,"National Innovation Institute of Defense Technology, Academy of Military Sciences of PLA",CHN,Government
+536,University of Electro-Communications,JPN,Universities
+537,Universidad de Chile *,CHL,Universities
+538,Petronas University of Technology,MYS,Universities
+539,University of Ulsan *,KOR,Universities
+540,Florida State University *,USA,Universities
+541,University of Shanghai for Science and Technology,CHN,Universities
+542,National Technical University of Ukraine - Kyiv Polytechnic Institute,UKR,Universities
+543,Tokyo Institute of Technology,JPN,Universities
+544,Brno University of Technology,CZE,Universities
+545,Tata Group *,MUL,Companies
+546,Beijing Normal University *,CHN,Universities
+547,Visvesvaraya National Institute of Technology,IND,Universities
+548,Chung-Ang University *,KOR,Universities
+549,"University of Maryland, Baltimore County",USA,Universities
+550,University of Malaya *,MYS,Universities
+550,University of Leicester,GBR,Universities
+552,Michigan Technological University,USA,Universities
+553,K.N.Toosi University of Technology,IRN,Universities
+554,Coventry University,GBR,Universities
+555,Hunan University of Technology,CHN,Universities
+556,Indian Institute of Technology,IND,Universities
+557,Institut Polytechnique de Grenoble *,FRA,Universities
+558,Washington University in Saint Louis *,USA,Universities
+559,Anhui University of Technology,CHN,Universities
+560,"Louisiana State University, Baton Rouge",USA,Universities
+561,Xi'an University of Architecture and Technology,CHN,Universities
+562,"University of Technology, Malaysia",MYS,Universities
+563,Qilu University of Technology,CHN,Universities
+564,Institute of Spacecraft System Engineering,CHN,Government
+565,Hanyang University *,KOR,Universities
+566,Universita degli Studi di Bergamo,ITA,Universities
+567,Kaunas University of Technology ,LTU,Universities
+568,Taiyuan University of Technology,CHN,Universities
+569,Czech Technical University in Prague,CZE,Universities
+570,Technical University of Kosice,SVK,Universities
+571,Bandung Institute of Technology,IDN,Universities
+572,Universitat Bremen *,DEU,Universities
+573,"Institute of Engineering Thermophysics, Chinese Academy of Sciences",CHN,Government
+574,Leibniz Gemeinschaft *,DEU,Government
+575,Peter the Great St Petersburg Polytechnic University,RUS,Universities
+575,Suzhou University of Science and Technology,CHN,Universities
+577,Nanchang University *,CHN,Universities
+578,"Indian Institute of Technology, Kharagpur",IND,Universities
+579,China Academy of Engineering Physics *,CHN,Government
+580,Don State Technical University,RUS,Universities
+581,Shahid Beheshti University,IRN,Universities
+582,Cairo University *,EGY,Universities
+583,BMS College of Engineering,IND,Universities
+583,Instituto Nacional de Tecnica Aeroespacial Esteban Terradas *,ESP,Government
+585,Erciyes University,TUR,Universities
+585,Skolkovo Institute of Science and Technology,RUS,Universities
+587,KL University,IND,Universities
+588,Academy of Sciences of the Czech Republic *,CZE,Government
+589,Ecole Polytechnique de Montreal,CAN,Universities
+590,Franche-Comte Electronique Mecanique Thermique et Optique - Sciences et Technologies,FRA,Government
+591,Tianjin University of Technology,CHN,Universities
+592,Shiraz University,IRN,Universities
+593,Isfahan University of Technology,IRN,Universities
+594,Universidade Federal de Minas Gerais,BRA,Universities
+595,Tel Aviv University,ISR,Universities
+596,Guizhou University,CHN,Universities
+597,Institute of Space Technology,PAK,Universities
+598,Henan Polytechnic University,CHN,Universities
+599,China University of Petroleum,CHN,Universities
+600,Shanghai Academy of Spaceflight Technology,CHN,Government
+601,Ecole Nationale Superieur de Mecaniques et des MicroTechniques *,FRA,Universities
+602,Universite de Bordeaux *,FRA,Universities
+603,Foshan University,CHN,Universities
+604,Ben-Gurion University of the Negev *,ISR,Universities
+605,Lawrence Livermore National Laboratory *,USA,Government
+606,Military University of Technology,POL,Universities
+607,"China University of Petroleum, Beijing",CHN,Universities
+608,Wroclaw University of Science and Technology,POL,Universities
+609,Nanjing University of Technology,CHN,Universities
+610,"Islamic Azad University, Science and Research Branch",IRN,Universities
+611,"University of Alabama, Huntsville",USA,Universities
+611,Universidade Federal do Rio de Janeiro *,BRA,Universities
+613,Middle East Technical University,TUR,Universities
+614,"Ormat Technologies, United States",USA,Companies
+614,Ormat Technologies Inc *,MUL,Companies
+616,Council of Scientific and Industrial Research *,IND,Government
+617,Technische Universitat Dortmund *,DEU,Universities
+617,Zagazig University *,EGY,Universities
+619,University of Tabriz,IRN,Universities
+620,Shanghai University of Engineering Science,CHN,Universities
+621,Ecole Nationale Superieure de Mecanique et d Aerotechnique *,FRA,Universities
+622,Universita degli Studi dell Aquila,ITA,Universities
+623,University of Guilan,IRN,Universities
+624,Aerospace Corp,USA,Companies
+625,Tokyo Metropolitan University,JPN,Universities
+626,"Tata Group, India",IND,Companies
+627,Universidade Federal de Santa Catarina *,BRA,Universities
+628,Beijing Institute of Tracking and Telecommunications Technology,CHN,Non-Profit
+629,University of South Australia,AUS,Universities
+630,Shenyang Aerospace University,CHN,Universities
+631,University of Belgrade,SRB,Universities
+632,Nanjing University of Information Science and Technology,CHN,Universities
+633,University of Zilina,SVK,Universities
+634,Tiangong University,CHN,Universities
+635,"Institute of Metal Research, Chinese Academy of Sciences",CHN,Government
+636,University of Manitoba,CAN,Universities
+637,Universita degli Studi di Milano,ITA,Universities
+638,National Technical University - Kharkiv Polytechnic Institute,UKR,Universities
+638,Kyoto University *,JPN,Universities
+638,Korea Aerospace University,KOR,Universities
+641,Nanjing Normal University,CHN,Universities
+642,Tadeusz Kosciuszko Cracow University of Technology,POL,Universities
+643,Shenyang University of Technology *,CHN,Universities
+644,Jamia Millia Islamia Central University,IND,Universities
+645,Birla Institute of Technology and Science *,IND,Universities
+646,Universita degli Studi di Salerno,ITA,Universities
+647,Laboratoire de Tribologie et Dynamique des Systemes,FRA,Government
+648,National Institute of Technology Hamirpur,IND,Universities
+649,Sri Siva Subramania Nadar College of Engineering,IND,Universities
+650,Wuhan University of Science and Technology,CHN,Universities
+651,Universite Mohammed V de Rabat *,MAR,Universities
+652,PLA Naval Aviation University,CHN,Universities
+653,Instituto Politecnico do Porto,PRT,Universities
+654,"Indian Institute of Engineering Science and Technology, Shibpur",IND,Universities
+655,"National University of Science and Technology, Islamabad",PAK,Universities
+655,Guru Gobind Singh Indraprastha University,IND,Universities
+657,KIIT University,IND,Universities
+658,Lviv Polytechnic National University,UKR,Universities
+659,University of Cape Town,ZAF,Universities
+660,Universitas Negeri Sebelas Maret,IDN,Universities
+661,Amrita University,IND,Universities
+662,University of Ontario Institute of Technology,CAN,Universities
+663,Inner Mongolia University of Technology,CHN,Universities
+664,Ruhr-Universitat Bochum *,DEU,Universities
+665,Universite de Sfax *,TUN,Universities
+666,Universite Libre de Bruxelles,BEL,Universities
+667,Hebei University of Technology,CHN,Universities
+668,Ecole Centrale de Nantes *,FRA,Universities
+669,Kyushu University *,JPN,Universities
+670,National University of Malaysia *,MYS,Universities
+671,Universidade Federal do Rio Grande do Sul,BRA,Universities
+672,University Putra Malaysia,MYS,Universities
+673,Silesian University of Technology,POL,Universities
+674,Universidad de Zaragoza *,ESP,Universities
+675,Defence Research and Development Organisation,IND,Government
+676,Nantong University *,CHN,Universities
+677,Delhi Technological University,IND,Universities
+678,Shanxi University,CHN,Universities
+679,PLA Rocket Force University of Engineering,CHN,Universities
+680,Grenoble Images Parole Signal Automatique,FRA,Government
+681,Punjab Engineering College,IND,Universities
+682,Universitat Siegen,DEU,Universities
+683,Waseda University,JPN,Universities
+684,Ecole Nationale des Travaux Publics de l'Etat *,FRA,Universities
+685,Universite Polytechnique des Hauts-de-France *,FRA,Universities
+686,Keio University *,JPN,Universities
+687,Politehnica University of Bucharest,ROU,Universities
+688,Sathyabama Institute of Science and Technology,IND,Universities
+689,Xihua University,CHN,Universities
+690,"Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences",CHN,Government
+691,Technische Universitat Graz *,AUT,Universities
+692,Keldysh Institute for Applied Mathematics Russian Academy of Sciences,RUS,Government
+693,Agenzia Spaziale Italiana,ITA,Government
+694,Institut Polytechnique de Bordeaux *,FRA,Universities
+695,Universite Hassan II de Casablanca *,MAR,Universities
+696,Universidade da Beira Interior,PRT,Universities
+697,Beijing Institute of Civil Engineering and Architecture,CHN,Universities
+698,China National Nuclear Corporation *,CHN,Government
+699,Bauman Moscow State Technical University,RUS,Universities
+700,China Special Equipment Inspection and Research Institute,CHN,Government
+701,Pontificia Universidade Catolica do Rio de Janeiro,BRA,Universities
+701,Instituto Politecnico Nacional *,MEX,Universities
+703,Opole University of Technology,POL,Universities
+704,West Pomeranian University of Technology,POL,Universities
+705,University of Johannesburg,ZAF,Universities
+706,Southwest Research Institute,USA,Non-Profit
+707,Beijing Institute of Aeronautical Materials,CHN,Companies
+708,Nanjing Research Institute of Electronics Technology,CHN,Companies
+708,Hiroshima University *,JPN,Universities
+710,International Islamic University Malaysia,MYS,Universities
+711,University of Akron,USA,Universities
+712,Universidade Federal de Uberlandia,BRA,Universities
+713,Shijiazhuang Tiedao University,CHN,Universities
+714,Kyushu Institute of Technology,JPN,Universities
+715,Central Mechanical Engineering Research Institute,IND,Government
+716,"National Astronomical Observatories, Chinese Academy of Science",CHN,Government
+717,Xi'an University of Science and Technology,CHN,Universities
+718,National Aerospace University - Kharkiv Aviation Institute,UKR,Universities
+719,"University of Malaysia, Pahang",MYS,Universities
+720,Indian Space Research Organization *,IND,Government
+721,Manipal University,IND,Universities
+722,"Technical University of Malaysia, Melaka",MYS,Universities
+723,"University of Colorado, Denver *",USA,Universities
+724,National Institute of Technology Durgapur,IND,Universities
+725,"Laboratoire d'Automatique, de Mecanique et d'Informatique Industrielles et Humaines",FRA,Government
+726,"Islamic Azad University, Najafabad Branch",IRN,Universities
+727,Universite Gustave Eiffel *,FRA,Universities
+728,China Earthquake Administration,CHN,Government
+729,"University of Science, Malaysia *",MYS,Universities
+730,Manipal Global Education Group *,MUL,Companies
+731,National Institute of Technology Raipur,IND,Universities
+732,"Indian Institute of Technology, Hyderabad",IND,Universities
+733,Symbiosis International University,IND,Universities
+734,Ufa University of Science and Technology,RUS,Universities
+735,"Changchun Institute of Optics Fine Mechanics and Physics, Chinese Academy of Sciences",CHN,Government
+736,Jiangsu University of Science and Technology,CHN,Universities
+737,Vel Tech University,IND,Universities
+738,Moscow Institute of Physics and Technology,RUS,Universities
+739,National Central University,TWN,Universities
+740,National Academy of Sciences of Ukraine *,UKR,Government
+741,"University of the Witwatersrand, Johannesburg",ZAF,Universities
+742,National Institute of Technology Karnataka,IND,Universities
+743,Universidad Nacional de Colombia *,COL,Universities
+744,University of Windsor,CAN,Universities
+745,Universidade Tecnologica Federal do Parana,BRA,Universities
+746,Florida Atlantic University,USA,Universities
+747,Indian Institute of Technology Patna,IND,Universities
+748,Helwan University Cairo *,EGY,Universities
+749,Tubitak Scientific and Technical Research Council of Turkey *,TUR,Government
+750,"National Institute of Technology, Tiruchirappalli",IND,Universities
+751,University of Pune,IND,Universities
+752,China Aerospace Science and Industry Corporation,CHN,Government
+753,Odessa National Polytechnic University,UKR,Universities
+754,Malaviya National Institute of Technology,IND,Universities
+755,University of Delhi *,IND,Universities
+756,Maharishi Markandeshwar University *,IND,Universities
+757,Samara University,RUS,Universities
+758,Nanchang Hangkong University,CHN,Universities
+759,Changwon National University,KOR,Universities
+759,Andhra University,IND,Universities
+761,BS Abdur Rahman Crescent Institute of Science and Technology,IND,Universities
+762,Information Engineering University,CHN,Universities
+763,"Academy of Mathematics and Systems Science, Chinese Academy of Sciences",CHN,Government
+764,Korea Aerospace Research Institute,KOR,Government
+765,Malek-Ashtar University of Technology,IRN,Universities
+766,Kyungpook National University *,KOR,Universities
+767,Gyeongsang National University *,KOR,Universities
+768,Sumy State University,UKR,Universities
+769,Cukurova University,TUR,Universities
+770,Kazan National Research Technical University named after AN Tupolev,RUS,Universities
+771,Konkuk University *,KOR,Universities
+772,Xinjiang University,CHN,Universities
+773,Kielce University of Technology,POL,Universities
+774,Defence and Science Technology Organisation Australia,AUS,Government
+775,Universidade do Estado do Rio de Janeiro *,BRA,Universities
+776,University of West Bohemia,CZE,Universities
+777,Shantou University *,CHN,Universities
+778,"University of Colorado, Colorado Springs",USA,Universities
+778,Jiangsu Teachers University of Technology,CHN,Universities
+780,North-West University,ZAF,Universities
+781,Mansoura University *,EGY,Universities
+782,Nanjing Institute of Technology,CHN,Universities
+783,Karunya Institute of Technology and Sciences,IND,Universities
+784,Veer Surendra Sai University of Technology,IND,Universities
+785,National Institute of Technology Warangal,IND,Universities
+785,Moscow Polytechnic University,RUS,Universities
+787,Maulana Azad National Institute of Technology,IND,Universities
+788,National Taiwan University of Science and Technology,TWN,Universities
+789,Vladimir State University,RUS,Universities
+790,University of Petroleum and Energy Studies,IND,Universities
+791,Shahrood University of Technology,IRN,Universities
+792,Central South University of Forestry and Technology,CHN,Universities
+793,Guilin University of Electronic Technology,CHN,Universities
+793,Xi'an Modern Chemistry Research Institute,CHN,Government
+795,National Chung Hsing University,TWN,Universities
+796,China Jiliang University,CHN,Universities
+797,Ministry of Transport,CHN,Government
+798,Khristianovich Institute of Theoretical and Applied Mechanics Russian Academy of Sciences,RUS,Government
+799,National Institute of Technology Kurukshetra,IND,Universities
+800,Shandong Jianzhu University,CHN,Universities
+801,Beijing Information Science and Technology University,CHN,Universities
+802,M. S. Ramaiah Institute of Technology,IND,Universities
+803,Sri Ramaswamy Memorial University,IND,Universities
+804,Academy of Scientific and Innovative Research,IND,Universities
+805,"Indian Institute of Technology, Varanasi",IND,Universities
+806,Universita degli Studi di Palermo,ITA,Universities
+807,Ecole Nationale d'Ingenieurs de Tunis,TUN,Universities
+808,"Petrobras, Brazil",BRA,Companies
+808,Petrobras *,MUL,Companies
+810,"Hefei Institutes of Physical Sciences, Chinese Academy of Sciences",CHN,Government
+811,Lanzhou Jiaotong University,CHN,Universities
+812,National Institute of Technology Calicut,IND,Universities
+813,Henan University of Technology,CHN,Universities
+814,Le Quy Don Technical University,VNM,Universities
+815,Chandigarh University,IND,Universities
+816,"Shanghai Astronomical Observatory, Chinese Academy of Sciences ",CHN,Government
+817,University of Calcutta,IND,Universities
+818,Guangxi University,CHN,Universities
+819,Rajasthan Technical University,IND,Universities
+820,Southwest University of Science and Technology,CHN,Universities
+821,Naval University of Engineering,CHN,Universities
+822,Christ University,IND,Universities
+823,Universite Sidi Mohamed Ben Abdellah *,MAR,Universities
+824,"College of Engineering, Thiruvananthapuram",IND,Universities
+825,Universite de Tunis El Manar *,TUN,Universities
+826,Gandhi Institute of Technology and Management,IND,Universities
+827,"Indian Institute of Technology, Ropar",IND,Universities
+828,China Gas Turbine Establishment,CHN,Companies
+829,Joint Institute for High Temperatures Research Russian Academy of Sciences,RUS,Government
+830,Perm National Research Polytechnic University,RUS,Universities
+831,Ural Federal University,RUS,Universities
+832,Southern Ural State University,RUS,Universities
+833,Jadavpur University,IND,Universities
+834,"University of Malaysia, Perlis",MYS,Universities
+835,Institute of Terrestrial Magnetism Ionosphere and Radiowave Propagation Russian Academy of Sciences,RUS,Government
+836,University Tunku Abdul Rahman,MYS,Universities
+837,Institut National des Sciences Appliquees de Rouen *,FRA,Universities
+838,Space Research Institute Russian Academy of Sciences,RUS,Government
+839,Kalasalingam Academy of Research and Education,IND,Universities
+839,Shandong University of Technology,CHN,Universities
+841,Universidade Federal Fluminense,BRA,Universities
+842,Bulgarian Academy of Sciences *,BGR,Government
+843,Hindustan Institute of Technology and Science,IND,Universities
+844,University of Miskolc,HUN,Universities
+845,Eastern Mediterranean University,CYP,Universities
+846,Xi'an Technological University,CHN,Universities
+847,Tun Hussein Onn University of Malaysia,MYS,Universities
+848,National Aerospace Laboratories,IND,Government
+849,Lanzhou Institute of Physics,CHN,Government
+849,Dokuz Eylul University *,TUR,Universities
+851,Novosibirsk State University,RUS,Universities
+852,National Institute of Technology Jamshedpur,IND,Universities
+853,Universiti Teknologi MARA,MYS,Universities
+854,Changchun University of Science and Technology,CHN,Universities
+855,China Academy of Railway Sciences,CHN,Government
+856,Liaoning Technical University,CHN,Universities
+857,Indira Gandhi Centre for Atomic Research,IND,Government
+858,Slovak University of Technology,SVK,Universities
+858,Beijing Institute of Space Mechanics and Electricity,CHN,Government
+860,REVA University,IND,Universities
+861,Institute of Thermophysics Siberian Branch of the Russian Academy of Science,RUS,Government
+862,Covenant University,NGA,Universities
+863,Nuclear Power Institute of China,CHN,Government
+864,Cleveland State University,USA,Universities
+865,Beijing Institute of Spacecraft Environment Engineering,CHN,Government
+866,Chengdu University of Technology,CHN,Universities
+867,Universidad Autonoma de Queretaro,MEX,Universities
+868,Technical University of Cluj-Napoca,ROU,Universities
+869,Volgograd State Technical University,RUS,Universities
+870,Eskisehir Osmangazi University *,TUR,Universities
+871,China North Vehicle Research Institute,CHN,Government
+872,Syiah Kuala University,IDN,Universities
+873,Yantai University,CHN,Universities
+874,Siksha O Anusandhan University,IND,Universities
+875,University of Lagos,NGA,Universities
+876,Birla Institute of Technology,IND,Universities
+877,Universite de Monastir,TUN,Universities
+878,Liaocheng University *,CHN,Universities
+879,Anhui Polytechnic University,CHN,Universities
+880,Banaras Hindu University,IND,Universities
+881,Dayalbagh Educational Institute,IND,Universities
+882,Ho Chi Minh City University of Technology,VNM,Universities
+883,Jain University,IND,Universities
+884,Aligarh Muslim University,IND,Universities
+885,Bannari Amman Institute of Technology,IND,Universities
+886,"Shanghai Institute of Technical Physics, Chinese Academy of Sciences",CHN,Government
+887,Ho Chi Minh City University of Technology And Education,VNM,Universities
+888,Irkutsk State Technical University,RUS,Universities
+889,Prince Sattam Bin Abdulaziz University,SAU,Universities
+890,University of Danang,VNM,Universities
+891,Tula State University,RUS,Universities
+892,Vikram Sarabhai Space Centre,IND,Government
+893,PLA Dalian Naval Academy,CHN,Government
+894,PES University,IND,Universities
+895,PSG College of Technology,IND,Universities
+896,Yasar University,TUR,Universities
+897,Bhabha Atomic Research Centre,IND,Government
+898,Industrial University of Ho Chi Minh City,VNM,Universities
+899,Universite de Tunis *,TUN,Universities
+900,Civil Aviation Flight University of China,CHN,Universities
+901,Universite de Sousse,TUN,Universities
+902,Southern Federal University,RUS,Universities
+903,GLA University,IND,Universities
+904,University of Namibia,NAM,Universities
+905,Annamalai University,IND,Universities
+906,Homi Bhabha National Institute,IND,Universities
+907,SEGi University,MYS,Universities
+908,Sevastopol State University,UKR,Universities
+909,Sharda University,IND,Universities
+910,Hung Yen University of Technology and Education,VNM,Universities

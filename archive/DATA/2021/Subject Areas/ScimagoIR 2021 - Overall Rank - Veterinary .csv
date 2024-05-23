@@ -1,0 +1,791 @@
+Global Rank,Institution,Country,Sector
+1,U.S. Department of Health and Human Services *,USA,Government
+2,"University of California, Davis *",USA,Universities
+3,United States Department of Agriculture,USA,Government
+4,Chinese Academy of Agricultural Sciences *,CHN,Government
+5,Ministry of Agriculture,CHN,Government
+6,Universidade de Sao Paulo *,BRA,Universities
+7,"Royal Veterinary College, University of London",GBR,Universities
+8,Centers for Disease Control and Prevention,USA,Health
+9,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+10,North Carolina State University,USA,Universities
+11,Indian Council of Agricultural Research *,IND,Government
+12,University of Guelph,CAN,Universities
+13,Cornell University *,USA,Universities
+14,Ghent University,BEL,Universities
+15,"University of Minnesota, Twin Cities *",USA,Universities
+16,Chinese Academy of Sciences *,CHN,Government
+17,The University of Edinburgh *,GBR,Universities
+18,University of Georgia,USA,Universities
+19,National Institutes of Health,USA,Health
+20,"Colorado State University, Fort Collins *",USA,Universities
+21,Veterinarmedizinische Universitat Wien *,AUT,Universities
+22,University of Florida *,USA,Universities
+23,University of Copenhagen,DNK,Universities
+24,World Health Organization Switzerland,CHE,Health
+25,"Ohio State University, Columbus *",USA,Universities
+26,University of Sydney,AUS,Universities
+27,Iowa State University,USA,Universities
+28,University of Pennsylvania *,USA,Universities
+29,U.S. Army *,USA,Government
+30,Utrecht University *,NLD,Universities
+31,Universita degli Studi di Pisa,ITA,Universities
+32,"Texas A&M University, College Station",USA,Universities
+33,Universitat Zurich,CHE,Universities
+34,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+34,Centre National de la Recherche Scientifique *,FRA,Government
+35,University of Melbourne *,AUS,Universities
+36,"University of Wisconsin, Madison *",USA,Universities
+37,Universitat Bern,CHE,Universities
+38,Sanofi *,MUL,Companies
+39,University of Washington *,USA,Universities
+40,Stiftung Tierarztliche Hochschule Hannover,DEU,Universities
+41,University of Oxford,GBR,Universities
+42,University of Minnesota Health and Medicine,USA,Universities
+43,GlaxoSmithKline *,MUL,Companies
+44,Shandong Normal University,CHN,Universities
+45,Swedish University of Agricultural Sciences,SWE,Universities
+46,Yangzhou University,CHN,Universities
+47,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+48,Ministry of Education of the People's Republic of China,CHN,Government
+49,University of Liverpool *,GBR,Universities
+50,Friedrich Loeffler Institutes Bundesforschungsinstitut fur Tiergesundheit,DEU,Government
+51,Merck *,MUL,Companies
+51,Helmholtz Gemeinschaft *,DEU,Government
+52,China Agricultural University,CHN,Universities
+53,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+54,Universitat Autonoma de Barcelona *,ESP,Universities
+55,London School of Hygiene and Tropical Medicine,GBR,Universities
+56,"Sanofi, United States",USA,Companies
+57,Universidad Complutense de Madrid *,ESP,Universities
+58,Universidade Federal de Minas Gerais,BRA,Universities
+59,The University of Queensland *,AUS,Universities
+60,"Merck & Co Inc, United States",USA,Companies
+61,University of Bristol,GBR,Universities
+62,Kansas State University,USA,Universities
+63,Seoul National University *,KOR,Universities
+64,Program for Appropriate Technology in Health USA,USA,Non-Profit
+65,University of Saskatchewan,CAN,Universities
+66,Indian Veterinary Research Institute,IND,Universities
+67,Center for Disease Control and Prevention China,CHN,Health
+68,University of Nottingham *,GBR,Universities
+69,Fundacao Oswaldo Cruz *,BRA,Health
+70,University of Illinois at Urbana-Champaign *,USA,Universities
+71,Michigan State University,USA,Universities
+72,Public Health England,GBR,Health
+73,Boehringer Ingelheim *,MUL,Companies
+74,Zhejiang University *,CHN,Universities
+75,Ludwig-Maximilians Universitat Munchen *,DEU,Universities
+76,Universita degli Studi di Milano,ITA,Universities
+76,Universita degli Studi di Padova,ITA,Universities
+77,Massey University,NZL,Universities
+78,Bill and Melinda Gates Foundation,USA,Non-Profit
+79,University of Glasgow *,GBR,Universities
+80,Northwest A and F University,CHN,Universities
+81,South China Agricultural University,CHN,Universities
+82,Virginia Polytechnic Institute and State University,USA,Universities
+83,University of Florida Health Science Center,USA,Health
+84,Wageningen University and Research Centre *,NLD,Universities
+85,Nanjing Agricultural University,CHN,Universities
+86,University of Pretoria,ZAF,Universities
+87,Johns Hopkins University *,USA,Universities
+88,Universidade Federal do Rio Grande do Sul,BRA,Universities
+89,Empresa Brasileira de Pesquisa Agropecuaria,BRA,Government
+90,National Institute of Allergy and Infectious Diseases,USA,Health
+91,Emory University *,USA,Universities
+92,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+93,"Pfizer Inc, United States",USA,Companies
+93,National Veterinary Institute,NOR,Government
+94,Pfizer *,MUL,Companies
+95,University of Helsinki,FIN,Universities
+96,Technical University of Denmark,DNK,Universities
+97,Hokkaido University *,JPN,Universities
+98,University of Oklahoma Health Sciences Center,USA,Universities
+99,"GlaxoSmithKline, Belgium",BEL,Companies
+100,Universidad de Murcia *,ESP,Universities
+101,University of Oklahoma *,USA,Universities
+102,"Monash University, Melbourne *",AUS,Universities
+103,Statens Serum Institut,DNK,Health
+104,University of Texas Medical Branch ,USA,Universities
+105,Aarhus University *,DNK,Universities
+106,"Agence Nationale de la Securite Sanitaire de l'Alimentation, de l'Environnement et du Travail *",FRA,Health
+107,University of Cambridge *,GBR,Universities
+108,Huazhong Agricultural University,CHN,Universities
+109,University College Dublin,IRL,Universities
+110,"University of New England, Australia",AUS,Universities
+111,The University of Adelaide,AUS,Universities
+112,Duke University *,USA,Universities
+113,Queensland University of Technology,AUS,Universities
+114,Murdoch Children's Research Institute,AUS,Health
+115,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement *,FRA,Government
+115,Center for Biologics Evaluation and Research,USA,Government
+116,Norwegian University of Life Sciences,NOR,Universities
+117,"University of Missouri, Columbia *",USA,Universities
+118,Universite de Montreal,CAN,Universities
+119,Harvard University *,USA,Universities
+120,Purdue University,USA,Universities
+121,Institut National de la Sante et de la Recherche Medicale *,FRA,Health
+122,Universidad de Cordoba *,ESP,Universities
+123,University of Amsterdam *,NLD,Universities
+124,University of Calgary,CAN,Universities
+125,Leibniz Gemeinschaft *,DEU,Government
+126,Universidad Nacional Autonoma de Mexico,MEX,Universities
+127,Boehringer Ingelheim GmbH Germany,DEU,Companies
+128,Sichuan Agricultural University,CHN,Universities
+129,Tufts University,USA,Universities
+130,Universidade Estadual de Londrina,BRA,Universities
+131,St Georges University of London,GBR,Universities
+132,McGill University,CAN,Universities
+133,Cincinnati Children's Hospital Medical Center,USA,Health
+134,Murdoch University,AUS,Universities
+135,University of Toronto,CAN,Universities
+136,University of Pittsburgh *,USA,Universities
+137,The University of British Columbia,CAN,Universities
+138,International Livestock Research Institute Kenya,KEN,Government
+139,Woodruff Health Sciences Center,USA,Health
+140,Universidad de Zaragoza *,ESP,Universities
+141,Instituto de Salud Carlos III *,ESP,Health
+142,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+143,Chulalongkorn University,THA,Universities
+144,Polish Academy of Sciences *,POL,Government
+145,Ohio State University Wexner Medical Center,USA,Health
+146,Chonbuk National University *,KOR,Universities
+147,University of Chinese Academy of Sciences,CHN,Universities
+148,National Dairy Research Institute,IND,Government
+148,"University of Tennessee, Knoxville *",USA,Universities
+149,University Putra Malaysia,MYS,Universities
+150,Junta de Comunidades de Castilla-La Mancha Toledo *,ESP,Government
+150,Imperial College London,GBR,Universities
+151,Queen's University Belfast,GBR,Universities
+151,Hebrew University of Jerusalem,ISR,Universities
+152,University of Gothenburg,SWE,Universities
+153,Instituto de Investigacion en Recursos Cinegeticos,ESP,Government
+153,Irish Agriculture and Food Development Authority,IRL,Government
+154,Universite Francois Rabelais de Tours *,FRA,Universities
+155,Freie Universitat Berlin,DEU,Universities
+156,Leiden University *,NLD,Universities
+156,University of Kentucky *,USA,Universities
+157,Henan Agricultural University,CHN,Universities
+158,"University of North Carolina, Chapel Hill *",USA,Universities
+159,US Food and Drug Administration,USA,Government
+160,Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria  *,ESP,Government
+161,"Washington State University, Pullman *",USA,Universities
+162,Universidade Federal de Santa Maria *,BRA,Universities
+163,University of Tokyo *,JPN,Universities
+164,"Boehringer Ingelheim, USA",USA,Companies
+165,Veterans Affairs Medical Centers *,USA,Health
+166,Vanderbilt University *,USA,Universities
+167,Virginia-Maryland Regional College of Veterinary Medicine,USA,Universities
+168,Universita degli Studi di Napoli Federico II,ITA,Universities
+168,Universita degli Studi di Bari,ITA,Universities
+169,Universidad de Castilla-La Mancha *,ESP,Universities
+170,"University of Maryland, Baltimore",USA,Universities
+171,Junta de Comunidades de Castilla-La Mancha Ciudad Real,ESP,Government
+172,Academy of Military Medical Sciences *,CHN,Health
+173,Hospital for Tropical Diseases *,VNM,Health
+174,Universite de Rennes 1 *,FRA,Universities
+175,University of Life Sciences in Lublin,POL,Universities
+176,Auburn University,USA,Universities
+177,Oxford University Clinical Research Unit,VNM,Universities
+177,National Veterinary Institute Sweden,SWE,Government
+177,National Hospital for Tropical Diseases *,VNM,Health
+178,Kasetsart University,THA,Universities
+179,The Pirbright Institute,GBR,Government
+179,University College London *,GBR,Universities
+180,Mayo Clinic *,USA,Health
+181,Biotechnology and Biological Sciences Research Council *,GBR,Government
+182,Istituto Superiore di Sanita,ITA,Health
+182,Universita degli Studi di Torino,ITA,Universities
+183,University of Alberta,CAN,Universities
+184,Jilin University *,CHN,Universities
+184,"University of Arkansas, Fayetteville",USA,Universities
+185,Radboud University Nijmegen Medical Centre,NLD,Health
+186,Institut Pasteur de Paris *,FRA,Health
+187,Rural Development Administration *,KOR,Government
+188,University of Lincoln,GBR,Universities
+188,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities
+189,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+190,Heilongjiang Bayi Agricultural University,CHN,Universities
+191,Universidade Federal do Parana,BRA,Universities
+192,Dalhousie University,CAN,Universities
+193,Zagazig University *,EGY,Universities
+194,Mississippi State University,USA,Universities
+195,Erasmus University Rotterdam *,NLD,Universities
+195,Vanderbilt University Medical Center,USA,Health
+196,Universidade Federal de Lavras,BRA,Universities
+196,University of Antwerp,BEL,Universities
+197,Tamil Nadu Veterinary and Animal Sciences University,IND,Universities
+198,Erasmus Medical Center,NLD,Health
+199,Osaka University *,JPN,Universities
+200,UC Davis Health System,USA,Health
+201,University of Pennsylvania Health System,USA,Health
+202,Ecole Nationale Veterinaire de Toulouse *,FRA,Universities
+203,"University of Nebraska, Lincoln",USA,Universities
+204,National Institute for Public Health and the Environment,NLD,Health
+205,Duke Medicine,USA,Health
+206,Warsaw University of Life Sciences,POL,Universities
+207,The University of Hong Kong *,HKG,Universities
+208,Stanford University *,USA,Universities
+209,Universitat Basel,CHE,Universities
+209,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+210,Complejo Hospitalario Regional Reina Sofia,ESP,Health
+211,Uppsala University,SWE,Universities
+212,Universidade do Porto *,PRT,Universities
+213,"University of California, San Diego *",USA,Universities
+214,Gifu University *,JPN,Universities
+215,AgResearch Ltd,NZL,Government
+216,National Veterinary Research Institute,POL,Government
+217,Swiss Tropical and Public Health Institute,CHE,Government
+218,Universite de Liege,BEL,Universities
+219,"University of Colorado, Denver *",USA,Universities
+219,Universita degli Studi di Teramo,ITA,Universities
+220,"Louisiana State University, Baton Rouge",USA,Universities
+221,"University of Alabama, Birmingham *",USA,Universities
+222,Cairo University *,EGY,Universities
+223,Justus-Liebig-Universitat Giessen *,DEU,Universities
+224,Universita degli Studi Magna Graecia di Catanzaro,ITA,Universities
+225,Universita degli Studi di Perugia,ITA,Universities
+226,Universidade Federal de Vicosa,BRA,Universities
+226,Universita Cattolica del Sacro Cuore,ITA,Universities
+227,University of Surrey,GBR,Universities
+227,Konkuk University *,KOR,Universities
+228,University of Groningen *,NLD,Universities
+229,South Dakota State University,USA,Universities
+230,Baylor College of Medicine,USA,Universities
+231,University of Manitoba,CAN,Universities
+232,Kyungpook National University *,KOR,Universities
+233,"Oklahoma State University, Stillwater",USA,Universities
+234,Chinese Academy of Medical Sciences and Peking Union Medical College *,CHN,Universities
+235,Catholic University of Leuven,BEL,Universities
+236,Universitat de Barcelona *,ESP,Universities
+237,Universidade Federal Rural de Pernambuco,BRA,Universities
+238,Jiangsu Academy of Agricultural Sciences *,CHN,Government
+239,Universita degli Studi di Messina,ITA,Universities
+240,Institut National Polytechnique de Toulouse *,FRA,Universities
+241,Jagiellonian University,POL,Universities
+242,University of Szeged,HUN,Universities
+243,University of Veterinary and Pharmaceutical Sciences Brno,CZE,Universities
+244,National Agriculture and Food Research Organization,JPN,Government
+244,University of Warmia and Mazury,POL,Universities
+245,"University of Colorado, Anschutz Medical Campus",USA,Universities
+246,Telethon Kids Institute,AUS,Health
+247,Pennsylvania State University *,USA,Universities
+248,Peking University *,CHN,Universities
+249,Instituto Nacional de Tecnologia Agropecuaria,ARG,Government
+250,Tehran University of Medical Sciences *,IRN,Universities
+251,University of Arizona *,USA,Universities
+252,King Saud University *,SAU,Universities
+253,Yale University *,USA,Universities
+254,The University of Western Australia,AUS,Universities
+255,Aix-Marseille Universite *,FRA,Universities
+256,U.S. Department of Health & Human Services,USA,Health
+257,Universidade de Lisboa,PRT,Universities
+258,Universita degli Studi di Udine,ITA,Universities
+259,Leiden University Medical Center,NLD,Health
+260,Griffith University,AUS,Universities
+260,Universidade Federal de Goias,BRA,Universities
+261,University of New South Wales,AUS,Universities
+262,"Universidad de Leon, Spain *",ESP,Universities
+263,Universidad Politecnica de Madrid *,ESP,Universities
+263,Qinghai University,CHN,Universities
+264,"University of the Witwatersrand, Johannesburg",ZAF,Universities
+265,Harvard Medical School,USA,Universities
+266,National Research Centre,EGY,Government
+267,Universita degli Studi di Parma,ITA,Universities
+267,Sun Yat-Sen University *,CHN,Universities
+268,Universidade Federal de Pelotas,BRA,Universities
+268,Mahidol University *,THA,Universities
+269,Universidad Autonoma de Yucatan,MEX,Universities
+270,James Cook University *,AUS,Universities
+271,University of Tehran,IRN,Universities
+272,Animal and Plant Quarantine Agency,KOR,Government
+273,VetAgro Sup *,FRA,Universities
+274,Medical Research Council,GBR,Health
+275,University of Thessaly,GRC,Universities
+275,"University of Michigan, Ann Arbor *",USA,Universities
+276,Centro Nacional de Microbiologia,ESP,Health
+277,Assistance Publique Hopitaux de Paris *,FRA,Health
+277,Instituto Maimonides de Investigacion Biomedica de Cordoba,ESP,Health
+277,Academy of Sciences of the Czech Republic *,CZE,Government
+278,Universite de Paris *,FRA,Universities
+278,Guru Angad Dev Veterinary and Animal Sciences University,IND,Universities
+279,Universite Montpellier *,FRA,Universities
+280,Mashhad University of Medical Sciences,IRN,Universities
+280,Oregon State University,USA,Universities
+280,Laval University,CAN,Universities
+280,Kangwon National University *,KOR,Universities
+281,Hunan Normal University,CHN,Universities
+282,Agriculture and Agri-Food Canada,CAN,Government
+282,Obihiro University of Agriculture and Veterinary Medicine,JPN,Universities
+283,Universidad Autonoma del Estado de Mexico,MEX,Universities
+283,Universidade Federal de Santa Catarina,BRA,Universities
+284,Yamaguchi University *,JPN,Universities
+284,South African Medical Research Council,ZAF,Health
+285,University of Exeter,GBR,Universities
+285,Karolinska Institute,SWE,Universities
+286,Tokyo University of Agriculture and Technology,JPN,Universities
+287,University of Zagreb,HRV,Universities
+287,Swiss Federal Institute of Technology,CHE,Universities
+288,"University of Maryland, College Park *",USA,Universities
+289,Universidade Estadual de Campinas,BRA,Universities
+290,Slovak Academy of Sciences *,SVK,Government
+291,Australian National University,AUS,Universities
+291,University of Agriculture,PAK,Universities
+291,Agricultural Research Council,ZAF,Government
+292,Universidad de la Republica *,URY,Universities
+292,Universidad Austral de Chile *,CHL,Universities
+293,Peking University Health Science Center,CHN,Universities
+294,Institut de Recerca i Tecnologia Agroalimentaries Barcelona *,ESP,Government
+294,Shandong Agricultural University,CHN,Universities
+295,Universidade Federal Fluminense,BRA,Universities
+296,National Chung Hsing University,TWN,Universities
+297,Northeast Agricultural University,CHN,Universities
+297,"State University of New York, Albany",USA,Universities
+297,National Pingtung University of Science and Technology,TWN,Universities
+298,University of Prince Edward Island,CAN,Universities
+299,Fujian Agriculture and Forestry University,CHN,Universities
+300,University of Wisconsin Health,USA,Health
+300,Universidade Federal de Mato Grosso,BRA,Universities
+301,Universidad Nacional de Colombia *,COL,Universities
+301,The Islamia University of Bahawalpur,PAK,Universities
+301,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+301,Bayer *,MUL,Companies
+302,Centro de Investigacion y Tecnologia Agroalimentaria de Aragon *,ESP,Government
+302,"University of California, San Francisco *",USA,Universities
+303,United States Geological Survey,USA,Government
+304,Chinese Academy of Fishery Sciences,CHN,Government
+304,University of South Bohemia,CZE,Universities
+304,Public Health Agency of Canada,CAN,Health
+305,Dankook University,KOR,Universities
+306,Bogor Agricultural University,IDN,Universities
+306,Universidade Federal do Rio de Janeiro,BRA,Universities
+307,Universidad Catolica de Temuco,CHL,Universities
+308,University Medical Center Utrecht,NLD,Health
+309,University of Stirling,GBR,Universities
+310,Instituto Oswaldo Cruz,BRA,Health
+310,Universitat Wien,AUT,Universities
+311,Aristotle University of Thessaloniki,GRC,Universities
+312,Gyeongsang National University *,KOR,Universities
+312,Universitat Leipzig *,DEU,Universities
+312,Southern Medical University *,CHN,Universities
+313,Universidade Federal Rural do Rio de Janeiro,BRA,Universities
+314,Universita degli Studi di Sassari,ITA,Universities
+314,Institut de Recherche pour le Developpement Paris *,FRA,Government
+315,Universidade Estadual do Ceara,BRA,Universities
+316,"Southern Illinois University, Carbondale *",USA,Universities
+317,Mansoura University *,EGY,Universities
+318,Institute of Animal Reproduction and Food Research Polish Academy of Sciences,POL,Government
+319,Universidad de Extremadura *,ESP,Universities
+319,Curtin University *,AUS,Universities
+320,Tarbiat Modares University,IRN,Universities
+320,Universidad Nacional de Rosario *,ARG,Universities
+321,Chungbuk National University,KOR,Universities
+321,Medizinische Universitat Wien,AUT,Universities
+322,Shiraz University,IRN,Universities
+323,"Kaiser Permanente, Oakland *",USA,Health
+324,Hungarian Academy of Sciences *,HUN,Government
+325,Foshan University,CHN,Universities
+325,North Dakota State University,USA,Universities
+326,Leibniz-Institut fur Nutztierbiologie,DEU,Government
+326,Diponegoro University,IDN,Universities
+326,"University of the West Indies, Mona Campus *",JAM,Universities
+327,Sorbonne Universite *,FRA,Universities
+328,Universidad de Antioquia *,COL,Universities
+328,University of Veterinary and Animal Sciences,PAK,Universities
+329,Istanbul University *,TUR,Universities
+330,Agricultural Research Center Egypt *,EGY,Government
+331,Universite de Reims Champagne-Ardenne *,FRA,Universities
+331,Jeju National University *,KOR,Universities
+332,Poznan University of Life Sciences,POL,Universities
+333,International Atomic Energy Agency,AUT,Government
+333,Minia University *,EGY,Universities
+334,"University of the West Indies, St. Augustine Campus",TTO,Universities
+335,Chungnam National University,KOR,Universities
+335,"Universidad Andres Bello, Chile",CHL,Universities
+336,Hospital Clinic i Provincial de Barcelona,ESP,Health
+337,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+337,Universidade de Brasilia,BRA,Universities
+338,St. Georges University,GRD,Universities
+339,Biology Centre of the ASCR,CZE,Government
+340,Centre Hospitalier Universitaire de Quebec,CAN,Health
+341,Universidad Nacional de La Plata *,ARG,Universities
+341,University of Bergen,NOR,Universities
+341,Shanghai Jiao Tong University *,CHN,Universities
+342,Universita degli Studi di Camerino,ITA,Universities
+342,National Institute of Public Health of Japan,JPN,Health
+343,Rakuno Gakuen University,JPN,Universities
+344,La Trobe University *,AUS,Universities
+345,Universidade de Santiago de Compostela *,ESP,Universities
+346,Universidad de las Palmas de Gran Canaria *,ESP,Universities
+347,Guangxi University,CHN,Universities
+348,University of Malaya *,MYS,Universities
+348,Kenya Medical Research Institute,KEN,Health
+348,Kafr El-Sheikh University,EGY,Universities
+349,Alexandria University *,EGY,Universities
+349,Wroclaw University of Environmental and Life Sciences,POL,Universities
+350,Khon Kaen University,THA,Universities
+350,Universidade Federal de Mato Grosso do Sul,BRA,Universities
+350,University of Leeds,GBR,Universities
+351,Universidad de Buenos Aires *,ARG,Universities
+352,Hunan Agricultural University,CHN,Universities
+353,Universidade Federal do Ceara,BRA,Universities
+353,Airlangga university,IDN,Universities
+354,Yunnan Agricultural University,CHN,Universities
+354,Museum National d'Histoire Naturelle *,FRA,Government
+354,National Taiwan University,TWN,Universities
+355,"University of Agriculture, Faisalabad",PAK,Universities
+356,Charles University *,CZE,Universities
+357,Semmelweis University,HUN,Universities
+358,University of Khartoum *,SDN,Universities
+359,Stanford Medicine,USA,Health
+359,University of Ljubljana *,SVN,Universities
+360,Kagoshima University *,JPN,Universities
+360,University of Ottawa,CAN,Universities
+361,Universidad de Chile *,CHL,Universities
+362,Russian Academy of Sciences *,RUS,Government
+362,Charles Sturt University,AUS,Universities
+363,Universidad Autonoma Metropolitana,MEX,Universities
+364,Universidade Federal da Bahia,BRA,Universities
+364,University of Aberdeen,GBR,Universities
+365,Instituto Nacional de Investigacao Agraria e Veterinaria,PRT,Government
+366,New Mexico State University,USA,Universities
+367,The Nottingham Trent University,GBR,Universities
+368,Universite Paris-Est Creteil *,FRA,Universities
+369,Yulin University,CHN,Universities
+370,Agricultural University of Hebei,CHN,Universities
+371,Shihezi University,CHN,Universities
+372,King Abdulaziz University *,SAU,Universities
+373,Istituto di Scienze delle Produzioni Alimentari,ITA,Government
+373,"Institute of Subtropical Agriculture, Chinese Academy of Sciences",CHN,Government
+374,Texas Tech University,USA,Universities
+374,Yale University Health & Medicine,USA,Health
+375,"Rutgers, The State University of New Jersey",USA,Universities
+376,"Lincoln University, Lincoln",NZL,Universities
+376,Hebei University of Engineering,CHN,Universities
+376,Indian Council of Medical Research *,IND,Health
+377,Korea University *,KOR,Universities
+377,Fudan University *,CHN,Universities
+378,Universitat de Lleida,ESP,Universities
+379,Universidad Nacional Mayor de San Marcos,PER,Universities
+380,Universite Clermont-Auvergne,FRA,Universities
+381,Instituto Adolfo Lutz,BRA,Health
+381,Nihon University *,JPN,Universities
+382,Harper Adams University College,GBR,Universities
+383,Ataturk University,TUR,Universities
+384,Universitat Hohenheim,DEU,Universities
+385,University of Veterinary Medicine and Pharmacy,SVK,Universities
+385,University of Nairobi,KEN,Universities
+386,Gadjah Mada University,IDN,Universities
+387,Universidad Nacional del Litoral *,ARG,Universities
+388,Ankara University,TUR,Universities
+388,Universidade do Estado de Santa Catarina,BRA,Universities
+389,University of Belgrade,SRB,Universities
+390,University of Michigan Health System,USA,Health
+390,Chung-Ang University *,KOR,Universities
+391,Estonian University of Life Sciences,EST,Universities
+392,Trakia University,BGR,Universities
+393,Universidade Federal do Para,BRA,Universities
+394,Pontificia Universidad Catolica de Chile *,CHL,Universities
+395,Universita degli Studi di Foggia,ITA,Universities
+396,Universidad de Costa Rica,CRI,Universities
+396,Centre for Agricultural Research,HUN,Government
+397,The First Affiliated Hospital of Zhejiang University,CHN,Health
+398,Catholic University of Louvain,BEL,Universities
+399,Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,MEX,Health
+400,Universidade Nova de Lisboa,PRT,Universities
+401,Gansu Agricultural University,CHN,Universities
+401,Szent Istvan University,HUN,Universities
+402,Henan University of Science and Technology *,CHN,Universities
+403,Ministerio da Saude,BRA,Health
+403,University of Miyazaki *,JPN,Universities
+404,Universite de Dschang,CMR,Universities
+404,Chiang Mai University,THA,Universities
+404,University of Veterinary Medicine Budapest,HUN,Universities
+405,Universitat fur Bodenkultur Wien *,AUT,Universities
+406,Inner Mongolia Agricultural University,CHN,Universities
+407,Firat University,TUR,Universities
+407,Consejo Nacional de Ciencia y Tecnologia *,MEX,Government
+408,Abdul Wali Khan University,PAK,Universities
+409,Erciyes University,TUR,Universities
+409,Universidade Federal Rural do Semi-Arido,BRA,Universities
+410,Azabu University,JPN,Universities
+411,Veterinary Research Institute,CZE,Government
+412,Universitat Kassel,DEU,Universities
+413,Bangladesh Agricultural University,BGD,Universities
+414,Tikrit University,IRQ,Universities
+415,Jordan University of Science and Technology,JOR,Universities
+415,Addis Ababa University,ETH,Universities
+415,Southwest University *,CHN,Universities
+415,Osaka Prefecture University,JPN,Universities
+416,Lanzhou University *,CHN,Universities
+417,Beni Suef University *,EGY,Universities
+418,Kafkas University,TUR,Universities
+418,Sokoine University of Agriculture,TZA,Universities
+419,Universite de La Manouba,TUN,Universities
+420,Stellenbosch University,ZAF,Universities
+421,University of Debrecen,HUN,Universities
+422,Tarim University,CHN,Universities
+423,University of Maiduguri,NGA,Universities
+423,Instituto Nacional de Investigacion Agropecuaria,URY,Government
+424,Shahid Beheshti University of Medical Sciences and Health Services,IRN,Universities
+425,Universidade Federal de Pernambuco,BRA,Universities
+426,Universite d Abomey Calavi,BEN,Universities
+426,Anhui Agricultural University,CHN,Universities
+427,Shanxi Agricultural University,CHN,Universities
+428,University of the Philippines *,PHL,Universities
+428,Centro Cientifico Tecnologico La Plata,ARG,Government
+429,Universidade de Passo Fundo,BRA,Universities
+430,University of Tasmania,AUS,Universities
+431,Universidade Federal de Campina Grande,BRA,Universities
+432,Qingdao Agricultural University,CHN,Universities
+432,National Institute of Animal Science,KOR,Government
+433,Guangdong Ocean University,CHN,Universities
+433,Kyoto University *,JPN,Universities
+433,Ahmadu Bello University *,NGA,Universities
+434,Suez Canal University *,EGY,Universities
+435,Universite de Toulouse,FRA,Universities
+435,Shiraz University of Medical Sciences,IRN,Universities
+436,Linkoping University,SWE,Universities
+436,Martin-Luther-Universitat Halle-Wittenberg *,DEU,Universities
+436,Medizinische Hochschule Hannover,DEU,Universities
+437,Universidad Cardenal Herrera CEU,ESP,Universities
+437,Consiglio Nazionale delle Ricerche *,ITA,Government
+438,Uludag University,TUR,Universities
+439,Natural Resources Institute Finland,FIN,Government
+439,Utah State University *,USA,Universities
+440,Centro de Pesquisas Rene Rachou,BRA,Government
+441,Smithsonian Institution *,USA,Government
+442,Universitat de Valencia *,ESP,Universities
+442,Instituto Politecnico Nacional *,MEX,Universities
+443,Christian-Albrechts-Universitat zu Kiel,DEU,Universities
+444,"Instituto Nacional de Investigaciones Forestales, Agricolas y Pecuarias",MEX,Government
+444,Western University of Health Sciences,USA,Universities
+445,Tecnalia,ESP,Non-Profit
+445,Universita degli Studi di Firenze,ITA,Universities
+446,Makerere University *,UGA,Universities
+447,Kitasato University *,JPN,Universities
+448,Hasanuddin University,IDN,Universities
+449,Basque Research and Technology Alliance *,ESP,Government
+450,Universidade Federal de Uberlandia,BRA,Universities
+451,Jilin Agricultural University,CHN,Universities
+452,Damanhour University,EGY,Universities
+453,Universidade Federal da Paraiba,BRA,Universities
+453,University of Defence,CZE,Universities
+453,Wake Forest University *,USA,Universities
+453,Pontificia Universidade Catolica do Parana,BRA,Universities
+454,Sohag University *,EGY,Universities
+454,Oregon Health & Science University *,USA,Universities
+455,Iwate University,JPN,Universities
+456,Indiana University-Purdue University Indianapolis,USA,Universities
+457,Agricultural Research Education and Externsion Organization,IRN,Government
+458,University of Otago,NZL,Universities
+458,University of Forestry Sofia,BGR,Universities
+459,Benha University *,EGY,Universities
+460,Centro de Investigacion Biomedica en Red de Epidemiologia y Salud Publica,ESP,Health
+461,Albert Einstein College of Medicine,USA,Universities
+462,University of Idaho,USA,Universities
+463,City University of Hong Kong *,HKG,Universities
+463,Montefiore Medical Center *,USA,Health
+464,Wake Forest University Baptist Medical Center,USA,Health
+464,Gorgan University of Agriculture and Natural Resources,IRN,Universities
+464,Universita degli Studi della Basilicata,ITA,Universities
+465,University of Agriculture in Krakow,POL,Universities
+466,Tottori University *,JPN,Universities
+467,Chonnam National University,KOR,Universities
+468,University of Wollongong *,AUS,Universities
+468,Agricultural University of Athens,GRC,Universities
+469,"Islamic Azad University, Science and Research",IRN,Universities
+469,Ege University,TUR,Universities
+470,North-West University,ZAF,Universities
+470,Universidad Central del Ecuador,ECU,Universities
+471,University of KwaZulu-Natal *,ZAF,Universities
+472,Tabriz University of Medical Sciences,IRN,Universities
+472,Namik Kemal University,TUR,Universities
+473,Universidade Estadual do Norte Fluminense Darcy Ribeiro,BRA,Universities
+474,Johns Hopkins Medicine,USA,Health
+475,Universidad de Concepcion *,CHL,Universities
+475,Masaryk University,CZE,Universities
+476,Universitat Rostock *,DEU,Universities
+477,Prince of Songkla University,THA,Universities
+477,University of Sadat City,EGY,Universities
+478,Universidade Federal do Maranhao,BRA,Universities
+479,Institut Pasteur of Iran,IRN,Health
+480,Egerton University,KEN,Universities
+480,Mehmet Akif Ersoy University,TUR,Universities
+481,University of Ibadan,NGA,Universities
+482,Charles Darwin University *,AUS,Universities
+483,Universidade Federal de Sao Paulo *,BRA,Universities
+483,University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,ROU,Universities
+484,Universidade Federal do Vale do Sao Francisco,BRA,Universities
+485,Islamic Azad University - Isfahan Khorasgan Branch,IRN,Universities
+486,University of Baghdad,IRQ,Universities
+486,Maria Curie Sklodowska University,POL,Universities
+487,West Pomeranian University of Technology,POL,Universities
+487,Universidade Federal dos Vales do Jequitinhonha e Mucuri,BRA,Universities
+488,Sichuan University *,CHN,Universities
+489,University of Novi Sad,SRB,Universities
+489,Ben-Gurion University of the Negev,ISR,Universities
+490,Assiut University *,EGY,Universities
+491,Nicolaus Copernicus University,POL,Universities
+491,Fraunhofer Gesellschaft *,DEU,Government
+492,Georg-August-Universitat Gottingen,DEU,Universities
+493,Siriraj Hospital,THA,Health
+493,Razi Vaccine and Serum Research Institute,IRN,Health
+494,Urmia University,IRN,Universities
+494,Universidad Nacional del Centro de la Provincia de Buenos Aires *,ARG,Universities
+495,Instituto Butantan,BRA,Health
+496,Institut Pasteur de Tunis,TUN,Health
+497,King Faisal University,SAU,Universities
+497,"University of Science, Malaysia *",MYS,Universities
+497,University of Fort Hare,ZAF,Universities
+498,Shenyang Agricultural University,CHN,Universities
+499,Universidad Peruana Cayetano Heredia,PER,Universities
+499,Universidad Autonoma de Nuevo Leon *,MEX,Universities
+500,Universidade Estadual de Maringa,BRA,Universities
+501,Mahasarakham University,THA,Universities
+501,Universidad Nacional del Nordeste *,ARG,Universities
+502,Universite de Tunis El Manar,TUN,Universities
+503,Northeast Forestry University,CHN,Universities
+504,Bahauddin Zakariya University,PAK,Universities
+505,Agrocampus Ouest *,FRA,Universities
+506,Ain Shams University *,EGY,Universities
+506,Universidade Federal de Sergipe,BRA,Universities
+507,Universita degli Studi del Molise,ITA,Universities
+508,Slovak University of Agriculture in Nitra,SVK,Universities
+508,Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,BRA,Government
+509,Universidade Vila Velha,BRA,Universities
+509,Isfahan University of Technology,IRN,Universities
+510,University of Arid Agriculture,PAK,Universities
+510,Haramaya University,ETH,Universities
+511,Universidade Federal do Tocantins,BRA,Universities
+511,Ferdowsi University of Mashhad,IRN,Universities
+511,Lithuanian University of Health Sciences,LTU,Universities
+512,Selcuk University *,TUR,Universities
+512,Universita degli Studi di Palermo,ITA,Universities
+513,Universidad Autonoma de Queretaro,MEX,Universities
+513,Qassim University,SAU,Universities
+514,Universidade Federal do Reconcavo da Bahia,BRA,Universities
+515,University of Tabriz,IRN,Universities
+515,Shahid Chamran University,IRN,Universities
+516,University of Sargodha,PAK,Universities
+517,"University of the Punjab, Lahore",PAK,Universities
+518,Universidade Estadual de Mato Grosso do Sul,BRA,Universities
+519,Mendel University in Brno,CZE,Universities
+519,Universidade Federal do Piaui,BRA,Universities
+520,University of Wyoming,USA,Universities
+521,Universidad Nacional de Mar del Plata *,ARG,Universities
+522,Universidade Estadual do Maranhao,BRA,Universities
+523,Aswan University *,EGY,Universities
+524,South Valley University *,EGY,Universities
+525,Public Health Ontario,CAN,Health
+526,Institute for Clinical Evaluative Sciences,CAN,Health
+527,Ondokuz Mayis University *,TUR,Universities
+528,Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar,IND,Universities
+528,Udayana University,IDN,Universities
+528,Kirikkale University *,TUR,Universities
+529,Adnan Menderes University,TUR,Universities
+530,Universidade de Franca,BRA,Universities
+531,Universidade Federal do Pampa,BRA,Universities
+532,Universidad Autonoma Agraria Antonio Narro,MEX,Universities
+532,Czech University of Life Sciences Prague,CZE,Universities
+533,Afyon Kocatepe University *,TUR,Universities
+534,Universidade Eduardo Mondlane,MOZ,Universities
+535,Universidad Autonoma de Baja California,MEX,Universities
+536,University of Guilan,IRN,Universities
+537,Universidade Federal do Rio Grande,BRA,Universities
+537,Universidade Paulista,BRA,Universities
+538,Universite PSL *,FRA,Universities
+539,Mustafa Kemal University *,TUR,Universities
+540,Universidade Estadual de Montes Claros,BRA,Universities
+541,Universidade Federal Rural da Amazonia,BRA,Universities
+541,Clemson University,USA,Universities
+542,University of Ghana,GHA,Universities
+543,Yuzuncu Yil University *,TUR,Universities
+544,Universidad Autonoma del Estado de Morelos,MEX,Universities
+545,Universitas Negeri Sebelas Maret,IDN,Universities
+546,Universidad Autonoma Chapingo,MEX,Universities
+546,Universidad de Sevilla *,ESP,Universities
+547,Bulgarian Academy of Sciences *,BGR,Government
+548,National University of Malaysia *,MYS,Universities
+549,Shahid Bahonar University of Kerman,IRN,Universities
+550,Universite de Carthage,TUN,Universities
+550,Razi University,IRN,Universities
+550,University of Technology and Life Sciences,POL,Universities
+550,Cukurova University,TUR,Universities
+551,Universite de Tunis,TUN,Universities
+552,"Islamic Azad University, Karaj",IRN,Universities
+553,Ecole Pratique des Hautes Etudes,FRA,Universities
+554,Dicle University *,TUR,Universities
+555,Universidade Federal do Oeste do Para,BRA,Universities
+556,"Vietnam National University, Hanoi",VNM,Universities
+556,Balikesir University,TUR,Universities
+557,Comision de Investigaciones Cientificas *,ARG,Government
+558,Harran University,TUR,Universities
+558,University of Nigeria,NGA,Universities
+559,Cumhuriyet University *,TUR,Universities
+560,Universidade Tecnologica Federal do Parana,BRA,Universities
+561,Council of Scientific and Industrial Research *,IND,Government
+561,"Federal University of Agriculture, Abeokuta",NGA,Universities
+562,Universite Saad Dahlab de Blida,DZA,Universities
+562,Universidad de Santander,COL,Universities
+563,Universidade Estadual de Santa Cruz,BRA,Universities
+563,Laureate International Universities *,MUL,Universities
+564,Universidade do Oeste Paulista,BRA,Universities
+565,Corporacion Colombiana de Investigacion Agropecuaria,COL,Government
+566,Universidade Federal do Espirito Santo,BRA,Universities
+566,Universidade Federal da Grande Dourados,BRA,Universities
+567,Universidade Federal do Rio Grande do Norte,BRA,Universities
+568,Andalas University,IDN,Universities
+569,Yangtze University,CHN,Universities
+570,Universidade Federal de Sao Joao del Rei,BRA,Universities
+571,Universidade Estadual do Oeste do Parana,BRA,Universities
+572,Xinjiang Agricultural University,CHN,Universities
+573,Lancaster University,GBR,Universities
+573,Bu-Ali Sina University,IRN,Universities
+574,Al-Qasim Green University,IRQ,Universities
+574,Midwestern University,USA,Universities
+575,Pontificia Universidade Catolica de Minas Gerais,BRA,Universities
+576,Colegio de Postgraduados,MEX,Universities
+577,Universidade Federal de Alagoas,BRA,Universities
+577,"Universidad Santo Tomas, Chile",CHL,Universities
+577,University of Mosul,IRQ,Universities
+578,Wildlife Conservation Society USA,USA,Non-Profit
+579,Southwest Minzu University,CHN,Universities
+579,Aksaray University,TUR,Universities
+580,University of Ilorin,NGA,Universities
+581,Shahrekord University,IRN,Universities
+582,Universita degli Studi di Catania,ITA,Universities
+583,University of Sarajevo,BIH,Universities
+584,Universidade Estadual de Ponta Grossa,BRA,Universities
+585,Medical University of Lublin,POL,Universities
+586,Universidade Federal do Acre,BRA,Universities
+587,Universidad Juarez Autonoma de Tabasco,MEX,Universities
+588,Akdeniz University,TUR,Universities
+589,Kwame Nkrumah University of Science and Technology,GHA,Universities
+590,Universidad Nacional Agraria La Molina,PER,Universities
+590,Universidade Estadual do Sudoeste da Bahia,BRA,Universities
+591,Universite de Ngaoundere,CMR,Universities
+592,University of South Africa,ZAF,Universities
+592,Universidade Catolica Dom Bosco,BRA,Universities
+593,University of Massachusetts Medical School,USA,Universities
+594,Universidade Federal da Fronteira Sul,BRA,Universities
+595,Brawijaya University,IDN,Universities
+596,Govind Ballabh Pant University of Agriculture and Technology,IND,Universities
+597,"Usmanu Danfodiyo University, Sokoto *",NGA,Universities
+598,"Montana State University, Bozeman",USA,Universities
+599,Okayama University of Science,JPN,Universities
+600,Near East University,CYP,Universities
+601,Assam Agricultural University,IND,Universities
+602,Central Agricultural University,IND,Universities
+603,University of the Philippines Los Banos,PHL,Universities
+604,Klinikum Ludwig Maximilians Universitat Munchen,DEU,Health
+605,University of Al-Qadisiyah,IRQ,Universities
+606,University of Zabol,IRN,Universities
+607,Universite de Yaounde I,CMR,Universities
+608,Henan University of Animal Husbandry and Economy,CHN,Universities
+609,Ecole Nationale Veterinaire Agroalimentaire et de l'Alimentation de Nantes-Atlantique *,FRA,Universities
+610,Kazakh National Agrarian University,KAZ,Universities
+611,Kastamonu University,TUR,Universities
+612,Semnan University,IRN,Universities
+613,Vietnam Academy of Science and Technology *,VNM,Government
+614,Children's Hospital of Philadelphia,USA,Health

@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* 信息窗口容器 */
+.info-container {
+        position: absolute; /* 绝对定位 */
+        top: 12vh; /* 距离顶部的距离 */
+        left: 48vw; /* 距离右侧的距离 */
+        background-color: #fff; /* 背景颜色 */
+        border: 1px solid #ccc; /* 边框 */
+        padding: 10px; /* 内边距 */
+        border-radius: 5px; /* 圆角 */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+        width: 50vw; /* 固定宽度 */
+        height: 80vh;
+}
+

@@ -1,0 +1,942 @@
+Global Rank,Institution,Country,Sector
+1,Chinese Academy of Sciences *,CHN,Government
+2,Ministry of Education of the People's Republic of China,CHN,Government
+3,Ministry of Agriculture,CHN,Government
+4,University of Chinese Academy of Sciences,CHN,Universities
+5,United States Department of Agriculture,USA,Government
+6,Northwest A and F University,CHN,Universities
+7,Chinese Academy of Agricultural Sciences *,CHN,Government
+8,BeiHang University *,CHN,Universities
+9,Centre National de la Recherche Scientifique *,FRA,Government
+10,"University of Maryland, College Park *",USA,Universities
+11,National Aeronautics and Space Administration *,USA,Government
+12,Helmholtz Gemeinschaft *,DEU,Government
+13,European Space Agency *,MUL,Government
+14,CGIAR Consortium of International Agricultural Research *,MUL,Non-Profit
+15,Zhejiang University *,CHN,Universities
+16,Tsinghua University *,CHN,Universities
+17,China Agricultural University,CHN,Universities
+18,European Commission *,MUL,Government
+19,University of South Florida System *,USA,Universities
+20,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+21,Central South University *,CHN,Universities
+22,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+23,Guangdong Academy of Agricultural Sciences,CHN,Government
+24,Beijing Normal University *,CHN,Universities
+25,NASA Goddard Space Flight Center,USA,Government
+26,Wuhan University *,CHN,Universities
+27,Wageningen University and Research Centre,NLD,Universities
+28,Jet Propulsion Laboratory,USA,Government
+29,Nanjing Agricultural University,CHN,Universities
+30,Deutsches Zentrum fur Luft- und Raumfahrt,DEU,Government
+31,University of Illinois at Urbana-Champaign *,USA,Universities
+32,United States Geological Survey,USA,Government
+33,California Institute of Technology *,USA,Universities
+34,State Key Laboratory of Remote Sensing Science,CHN,Government
+35,Indian Council of Agricultural Research *,IND,Government
+36,"University of Nebraska, Lincoln",USA,Universities
+37,European Commission - Joint Research Centre,MUL,Government
+38,University of Southampton,GBR,Universities
+39,Universidade de Sao Paulo *,BRA,Universities
+40,"European Commission - Joint Research Centre Ispra, Italy",ITA,Government
+41,Zhejiang University of Technology,CHN,Universities
+42,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+43,Nanjing University *,CHN,Universities
+44,"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",CHN,Government
+45,"Aerospace Information Research Institute, Chinese Academy of Sciences",CHN,Government
+46,Lancaster University *,GBR,Universities
+47,Geoforschungszentrum Potsdam,DEU,Government
+48,Cornell University *,USA,Universities
+49,"Institute of Soil Science, Chinese Academy of Sciences",CHN,Government
+50,China University of Geosciences,CHN,Universities
+51,Centre for Ecology and Hydrology,GBR,Government
+52,Boston University *,USA,Universities
+53,"University of Wisconsin, Madison *",USA,Universities
+54,"Ohio State University, Columbus *",USA,Universities
+55,Swedish University of Agricultural Sciences,SWE,Universities
+56,Peking University *,CHN,Universities
+57,"University of California, Davis *",USA,Universities
+58,South China Agricultural University *,CHN,Universities
+59,"Texas A&M University, College Station *",USA,Universities
+60,"State University of New York, College of Environmental Science and Forestry",USA,Universities
+61,Iowa State University,USA,Universities
+62,Centre National d'Etudes Spatiales *,FRA,Government
+63,Consiglio Nazionale delle Ricerche *,ITA,Government
+64,Hefei University of Technology *,CHN,Universities
+65,Stanford University *,USA,Universities
+66,Hong Kong Polytechnic University,HKG,Universities
+67,Southwest Petroleum University,CHN,Universities
+68,Qatar University,QAT,Universities
+69,Academy of Sciences of the Czech Republic *,CZE,Government
+70,Helmholtz Zentrum fur Umweltforschung,DEU,Government
+71,University of Ljubljana *,SVN,Universities
+72,Guangdong Laboratory for Lingnan Modern Agriculture,CHN,Government
+73,Natural Resources Institute Finland,FIN,Government
+74,Centre d'Etudes Spatiales de la Biosphere,FRA,Government
+75,South China University of Technology,CHN,Universities
+76,Lawrence Berkeley National Laboratory *,USA,Government
+77,Jilin University *,CHN,Universities
+78,China University of Mining and Technology,CHN,Universities
+79,University of Twente,NLD,Universities
+80,Natural Environment Research Council *,GBR,Government
+81,Hunan University,CHN,Universities
+82,Huazhong Agricultural University,CHN,Universities
+83,Seoul National University *,KOR,Universities
+84,Max Planck Gesellschaft *,DEU,Government
+85,China Petroleum and Chemical Corporation *,CHN,Companies
+86,South Dakota State University,USA,Universities
+87,"University of California, Berkeley *",USA,Universities
+88,Hunan University of Science and Technology,CHN,Universities
+89,Catholic University of Leuven,BEL,Universities
+90,Sun Yat-Sen University *,CHN,Universities
+91,Universidad Nacional Autonoma de Mexico,MEX,Universities
+92,Shaoxing University,CHN,Universities
+93,James Hutton Institute,GBR,Non-Profit
+94,Sichuan University *,CHN,Universities
+95,Curtin University *,AUS,Universities
+96,Technische Universitat Munchen *,DEU,Universities
+97,Deakin University *,AUS,Universities
+98,Humboldt-Universitat zu Berlin *,DEU,Universities
+99,International Atomic Energy Agency,AUT,Government
+100,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+101,"University of Hawaii, Manoa *",USA,Universities
+102,Empresa Brasileira de Pesquisa Agropecuaria *,BRA,Government
+103,Catholic University of Louvain,BEL,Universities
+104,Xiangtan University,CHN,Universities
+105,"Institute of Soil and Water Conservation, Chinese Academy of Sciences",CHN,Government
+106,Natural Resources Canada,CAN,Government
+107,Institut de Recherche pour le Developpement *,MUL,Government
+108,"University of Missouri, Columbia *",USA,Universities
+109,Leibniz Gemeinschaft *,DEU,Government
+110,University of Florida *,USA,Universities
+111,Yanan University,CHN,Universities
+112,Nanjing Forestry University,CHN,Universities
+113,Universitat Zurich,CHE,Universities
+114,Xiamen University *,CHN,Universities
+115,The University of Western Australia,AUS,Universities
+116,"Colorado State University, Fort Collins *",USA,Universities
+117,Universite de Rennes 1 *,FRA,Universities
+118,Michigan State University,USA,Universities
+119,University of Aberdeen,GBR,Universities
+120,International Rice Research Institute,MUL,Non-Profit
+121,"University of Minnesota, Twin Cities *",USA,Universities
+122,Tianjin University *,CHN,Universities
+123,Norwegian University of Science and Technology,NOR,Universities
+124,Agricultural Research Organization,ISR,Government
+125,University of New Hampshire,USA,Universities
+126,University of Guelph,CAN,Universities
+127,International Rice Research Institute Filipinas,PHL,Non-Profit
+128,Tohoku University *,JPN,Universities
+129,Huazhong Normal University,CHN,Universities
+130,Jiangsu Normal University,CHN,Universities
+131,University of Exeter,GBR,Universities
+132,University of Sydney *,AUS,Universities
+133,Agriculture and Agri-Food Canada,CAN,Government
+133,Chongqing University,CHN,Universities
+135,Texas Tech University,USA,Universities
+136,Universidad Politecnica de Madrid *,ESP,Universities
+137,"University of California, Santa Barbara",USA,Universities
+138,University of Arizona *,USA,Universities
+139,Institut de Recherche pour le Developpement France,FRA,Government
+140,"Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences",CHN,Government
+141,Swiss Federal Institute of Aquatic Science and Technology,CHE,Government
+142,Istituto per la BioEconomia,ITA,Government
+143,University of Helsinki,FIN,Universities
+144,Technion - Israel Institute of Technology *,ISR,Universities
+145,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+146,"Swiss Federal Institute for Forest, Snow and Landscape Research",CHE,Government
+147,The University of Queensland *,AUS,Universities
+148,Shandong Normal University,CHN,Universities
+149,Universitat Wien,AUT,Universities
+150,Harbin Institute of Technology,CHN,Universities
+151,Universidade do Minho,PRT,Universities
+152,North Carolina State University,USA,Universities
+153,Universidad de Granada *,ESP,Universities
+154,Tongji University *,CHN,Universities
+155,United Nations *,MUL,Non-Profit
+156,Universidade Federal de Lavras,BRA,Universities
+157,University of New South Wales *,AUS,Universities
+158,"University of Connecticut, Storrs *",USA,Universities
+159,East China Institute of Technology,CHN,Universities
+160,Aarhus University *,DNK,Universities
+161,"University of California, Los Angeles *",USA,Universities
+162,National Oceanic and Atmospheric Administration,USA,Government
+163,Wuhan University of Technology *,CHN,Universities
+163,Xi'an University of Science and Technology,CHN,Universities
+165,University of Alberta,CAN,Universities
+166,University of Copenhagen,DNK,Universities
+167,University of Melbourne *,AUS,Universities
+168,Swiss Federal Institute of Technology,CHE,Universities
+169,Shandong University *,CHN,Universities
+170,University College London *,GBR,Universities
+171,Changsha University of Science and Technology,CHN,Universities
+172,The Hong Kong University of Science and Technology,HKG,Universities
+173,Norwegian Institute of Bioeconomy Research,NOR,Government
+174,Shanghai Jiao Tong University *,CHN,Universities
+174,World Agroforestry,MUL,Non-Profit
+176,University of Tokyo *,JPN,Universities
+177,Thammasat University,THA,Universities
+178,Qufu Normal University,CHN,Universities
+179,Hohai University,CHN,Universities
+180,University of Oslo,NOR,Universities
+181,Royal Melbourne Institute of Technology *,AUS,Universities
+182,Universitat de Valencia *,ESP,Universities
+183,Biotechnology and Biological Sciences Research Council *,GBR,Government
+184,Ghent University,BEL,Universities
+185,"Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences",CHN,Government
+185,Yangzhou University,CHN,Universities
+185,Huazhong University of Science and Technology *,CHN,Universities
+188,Zhejiang A & F University *,CHN,Universities
+189,Guangzhou Municipal People's Government  *,CHN,Government
+190,Pennsylvania State University *,USA,Universities
+191,Kasetsart University,THA,Universities
+192,Anhui University of Science and Technology *,CHN,Universities
+193,Ministry of Water Resources of China,CHN,Government
+194,Chiba University *,JPN,Universities
+195,University of Idaho,USA,Universities
+196,Southwest Jiaotong University,CHN,Universities
+197,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+198,Leiden University *,NLD,Universities
+199,Universite Montpellier *,FRA,Universities
+200,Ningbo University,CHN,Universities
+201,The University of Adelaide,AUS,Universities
+202,Princeton University,USA,Universities
+203,Sorbonne Universite *,FRA,Universities
+204,Institute of Microbiology of the ASCR,CZE,Government
+205,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+206,Utah State University *,USA,Universities
+207,University of Amsterdam *,NLD,Universities
+208,Shandong University of Science and Technology,CHN,Universities
+209,Lanzhou University *,CHN,Universities
+210,Universitat Koblenz-Landau,DEU,Universities
+211,"Washington State University, Pullman *",USA,Universities
+212,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement *,FRA,Government
+213,Central Michigan University,USA,Universities
+214,Istanbul Technical University,TUR,Universities
+215,Hokkaido University *,JPN,Universities
+216,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+217,Purdue University,USA,Universities
+218,Universitat fur Bodenkultur Wien *,AUT,Universities
+219,The University of Newcastle,AUS,Universities
+220,Shandong Agricultural University,CHN,Universities
+221,Nanjing Normal University,CHN,Universities
+222,University of Toronto,CAN,Universities
+223,University of Washington *,USA,Universities
+224,Rothamsted Research,GBR,Government
+225,Universidade Federal de Sao Carlos,BRA,Universities
+225,"University of Michigan, Ann Arbor *",USA,Universities
+227,"University of California, Merced",USA,Universities
+228,Benha University *,EGY,Universities
+229,University of Georgia,USA,Universities
+230,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+231,University of Nottingham *,GBR,Universities
+232,"University of Texas, Austin",USA,Universities
+233,"Montpellier SupAgro, Centre International d'Etudes Superieures en Sciences Agronomiques *",FRA,Universities
+234,Northern Arizona University,USA,Universities
+235,Universite d'Avignon *,FRA,Universities
+236,Kazakh National Agrarian University,KAZ,Universities
+237,Hungarian Academy of Sciences *,HUN,Government
+238,Oregon State University,USA,Universities
+239,Universita degli Studi di Firenze,ITA,Universities
+239,National Agriculture and Food Research Organization,JPN,Government
+241,Australian National University,AUS,Universities
+242,University of Leeds,GBR,Universities
+243,"Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences",CHN,Government
+244,Universidade Federal de Campina Grande,BRA,Universities
+245,Bordeaux Sciences Agro *,FRA,Universities
+246,"Alliance of Bioversity International and CIAT, Colombia",COL,Non-Profit
+247,Universite de Paris Cite *,FRA,Universities
+248,Universitat de Barcelona *,ESP,Universities
+249,New South Wales Department of Primary Industries *,AUS,Government
+250,Lunds University,SWE,Universities
+251,"Institute of Genetics and Developmental Biology, Chinese Academy of Sciences",CHN,Government
+252,Forschungszentrum Julich in der Helmholtz Gemeinschaft,DEU,Government
+253,McGill University *,CAN,Universities
+254,Sichuan Agricultural University,CHN,Universities
+255,Zhengzhou University *,CHN,Universities
+256,Guangdong Academy of Sciences *,CHN,Government
+257,Universite Paris-Saclay *,FRA,Universities
+258,International Maize and Wheat Improvement Center,MUL,Non-Profit
+259,Chongqing Jiaotong University,CHN,Universities
+260,Universita degli Studi di Napoli Federico II,ITA,Universities
+261,The University of Edinburgh *,GBR,Universities
+262,Sherbrooke University *,CAN,Universities
+263,Kansas State University,USA,Universities
+264,Imperial College London,GBR,Universities
+265,Cranfield University,GBR,Universities
+266,Helmholtz Zentrum Munchen Forschungszentrum fur Umwelt und Gesundheit,DEU,Government
+267,"Southeast University, Nanjing *",CHN,Universities
+268,Dalian University of Technology *,CHN,Universities
+269,Universidad de Sevilla *,ESP,Universities
+270,Max Planck Institut fur Biogeochemie,DEU,Government
+271,Ben-Gurion University of the Negev *,ISR,Universities
+272,La Trobe University *,AUS,Universities
+273,Taif University,SAU,Universities
+274,Pacific Northwest National Laboratory *,USA,Government
+275,Universidade de Santiago de Compostela *,ESP,Universities
+276,Generalitat de Catalunya *,MUL,Government
+277,"Institute of Subtropical Agriculture, Chinese Academy of Sciences",CHN,Government
+278,The Chinese University of Hong Kong *,HKG,Universities
+279,Nanyang Technological University *,SGP,Universities
+280,The University of British Columbia,CAN,Universities
+281,Wuhan Institute of Technology,CHN,Universities
+282,Jawaharlal Nehru University,IND,Universities
+283,Delft University of Technology,NLD,Universities
+284,Universidad Complutense de Madrid *,ESP,Universities
+285,University of Science and Technology of China *,CHN,Universities
+286,University of Southern Queensland,AUS,Universities
+287,Martin-Luther-Universitat Halle-Wittenberg *,DEU,Universities
+288,"Louisiana State University, Baton Rouge",USA,Universities
+289,Stockholm University *,SWE,Universities
+290,Utrecht University *,NLD,Universities
+291,University of Peshawar,PAK,Universities
+292,"Guangzhou Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+293,Guangzhou University,CHN,Universities
+294,Universitat Potsdam *,DEU,Universities
+294,"Shenyang Institute of Applied Ecology, Chinese Academy of Sciences",CHN,Government
+294,Alliance of Bioversity International and CIAT,MUL,Non-Profit
+297,Free University of Bozen,ITA,Universities
+298,Universita degli Studi di Sassari,ITA,Universities
+299,Jiangsu University *,CHN,Universities
+300,"Institute of Botany, Chinese Academy of Science",CHN,Government
+301,Nanchang Institute of Technology,CHN,Universities
+302,National Taiwan University,TWN,Universities
+303,Leibniz-Zentrum fur Agrarlandschaftsforschung,DEU,Government
+304,Xi'an University of Technology,CHN,Universities
+305,The University of Reading,GBR,Universities
+306,Universidade do Porto *,PRT,Universities
+307,Govind Ballabh Pant University of Agriculture and Technology,IND,Universities
+308,"University of California, Riverside",USA,Universities
+309,Guangxi University,CHN,Universities
+310,Instituto de Recursos Naturales y Agrobiologia de Sevilla,ESP,Government
+311,Universita degli Studi di Palermo,ITA,Universities
+312,"Soil, Water and Environment Research Institute",EGY,Government
+313,Southwest University *,CHN,Universities
+314,Georg-August-Universitat Gottingen,DEU,Universities
+315,Fujian Agriculture and Forestry University,CHN,Universities
+316,University of Waterloo *,CAN,Universities
+317,"University of Massachusetts, Amherst",USA,Universities
+318,National Chung Hsing University,TWN,Universities
+319,Universita degli Studi di Bari,ITA,Universities
+320,Universidade Federal de Minas Gerais,BRA,Universities
+321,"Rutgers, The State University of New Jersey",USA,Universities
+322,Chengdu University of Technology,CHN,Universities
+323,"Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",CHN,Government
+324,"Institute of Rock and Soil Mechanics, Chinese Academy of Sciences",CHN,Government
+325,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+326,Bangor University,GBR,Universities
+327,"Montana State University, Bozeman",USA,Universities
+328,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities
+329,Freie Universitat Berlin,DEU,Universities
+330,Hubei University,CHN,Universities
+331,National University of Malaysia *,MYS,Universities
+332,Universite Hassan II de Casablanca *,MAR,Universities
+333,Tehran University of Medical Sciences *,IRN,Universities
+334,Universitat Leipzig *,DEU,Universities
+335,Canakkale Onsekiz Mart Universitesi *,TUR,Universities
+336,Nanjing University of Information Science and Technology,CHN,Universities
+337,Karlsruher Institut fur Technologie,DEU,Universities
+338,Universitat Bayreuth,DEU,Universities
+339,Hebrew University of Jerusalem,ISR,Universities
+340,Generalitat Valenciana *,MUL,Government
+340,Universita degli Studi di Padova,ITA,Universities
+342,Global Change Research Institute of the ASCR,CZE,Government
+343,Shenzhen University,CHN,Universities
+344,Alfred Wegener Institut fur Polar und Meeresforschung,DEU,Government
+345,"Institute of Geochemistry, Chinese Academy of Sciences",CHN,Government
+346,Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria ,ESP,Government
+347,Russian Academy of Sciences *,RUS,Government
+348,Chang'an University ,CHN,Universities
+349,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+350,University of Antwerp,BEL,Universities
+351,East China Normal University *,CHN,Universities
+352,Universidade Estadual de Campinas *,BRA,Universities
+353,Eberhard-Karls-Universitat Tubingen,DEU,Universities
+354,Griffith University,AUS,Universities
+355,Yangtze University,CHN,Universities
+356,Universidade Federal de Goias,BRA,Universities
+357,Virginia Polytechnic Institute and State University *,USA,Universities
+358,Politecnico di Torino *,ITA,Universities
+359,Arizona State University *,USA,Universities
+359,Chonnam National University,KOR,Universities
+361,Council of Scientific and Industrial Research *,IND,Government
+362,"University of Colorado, Boulder *",USA,Universities
+363,"Institute of Tibetan Plateau Research, Chinese Academy of Sciences",CHN,Government
+364,"Indian Institute of Technology, Delhi",IND,Universities
+365,Universidade Federal do Parana,BRA,Universities
+366,Binzhou University,CHN,Universities
+367,Tamil Nadu Agricultural University,IND,Universities
+368,Universidade Federal de Pernambuco,BRA,Universities
+369,Centres de Recerca de Catalunya *,ESP,Non-Profit
+370,Universidade de Lisboa *,PRT,Universities
+371,Ain Shams University *,EGY,Universities
+372,Universidad de Buenos Aires *,ARG,Universities
+373,Gyeongsang National University *,KOR,Universities
+373,Oak Ridge National Laboratory,USA,Government
+375,Institut National de la Recherche Agronomique,MAR,Government
+376,Korea University *,KOR,Universities
+377,Hiroshima University *,JPN,Universities
+377,"University of Agriculture, Faisalabad",PAK,Universities
+379,University of Belgrade,SRB,Universities
+380,The University of Sheffield,GBR,Universities
+381,The University of Manchester *,GBR,Universities
+382,Universita degli Studi di Milano-Bicocca,ITA,Universities
+383,Tokyo University of Agriculture and Technology,JPN,Universities
+384,University of Canterbury,NZL,Universities
+385,Max Planck Institut fur Evolutionare Anthropologie,DEU,Government
+386,Universidade Federal do Rio de Janeiro *,BRA,Universities
+387,Max Planck Institut fur Chemische Okologie,DEU,Government
+388,Universidade de Aveiro,PRT,Universities
+389,Museum National d'Histoire Naturelle *,FRA,Government
+390,South China Normal University,CHN,Universities
+391,Royal Netherlands Academy of Arts and Sciences *,NLD,Government
+392,"University of Technology, Sydney",AUS,Universities
+393,Czech University of Life Sciences Prague,CZE,Universities
+394,Universidad de Almeria *,ESP,Universities
+395,China Institute of Water Resources and Hydropower Research,CHN,Government
+396,"Indian Institute of Technology, Bombay *",IND,Universities
+397,Zhongkai University of Agriculture and Engineering,CHN,Universities
+398,"University of New England, Australia",AUS,Universities
+399,Universitat Hohenheim,DEU,Universities
+400,Irish Agriculture and Food Development Authority,IRL,Government
+401,"University of Tennessee, Knoxville *",USA,Universities
+402,Instituto de Agricultura Sostenible ,ESP,Government
+402,Friedrich-Schiller-Universitat Jena *,DEU,Universities
+404,Academy of Scientific and Innovative Research,IND,Universities
+405,AGH University of Science and Technology,POL,Universities
+406,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities
+407,University of Guilan,IRN,Universities
+408,Northeast Agricultural University,CHN,Universities
+409,"Institute of Earth Environment, Chinese Academy of Science",CHN,Government
+410,Indian Agricultural Research Institute,IND,Government
+411,Universite de Lille *,FRA,Universities
+412,Quaid-i-Azam University,PAK,Universities
+413,Lomonosov  Moscow State University,RUS,Universities
+413,"University of California, Irvine *",USA,Universities
+415,Instituto Nacional de Tecnologia Agropecuaria *,ARG,Government
+416,Netherlands Institute of Ecology,NLD,Government
+417,Agricultural Research Center Egypt *,EGY,Government
+418,Beijing University of Technology,CHN,Universities
+419,Universidad de Salamanca *,ESP,Universities
+420,Polish Academy of Sciences *,POL,Government
+421,Centro de Edafologia y Biologia Aplicada del Segura,ESP,Government
+422,"Monash University, Melbourne *",AUS,Universities
+423,Jinan University *,CHN,Universities
+424,Guangdong Provincial Laboratory of Southern Marine Science and Engineering Zhuhai,CHN,Government
+425,Yonsei University *,KOR,Universities
+426,International Center for Agricultural Research in the Dry Areas,MUL,Non-Profit
+427,"United Nations Educational, Scientific and Cultural Organization",MUL,Non-Profit
+428,Guangdong Provincial Laboratory of Southern Marine Science and Engineering,CHN,Government
+429,Christian-Albrechts-Universitat zu Kiel,DEU,Universities
+430,University of Bristol *,GBR,Universities
+431,Xi'an Jiaotong University *,CHN,Universities
+432,Indian Institute of Technology Guwahati,IND,Universities
+433,"Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences",CHN,Government
+434,Universitat Autonoma de Barcelona *,ESP,Universities
+435,ICAR Research Complex for NEH Region,IND,Government
+436,Agriculture Victoria *,AUS,Government
+437,Centre d'Ecologie Fonctionnelle et Evolutive Montpellier,FRA,Government
+438,Bandung Institute of Technology,IDN,Universities
+439,Kyoto University *,JPN,Universities
+440,Universidade Federal do Rio Grande do Sul,BRA,Universities
+441,University of Cambridge *,GBR,Universities
+442,North-West University,ZAF,Universities
+443,China National Rice Research Institute,CHN,Government
+444,University of Tasmania,AUS,Universities
+445,Universidad de Costa Rica,CRI,Universities
+446,Nagoya University *,JPN,Universities
+447,Aligarh Muslim University,IND,Universities
+448,Senckenberg Forschungsinstitut und Naturmuseum *,DEU,Government
+449,Southern University of Science and Technology,CHN,Universities
+450,Universidad de Cordoba *,ESP,Universities
+451,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities
+452,Technische Universitat Berlin *,DEU,Universities
+453,"Oklahoma State University, Stillwater *",USA,Universities
+454,Fayoum University *,EGY,Universities
+455,University of Saskatchewan,CAN,Universities
+456,"University of California, San Diego *",USA,Universities
+457,Universitat Politecnica de Valencia *,ESP,Universities
+458,Warsaw University of Life Sciences,POL,Universities
+459,Jagiellonian University,POL,Universities
+460,Shiraz University,IRN,Universities
+461,Commissariat a l'Energie Atomique et aux Energies Alternatives *,FRA,Government
+462,Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH,DEU,Non-Profit
+463,Cairo University *,EGY,Universities
+464,Universidade Federal de Vicosa,BRA,Universities
+465,Universidade Federal de Santa Maria,BRA,Universities
+466,The University of Hong Kong *,HKG,Universities
+467,University of Montenegro,MNE,Universities
+468,Central Potato Research Institute,IND,Government
+469,Hunan Agricultural University,CHN,Universities
+470,Leibniz Institut fur Pflanzengenetik und Kulturpflanzenforchung,DEU,Government
+471,Zagazig University *,EGY,Universities
+472,"Chengdu Institute of Biology, Chinese Academy of Sciences",CHN,Government
+473,Universite Gustave Eiffel *,FRA,Universities
+474,University of Tehran,IRN,Universities
+475,Universite Paris-Est Creteil *,FRA,Universities
+476,Auburn University,USA,Universities
+477,King Saud University *,SAU,Universities
+478,Universita degli Studi di Torino,ITA,Universities
+479,University Putra Malaysia,MYS,Universities
+480,Guilin University of Technology,CHN,Universities
+481,Universidade Federal do Ceara,BRA,Universities
+482,Agricultural University of Hebei,CHN,Universities
+483,University of Delaware,USA,Universities
+484,Clemson University,USA,Universities
+485,Charles University *,CZE,Universities
+486,Beijing Academy of Agriculture and Forestry Sciences,CHN,Companies
+487,Kunming University of Science and Technology,CHN,Universities
+488,City University of New York *,USA,Universities
+489,"University of Arkansas, Fayetteville",USA,Universities
+490,Bu-Ali Sina University,IRN,Universities
+491,Universitat Bern *,CHE,Universities
+492,Ministry of Natural Resources,CHN,Government
+493,German Centre for Integrative Biodiversity Research iDiv Halle-Jena-Leipzig,DEU,Government
+494,Universidad de Chile *,CHL,Universities
+495,Universidad Nacional de Colombia *,COL,Universities
+496,Universidade Federal Rural de Pernambuco,BRA,Universities
+497,Indian Institute of Rice Research,IND,Government
+498,Institut d'Ecologie et des Sciences de l'Environnement de Paris,FRA,Government
+499,Mendel University in Brno,CZE,Universities
+499,Florida State University *,USA,Universities
+501,Shandong Academy of Agricultural Sciences *,CHN,Government
+502,North Dakota State University,USA,Universities
+503,University of Agriculture in Krakow,POL,Universities
+504,"Institute of Urban Environment, Chinese Academy of Sciences",CHN,Government
+504,Universidad Nacional de Cordoba *,ARG,Universities
+506,Vrije Universiteit Amsterdam *,NLD,Universities
+507,"Shaanxi Normal University, Xi'an",CHN,Universities
+508,Universite PSL *,FRA,Universities
+509,Universite de Toulouse,FRA,Universities
+510,Universita degli Studi di Milano,ITA,Universities
+511,Ocean University of China,CHN,Universities
+511,Fuzhou University,CHN,Universities
+513,Crop Research Institute,CZE,Government
+514,Universita degli Studi di Roma La Sapienza,ITA,Universities
+515,Guizhou University,CHN,Universities
+515,Guangdong University of Technology,CHN,Universities
+517,Yunnan University,CHN,Universities
+518,Kyungpook National University *,KOR,Universities
+519,Leibniz Institut fur Pflanzenbiochemie,DEU,Government
+520,Qingdao National Laboratory for Marine Science and Technology,CHN,Government
+521,Jiangxi Agricultural University,CHN,Universities
+522,Gansu Agricultural University,CHN,Universities
+523,International Maize and Wheat Improvement Center Mexico,MEX,Non-Profit
+524,Jiangsu Academy of Agricultural Sciences *,CHN,Government
+525,University of Kentucky *,USA,Universities
+526,Aristotle University of Thessaloniki,GRC,Universities
+527,Shihezi University,CHN,Universities
+528,Universidad de la Frontera,CHL,Universities
+529,Henan University *,CHN,Universities
+530,"Universite Paul Valery, Montpellier III *",FRA,Universities
+531,China National Petroleum Corp *,CHN,Companies
+532,National Research Centre *,EGY,Government
+533,Beijing Forestry University,CHN,Universities
+534,Landcare Research,NZL,Government
+535,University of Nairobi,KEN,Universities
+536,Khon Kaen University,THA,Universities
+537,National University of Singapore *,SGP,Universities
+538,University of Baghdad,IRQ,Universities
+539,"Indian Institute of Technology, Kharagpur",IND,Universities
+540,AgriBio Centre for AgriBioscience,AUS,Government
+541,University of Tsukuba *,JPN,Universities
+542,"University of Alaska, Fairbanks",USA,Universities
+543,New Mexico State University,USA,Universities
+544,Ecole Pratique des Hautes Etudes,FRA,Universities
+544,Universidade do Estado de Santa Catarina,BRA,Universities
+546,Shanxi University,CHN,Universities
+547,"Lincoln University, Lincoln",NZL,Universities
+548,Chinese Academy of Geological Sciences *,CHN,Government
+549,University of Virginia *,USA,Universities
+550,Universidad Austral de Chile *,CHL,Universities
+551,"Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences",CHN,Government
+552,Centre de Recerca Ecologica i Aplicacions Forestals,ESP,Government
+553,Xinjiang University,CHN,Universities
+554,Gadjah Mada University,IDN,Universities
+555,Northeast Forestry University,CHN,Universities
+556,Chinese Academy of Tropical Agricultural Sciences,CHN,Universities
+557,Anhui Agricultural University,CHN,Universities
+558,"Institute of Mountain Hazards and Environment, Chinese Academy of Sciences",CHN,Government
+559,Universite de Versailles Saint Quentin en Yvelines *,FRA,Universities
+560,Qingdao University of Technology,CHN,Universities
+561,Universidade Federal de Santa Catarina *,BRA,Universities
+562,Shenyang Agricultural University,CHN,Universities
+563,Razi University,IRN,Universities
+564,Biology Centre of the ASCR,CZE,Government
+564,University of Tartu,EST,Universities
+566,"Consejo Nacional de Humanidades, Ciencias y Tecnologias *",MEX,Government
+567,"Wuhan Botanical Garden, Chinese Academy of Sciences",CHN,Government
+568,Brawijaya University,IDN,Universities
+569,Institut Pierre Simon Laplace,FRA,Government
+570,International Institute of Tropical Agriculture,MUL,Non-Profit
+571,Universidade de Brasilia,BRA,Universities
+572,"University of Technology, Malaysia",MYS,Universities
+573,Laboratoire des Sciences du Climat et l'Environnement,FRA,Government
+574,Xi'an University of Architecture and Technology,CHN,Universities
+575,Ministry of Ecology and Environment,CHN,Government
+576,Nanjing Hydraulic Research Institute,CHN,Government
+577,Universitat Kassel,DEU,Universities
+578,University of Science and Technology Beijing,CHN,Universities
+579,Chinese Academy of Forestry *,CHN,Government
+580,Jilin Agricultural University,CHN,Universities
+581,Hainan University,CHN,Universities
+582,Laval University,CAN,Universities
+583,Sharif University of Technology,IRN,Universities
+584,North China University of Water Conservancy and Electric Power,CHN,Universities
+585,Universidad Autonoma de Madrid *,ESP,Universities
+586,Universite de Liege,BEL,Universities
+587,Norwegian University of Life Sciences,NOR,Universities
+588,Universite de Carthage *,TUN,Universities
+589,Mississippi State University,USA,Universities
+590,Stellenbosch University,ZAF,Universities
+591,Shahrekord University,IRN,Universities
+592,Central Soil Salinity Research Institute,IND,Government
+593,Isfahan University of Technology,IRN,Universities
+594,University of Western Ontario,CAN,Universities
+595,Universidade Estadual de Maringa,BRA,Universities
+596,Chaudhary Charan Singh Haryana Agricultural University,IND,Universities
+596,Taiyuan University of Technology,CHN,Universities
+598,Beijing Jiaotong University,CHN,Universities
+599,Kyushu University *,JPN,Universities
+600,Banaras Hindu University,IND,Universities
+601,Generalitat de Catalunya Barcelona,ESP,Government
+602,Henan University of Science and Technology *,CHN,Universities
+603,Indian Space Research Organization *,IND,Government
+603,University of Delhi *,IND,Universities
+605,Beijing University of Civil Engineering & Architecture,CHN,Universities
+606,University of Pretoria,ZAF,Universities
+607,Japan International Research Center for Agricultural Sciences,JPN,Government
+608,Hacettepe University,TUR,Universities
+609,Chulalongkorn University,THA,Universities
+610,"Vietnam National University, Ho Chi Minh City",VNM,Universities
+611,Universitat Rostock *,DEU,Universities
+612,Centre de Recerca en Agrotecnologia,ESP,Government
+612,Changjiang River Scientific Research Institute,CHN,Government
+614,Pakistan Atomic Energy Commission *,PAK,Government
+615,Justus-Liebig-Universitat Giessen *,DEU,Universities
+616,University of Zagreb,HRV,Universities
+616,University of Eastern Finland,FIN,Universities
+618,Bahauddin Zakariya University,PAK,Universities
+618,Agricultural Research Education and Extension Organization *,IRN,Government
+620,Universite Grenoble-Alpes *,FRA,Universities
+621,University of South Bohemia,CZE,Universities
+621,University of Ghana,GHA,Universities
+623,Universite de Lorraine *,FRA,Universities
+624,Hanyang University *,KOR,Universities
+625,University College Dublin,IRL,Universities
+626,University of Kansas *,USA,Universities
+627,Universidade de Vigo *,ESP,Universities
+628,"Universidade La Salle, Brazil",BRA,Universities
+629,Universidad Nacional de La Plata *,ARG,Universities
+630,Eotvos Lorand University,HUN,Universities
+630,Technische Universitat Dresden *,DEU,Universities
+632,International Crops Research Institute for the Semi-Arid Tropics,MUL,Non-Profit
+633,University of Debrecen,HUN,Universities
+634,Universita degli Studi della Tuscia,ITA,Universities
+635,Sri Siva Subramania Nadar College of Engineering,IND,Universities
+636,West Virginia University *,USA,Universities
+637,Universitat zu Koln,DEU,Universities
+637,"Institute of Microbiology, Chinese Academy of Sciences",CHN,Government
+639,University of the Free State,ZAF,Universities
+640,Wroclaw University of Environmental and Life Sciences,POL,Universities
+641,Universidade Estadual de Londrina,BRA,Universities
+642,Universidad Veracruzana,MEX,Universities
+643,Universidad de Castilla-La Mancha *,ESP,Universities
+644,Aix-Marseille Universite *,FRA,Universities
+645,Fujian Normal University,CHN,Universities
+646,AGROSAVIA - Corporacion Colombiana de Investigacion Agropecuaria,COL,Non-Profit
+647,Ningxia University,CHN,Universities
+648,University of Novi Sad,SRB,Universities
+649,Universita degli Studi di Perugia,ITA,Universities
+650,"Northeastern University, China",CHN,Universities
+651,Saint Petersburg State University,RUS,Universities
+652,"Government College University, Faisalabad",PAK,Universities
+653,Universite Claude Bernard Lyon 1 *,FRA,Universities
+654,Universidade Tecnologica Federal do Parana,BRA,Universities
+655,Peoples'Friendship University of Russia,RUS,Universities
+656,Universitat de Lleida *,ESP,Universities
+657,Ruhr-Universitat Bochum *,DEU,Universities
+658,University of Dhaka,BGD,Universities
+659,Punjab Agricultural University,IND,Universities
+660,Iran University of Science and Technology,IRN,Universities
+661,University of Western Sydney,AUS,Universities
+662,Generalitat Valenciana Valencia,ESP,Government
+663,International Water Management Institute,MUL,Non-Profit
+664,Queensland University of Technology,AUS,Universities
+665,Universidade Federal da Paraiba,BRA,Universities
+666,Universite du Quebec en Quebec *,CAN,Universities
+667,Centro Cientifico Tecnologico de Cordoba,ARG,Government
+668,University of KwaZulu-Natal *,ZAF,Universities
+669,Yunnan Agricultural University,CHN,Universities
+670,Shijiazhuang Tiedao University,CHN,Universities
+670,Panjab University,IND,Universities
+672,"AgroSup Dijon, Institut National Superieur des Sciences Agronomiques, de l'Alimentation et de l'Environnement *",FRA,Universities
+673,University of Manitoba,CAN,Universities
+674,Massey University,NZL,Universities
+675,Southwest University of Science and Technology,CHN,Universities
+676,Universidade Federal de Pelotas,BRA,Universities
+677,"University of Kurdistan, Sanandaj",IRN,Universities
+678,Patuakhali University of Science and Technology,BGD,Universities
+679,Jimma University *,ETH,Universities
+680,Tecnologico Nacional de Mexico *,MEX,Government
+681,Universidade Federal de Mato Grosso do Sul,BRA,Universities
+682,Okayama University *,JPN,Universities
+683,"University of Science, Malaysia *",MYS,Universities
+683,Andalas University,IDN,Universities
+685,Universidade Federal do Piaui,BRA,Universities
+686,China Meteorological Administration,CHN,Government
+687,Northeast Normal University,CHN,Universities
+688,Universidade de Coimbra *,PRT,Universities
+689,Tarbiat Modares University,IRN,Universities
+690,Addis Ababa University,ETH,Universities
+691,AgResearch Ltd,NZL,Government
+692,Zhejiang Academy of Agricultural Sciences *,CHN,Government
+693,"Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences",CHN,Government
+694,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+695,Universidad de Concepcion *,CHL,Universities
+696,Universidade Federal Rural do Rio de Janeiro,BRA,Universities
+697,"Indian Institute of Technology, Roorkee",IND,Universities
+698,Ondokuz Mayis University *,TUR,Universities
+699,Syiah Kuala University,IDN,Universities
+700,COMSATS Institute of Information Technology *,PAK,Universities
+701,Tottori University *,JPN,Universities
+702,Jiangnan University *,CHN,Universities
+702,Sepuluh Nopember Institute of Technology,IDN,Universities
+704,China Earthquake Administration,CHN,Government
+705,Bahir Dar University,ETH,Universities
+706,Indian Institute of Soil Sciences,IND,Government
+707,Dalhousie University *,CAN,Universities
+708,Universidade Federal Rural do Semi-Arido,BRA,Universities
+709,Hungarian University of Agriculture and Life Sciences,HUN,Universities
+710,Macquarie University *,AUS,Universities
+711,"Institute of Atmospheric Physics, Chinese Academy of Sciences",CHN,Government
+712,Shanxi Agricultural University,CHN,Universities
+713,Amity University *,IND,Universities
+714,The Islamia University of Bahawalpur,PAK,Universities
+715,Kwame Nkrumah University of Science and Technology,GHA,Universities
+715,Universidad Nacional de Rosario *,ARG,Universities
+717,Tennessee State University,USA,Universities
+718,Kazan Federal University,RUS,Universities
+719,University of Malaya *,MYS,Universities
+720,Indian Grassland and Fodder Research Institute,IND,Government
+721,University of South Africa,ZAF,Universities
+721,Universidade Federal do Espirito Santo,BRA,Universities
+723,University of Life Sciences in Lublin,POL,Universities
+724,Kochi University *,JPN,Universities
+725,Sultan Qaboos University *,OMN,Universities
+726,"South China Botanical Garden, Chinese Academy of Sciences",CHN,Government
+727,Pusan National University,KOR,Universities
+728,Haramaya University,ETH,Universities
+729,Lovely Professional University,IND,Universities
+730,"Southern Illinois University, Carbondale *",USA,Universities
+731,Padjadjaran University,IDN,Universities
+732,Henan Agricultural University,CHN,Universities
+733,Bangladesh Agricultural University,BGD,Universities
+734,National Institute for Environmental Studies,JPN,Government
+735,Rural Development Administration *,KOR,Government
+736,Kangwon National University *,KOR,Universities
+737,University of New Mexico *,USA,Universities
+738,Iran University of Medical Sciences *,IRN,Universities
+739,University of Ottawa,CAN,Universities
+740,Shanghai University,CHN,Universities
+741,Universidade Estadual do Centro-Oeste,BRA,Universities
+742,Indian Institute of Pulses Research,IND,Government
+742,Mohammed VI Polytechnic University,MAR,Universities
+742,Middle East Technical University,TUR,Universities
+745,Indian Institute of Science,IND,Universities
+746,Universidade Federal de Uberlandia,BRA,Universities
+746,Generalitat de Catalunya Lleida,ESP,Government
+748,Instituto Agronomico Campinas,BRA,Government
+749,University of Limpopo,ZAF,Universities
+750,Institut National Polytechnique de Toulouse *,FRA,Universities
+751,Poznan University of Life Sciences,POL,Universities
+752,Tanta University,EGY,Universities
+753,International Institute of Tropical Agriculture Nigeria,NGA,Non-Profit
+754,Forestry and Forest Products Research Institute,JPN,Government
+755,Colegio de Postgraduados,MEX,Universities
+756,Universidade Federal de Sergipe,BRA,Universities
+757,Universite Francois Rabelais de Tours *,FRA,Universities
+758,Ferdowsi University of Mashhad,IRN,Universities
+759,Universidad Autonoma del Estado de Mexico,MEX,Universities
+760,King Abdulaziz University *,SAU,Universities
+761,Agencia Paulista de Tecnologia dos Agronegocios *,BRA,Government
+762,Al-Azhar University *,EGY,Universities
+763,University of Zimbabwe,ZWE,Universities
+764,Centro Cientifico Tecnologico La Plata,ARG,Government
+765,Mansoura University *,EGY,Universities
+766,Shahid Beheshti University,IRN,Universities
+767,Universite Cadi Ayyad *,MAR,Universities
+768,Urmia University,IRN,Universities
+769,University of Jordan,JOR,Universities
+770,Nankai University *,CHN,Universities
+771,International Crops Research Institute for the Semi-Arid Tropics India,IND,Non-Profit
+772,Hue University,VNM,Universities
+773,"Indian Institute of Technology, Madras",IND,Universities
+774,Bhabha Atomic Research Centre,IND,Government
+775,Southern Federal University,RUS,Universities
+776,PetroChina Co Ltd,CHN,Companies
+777,University for Development Studies,GHA,Universities
+778,Nanchang University *,CHN,Universities
+779,Yamagata University *,JPN,Universities
+780,"Soochow University, Suzhou *",CHN,Universities
+781,Inner Mongolia Agricultural University,CHN,Universities
+782,"Northwest University, Xi'an",CHN,Universities
+782,Chonbuk National University *,KOR,Universities
+784,Leibniz-Institut fur Agrartechnik Potsdam-Bornim,DEU,Government
+785,Ataturk University,TUR,Universities
+786,Anhui University,CHN,Universities
+787,National Academy of Sciences of Ukraine *,UKR,Government
+788,Hebei University *,CHN,Universities
+789,Qingdao Agricultural University,CHN,Universities
+790,University of Jinan,CHN,Universities
+791,University of Tabriz,IRN,Universities
+792,Universidad Nacional de Mar del Plata *,ARG,Universities
+793,Plant and Food Research,NZL,Companies
+794,Mashhad University of Medical Sciences,IRN,Universities
+795,Murdoch University,AUS,Universities
+796,Assiut University *,EGY,Universities
+797,Can Tho University,VNM,Universities
+798,Universitat de Girona *,ESP,Universities
+799,University of Arid Agriculture,PAK,Universities
+800,Universidade Federal Rural da Amazonia,BRA,Universities
+801,Institute of Field and Vegetable Crops,SRB,Government
+802,Institute of Agrophysics Polish Academy of Sciences,POL,Government
+803,Umm Al-Qura University,SAU,Universities
+804, Wolaita Sodo University,ETH,Universities
+805,University of the Philippines Diliman *,PHL,Universities
+806,Lanzhou Jiaotong University,CHN,Universities
+807,University of Johannesburg,ZAF,Universities
+808,Nanjing Tech University,CHN,Universities
+809,Annamalai University,IND,Universities
+809,Universidad de la Republica *,URY,Universities
+811,Saitama University,JPN,Universities
+812,Agricultural Research Council,ZAF,Government
+813,Erciyes University,TUR,Universities
+814,"University of the Punjab, Lahore",PAK,Universities
+815,University of Mohaghegh Ardabili,IRN,Universities
+816,Hanoi University of Civil Engineering,VNM,Universities
+817,Centro de Investigaciones Biologicas del Noroeste,MEX,Government
+818,Universite de Yaounde I,CMR,Universities
+819,University of Peradeniya,LKA,Universities
+819,Central South University of Forestry and Technology,CHN,Universities
+821,"Vietnam National University System, Ho Chi Minh City *",MUL,Universities
+822,Amirkabir University of Technology,IRN,Universities
+823,China Three Gorges University,CHN,Universities
+824,Estonian University of Life Sciences,EST,Universities
+825,National Research and Innovation Agency *,IDN,Government
+826,Universidade Federal dos Vales do Jequitinhonha e Mucuri,BRA,Universities
+827,Hawassa University,ETH,Universities
+828,Heilongjiang Academy of Agricultural Sciences,CHN,Government
+829,"Instituto Nacional de Investigaciones Forestales, Agricolas y Pecuarias *",MEX,Government
+830,Heilongjiang University,CHN,Universities
+831,Technische Universitat Bergakademie Freiberg,DEU,Universities
+832,Institution de la Recherche et de l'Enseignement Superieur Agricoles *,TUN,Government
+833,Universidad Michoacana de San Nicolas de Hidalgo,MEX,Universities
+834,University Malaysia Terengganu,MYS,Universities
+835,Universidad Nacional de Rio Cuarto *,ARG,Universities
+836,L. N. Gumilov Eurasian National University,KAZ,Universities
+836,Kerala Agricultural University,IND,Universities
+838,Lanzhou University of Technology,CHN,Universities
+839,Indian Institute of Technology,IND,Universities
+840,Guangdong Ocean University,CHN,Universities
+841,University of Agriculture,PAK,Universities
+842,Universidade do Oeste Paulista,BRA,Universities
+843,University of Sargodha,PAK,Universities
+844,"Islamic Azad University, Science and Research Branch",IRN,Universities
+845,Sari Agricultural Sciences and Natural Resources University,IRN,Universities
+846,Universite Abdelmalek Essaadi *,MAR,Universities
+847,Hunan Normal University,CHN,Universities
+848,Hebei Normal University,CHN,Universities
+848,University of Nigeria,NGA,Universities
+850,UNESCO-IHE Institute for Water Education,NLD,Universities
+851,Universidade Federal de Mato Grosso,BRA,Universities
+852,Gorgan University of Agricultural Sciences and Natural Resources,IRN,Universities
+853,National Technical University of Athens,GRC,Universities
+854,Sher-e-Bangla Agricultural University,BGD,Universities
+855,Iwate University,JPN,Universities
+856,Princess Nourah bint Abdul Rahman University *,SAU,Universities
+857,Universite de Lyon,FRA,Universities
+858,Universidade Estadual do Norte Fluminense Darcy Ribeiro,BRA,Universities
+859,"Federal University of Agriculture, Abeokuta",NGA,Universities
+859,Henan Polytechnic University,CHN,Universities
+861,Kastamonu University,TUR,Universities
+862,Graduate University of Advanced Technology,IRN,Universities
+863,Guizhou Normal University,CHN,Universities
+864,Inner Mongolia University,CHN,Universities
+864,Zanjan University,IRN,Universities
+866,Hamadan University of Medical Sciences,IRN,Universities
+867,Universidade Federal da Grande Dourados,BRA,Universities
+868,Hebei University of Technology,CHN,Universities
+869,Foshan University,CHN,Universities
+870,Shahid Chamran University,IRN,Universities
+871,Wenzhou University,CHN,Universities
+872,University of Ibadan,NGA,Universities
+873,University of Sindh,PAK,Universities
+874,"University of Agricultural Sciences, Bangalore",IND,Universities
+875,University of Haripur,PAK,Universities
+876,King Khalid University,SAU,Universities
+877,Mekelle University,ETH,Universities
+878,Debre Markos University,ETH,Universities
+879,Wuhan University of Science and Technology,CHN,Universities
+880,Shanghai Academy of Agricultural Sciences,CHN,Government
+881,Qinghai University,CHN,Universities
+882,Arba Minch University,ETH,Universities
+883,Shahid Beheshti University of Medical Sciences and Health Services *,IRN,Universities
+884,Central Agricultural University,IND,Universities
+885,Payame Noor University,IRN,Universities
+886,Anand Agricultural University,IND,Universities
+887,Tyumen State University,RUS,Universities
+888,Universidade Federal do Agreste de Pernambuco,BRA,Universities
+888,Shahrood University of Technology,IRN,Universities
+890,National Dairy Research Institute,IND,Government
+891,K.N.Toosi University of Technology,IRN,Universities
+892,China Geological Survey *,CHN,Government
+893,Instituto de Investigaciones Fisiologicas y Ecologicas Vinculadas a la Agricultura,ARG,Government
+894,Obafemi Awolowo University,NGA,Universities
+895,Taizhou University,CHN,Universities
+896,Universite Ibn Tofail *,MAR,Universities
+897,University of Shanghai for Science and Technology,CHN,Universities
+898,Tabriz University of Medical Sciences,IRN,Universities
+899,Hubei University of Technology,CHN,Universities
+900,Tribhuvan University *,NPL,Universities
+901,Shanghai Ocean University,CHN,Universities
+902,Henan Institute of Science and Technology,CHN,Universities
+903,Chinese Research Academy of Environmental Sciences,CHN,Non-Profit
+904,Liaoning University,CHN,Universities
+905,Maharana Pratap University of Agriculture and Technology,IND,Universities
+906,Heilongjiang Bayi Agricultural University,CHN,Universities
+907,Orissa University of Agriculture and Technology,IND,Universities
+908,Assam Agricultural University,IND,Universities
+909,Ludong University,CHN,Universities
+910,Liaoning Technical University,CHN,Universities
+911,Central Arid Zone Research Institute,IND,Government
+912,Shahid Bahonar University of Kerman,IRN,Universities
+912,Hebei University of Engineering,CHN,Universities
+914,Shiraz University of Medical Sciences *,IRN,Universities
+915,Universidad Nacional de La Pampa *,ARG,Universities
+916,Jiangsu Provincial Government *,CHN,Government
+916,Southwest Minzu University,CHN,Universities
+918,Xinjiang Agricultural University,CHN,Universities
+919,China West Normal University,CHN,Universities
+920,Jiangxi University of Science and Technology,CHN,Universities
+921,Yasouj University,IRN,Universities
+922,Institute of Geography Russian Academy of Sciences,RUS,Government
+923,Tarim University,CHN,Universities
+924,A.N. Severtsov Institute of Ecology and Evolution Russian Academy of Sciences,RUS,Government
+925,Southwest Forestry University,CHN,Universities
+926,Universite Sultan Moulay Slimane,MAR,Universities
+927,Near East University,CYP,Universities
+928,Russian Academy of Agricultural Sciences,RUS,Government
+929,Egyptian Atomic Energy Authority *,EGY,Government
+930,Sher-e-Kashmir University of Agricultural Sciences and Technology-Srinagar,IND,Universities
+931,Jilin Academy of Agricultural Sciences,CHN,Government
+932,"Islamic Azad University, Arak Branch",IRN,Universities
+933,Nanjing Botanical Garden Memorial Sun Yat-Sen Jiangsu Province and Chinese Academy of Sciences,CHN,Government
+934,Komi Scientific Center Russian Academy of Sciences,RUS,Government
+935,"PowerChina Huadong Engineering Corp Ltd, China",CHN,Companies
+936,Nuclear Materials Authority,EGY,Government
+937,Moscow State University of Civil Engineering,RUS,Universities
+938,Inner Mongolia University of Science and Technology,CHN,Universities
+939,Tianjin Agricultural University,CHN,Universities
+940,Zhejiang Ocean University,CHN,Universities
+941,"Islamic Azad University, Central Tehran Branch",IRN,Universities

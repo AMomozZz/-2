@@ -1,0 +1,2294 @@
+Global Rank,Institution,Country,Sector
+1,Centre National de la Recherche Scientifique *,FRA,Government
+2,University of Oxford,GBR,Universities
+3,Harvard University *,USA,Universities
+4,University of Cambridge *,GBR,Universities
+5,University College London *,GBR,Universities
+6,Russian Academy of Sciences *,RUS,Government
+7,Chinese Academy of Sciences *,CHN,Government
+8,Max Planck Gesellschaft *,DEU,Government
+9,University of Toronto,CAN,Universities
+10,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government
+11,Stanford University *,USA,Universities
+12,Massachusetts Institute of Technology *,USA,Universities
+13,The University of Edinburgh *,GBR,Universities
+14,University of Amsterdam *,NLD,Universities
+15,Columbia University *,USA,Universities
+16,"University of California, Berkeley *",USA,Universities
+17,New York University *,USA,Universities
+18,Howard Hughes Medical Institute *,USA,Health
+19,Kings College London,GBR,Universities
+20,"University of California, Los Angeles *",USA,Universities
+21,University of Melbourne *,AUS,Universities
+22,University of Sydney,AUS,Universities
+23,Yale University *,USA,Universities
+24,Harvard Medical School,USA,Universities
+25,University of Pennsylvania *,USA,Universities
+26,National Institutes of Health,USA,Health
+27,University of Chicago *,USA,Universities
+28,Catholic University of Leuven,BEL,Universities
+29,"University of Michigan, Ann Arbor *",USA,Universities
+30,Pennsylvania State University *,USA,Universities
+31,Fred Hutchinson Cancer Research Center,USA,Health
+32,The University of Manchester *,GBR,Universities
+33,University of Washington *,USA,Universities
+34,Utrecht University *,NLD,Universities
+35,Google International LLC,MUL,Companies
+36,City University of New York *,USA,Universities
+37,"Google Inc, USA",USA,Companies
+38,"University of Texas, Austin",USA,Universities
+39,"University of California, San Diego *",USA,Universities
+40,Universidad Complutense de Madrid *,ESP,Universities
+41,Cornell University *,USA,Universities
+42,Consejo Superior de Investigaciones Cientificas *,ESP,Government
+43,Broad Institute of MIT and Harvard,USA,Health
+44,Princeton University,USA,Universities
+45,"Monash University, Melbourne *",AUS,Universities
+46,University of Helsinki,FIN,Universities
+47,Australian National University,AUS,Universities
+48,Aarhus University *,DNK,Universities
+49,Johns Hopkins University *,USA,Universities
+50,University of Glasgow *,GBR,Universities
+51,University of Oslo,NOR,Universities
+52,Universitat de Barcelona *,ESP,Universities
+53,University of Warwick,GBR,Universities
+54,Ghent University,BEL,Universities
+55,The University of British Columbia,CAN,Universities
+56,"Northwestern University, Evanston *",USA,Universities
+57,University of Copenhagen,DNK,Universities
+58,University of Durham,GBR,Universities
+59,University of Leeds,GBR,Universities
+60,UC San Diego Health System,USA,Health
+61,"University of North Carolina, Chapel Hill *",USA,Universities
+62,University of York,GBR,Universities
+63,University of Groningen *,NLD,Universities
+64,Microsoft Corp *,MUL,Companies
+64,University of Birmingham,GBR,Universities
+66,Arizona State University *,USA,Universities
+67,The University of Queensland *,AUS,Universities
+68,Universite PSL *,FRA,Universities
+69,Sorbonne Universite *,FRA,Universities
+70,U.S. Department of Health & Human Services *,USA,Health
+71,Duke University *,USA,Universities
+72,Vrije Universiteit Amsterdam *,NLD,Universities
+73,Leiden University *,NLD,Universities
+74,London School of Economics and Political Science,GBR,Universities
+75,"University of Wisconsin, Madison *",USA,Universities
+76,University of Bristol,GBR,Universities
+77,"Ohio State University, Columbus *",USA,Universities
+78,"Rutgers, The State University of New Jersey",USA,Universities
+79,University of Nottingham *,GBR,Universities
+80,University of Southampton,GBR,Universities
+81,University of Exeter,GBR,Universities
+82,Universitat Autonoma de Barcelona *,ESP,Universities
+83,Universitat Wien,AUT,Universities
+84,The University of Sheffield,GBR,Universities
+85,University of New South Wales,AUS,Universities
+86,Indiana University-Bloomington,USA,Universities
+87,Universidad de Buenos Aires *,ARG,Universities
+88,Tel Aviv University,ISR,Universities
+89,Helmholtz Gemeinschaft *,DEU,Government
+90,Universidad de Granada *,ESP,Universities
+91,Hebrew University of Jerusalem,ISR,Universities
+92,Universita degli Studi di Roma La Sapienza,ITA,Universities
+93,Stockholm University,SWE,Universities
+94,Universitat de Valencia *,ESP,Universities
+95,University of Illinois at Urbana-Champaign *,USA,Universities
+96,Saint Petersburg State University,RUS,Universities
+97,McGill University,CAN,Universities
+98,Ludwig-Maximilians Universitat Munchen *,DEU,Universities
+99,Washington University in Saint Louis *,USA,Universities
+100,"University of Minnesota, Twin Cities *",USA,Universities
+101,National University of Singapore *,SGP,Universities
+102,"University of California, Irvine *",USA,Universities
+103,Universite de Paris Cite *,FRA,Universities
+104,University of Southern California *,USA,Universities
+105,State University - Higher School of Economics,RUS,Universities
+106,Michigan State University,USA,Universities
+107,University of Pittsburgh *,USA,Universities
+108,University of Liverpool *,GBR,Universities
+109,Lunds University,SWE,Universities
+110,Eberhard-Karls-Universitat Tubingen,DEU,Universities
+110,Universidade de Sao Paulo *,BRA,Universities
+112,Macquarie University *,AUS,Universities
+113,"University of California, San Francisco *",USA,Universities
+114,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+115,Massachusetts General Hospital,USA,Health
+116,Radboud University Nijmegen,NLD,Universities
+117,Universidad Nacional Autonoma de Mexico,MEX,Universities
+118,Universidad de Sevilla *,ESP,Universities
+119,Erasmus University Rotterdam *,NLD,Universities
+120,University of St. Andrews,GBR,Universities
+121,"University of California, Davis *",USA,Universities
+122,Ministry of Education of the People's Republic of China,CHN,Government
+123,University of Warsaw,POL,Universities
+124,University of Sussex *,GBR,Universities
+125,"University of Colorado, Boulder *",USA,Universities
+126,Boston University *,USA,Universities
+127,Uppsala University,SWE,Universities
+128,Zhejiang University *,CHN,Universities
+129,University of Pretoria,ZAF,Universities
+130,Cardiff University,GBR,Universities
+131,Brown University,USA,Universities
+132,Scripps Research Institute,USA,Health
+133,Consiglio Nazionale delle Ricerche *,ITA,Government
+134,Universitat Zurich,CHE,Universities
+135,University of Ljubljana *,SVN,Universities
+136,University of Notre Dame,USA,Universities
+137,Universidade de Lisboa *,PRT,Universities
+138,Lawrence Berkeley National Laboratory *,USA,Government
+139,Tsinghua University *,CHN,Universities
+140,University of Virginia *,USA,Universities
+141,"University of Maryland, Baltimore",USA,Universities
+142,Institut National de la Sante et de la Recherche Medicale *,FRA,Health
+143,Swiss Federal Institute of Technology,CHE,Universities
+144,"Queen Mary, University of London",GBR,Universities
+145,Universita degli Studi di Padova,ITA,Universities
+146,University of Gothenburg,SWE,Universities
+147,University of Arizona *,USA,Universities
+148,Vanderbilt University *,USA,Universities
+149,Imperial College London,GBR,Universities
+150,Pontificia Universidad Catolica de Chile *,CHL,Universities
+151,Universite de Geneve,CHE,Universities
+152,Memorial Sloan-Kettering Cancer Center,USA,Health
+153,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+154,University of Florida *,USA,Universities
+155,Deakin University *,AUS,Universities
+156,Medical Research Council,GBR,Health
+157,Nanyang Technological University *,SGP,Universities
+158,"University of California, Santa Barbara",USA,Universities
+159,Peking University *,CHN,Universities
+160,Universidad del Pais Vasco *,ESP,Universities
+161,Alan Turing Institute,GBR,Government
+162,Queen's University Belfast,GBR,Universities
+163,Lancaster University *,GBR,Universities
+163,Leibniz Gemeinschaft *,DEU,Government
+165,University of Auckland,NZL,Universities
+166,SLAC National Accelerator Laboratory,USA,Government
+167,University of Texas M.D. Anderson Cancer Center ,USA,Health
+168,Humboldt-Universitat zu Berlin,DEU,Universities
+169,The University of Hong Kong *,HKG,Universities
+170,York University,CAN,Universities
+171,Universita degli Studi di Milano,ITA,Universities
+172,Griffith University,AUS,Universities
+173,Emory University *,USA,Universities
+174,Charles University *,CZE,Universities
+175,Purdue University,USA,Universities
+176,Alphabet Inc *,MUL,Companies
+177,University of Alberta,CAN,Universities
+178,University of Haifa,ISR,Universities
+179,Freie Universitat Berlin,DEU,Universities
+180,The University of Kent,GBR,Universities
+181,Children's Hospital Boston  *,USA,Health
+182,Johns Hopkins Medicine,USA,Health
+182,Aix-Marseille Universite *,FRA,Universities
+184,Lomonosov  Moscow State University,RUS,Universities
+185,University of Leicester,GBR,Universities
+186,Dana Farber Cancer Institute ,USA,Health
+187,University of South Africa,ZAF,Universities
+188,University of Chinese Academy of Sciences,CHN,Universities
+189,Ecole des Hautes Etudes en Sciences Sociales *,FRA,Universities
+190,Stanford Medicine,USA,Health
+191,Universita degli Studi di Torino,ITA,Universities
+192,California Institute of Technology *,USA,Universities
+193,University of Tokyo *,JPN,Universities
+194,Jagiellonian University,POL,Universities
+195,The University of Reading,GBR,Universities
+196,University of Bergen,NOR,Universities
+197,"University of the Witwatersrand, Johannesburg",ZAF,Universities
+198,Norwegian University of Science and Technology,NOR,Universities
+199,University of Zilina,SVK,Universities
+200,Universidad Autonoma de Madrid *,ESP,Universities
+200,The University of Western Australia,AUS,Universities
+202,Universita degli Studi di Firenze,ITA,Universities
+203,Universitat Bern,CHE,Universities
+204,Polish Academy of Sciences *,POL,Government
+205,Argonne National Laboratory,USA,Government
+205,Universitat Hamburg *,DEU,Universities
+207,Carnegie Mellon University *,USA,Universities
+208,Universidad de Chile *,CHL,Universities
+209,Universidad de Salamanca *,ESP,Universities
+209,Universite de Montreal,CAN,Universities
+211,University of Antwerp,BEL,Universities
+212,National Institute of Allergy and Infectious Diseases,USA,Health
+213,Universidad de Navarra *,ESP,Universities
+214,University of Western Ontario,CAN,Universities
+215,Delft University of Technology,NLD,Universities
+216,Universitat zu Koln,DEU,Universities
+217,Simon Fraser University,CAN,Universities
+218,University of East Anglia *,GBR,Universities
+219,University College Dublin,IRL,Universities
+220,University of Utah *,USA,Universities
+221,Ecole Pratique des Hautes Etudes,FRA,Universities
+222,Academy of Sciences of the Czech Republic *,CZE,Government
+223,Brigham and Women's Hospital,USA,Health
+224,"Universite Pantheon Sorbonne, Paris1 *",FRA,Universities
+225,Universitat Heidelberg,DEU,Universities
+226,Florida State University *,USA,Universities
+227,Universite du Quebec en Quebec *,CAN,Universities
+228,City University of New York Graduate Center,USA,Universities
+229,"University of Connecticut, Storrs *",USA,Universities
+230,Universitat d'Alacant *,ESP,Universities
+231,Shanghai Jiao Tong University *,CHN,Universities
+232,University of Otago,NZL,Universities
+233,Columbia University Irving Medical Center,USA,Health
+234,University of Georgia,USA,Universities
+235,Tilburg University,NLD,Universities
+236,Ruhr-Universitat Bochum *,DEU,Universities
+237,Erasmus Medical Center,NLD,Health
+238,National University of Malaysia *,MYS,Universities
+239,La Trobe University *,AUS,Universities
+240,Bar-Ilan University,ISR,Universities
+241,University of Tartu,EST,Universities
+241,Trinity College Dublin *,IRL,Universities
+243,University of Southern Denmark,DNK,Universities
+243,Adam Mickiewicz University,POL,Universities
+245,Kazan Federal University,RUS,Universities
+246,Beth Israel Deaconess Medical Center,USA,Health
+247,London School of Hygiene and Tropical Medicine,GBR,Universities
+248,CareGroup Healthcare System *,USA,Health
+249,Universidade Nova de Lisboa *,PRT,Universities
+250,University of Zagreb,HRV,Universities
+251,University of Waterloo,CAN,Universities
+252,Stellenbosch University,ZAF,Universities
+253,Universitat Pompeu Fabra *,ESP,Universities
+253,Yale University Health & Medicine,USA,Health
+255,Maastricht University,NLD,Universities
+256,Veterans Affairs Medical Centers *,USA,Health
+257,Forschungszentrum Julich in der Helmholtz Gemeinschaft,DEU,Government
+258,University of Wollongong *,AUS,Universities
+259,"University of Illinois, Chicago *",USA,Universities
+260,Masaryk University,CZE,Universities
+261,Ecole Normale Superieure de Paris *,FRA,Universities
+262,George Washington University *,USA,Universities
+262,National Cancer Institute,USA,Health
+264,University of Kansas *,USA,Universities
+265,Universidad de Zaragoza *,ESP,Universities
+266,Washington University Medical Center ,USA,Health
+267,Xi'an Jiaotong University *,CHN,Universities
+268,"University of Massachusetts, Amherst",USA,Universities
+269,UCLA Health System,USA,Health
+270,University of Ottawa,CAN,Universities
+271,Ben-Gurion University of the Negev *,ISR,Universities
+272,Universitat Basel,CHE,Universities
+273,Kenya Medical Research Institute,KEN,Health
+274,"University of Maryland, College Park *",USA,Universities
+275,Royal Holloway - University of London,GBR,Universities
+276,University of Oregon,USA,Universities
+277,Ministere de la Culture et de la Communication *,FRA,Government
+278,University of Pittsburgh Health Sciences,USA,Universities
+279,Queensland University of Technology,AUS,Universities
+280,McMaster University,CAN,Universities
+281,Universite de Bordeaux *,FRA,Universities
+282,Universidad Nacional de Educacion a Distancia *,ESP,Universities
+283,Johann Wolfgang Goethe-Universitat Frankfurt am Main *,DEU,Universities
+284,Ecole Polytechnique Federale de Lausanne,CHE,Universities
+285,"University of Nebraska, Lincoln",USA,Universities
+286,University of Calgary,CAN,Universities
+287,The Rockefeller University *,USA,Universities
+288,Georgetown University *,USA,Universities
+289,"Birkbeck, University of London",GBR,Universities
+290,Universite de Lausanne,CHE,Universities
+291,Mount Sinai Health System *,USA,Health
+292,Commissariat a l'Energie Atomique et aux Energies Alternatives *,FRA,Government
+293,Museum National d'Histoire Naturelle *,FRA,Government
+294,University of Johannesburg,ZAF,Universities
+295,Seoul National University *,KOR,Universities
+296,University of Cincinnati *,USA,Universities
+297,Karolinska Institute,SWE,Universities
+298,University of Cape Town,ZAF,Universities
+299,University of Science and Technology of China,CHN,Universities
+300,University of the Free State,ZAF,Universities
+301,Loughborough University,GBR,Universities
+301,Wageningen University and Research Centre *,NLD,Universities
+303,"Northeastern University, USA",USA,Universities
+304,Huazhong University of Science and Technology *,CHN,Universities
+305,Max Planck Institut fur Evolutionare Anthropologie,DEU,Government
+306,The Open University,GBR,Universities
+307,University of Jyvaskyla,FIN,Universities
+308,Rice University,USA,Universities
+309,University of Bath,GBR,Universities
+309,University of Essex,GBR,Universities
+311,Universidade de Santiago de Compostela *,ESP,Universities
+312,University of Iowa *,USA,Universities
+313,University Medical Center Utrecht,NLD,Health
+314,Babes-Bolyai University,ROU,Universities
+315,University of Aberdeen,GBR,Universities
+316,Universidade de Coimbra *,PRT,Universities
+317,The Chinese University of Hong Kong *,HKG,Universities
+318,Johannes Gutenberg-Universitat Mainz *,DEU,Universities
+319,"Goldsmiths, University of London",GBR,Universities
+320,University of South Florida System *,USA,Universities
+321,Universidad Nacional de Colombia *,COL,Universities
+322,"University of California, Santa Cruz",USA,Universities
+323,Flinders University,AUS,Universities
+324,Curtin University *,AUS,Universities
+325,Universita degli Studi di Pisa,ITA,Universities
+326,Universita degli Studi di Napoli Federico II,ITA,Universities
+327,Tampere University,FIN,Universities
+328,Universidad de Valladolid *,ESP,Universities
+329,Baylor University,USA,Universities
+330,University of Pennsylvania Health System,USA,Health
+331,Fudan University *,CHN,Universities
+332,Universidad de Murcia *,ESP,Universities
+333,Albert-Ludwigs-Universitat Freiburg im Breisgau,DEU,Universities
+334,Karl Franzens Universitat Graz *,AUT,Universities
+335,Northumbria University,GBR,Universities
+336,The University of Adelaide,AUS,Universities
+337,"University of Technology, Sydney",AUS,Universities
+338,Duke Medicine,USA,Health
+339,Aalborg University *,DNK,Universities
+340,University of Turku,FIN,Universities
+341,"University of California, Riverside",USA,Universities
+342,Universidade Federal do Rio de Janeiro *,BRA,Universities
+343,Sun Yat-Sen University *,CHN,Universities
+344,The Francis Crick Institute,GBR,Health
+345,Victoria University of Wellington,NZL,Universities
+346,Beijing Normal University *,CHN,Universities
+347,Boston College,USA,Universities
+347,Singapore Eye Research Institute,SGP,Health
+349,University of South Florida,USA,Universities
+350,Brigham Young University,USA,Universities
+351,RIKEN-Institute of Physical and Chemical Research,JPN,Government
+352,Universite de Lille *,FRA,Universities
+353,Max Planck Institut fur Menschheitsgeschichte,DEU,Government
+354,Northwestern Polytechnical University,CHN,Universities
+355,North-West University,ZAF,Universities
+356,National Aeronautics and Space Administration *,USA,Government
+357,Universite Paris-Saclay *,FRA,Universities
+358,Universita degli Studi Ca Foscari di Venezia,ITA,Universities
+358,Institut de Recherche pour le Developpement Paris *,FRA,Government
+360,Natural Environment Research Council *,GBR,Government
+361,Georg-August-Universitat Gottingen,DEU,Universities
+362,Singapore National Eye Centre *,SGP,Health
+363,"State University of New York, Buffalo",USA,Universities
+364,University of Oklahoma *,USA,Universities
+365,National Institute of Standards and Technology *,USA,Government
+366,Los Alamos National Laboratory *,USA,Government
+367,Hospital for Sick Children,CAN,Health
+368,Universitatsklinikum Hamburg Eppendorf,DEU,Health
+369,Icahn School of Medicine at Mount Sinai,USA,Universities
+370,University of Malaya *,MYS,Universities
+371,City University London,GBR,Universities
+372,Sichuan University *,CHN,Universities
+372,Technische Universitat Munchen *,DEU,Universities
+374,School of Oriental and African Studies,GBR,Universities
+375,University of South Carolina *,USA,Universities
+376,"Texas A&M University, College Station *",USA,Universities
+377,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government
+378,"Colorado State University, Fort Collins *",USA,Universities
+379,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+380,University of Surrey,GBR,Universities
+381,Assistance Publique Hopitaux de Paris *,FRA,Health
+382,Politecnico di Milano,ITA,Universities
+383,Volgograd State University,RUS,Universities
+384,Royal Netherlands Academy of Arts and Sciences *,NLD,Government
+385,"Agency for Science, Technology and Research Singapore *",SGP,Government
+386,Sheba Medical Center,ISR,Health
+387,National Laboratory for Civil Engineering,PRT,Government
+388,Universidad de Malaga *,ESP,Universities
+389,"University of Science, Malaysia *",MYS,Universities
+390,University of Stirling,GBR,Universities
+391,F Hoffmann-La Roche *,MUL,Companies
+392,Dartmouth College *,USA,Universities
+393,Harbin Institute of Technology,CHN,Universities
+394,NASA Goddard Space Flight Center,USA,Government
+395,George Mason University,USA,Universities
+396,University Medical Center Groningen,NLD,Health
+397,Academisch Medisch Centrum,NLD,Health
+398,North Carolina State University,USA,Universities
+399,Westfalische Wilhelms-Universitat Munster *,DEU,Universities
+400,Royal Melbourne Institute of Technology *,AUS,Universities
+401,Weizmann Institute of Science,ISR,Universities
+402,Universidad Nacional de La Plata *,ARG,Universities
+403,Universitat zu Lubeck,DEU,Universities
+403,University of Electronic Science and Technology of China,CHN,Universities
+405,Aalto University,FIN,Universities
+406,Peoples'Friendship University of Russia,RUS,Universities
+406,National Bureau of Economic Research,USA,Non-Profit
+408,University of Victoria,CAN,Universities
+409,Hungarian Academy of Sciences *,HUN,Government
+409,Georgia Institute of Technology *,USA,Universities
+411,"State University of New York, Stony Brook *",USA,Universities
+412,Wuhan University *,CHN,Universities
+413,Technical University of Denmark,DNK,Universities
+414,Novartis *,MUL,Companies
+415,University of New Mexico *,USA,Universities
+416,Linkoping University,SWE,Universities
+417,Universidade do Porto *,PRT,Universities
+418,Universitat Jaume I *,ESP,Universities
+419,China Agricultural University,CHN,Universities
+420,Temple University *,USA,Universities
+421,University of Miami *,USA,Universities
+422,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities
+423,Universidade do Minho,PRT,Universities
+424,Universitat Rovira i Virgili *,ESP,Universities
+425,Sheffield Hallam University,GBR,Universities
+426,Queen's University,CAN,Universities
+427,Concordia University,CAN,Universities
+428,University of Twente,NLD,Universities
+429,Universite du Quebec en Montreal,CAN,Universities
+430,City Hospitals Sunderland NHS Foundation Trust,GBR,Health
+431,Catholic University of Louvain,BEL,Universities
+432,The Manchester Metropolitan University,GBR,Universities
+433,University of Strathclyde *,GBR,Universities
+434,Nicolaus Copernicus University,POL,Universities
+435,Tongji University *,CHN,Universities
+436,Universite Grenoble-Alpes *,FRA,Universities
+436,"University of Hawaii, Manoa *",USA,Universities
+438,Tianjin University *,CHN,Universities
+439,Institut Pasteur de Paris *,FRA,Health
+440,The University of Newcastle,AUS,Universities
+441,Bournemouth University,GBR,Universities
+442,Vrije Universiteit Brussel,BEL,Universities
+443,South China University of Technology,CHN,Universities
+444,University of Portsmouth,GBR,Universities
+445,Iowa State University,USA,Universities
+446,British Geological Survey,GBR,Government
+447,Virginia Polytechnic Institute and State University,USA,Universities
+448,"World Health Organization, Switzerland",CHE,Health
+449,University of Rochester *,USA,Universities
+450,"State University of New York, College at Oswego",USA,Universities
+451,Universidade Federal de Minas Gerais,BRA,Universities
+452,Royal Institute of Technology,SWE,Universities
+453,Yonsei University *,KOR,Universities
+453,Peking University Health Science Center,CHN,Universities
+455,"University of Missouri, Columbia *",USA,Universities
+456,American Museum of Natural History,USA,Government
+457,J. David Gladstone Institutes,USA,Health
+458,Copenhagen Business School,DNK,Universities
+459,Universidad de Oviedo *,ESP,Universities
+460,Baylor College of Medicine,USA,Universities
+461,Smithsonian Institution *,USA,Government
+462,University of Lodz,POL,Universities
+463,Swansea University,GBR,Universities
+464,Universitat Bremen *,DEU,Universities
+465,World Health Organization *,MUL,Health
+466,University of Texas Southwestern Medical Center ,USA,Universities
+467,Universitat Innsbruck *,AUT,Universities
+468,University of North Texas,USA,Universities
+468,NYU Langone Medical Center,USA,Health
+470,"Southeast University, Nanjing *",CHN,Universities
+471,Capital University of Medical Sciences,CHN,Universities
+472,Universite Montpellier *,FRA,Universities
+473,Central South University *,CHN,Universities
+474,Institucio Catalana de Recerca i Estudis Avancats,ESP,Government
+475,The Nottingham Trent University,GBR,Universities
+475,Centers for Disease Control and Prevention,USA,Health
+477,Coventry University,GBR,Universities
+478,University of Tromso - The Arctic University of Norway,NOR,Universities
+479,Korea Advanced Institute of Science and Technology *,KOR,Universities
+480,Slovak Academy of Sciences *,SVK,Government
+481,Dalhousie University *,CAN,Universities
+482,Shandong University *,CHN,Universities
+483,Tufts University,USA,Universities
+484,"De la Prehistoire a l'Actuel: Culture, Environnement et Anthropologie",FRA,Government
+485,City University of Hong Kong *,HKG,Universities
+486,"State University of New York, Albany",USA,Universities
+487,Universitat Leipzig *,DEU,Universities
+488,Murdoch Children's Research Institute,AUS,Health
+489,Sumy State University,UKR,Universities
+490,Moorfields Eye Hospital NHS Trust,GBR,Health
+491,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+492,Charite - Universitatsmedizin Berlin *,DEU,Health
+493,Universidade Federal do Rio Grande do Sul,BRA,Universities
+494,Universite de Liege,BEL,Universities
+495,Universidad de Cordoba *,ESP,Universities
+496,Universidad de Alcala *,ESP,Universities
+497,Georgia State University,USA,Universities
+498,Dublin City University,IRL,Universities
+499,Jilin University *,CHN,Universities
+500,University of Washington Medicine ,USA,Health
+501,Carleton University,CAN,Universities
+502,Australian Catholic University,AUS,Universities
+503,Brunel University,GBR,Universities
+504,Universidade Federal de Santa Catarina *,BRA,Universities
+505,Tomsk State University,RUS,Universities
+506,Max Planck Institut fur Chemische Okologie,DEU,Government
+507,European Commission - Joint Research Centre,MUL,Government
+508,Universitat Politecnica de Valencia *,ESP,Universities
+509,Universita degli Studi Roma Tre,ITA,Universities
+510,Northwestern Medicine,USA,Health
+511,University of Kentucky *,USA,Universities
+512,Umea University *,SWE,Universities
+513,University of Dundee,GBR,Universities
+514,James Cook University *,AUS,Universities
+515,Nanjing University *,CHN,Universities
+516,John Paul II Catholic University of Lublin,POL,Universities
+517,Universita degli Studi di Genova,ITA,Universities
+518,Christian-Albrechts-Universitat zu Kiel,DEU,Universities
+519,Tulane University *,USA,Universities
+520,Universita degli Studi di Milano-Bicocca,ITA,Universities
+521,Universite Libre de Bruxelles,BEL,Universities
+522,South London and Maudsley NHS Foundation Trust,GBR,Health
+523,Universidad de Castilla-La Mancha *,ESP,Universities
+524,University of Central Florida,USA,Universities
+525,Universitat Potsdam,DEU,Universities
+526,Weill Cornell Medicine,USA,Universities
+526,University of Gujrat,PAK,Universities
+528,Woodruff Health Sciences Center,USA,Health
+529,Universitat Konstanz,DEU,Universities
+530,Universite Bordeaux Montaigne *,FRA,Universities
+531,Fordham University,USA,Universities
+532,"Washington State University, Pullman *",USA,Universities
+533,Consejo Nacional de Ciencia y Tecnologia *,MEX,Government
+534,University of Waikato,NZL,Universities
+535,Universidade Estadual de Campinas *,BRA,Universities
+535,I.M. Sechenov First Moscow State Medical University,RUS,Universities
+537,Kyoto University *,JPN,Universities
+538,Ulsan National Institute of Science and Technology *,KOR,Universities
+539,Mayo Clinic *,USA,Health
+540,Slovenian Academy of Sciences and Arts *,SVN,Government
+541,Technische Universitat Berlin,DEU,Universities
+542,Copenhagen University Hospital,DNK,Health
+543,Australian Research Council *,AUS,Government
+544,European Commission *,MUL,Government
+545,Harvard-Smithsonian Center for Astrophysics,USA,Government
+546,Oregon State University,USA,Universities
+547,Eotvos Lorand University,HUN,Universities
+548,Jet Propulsion Laboratory,USA,Government
+549,United States Geological Survey,USA,Government
+549,Oxford Brookes University,GBR,Universities
+551,Alfred Wegener Institut fur Polar und Meeresforschung,DEU,Government
+552,"University of Tennessee, Knoxville *",USA,Universities
+553,Ural Federal University,RUS,Universities
+554,University of Wroclaw,POL,Universities
+555,Universidad Carlos III de Madrid *,ESP,Universities
+556,Universita degli Studi di Trento,ITA,Universities
+557,University of Belgrade,SRB,Universities
+558,"Universidad de los Andes, Colombia *",COL,Universities
+558,Eindhoven University of Technology,NLD,Universities
+560,University of Oulu,FIN,Universities
+561,Nankai University *,CHN,Universities
+562,West China Hospital,CHN,Health
+563,University of South Australia,AUS,Universities
+563,Chinese Academy of Medical Sciences and Peking Union Medical College *,CHN,Universities
+565,UC Davis Health System,USA,Health
+565,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+567,Radboud University Nijmegen Medical Centre,NLD,Health
+568,Brandeis University,USA,Universities
+569,University of Tasmania,AUS,Universities
+570,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities
+571,Universite de Strasbourg *,FRA,Universities
+572,Vilnius University,LTU,Universities
+573,Virginia Commonwealth University *,USA,Universities
+574,Laval University,CAN,Universities
+575,University of Delaware,USA,Universities
+576,University of Lincoln,GBR,Universities
+577,Universidad de La Laguna,ESP,Universities
+578,Universite d'Orleans *,FRA,Universities
+579,Aristotle University of Thessaloniki,GRC,Universities
+580,Universitatea Lucian Blaga din Sibiu,ROU,Universities
+581,Hanyang University *,KOR,Universities
+581,"Louisiana State University, Baton Rouge",USA,Universities
+583,Technische Universitat Dresden,DEU,Universities
+584,Universite de Technologie de Belfort-Montbeliard *,FRA,Universities
+585,Syracuse University,USA,Universities
+586,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+586,University of Brighton *,GBR,Universities
+588,Universidade Federal Fluminense,BRA,Universities
+589,University of Maribor,SVN,Universities
+590,World Bank United States,USA,Government
+591,University of Huddersfield,GBR,Universities
+592,Oxford University Hospitals NHS Trust,GBR,Health
+593,CGIAR Consortium of International Agricultural Research *,MUL,Non-Profit
+594,University of Ulster,GBR,Universities
+595,University of Denver,USA,Universities
+596,Aston University,GBR,Universities
+597,Liverpool John Moores University,GBR,Universities
+598,ISCTE Instituto Universitario de Lisboa,PRT,Universities
+599,Massey University,NZL,Universities
+600,Keele University,GBR,Universities
+601,Plymouth University,GBR,Universities
+602,University of Iceland,ISL,Universities
+603,Utah State University *,USA,Universities
+603,Universite Paris Nanterre *,FRA,Universities
+605,National Oceanic and Atmospheric Administration,USA,Government
+606,University of Houston,USA,Universities
+607,Nagoya University *,JPN,Universities
+608,Heinrich Heine Universitat Dusseldorf  *,DEU,Universities
+609,Lawrence Livermore National Laboratory *,USA,Government
+609,Institute of Archaeology and Ethnography Russian Academy of Sciences,RUS,Government
+611,The University of Hull,GBR,Universities
+612,Case Western Reserve University,USA,Universities
+613,United Nations *,MUL,Non-Profit
+614,Oslo Metropolitan University,NOR,Universities
+615,Wayne State University,USA,Universities
+616,Indiana University-Purdue University Indianapolis,USA,Universities
+617,University of Athens,GRC,Universities
+618,University of Guelph,CAN,Universities
+619,"National University of Ireland, Maynooth",IRL,Universities
+620,Kent State University,USA,Universities
+621,San Diego State University,USA,Universities
+622,"University of Alabama, Tuscaloosa",USA,Universities
+623,Auburn University,USA,Universities
+624,"University of Texas, Dallas",USA,Universities
+624,Commonwealth Scientific and Industrial Research Organization *,AUS,Government
+626,Scientific Research Center Slovenian Academy of Science and Arts,SVN,Government
+627,East China Normal University,CHN,Universities
+628,Oregon Health & Science University *,USA,Universities
+629,Universidade de Brasilia,BRA,Universities
+630,Centrum Wiskunde & Informatica,NLD,Government
+631,Constantine the Philosopher University in Nitra,SVK,Universities
+632,University College Cork *,IRL,Universities
+633,Bilkent University,TUR,Universities
+634,Manchester Academic Health Science Centre,GBR,Health
+635,Middlesex University *,GBR,Universities
+636,Hong Kong Polytechnic University,HKG,Universities
+637,"City University of New York, Hunter College",USA,Universities
+638,Universidad Nacional de Cordoba *,ARG,Universities
+639,Instituto de Salud Carlos III *,ESP,Health
+640,Universite de Lorraine *,FRA,Universities
+641,Ormat Technologies Inc *,MUL,Companies
+641,"Ormat Technologies, United States",USA,Companies
+643,Drexel University,USA,Universities
+644,"University of California, Merced",USA,Universities
+645,Max Planck Institut fur Biogeochemie,DEU,Government
+645,National Institute of Mental Health,USA,Health
+647,Universite Cote d’Azur *,FRA,Universities
+648,University Hospital Southampton NHS Foundation Trust,GBR,Health
+649,Newcastle upon Tyne Hospitals NHS Foundation Trust,GBR,Health
+650,Universitat Bielefeld,DEU,Universities
+651,Istituto Italiano di Tecnologia *,ITA,Non-Profit
+652,Malmo University,SWE,Universities
+653,IMEC International,BEL,Companies
+654,Max Planck Institut fur Bildungsforschung,DEU,Government
+655,Universitat de les Illes Balears *,ESP,Universities
+656,Universitat Politecnica de Catalunya *,ESP,Universities
+657,University of Westminster,GBR,Universities
+658,Dalian University of Technology,CHN,Universities
+659,Russian Academy of Medical Sciences,RUS,Health
+660,Leeds Beckett University,GBR,Universities
+661,Laboratoire des Sciences du Climat et l'Environnement,FRA,Government
+662,Friedrich-Schiller-Universitat Jena *,DEU,Universities
+663,University of Bradford,GBR,Universities
+664,Universitat Ulm *,DEU,Universities
+665,State University of New York at Binghamton,USA,Universities
+666,Bangor University,GBR,Universities
+667,International Institute for Applied Systems Analysis,AUT,Government
+668,Florida International University,USA,Universities
+669,Novosibirsk State University,RUS,Universities
+670,Bucharest Academy of Economic Studies,ROU,Universities
+671,Texas Tech University,USA,Universities
+672,National Taiwan University,TWN,Universities
+672,Universidad de Jaen *,ESP,Universities
+674,Woods Hole Oceanographic Institution,USA,Non-Profit
+675,University Putra Malaysia,MYS,Universities
+676,Institut Jean Nicod Paris,FRA,Government
+677,Histoire Naturelle de l'Homme Prehistorique,FRA,Government
+678,Pontificia Universidad Catolica de Valparaiso *,CHL,Universities
+679,Orebro Universitet,SWE,Universities
+680,Hunan University,CHN,Universities
+681,Clemson University,USA,Universities
+682,Roehampton University *,GBR,Universities
+683,Max Planck Institut fur Psycholinguistik,NLD,Government
+684,Central European University,AUT,Universities
+685,Santa Fe Institute,USA,Non-Profit
+686,"University of North Carolina, Greensboro",USA,Universities
+687,"University of Massachusetts, Boston",USA,Universities
+687,Universidad de Cantabria *,ESP,Universities
+689,"Institute of Acoustics, Chinese Academy of Sciences",CHN,Government
+690,University of Greenwich,GBR,Universities
+690,University of Hertfordshire,GBR,Universities
+692,University of Saskatchewan,CAN,Universities
+693,University of Michigan Health System,USA,Health
+693,York St John University,GBR,Universities
+693,Sheffield Teaching Hospitals NHS Trust,GBR,Health
+696,Institut Pierre Simon Laplace,FRA,Government
+697,NHS Lothian,GBR,Health
+698,Swinburne University of Technology *,AUS,Universities
+698,De Montfort University,GBR,Universities
+700,United States Department of Agriculture,USA,Government
+701,University of Cyprus,CYP,Universities
+702,The University of Salford,GBR,Universities
+703,Universite Claude Bernard Lyon 1 *,FRA,Universities
+704,BeiHang University *,CHN,Universities
+705,Xiamen University *,CHN,Universities
+706,Kingston University,GBR,Universities
+707,Universita degli Studi di Roma Tor Vergata,ITA,Universities
+708,University of the West of England,GBR,Universities
+708,Korea University *,KOR,Universities
+710,Institut des Sciences de l'Evolution,FRA,Government
+711,Linnaeus University,SWE,Universities
+712,Bjerknes Centre for Climate Research,NOR,Government
+713,University Hospitals Birmingham NHS Foundation Trust,GBR,Health
+713,University of Manitoba,CAN,Universities
+713,Fundacao Oswaldo Cruz *,BRA,Health
+716,Universite de Perpignan Via Domitia *,FRA,Universities
+717,University of Western Sydney,AUS,Universities
+718,International Islamic University Malaysia,MYS,Universities
+719,Institute of Philosophy Russian Academy of Sciences,RUS,Government
+720,Geoforschungszentrum Potsdam,DEU,Government
+720,"National University of Ireland, Galway",IRL,Universities
+722,Edge Hill University,GBR,Universities
+723,Universita Cattolica del Sacro Cuore,ITA,Universities
+724,Assistance Publique Hopitaux de Marseille *,FRA,Health
+724,RTI Health Solutions,USA,Companies
+726,"Saint Louis University, Saint Louis *",USA,Universities
+727,University of Nigeria,NGA,Universities
+728,University of Eastern Finland,FIN,Universities
+729,University of the Western Cape,ZAF,Universities
+730,University of Nevada-Reno,USA,Universities
+731,Bowling Green State University,USA,Universities
+732,University of Canterbury,NZL,Universities
+733,Universita degli Studi di Pavia,ITA,Universities
+734,King Abdulaziz University *,SAU,Universities
+735,Technion - Israel Institute of Technology *,ISR,Universities
+736,Universidad de Extremadura *,ESP,Universities
+737,University of Canberra,AUS,Universities
+738,University of Minnesota Health and Medicine,USA,Universities
+739,Moscow State Institute of International Relations,RUS,Universities
+740,University of Macau,MAC,Universities
+741,Anglia Ruskin University,GBR,Universities
+741,Universitat Duisburg Essen *,DEU,Universities
+743,Universidad Politecnica de Madrid *,ESP,Universities
+743,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities
+743,Universita degli Studi di Ferrara,ITA,Universities
+746,Ryerson University,CAN,Universities
+747,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+748,Tallinn University,EST,Universities
+749,Universidad Rey Juan Carlos *,ESP,Universities
+750,University of Wolverhampton,GBR,Universities
+750,Financial University Under the Government of the Russian Federation,RUS,Universities
+752,Palacky University,CZE,Universities
+753,United Nations University,MUL,Non-Profit
+753,Canterbury Christ Church University,GBR,Universities
+755,Comenius University in Bratislava,SVK,Universities
+756,Universita della Svizzera Italiana *,CHE,Universities
+757,NHS Tayside,GBR,Health
+758,Universidad Internacional de La Rioja *,ESP,Universities
+759,University of New Hampshire,USA,Universities
+760,University of Chicago Medical Center ,USA,Health
+761,Fraunhofer Gesellschaft *,DEU,Government
+761,Moscow State University of Medicine and Dentistry,RUS,Universities
+763,Politecnico di Torino *,ITA,Universities
+764,Medizinische Universitat Wien,AUT,Universities
+765,Boston University Medical Campus ,USA,Health
+766,London Metropolitan University,GBR,Universities
+767,Ariel University *,ISR,Universities
+768,Southern University of Science and Technology,CHN,Universities
+769,Manchester University NHS Foundation Trust,GBR,Health
+770,Cambridge University Hospitals NHS Foundation Trust,GBR,Health
+771,Singapore Management University,SGP,Universities
+772,"University of Colorado, Denver *",USA,Universities
+773,Universita degli Studi di Cagliari,ITA,Universities
+774,Deutsches Zentrum fur Luft- und Raumfahrt,DEU,Government
+775,Universidad de Huelva *,ESP,Universities
+776,American University,USA,Universities
+777,Universidade da Coruna,ESP,Universities
+778,Cranfield University,GBR,Universities
+778,University of Gdansk,POL,Universities
+780,Institut National de Recherche en Informatique et en Automatique *,FRA,Government
+781,University of the Arts London,GBR,Universities
+782,University of KwaZulu-Natal *,ZAF,Universities
+783,Max Planck Institut fur Chemie,DEU,Government
+784,National Academy of Sciences of Ukraine *,UKR,Government
+784,Universite du Luxembourg,LUX,Universities
+784,Technische Universitat Wien *,AUT,Universities
+787,Pontificia Universidad Javeriana *,COL,Universities
+788,Memorial University of Newfoundland,CAN,Universities
+788,Universidad de Antioquia *,COL,Universities
+788,European University Institute,ITA,Universities
+791,University of Limerick,IRL,Universities
+792,University of Silesia in Katowice,POL,Universities
+793,"European Commission - Joint Research Centre Ispra, Italy",ITA,Government
+794,Centre for Economic Policy Research,GBR,Non-Profit
+795,Romanian Academy *,ROU,Government
+796,Nanjing University of Science and Technology,CHN,Universities
+797,Plekhanov Russian University of Economics,RUS,Universities
+798,University of Southern California Health Sciences Campus,USA,Health
+799,"University of Texas, San Antonio",USA,Universities
+800,University of Mississippi *,USA,Universities
+801,Leiden University Medical Center,NLD,Health
+802,Zhejiang University of Technology,CHN,Universities
+803,Istituto di Scienze e Tecnologie della Cognizione,ITA,Government
+804,Universidad de Cadiz *,ESP,Universities
+805,University of Bucharest,ROU,Universities
+805,University of Louisville *,USA,Universities
+805,Universitat Witten-Herdecke,DEU,Universities
+808,University of Central Lancashire,GBR,Universities
+809,Norwegian Institute of Public Health,NOR,Health
+810,Universita Politecnica delle Marche,ITA,Universities
+811,Universita Commerciale Luigi Bocconi,ITA,Universities
+812,Aberystwyth University,GBR,Universities
+812,Centre for Addiction and Mental Health,CAN,Health
+814,University of East London,GBR,Universities
+815,Chalmers University of Technology *,SWE,Universities
+816,University Hospitals Bristol NHS Foundation Trust,GBR,Health
+817,The New School,USA,Universities
+818,Universiti Teknologi MARA,MYS,Universities
+818,Jiangnan University *,CHN,Universities
+820,Brock University,CAN,Universities
+821,Universitat Mannheim,DEU,Universities
+821,Universita degli Studi di Siena,ITA,Universities
+823,Oxford Health NHS Foundation Trust,GBR,Health
+824,Northern University of Malaysia,MYS,Universities
+825,Cincinnati Children's Hospital Medical Center,USA,Health
+826,Universidad de Santiago de Chile,CHL,Universities
+827,University of Nevada-Las Vegas,USA,Universities
+828,University of Agder,NOR,Universities
+829,Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,BRA,Government
+830,Auckland University of Technology,NZL,Universities
+831,Universidad de Concepcion *,CHL,Universities
+832,West Virginia University *,USA,Universities
+833,Air University,PAK,Universities
+834,Xi'an University of Architecture and Technology,CHN,Universities
+835,Hong Kong Institute of Education,HKG,Universities
+836,University of Memphis,USA,Universities
+837,Universita degli Studi di Bari,ITA,Universities
+838,Fondazione Bruno Kessler,ITA,Non-Profit
+839,Covenant University,NGA,Universities
+840,Karlsruher Institut fur Technologie,DEU,Universities
+841,University of Windsor,CAN,Universities
+842,Ikerbasque-Basque Foundation for Science,ESP,Government
+843,NHS Greater Glasgow and Clyde,GBR,Health
+844,Siberian Federal University,RUS,Universities
+845,University of Indonesia,IDN,Universities
+846,Swedish University of Agricultural Sciences,SWE,Universities
+847,L. N. Gumilov Eurasian National University,KAZ,Universities
+848,International Peace Research Institute Oslo,NOR,Government
+849,Montreal School of Higher Commercial Studies,CAN,Universities
+850,Netherlands Organisation for Applied Scientific Research *,MUL,Government
+850,Netherlands Organisation for Applied Scientific Research,NLD,Government
+852,University of Nottingham China Campus,CHN,Universities
+853,"University of North Carolina, Charlotte",USA,Universities
+853,Universitat Salzburg,AUT,Universities
+855,Universidad de Tarapaca,CHL,Universities
+856,Hefei University of Technology,CHN,Universities
+857,University of Nebraska Medical Center,USA,Universities
+858,University of Science and Technology Beijing,CHN,Universities
+859,Universidad Nacional de Cuyo *,ARG,Universities
+860,Luxembourg Institute of Socio-Economic Research,LUX,Government
+861,Koc University,TUR,Universities
+862,Centre Hospitalier Universitaire de Montpellier *,FRA,Health
+863,University of Florida Health Science Center,USA,Health
+864,Natural History Museum London,GBR,Government
+865,Nottingham University Hospitals NHS Trust,GBR,Health
+866,Marquette University,USA,Universities
+867,Lanzhou University *,CHN,Universities
+868,Justus-Liebig-Universitat Giessen *,DEU,Universities
+869,University of Applied Sciences and Arts of Southern Switzerland *,CHE,Universities
+870,Murdoch University,AUS,Universities
+870,Universidad Pablo de Olavide *,ESP,Universities
+872,Universite de Fribourg,CHE,Universities
+873,Academia Sinica *,TWN,Government
+874,Osaka University *,JPN,Universities
+875,Politecnico di Bari,ITA,Universities
+876,Universidad de las Palmas de Gran Canaria *,ESP,Universities
+877,Norwegian University of Life Sciences,NOR,Universities
+878,Universidade de Vigo *,ESP,Universities
+879,Universita degli Studi di Palermo,ITA,Universities
+880,University of Malta,MLT,Universities
+880,Universita degli Studi di Catania,ITA,Universities
+882,Universite de Versailles Saint Quentin en Yvelines *,FRA,Universities
+883,Ohio University,USA,Universities
+883,Universitat Hohenheim,DEU,Universities
+885,Southern Federal University,RUS,Universities
+886,"University of New England, Australia",AUS,Universities
+887,Universite Lumiere Lyon 2 *,FRA,Universities
+888,Vanderbilt University Medical Center,USA,Health
+889,Airlangga university,IDN,Universities
+890,"University of Alabama, Birmingham *",USA,Universities
+891,University of the West of Scotland,GBR,Universities
+892,Miami University of Ohio,USA,Universities
+893,U.S. Army *,USA,Government
+894,Peter the Great Museum of Anthropology and Ethnography Kunstkamera Russian Academy of Sciences,RUS,Government
+895,RAND Corp,USA,Non-Profit
+895,"University of Nebraska, Omaha",USA,Universities
+897,Zurich University of Applied Sciences,CHE,Universities
+898,Bharathidasan University,IND,Universities
+899,Leuphana Universitat Luneburg,DEU,Universities
+899,Hong Kong Baptist University,HKG,Universities
+901,Universitat St Gallen,CHE,Universities
+901,KEDGE Business School,FRA,Universities
+903,University Health Network *,CAN,Health
+904,"University of Arkansas, Fayetteville",USA,Universities
+905,Philipps-Universitat Marburg *,DEU,Universities
+906,Southwest Jiaotong University,CHN,Universities
+907,Observatoire des Sciences de l Univers Institut Pytheas,FRA,Government
+908,Jiangsu University *,CHN,Universities
+908,Osterreichische Akademie der Wissenschaften *,AUT,Government
+910,Instituto de Ecologia y Biodiversidad,CHL,Non-Profit
+911,"Oklahoma State University, Stillwater *",USA,Universities
+912,Institut de Hautes Etudes Internationales et du Developpement,CHE,Universities
+913,Universita degli Studi di Parma,ITA,Universities
+914,L. V. Prasad Eye Institute,IND,Health
+915,Wuhan University of Technology,CHN,Universities
+916,Sungkyunkwan University,KOR,Universities
+917,Russian State University for the Humanities,RUS,Universities
+917,Universitatsklinikum Freiburg,DEU,Health
+919,Abo Academy University,FIN,Universities
+919,Cardinal Stefan Wyszynski University in Warsaw,POL,Universities
+921,Zentralinstitut fur Seelische Gesundheit,DEU,Government
+922,Petrozavodsk State University,RUS,Universities
+922,University of Vermont,USA,Universities
+924,Bulgarian Academy of Sciences *,BGR,Government
+925,College de France,FRA,Universities
+926,Universitat Oberta de Catalunya,ESP,Universities
+927,Universita degli Studi di Perugia,ITA,Universities
+928,University of Worcester,GBR,Universities
+929,Universitat Bayreuth,DEU,Universities
+930,Hohai University,CHN,Universities
+930,Universidad Pontificia Comillas,ESP,Universities
+930,Universidad de Almeria *,ESP,Universities
+933,Guangdong University of Technology,CHN,Universities
+933,University of Szczecin,POL,Universities
+935,Heriot-Watt University *,MUL,Universities
+936,University of Novi Sad,SRB,Universities
+937,Beijing Institute of Technology,CHN,Universities
+938,"Heriot-Watt University, United Kingdom",GBR,Universities
+939,Shenzhen University,CHN,Universities
+940,Institut Zur Zukunft der Arbeit,DEU,Non-Profit
+941,Johannes Kepler Universitat Linz,AUT,Universities
+942,Basque Excellence Research Centre *,ESP,Government
+943,Institute of Geological Sciences Polish Academy of Sciences,POL,Government
+944,Centro de Ciencias Humanas y Sociales CS,ESP,Government
+945,Southern Methodist University,USA,Universities
+945,Guys & Saint Thomas NHS Foundation Trust,GBR,Health
+947,Roskilde University,DNK,Universities
+947,Alexandru Ioan Cuza University,ROU,Universities
+949,Waseda University,JPN,Universities
+949,COMSATS Institute of Information Technology *,PAK,Universities
+951,Renmin University of China,CHN,Universities
+952,Edith Cowan University,AUS,Universities
+953,Universita della Calabria,ITA,Universities
+954,London South Bank University,GBR,Universities
+954,Villanova University,USA,Universities
+956,Fondazione IRCCS San Raffaele del Monte Tabor,ITA,Health
+957,Pontificia Universidad Catolica del Peru,PER,Universities
+958,Universidad Alberto Hurtado,CHL,Universities
+959,Istanbul Technical University,TUR,Universities
+960,Universita degli Studi Gabriele d'Annunzio di Chieti e Pescara,ITA,Universities
+960,Universitat Ramon Llull *,ESP,Universities
+962,Rensselaer Polytechnic Institute,USA,Universities
+962,Universite de Neuchatel,CHE,Universities
+964,Zhengzhou University *,CHN,Universities
+965,Portland State University,USA,Universities
+965,Smithsonian National Museum of Natural History,USA,Government
+967,Universidade Federal do Parana,BRA,Universities
+968,Universite de Nantes *,FRA,Universities
+969,Universidad de Burgos,ESP,Universities
+970,Universidade do Estado do Rio de Janeiro *,BRA,Universities
+970,Universidade Federal da Bahia,BRA,Universities
+970,Aarhus University Hospital,DNK,Health
+973,University of Derby,GBR,Universities
+974,Programa Iniciativa Cientifica Milenio *,CHL,Government
+975,Glasgow Caledonian University,GBR,Universities
+976,Universidad Nacional de Rosario *,ARG,Universities
+976,Charles Sturt University,AUS,Universities
+978,Birmingham City University,GBR,Universities
+978,University of Winchester,GBR,Universities
+980,Sodertorn University,SWE,Universities
+980,University of Chester,GBR,Universities
+982,Wake Forest University *,USA,Universities
+982,Montefiore Medical Center *,USA,Health
+984,Deustuko Unibertsitatea *,ESP,Universities
+985,Field Museum Natural History,USA,Government
+985,Taras Shevchenko National University of Kyiv,UKR,Universities
+987,University of Jordan,JOR,Universities
+988,Edinburgh Napier University,GBR,Universities
+989,Wirtschaftsuniversitat Wien,AUT,Universities
+990,Chongqing University,CHN,Universities
+991,University of Tehran,IRN,Universities
+992,Universitat de Girona *,ESP,Universities
+993,"University of Missouri, Saint Louis",USA,Universities
+994,Universitat de Lleida,ESP,Universities
+995,"University of Technology, Malaysia",MYS,Universities
+996,De La Salle University,PHL,Universities
+996,Great Ormond Street Hospital for Children NHS Trust,GBR,Health
+998,Universitas Islam Negeri Sunan Gunung Djati,IDN,Universities
+999,Maria Curie Sklodowska University,POL,Universities
+1000,Fenway Institute,USA,Health
+1001,Tomas Bata University in Zlin,CZE,Universities
+1002,Kansas State University,USA,Universities
+1003,Staffordshire University,GBR,Universities
+1004,Universite de Toulouse-Jean Jaures *,FRA,Universities
+1005,Wilfrid Laurier University,CAN,Universities
+1006,Universidad Nacional de Mar del Plata *,ARG,Universities
+1007,Cardiff Metropolitan University,GBR,Universities
+1008,National Institute of Advanced Industrial Science & Technology,JPN,Government
+1009,Universite de Rennes 1 *,FRA,Universities
+1010,Ecole Normale Superieure de Lyon *,FRA,Universities
+1011,Universita degli Studi di Messina,ITA,Universities
+1012,China University of Mining and Technology,CHN,Universities
+1013,"Universite Paul Valery, Montpellier III *",FRA,Universities
+1013,National Center for Atmospheric Research,USA,Government
+1015,College of William and Mary,USA,Universities
+1016,Al-Farabi Kazakh National University,KAZ,Universities
+1017,East Tennessee State University,USA,Universities
+1018,University of Stavanger,NOR,Universities
+1018,Universidade de Evora,PRT,Universities
+1020,Nanjing University of Aeronautics and Astronautics,CHN,Universities
+1020,Tallinn University of Technology,EST,Universities
+1022,Oslo University Hospital,NOR,Health
+1023,University of Teesside,GBR,Universities
+1024,Universite Savoie Mont Blanc *,FRA,Universities
+1024,Institut Francais de Recherche pour l'Exploitation de la Mer *,FRA,Government
+1026,Northern Arizona University,USA,Universities
+1027,Universitas Negeri Makassar,IDN,Universities
+1027,"University of Alaska, Fairbanks",USA,Universities
+1029,Karlstad University,SWE,Universities
+1030,Universite Vincennes-Saint-Denis - Paris 8 *,FRA,Universities
+1031,Universidad Austral de Chile *,CHL,Universities
+1031,Institut d'Etudes Politiques de Paris-Sciences Po,FRA,Universities
+1031,Tyumen Industrial University,RUS,Universities
+1034,Istituto Superiore di Sanita,ITA,Health
+1035,University of Vaasa,FIN,Universities
+1036,Hokkaido University *,JPN,Universities
+1036,Santa Clara University,USA,Universities
+1038,"Universidad Nacional de San Martin, Argentina *",ARG,Universities
+1038,University of Miami Health System,USA,Health
+1040,An-Najah National University *,PSE,Universities
+1041,Beijing University of Technology,CHN,Universities
+1042,Appalachian State University,USA,Universities
+1043,Universitat Koblenz-Landau,DEU,Universities
+1043,Tel Aviv Sourasky Medical Center,ISR,Health
+1045,Institut d'Investigacions Biomediques August Pi i Sunyer,ESP,Health
+1046,Ludwig Boltzmann Gesellschaft *,AUT,Government
+1046,Budapest University of Technology and Economics,HUN,Universities
+1048,Macau University of Science and Technology,MAC,Universities
+1049,University of Ghana,GHA,Universities
+1050,Christopher Newport University,USA,Universities
+1051,Trent University,CAN,Universities
+1051,Kunming University of Science and Technology,CHN,Universities
+1053,Loyola University of Chicago *,USA,Universities
+1054,University of Tsukuba *,JPN,Universities
+1055,"Institute of Tibetan Plateau Research, Chinese Academy of Sciences",CHN,Government
+1056,Universidade Federal de Sao Paulo *,BRA,Universities
+1057,"University of Wisconsin, Milwaukee",USA,Universities
+1058,Saint Petersburg Mining University,RUS,Universities
+1059,Instituto Smithsonian de Investigaciones Tropicales,PAN,Government
+1060,Kennedy Krieger Institute,USA,Health
+1060,Universidad de La Rioja *,ESP,Universities
+1062,Albert Einstein College of Medicine,USA,Universities
+1063,Teachers College of Columbia University,USA,Universities
+1063,Mississippi State University,USA,Universities
+1063,Universita degli Studi di Salerno,ITA,Universities
+1066,University of Cincinnati Medical Center,USA,Health
+1066,Kings College Hospital NHS Foundation Trust,GBR,Health
+1068,Keio University *,JPN,Universities
+1069,Josip Juraj Strossmayer University of Osijek,HRV,Universities
+1070,University of Utah Health Care,USA,Health
+1071,Universitat Regensburg *,DEU,Universities
+1072,Universitat des Saarlandes *,DEU,Universities
+1073,Claremont McKenna College,USA,Universities
+1074,Universita degli Studi di Modena e Reggio Emilia,ITA,Universities
+1075,Centro de Investigacion Biomedica en Red de Salud Mental,ESP,Health
+1075,El Colegio de Mexico,MEX,Universities
+1077,Universidad de Los Lagos,CHL,Universities
+1078,Chapman University,USA,Universities
+1078,University of Information Technology and Management in Rzeszow,POL,Universities
+1080,Universidade do Algarve,PRT,Universities
+1081,Universidade Federal do Para,BRA,Universities
+1082,Endocrinological Scientific Centre of the Russian Academy of Medical Sciences,RUS,Health
+1082,University of Gloucestershire,GBR,Universities
+1084,Universita degli Studi della Campania Luigi Vanvitelli,ITA,Universities
+1085,Kyung Hee University *,KOR,Universities
+1086,University of Split,HRV,Universities
+1087,Wake Forest University Baptist Medical Center,USA,Health
+1087,Chrono-Environnement,FRA,Government
+1089,Nanjing University of Information Science and Technology,CHN,Universities
+1090,Universita degli Studi di Trieste,ITA,Universities
+1091,University of Presov in Presov,SVK,Universities
+1092,East Carolina University,USA,Universities
+1093,University of Shanghai for Science and Technology,CHN,Universities
+1094,Universidad Diego Portales,CHL,Universities
+1095,Universita degli Studi di Macerata,ITA,Universities
+1096,Universita Vita-Salute San Raffaele,ITA,Universities
+1097,Ostfold University College,NOR,Universities
+1098,University of Warmia and Mazury,POL,Universities
+1098,University of Massachusetts Medical School,USA,Universities
+1100,Shanxi University,CHN,Universities
+1101,Universidad Adolfo Ibanez,CHL,Universities
+1102,The Russian Presidential Academy of National Economy and Public Administration,RUS,Universities
+1103,Universite de Lyon,FRA,Universities
+1104,"Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences",CHN,Government
+1105,"Universidad del Norte, Barranquilla *",COL,Universities
+1106,"Institute of Geology and Geophysics, Chinese Academy of Sciences",CHN,Government
+1107,University of Chichester,GBR,Universities
+1108,Cleveland Clinic *,USA,Health
+1109,Universite de Bourgogne *,FRA,Universities
+1110,Universitat Stuttgart,DEU,Universities
+1111,Huazhong Normal University,CHN,Universities
+1112,Universidad del Rosario *,COL,Universities
+1113,Universidad de la Republica *,URY,Universities
+1114,China University of Geosciences,CHN,Universities
+1115,West University of Timisoara,ROU,Universities
+1115,Centre Hospitalier Universitaire Vaudois ,CHE,Health
+1117,Universite Paris-Est Creteil *,FRA,Universities
+1117,"New York University, Abu Dhabi",ARE,Universities
+1117,"Southern Illinois University, Carbondale *",USA,Universities
+1117,Kyungpook National University *,KOR,Universities
+1121,Illinois State University,USA,Universities
+1121,Istanbul University Cerrahpasa *,TUR,Universities
+1123,San Francisco State University,USA,Universities
+1124,Mahidol University *,THA,Universities
+1124,Russian Research Centre Kurchatov Institute,RUS,Government
+1126,"California State University, Long Beach",USA,Universities
+1127,"Texas State University, San Marcos",USA,Universities
+1128,Universidad Autonoma Metropolitana,MEX,Universities
+1128,University of Lapland,FIN,Universities
+1128,Universitatsklinikum Heidelberg,DEU,Health
+1131,Middle East Technical University,TUR,Universities
+1132,Universidade Catolica Portuguesa,PRT,Universities
+1133,"Universidad de Leon, Spain *",ESP,Universities
+1134,"Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences",CHN,Government
+1135,"City University of New York, John Jay College of Criminal Justice",USA,Universities
+1136,Cairo University *,EGY,Universities
+1137,Gdansk University of Technology,POL,Universities
+1138,Centre de Recherche de l'Institut du Cerveau et de la Moelle Epiniere,FRA,Government
+1139,Universita degli Studi dell Aquila,ITA,Universities
+1140,Herzen State Pedagogical University of Russia,RUS,Universities
+1141,Rhodes University,ZAF,Universities
+1142,Jinan University *,CHN,Universities
+1143,Istituto Nazionale di Geofisica e Vulcanologia,ITA,Government
+1143,Wellesley College,USA,Universities
+1145,"Institute of Earth Environment, Chinese Academy of Science",CHN,Government
+1146,Universite de Franche-Comte *,FRA,Universities
+1146,National Taiwan Normal University,TWN,Universities
+1148,Pontificia Universidade Catolica do Rio de Janeiro,BRA,Universities
+1149,Aegean University,GRC,Universities
+1150,King Saud University *,SAU,Universities
+1151,Hiroshima University *,JPN,Universities
+1151,Sultan Idris University of Education,MYS,Universities
+1151,Otto-von-Guericke-Universitat Magdeburg *,DEU,Universities
+1151,Western Washington University,USA,Universities
+1151,Stockholm School of Economics,SWE,Universities
+1156,LWL-Universitatsklinikum Bochum der Ruhr Universitat Bochum,DEU,Health
+1157,University of Rzeszow,POL,Universities
+1158,Universidad Miguel Hernandez *,ESP,Universities
+1158,Nanjing University of Technology,CHN,Universities
+1160,Fuzhou University,CHN,Universities
+1161,University of Southern Queensland,AUS,Universities
+1161,University of Wyoming,USA,Universities
+1163,Bond University,AUS,Universities
+1163,University of Bialystok,POL,Universities
+1165,Vasyl Stefanyk Precarpathian National University,UKR,Universities
+1166,Universite Francois Rabelais de Tours *,FRA,Universities
+1166,University of South-Eastern Norway,NOR,Universities
+1168,Hematological Scientific Centre of the Russian Academy of Medical Sciences,RUS,Health
+1169,DePaul University,USA,Universities
+1169,Tyumen Scientific Centre of the Siberian Branch of the Russian Academy of Sciences,RUS,Government
+1171,Russian State Social University,RUS,Universities
+1172,Otto-Friedrich-Universitat Bamberg,DEU,Universities
+1173,Saitama University,JPN,Universities
+1173,University of Kansas Medical Center,USA,Health
+1173,Chulalongkorn University,THA,Universities
+1176,BI Norwegian Business School,NOR,Universities
+1177,Universidade de Aveiro,PRT,Universities
+1178,Scuola Superiore S. Anna di Studi Universitari e di Perfezionamento *,ITA,Universities
+1178,"City University of New York, City College",USA,Universities
+1180,University of the Philippines Diliman *,PHL,Universities
+1181,University of Rochester Medical Center,USA,Health
+1181,"Universidad Andres Bello, Chile",CHL,Universities
+1183,Southwest University *,CHN,Universities
+1184,Vytautas Magnus University,LTU,Universities
+1185,University of St Cyril and Methodius in Trnava,SVK,Universities
+1185,Foundation for Research and Technology Hellas *,GRC,Government
+1185,Technische Universitat Darmstadt,DEU,Universities
+1188,Universidad de Playa Ancha,CHL,Universities
+1189,AGH University of Science and Technology,POL,Universities
+1189,Universidad Catolica de Temuco,CHL,Universities
+1191,Lehigh University,USA,Universities
+1191,Universita degli Studi di Verona,ITA,Universities
+1193,Symbiosis International University,IND,Universities
+1194,Western Michigan University,USA,Universities
+1195,Old Dominion University,USA,Universities
+1195,Universidade Federal de Goias,BRA,Universities
+1197,Communication University of China,CHN,Universities
+1198,Universidade Federal de Sao Carlos,BRA,Universities
+1199,Hacettepe University,TUR,Universities
+1200,Thammasat University,THA,Universities
+1201,Tohoku University *,JPN,Universities
+1202,Vyatka State University,RUS,Universities
+1203,Helsinki University Central Hospital,FIN,Health
+1203,Qatar University,QAT,Universities
+1205,University of Rijeka,HRV,Universities
+1206,Institut d'Economie Scientifique et de Gestion,FRA,Universities
+1206,Oakland University,USA,Universities
+1208,Carl von Ossietzky Universitat Oldenburg,DEU,Universities
+1209,Vilnius Gediminas Technical University,LTU,Universities
+1209,Ohio State University Wexner Medical Center,USA,Health
+1211,Leibniz-Institut fur Wissensmedien,DEU,Government
+1212,The University of Northampton,GBR,Universities
+1212,University of Southern Mississippi,USA,Universities
+1214,University of Rhode Island,USA,Universities
+1215,Technische Universitat Chemnitz,DEU,Universities
+1216,Universidade do Vale do Rio dos Sinos,BRA,Universities
+1216,"Soochow University, Suzhou *",CHN,Universities
+1218,University of Social Sciences and Humanities,POL,Universities
+1218,Universita del Salento,ITA,Universities
+1220,Jonkoping University,SWE,Universities
+1220,Henan University *,CHN,Universities
+1222,Technische Universitat Braunschweig,DEU,Universities
+1223,Martin-Luther-Universitat Halle-Wittenberg *,DEU,Universities
+1223,Syiah Kuala University,IDN,Universities
+1225,Guangzhou University,CHN,Universities
+1226,James Madison University,USA,Universities
+1227,American University of Beirut *,LBN,Universities
+1228,Syarif Hidayatullah State Islamic University Jakarta,IDN,Universities
+1228,University of Szeged,HUN,Universities
+1230,Universidad Catolica del Norte,CHL,Universities
+1230,Harbin Engineering University,CHN,Universities
+1232,Universitat Trier,DEU,Universities
+1232,"Demokritos, National Centre for Scientific Research",GRC,Government
+1234,Universitatsspital Zurich,CHE,Health
+1234,College of Charleston,USA,Universities
+1236,"University of Texas, Arlington",USA,Universities
+1236,Qingdao University *,CHN,Universities
+1236,University of Sargodha,PAK,Universities
+1239,Belgorod State University,RUS,Universities
+1240,Bath Spa University,GBR,Universities
+1241,Universitat Augsburg,DEU,Universities
+1242,"Trofimuk United Institute of Geology, Geophysics and Mineralogy Russian Academy of Sciences",RUS,Government
+1242,Taylors University,MYS,Universities
+1242,Universitat Erfurt,DEU,Universities
+1245,Universidad Publica de Navarra *,ESP,Universities
+1245,Prince Sultan University,SAU,Universities
+1245,University of New Brunswick,CAN,Universities
+1248,Tehran University of Medical Sciences *,IRN,Universities
+1249,University of Bedfordshire,GBR,Universities
+1250,"Universidad del Valle, Colombia *",COL,Universities
+1251,University of Hradec Kralove,CZE,Universities
+1252,VSB-Technical University of Ostrava,CZE,Universities
+1253,"Montana State University, Bozeman",USA,Universities
+1254,Gadjah Mada University,IDN,Universities
+1255,Pontificia Universidade Catolica do Rio Grande do Sul,BRA,Universities
+1256,Central Queensland University,AUS,Universities
+1257,"City University of New York, Queens College",USA,Universities
+1257,Escuela Nacional de Antropologia e Historia,MEX,Universities
+1259,Ecole Nationale Superieure des Mines de Paris,FRA,Universities
+1259,Ball State University,USA,Universities
+1261,Instituto Tecnologico y de Estudios Superiores de Monterrey,MEX,Universities
+1261,Scuola Normale Superiore Pisa *,ITA,Universities
+1263,Seattle Children's Hospital,USA,Health
+1263,"Wesleyan University, Middletown",USA,Universities
+1265,Nanjing Normal University,CHN,Universities
+1266,Federation University,AUS,Universities
+1267,"Universidad de los Andes, Chile",CHL,Universities
+1268,National Technical University of Athens,GRC,Universities
+1269,"Universite Sorbonne Nouvelle, Paris 3 *",FRA,Universities
+1270,Padjadjaran University,IDN,Universities
+1271,University of South Bohemia,CZE,Universities
+1272,Universite Clermont-Auvergne,FRA,Universities
+1272,Universidad de Caldas,COL,Universities
+1274,Kyiv National University of Construction and Architecture,UKR,Universities
+1275,Nelson Mandela Metropolitan University,ZAF,Universities
+1275,Aga Khan University *,PAK,Universities
+1275,University of Delhi *,IND,Universities
+1278,Altai State University,RUS,Universities
+1279,University of Montenegro,MNE,Universities
+1280,Yarmouk University,JOR,Universities
+1280,Universitas Negeri Yogyakarta,IDN,Universities
+1282,Magnitogorsk State Technical University,RUS,Universities
+1283,University Hospitals Coventry and Warwickshire NHS Trust,GBR,Health
+1284,Mykolo Romerio Universitetas,LTU,Universities
+1285,Robert Gordon University,GBR,Universities
+1285,Ankara University,TUR,Universities
+1287,Universidad Francisco de Vitoria *,ESP,Universities
+1287,Universidad San Pablo CEU ,ESP,Universities
+1289,Sultan Zainal Abidin University,MYS,Universities
+1290,"California State University, Northridge",USA,Universities
+1291,"University of Massachusetts, Lowell",USA,Universities
+1291,Fundacao Getulio Vargas *,BRA,Universities
+1293,Boise State University,USA,Universities
+1293,New Mexico State University,USA,Universities
+1293,National Institute of Development Administration,THA,Universities
+1296,Institut Universitaire de France,FRA,Government
+1297,Pontificia Universidade Catolica de Sao Paulo,BRA,Universities
+1297,Chung-Ang University *,KOR,Universities
+1299,Universidade Federal do Espirito Santo,BRA,Universities
+1300,National Institute for Health and Welfare,FIN,Health
+1300,Institute of Geography Russian Academy of Sciences,RUS,Government
+1302,Universitat Kassel,DEU,Universities
+1303,Pedagogical University of Cracow,POL,Universities
+1304,Silpakorn University,THA,Universities
+1305,Shahid Beheshti University of Medical Sciences and Health Services *,IRN,Universities
+1306,Florida Atlantic University,USA,Universities
+1307,Universidade Federal da Fronteira Sul,BRA,Universities
+1307,"Northwest University, Xi'an",CHN,Universities
+1309,Institut National Polytechnique de Toulouse *,FRA,Universities
+1310,Universita degli Studi di Udine,ITA,Universities
+1311,Univerzita Mateja Bela v Banskej Bystrici,SVK,Universities
+1312,Rochester Institute of Technology *,USA,Universities
+1313,Inland Norway University of Applied Sciences,NOR,Universities
+1313,"University of Malaysia, Sarawak",MYS,Universities
+1315,Universidad Nacional de la Patagonia San Juan Bosco,ARG,Universities
+1315,Clark University,USA,Universities
+1317,Universitatsklinikum Koln,DEU,Health
+1318,Northern Illinois University,USA,Universities
+1319,V.I. Vernadsky Crimean Federal University,UKR,Universities
+1320,Istituto di Geologia Ambientale e Geoingegneria,ITA,Government
+1321,Universitas Muhammadiyah Yogyakarta,IDN,Universities
+1322,Warsaw University of Technology,POL,Universities
+1322,San Jose State University,USA,Universities
+1324,University of Gavle,SWE,Universities
+1325,Zayed University,ARE,Universities
+1326,Institut Polytechnique de Grenoble *,FRA,Universities
+1327,Orygen Youth Health,AUS,Health
+1327,University of Iowa Health Care,USA,Health
+1327,Universidad Panamericana *,MEX,Universities
+1330,Bogazici University,TUR,Universities
+1330,University of Southern Maine,USA,Universities
+1332,Universidade Federal do Rio Grande do Norte,BRA,Universities
+1332,Centro de Investigacion y Docencia Economicas,MEX,Government
+1334,The Hong Kong University of Science and Technology,HKG,Universities
+1335,"School of Advanced Study, University of London",GBR,Universities
+1336,Kasetsart University,THA,Universities
+1337,Wroclaw University of Science and Technology,POL,Universities
+1338,Ss Cyril and Methodius University of Skopje *,MKD,Universities
+1339,"Baruch College, City University of New York",USA,Universities
+1339,Universite Jean Monnet *,FRA,Universities
+1341,Liverpool University Hospitals NHS Foundation Trust,GBR,Health
+1342,Turku University Hospital,FIN,Health
+1343,Pontificia Universidade Catolica do Parana,BRA,Universities
+1344,University of Toledo *,USA,Universities
+1344,Universidad Nacional Mayor de San Marcos,PER,Universities
+1346,National Cheng Kung University,TWN,Universities
+1346,Pace University,USA,Universities
+1348,Universidade Federal de Juiz de Fora,BRA,Universities
+1349,University of Richmond,USA,Universities
+1349,Helmholtz-Zentrum fur Ozeanforschung Kiel Umgewandelt,DEU,Government
+1349,Universitat fur Bodenkultur Wien *,AUT,Universities
+1352,Elon University,USA,Universities
+1353,Kurukshetra University,IND,Universities
+1353,Southern Ural State University,RUS,Universities
+1355,Universite de Caen Basse-Normandie *,FRA,Universities
+1356,Shantou University *,CHN,Universities
+1357,Missouri University of Science & Technology,USA,Universities
+1358,Victoria University,AUS,Universities
+1358,Universita degli Studi dell'Insubria,ITA,Universities
+1360,Lulea University of Technology,SWE,Universities
+1360,Istituto Nazionale di Fisica Nucleare *,ITA,Government
+1362,Kazimierz Wielki University,POL,Universities
+1362,Universidad Michoacana de San Nicolas de Hidalgo,MEX,Universities
+1364,Politehnica University of Bucharest,ROU,Universities
+1364,University of Zadar,HRV,Universities
+1366,"University of Maine, Orono",USA,Universities
+1367,Centro Cientifico Tecnologico La Plata,ARG,Government
+1368,University of Notre Dame Australia,AUS,Universities
+1369,Technische Universitat Dortmund *,DEU,Universities
+1369,Istanbul University *,TUR,Universities
+1371,University of Ulsan *,KOR,Universities
+1372,University of Management and Technology,PAK,Universities
+1372,"City University of New York, Brooklyn College",USA,Universities
+1374,University Tunku Abdul Rahman,MYS,Universities
+1375,National Institute for Materials Science,JPN,Government
+1375,Baycrest Centre for Geriatric Care *,CAN,Health
+1377,Ewha Womans University *,KOR,Universities
+1378,Florida Institute of Technology,USA,Universities
+1379,University of Lethbridge,CAN,Universities
+1379,Universitat Siegen,DEU,Universities
+1381,Universidade Federal do Estado do Rio de Janeiro,BRA,Universities
+1382,Universitat Internacional de Catalunya ,ESP,Universities
+1383,Universidade Federal de Pernambuco,BRA,Universities
+1384,University of Latvia,LVA,Universities
+1385,Universidad de Valparaiso,CHL,Universities
+1386,University of West Bohemia,CZE,Universities
+1387,Hamad Bin Khalifa University *,QAT,Universities
+1387,Universitat Rostock *,DEU,Universities
+1389,Almazov National Medical Research Centre,RUS,Health
+1389,Kobe University *,JPN,Universities
+1391,Ningbo University,CHN,Universities
+1392,Universidad Nacional del Centro de la Provincia de Buenos Aires *,ARG,Universities
+1393,New Jersey Institute of Technology,USA,Universities
+1394,Benemerita Universidad Autonoma de Puebla *,MEX,Universities
+1394,Hasanuddin University,IDN,Universities
+1396,Universidad de Cuenca,ECU,Universities
+1397,Open University of Israel,ISR,Universities
+1398,"Eye, Ear, Nose and Throat Hospital Fudan University",CHN,Health
+1398,Institut de Physique du Globe de Paris,FRA,Government
+1398,Universidade Federal de Ouro Preto,BRA,Universities
+1401,Universidade Federal da Paraiba,BRA,Universities
+1401,Pirogov Russian National Research Medical University,RUS,Universities
+1403,University of Patras,GRC,Universities
+1404,Universidade Federal de Pelotas,BRA,Universities
+1405,Ateneo de Manila University,PHL,Universities
+1406,British Library,GBR,Government
+1407,The Catholic University of America,USA,Universities
+1408,Universidade Federal de Alagoas,BRA,Universities
+1409,University of Ibadan,NGA,Universities
+1410,"California State University, Fullerton",USA,Universities
+1411,All India Institute of Medical Sciences,IND,Universities
+1412,United Arab Emirates University,ARE,Universities
+1412,Huaqiao University,CHN,Universities
+1412,Universita degli Studi di Bergamo,ITA,Universities
+1415,St Petersburg Pavlov State Medical University,RUS,Universities
+1416,Pontificia Universidad Catolica Argentina Santa Maria de los Buenos Aires,ARG,Universities
+1417,Ecole de Management de Lyon,FRA,Universities
+1418,Universidad Nacional de La Pampa *,ARG,Universities
+1419,Texas Christian University,USA,Universities
+1420,Banaras Hindu University,IND,Universities
+1420,Universidade do Estado de Santa Catarina,BRA,Universities
+1422,Middlebury College,USA,Universities
+1422,Open University Netherlands,NLD,Universities
+1422,Konkuk University *,KOR,Universities
+1425,Rowan University,USA,Universities
+1426,Universidad de Talca *,CHL,Universities
+1426,University of Tulsa,USA,Universities
+1428,Facultad Latinoamericana de Ciencias Sociales *,MUL,Universities
+1428,Museum fur Naturkunde Berlin,DEU,Non-Profit
+1430,University Hospitals Leicester NHS Trust,GBR,Health
+1431,Universite d'Avignon *,FRA,Universities
+1431,Beijing Institute of Civil Engineering and Architecture,CHN,Universities
+1431,Zhejiang Sci-Tech University,CHN,Universities
+1434,FernUniversitat in Hagen,DEU,Universities
+1435,National Research and Innovation Agency *,IDN,Government
+1436,University of Primorska,SVN,Universities
+1436,University Hospital Maastricht,NLD,Health
+1438,Mehmet Akif Ersoy University,TUR,Universities
+1438,Universitat Osnabruck,DEU,Universities
+1440,Universidade Estadual de Maringa,BRA,Universities
+1441,Southern Cross University,AUS,Universities
+1442,Western Norway University of Applied Sciences,NOR,Universities
+1442,Islamic Science University of Malaysia,MYS,Universities
+1444,Universidad Pedagogica y Tecnologica de Colombia,COL,Universities
+1444,"University of the Punjab, Lahore",PAK,Universities
+1446,Indiana University of Pennsylvania,USA,Universities
+1446,Cracow University of Economics,POL,Universities
+1448,Opole University,POL,Universities
+1449,"University of Colorado, Anschutz Medical Campus",USA,Universities
+1449,Jacobs University Bremen *,DEU,Universities
+1451,Universidad de Guadalajara,MEX,Universities
+1452,Universidad del Cauca,COL,Universities
+1453,Brighton and Sussex University Hospitals NHS Trust,GBR,Health
+1453,International Islamic University,PAK,Universities
+1453,"University of Texas, El Paso",USA,Universities
+1456,Negeri Malang University,IDN,Universities
+1457,Universidade Federal de Uberlandia,BRA,Universities
+1458,Peter the Great St Petersburg Polytechnic University,RUS,Universities
+1459,Universidad de Costa Rica,CRI,Universities
+1459,Universidad de La Sabana *,COL,Universities
+1461,Yugra State University,RUS,Universities
+1462,Shanghai University,CHN,Universities
+1463,Montclair State University,USA,Universities
+1464,Karadeniz Technical University,TUR,Universities
+1464,Hospital Clinic i Provincial de Barcelona,ESP,Health
+1466,Institut Jean le Rond d'Alembert,FRA,Government
+1467,Manipal Global Education Group *,MUL,Companies
+1468,"University of Wales, Trinity Saint David",GBR,Universities
+1468,New York State Psychiatric Institute,USA,Health
+1470,Kyushu University *,JPN,Universities
+1471,Mid Sweden University,SWE,Universities
+1472,Volgograd State Medical University,RUS,Universities
+1472,University of Sarajevo,BIH,Universities
+1474,Loyola Marymount University,USA,Universities
+1475,Grand Valley State University,USA,Universities
+1475,Czech University of Life Sciences Prague,CZE,Universities
+1477,Universidad Nacional de Tucuman *,ARG,Universities
+1478,Bryn Mawr College,USA,Universities
+1479,University of Applied Sciences and Arts Western Switzerland *,CHE,Universities
+1480,University of Craiova,ROU,Universities
+1481,Immanuel Kant Baltic Federal University,RUS,Universities
+1482,Universite Gustave Eiffel *,FRA,Universities
+1482,Centre de Recherche en Neurosciences de Lyon,FRA,Government
+1482,IT University of Copenhagen,DNK,Universities
+1485,Helmut Schmidt Universitat - Universitat der Bundeswehr Hamburg,DEU,Universities
+1485,"University of Colorado, Colorado Springs",USA,Universities
+1487,Universite de Bretagne Occidentale *,FRA,Universities
+1488,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities
+1488,Museo Nacional de Ciencias Naturales,ESP,Government
+1490,Cyprus International University,CYP,Universities
+1490,Universita degli Studi del Piemonte Orientale Amedeo Avogadro,ITA,Universities
+1492,Sofia University,BGR,Universities
+1492,University of North Dakota,USA,Universities
+1494,Dongguk University *,KOR,Universities
+1495,Universita degli Studi di Urbino Carlo Bo,ITA,Universities
+1496,Kazakh National Pedagogical University,KAZ,Universities
+1496,Eastern Mediterranean University,CYP,Universities
+1496,Zhejiang Gongshang University,CHN,Universities
+1499,Universidad Pontificia Bolivariana *,COL,Universities
+1499,Southern Scientific Center Russian Academy of Sciences,RUS,Government
+1501,"Universite Capitole, Toulouse I *",FRA,Universities
+1502,Universidad del Bio-Bio,CHL,Universities
+1503,Karelian Research Center Russian Academy of Sciences,RUS,Government
+1503,Australian Museum,AUS,Non-Profit
+1505,Ecole Centrale Marseille *,FRA,Universities
+1506,Universitat de Vic,ESP,Universities
+1507,CESifo Group,DEU,Non-Profit
+1507,Universidad de la Costa,COL,Universities
+1509,Sabanci University,TUR,Universities
+1510,University of Idaho,USA,Universities
+1511,The University of Winnipeg,CAN,Universities
+1512,Clalit Health Services *,ISR,Health
+1513,Natural Resources Canada,CAN,Government
+1514,Japan Advanced Institute of Science and Technology,JPN,Universities
+1515,Sherbrooke University,CAN,Universities
+1515,King Saud bin Abdulaziz University for Health Sciences *,SAU,Universities
+1517,Universidad Autonoma de Chile,CHL,Universities
+1518,Universidade Federal de Vicosa,BRA,Universities
+1519,Universidad Catolica de la Santisima Concepcion,CHL,Universities
+1520,Tyumen State University,RUS,Universities
+1521,Lingnan University,HKG,Universities
+1521,Central University of Finance and Economics,CHN,Universities
+1523,"University of Montana, Missoula",USA,Universities
+1524,State University of Management,RUS,Universities
+1524,Universidad EAFIT,COL,Universities
+1526,Amherst College,USA,Universities
+1527,University of Texas Medical Branch ,USA,Universities
+1528,Odessa National I.I. Mechnikov University,UKR,Universities
+1529,Rush University Medical Center,USA,Health
+1530,Rush University *,USA,Universities
+1531,N.I. Lobachevsky State University of Nizhni Novgorod *,RUS,Universities
+1532,"University of Texas, Health Science Center at Houston",USA,Universities
+1533,University at Texas Rio Grande Valley,USA,Universities
+1534,University of Macedonia,GRC,Universities
+1534,Universitas Negeri Sebelas Maret,IDN,Universities
+1536,North Dakota State University,USA,Universities
+1537,Silesian University of Technology,POL,Universities
+1538,Universitatsklinikum Gottingen,DEU,Health
+1538,Istanbul Bilgi University,TUR,Universities
+1540,Universite de Toulouse,FRA,Universities
+1540,Hongik University,KOR,Universities
+1542,Siedlce University of Natural Sciences and Humanities,POL,Universities
+1543,Akdeniz University,TUR,Universities
+1543,N. P. Ogarev's Mordovian State University,RUS,Universities
+1545,Universite Rennes 2 *,FRA,Universities
+1545,Hospices Civils de Lyon *,FRA,Health
+1545,Universidade Federal de Mato Grosso,BRA,Universities
+1548,Instituto Nacional de Pesquisas da Amazonia,BRA,Government
+1549,University of Nicosia,CYP,Universities
+1550,Universitat Klagenfurt,AUT,Universities
+1551,Michigan Technological University,USA,Universities
+1552,"University of the West Indies, Mona Campus *",JAM,Universities
+1552,IMT School for Advanced Studies Lucca,ITA,Government
+1554,Universidad de la Frontera,CHL,Universities
+1555,Universidad Pontificia de Salamanca,ESP,Universities
+1556,Universidad Nacional de Quilmes,ARG,Universities
+1557,Universidad de La Salle Colombia,COL,Universities
+1558,Universidad del Tolima,COL,Universities
+1559,Bard College,USA,Universities
+1560,Alagappa University,IND,Universities
+1560,Moscow State Pedagogical University,RUS,Universities
+1560,Universidade Federal do Ceara,BRA,Universities
+1560,Bucknell University,USA,Universities
+1564,Sogang University,KOR,Universities
+1565,National Sun Yat-sen University,TWN,Universities
+1566,Klaipeda University,LTU,Universities
+1567,Universitat Paderborn,DEU,Universities
+1567,Perm State University,RUS,Universities
+1567,Universidad Catolica del Maule,CHL,Universities
+1570,University of Abertay Dundee,GBR,Universities
+1571,Institute for Advanced Study,USA,Non-Profit
+1572,South China Normal University,CHN,Universities
+1572,Human Sciences Research Council of South Africa,ZAF,Government
+1572,Universidade Federal do Acre,BRA,Universities
+1572,Necmettin Erbakan University,TUR,Universities
+1576,Universidad Industrial de Santander,COL,Universities
+1576,Malardalen University College,SWE,Universities
+1578,University of Economics Ho Chi Minh City,VNM,Universities
+1579,Saint Mary's University,CAN,Universities
+1580,Royal Belgian Institute of Natural Sciences,BEL,Government
+1580,Universiti Brunei Darussalam,BRN,Universities
+1582,Missouri State University,USA,Universities
+1583,Chinese Academy of Geological Sciences *,CHN,Government
+1583,University of Akron,USA,Universities
+1585,University of Ostrava,CZE,Universities
+1586,Universidad Central de Venezuela,VEN,Universities
+1587,Iran University of Medical Sciences *,IRN,Universities
+1587,Universidad de Medellin,COL,Universities
+1589,University of Regina,CAN,Universities
+1590,Williams College,USA,Universities
+1591,Saratov State University,RUS,Universities
+1592,North Eastern Federal University,RUS,Universities
+1593,"University of North Carolina, Wilmington",USA,Universities
+1593,Stetson University,USA,Universities
+1593,Universidad Nacional del Comahue *,ARG,Universities
+1596,Universidade Estadual de Londrina,BRA,Universities
+1597,Hitit University,TUR,Universities
+1597,Trnava University in Trnava,SVK,Universities
+1599,Medical College of Wisconsin,USA,Universities
+1600,North-Caucasus Federal University,RUS,Universities
+1601,Universita degli Studi della Basilicata,ITA,Universities
+1602,Sharif University of Technology,IRN,Universities
+1603,Royal College of Surgeons,IRL,Universities
+1604,Universidade Federal Rural do Rio de Janeiro,BRA,Universities
+1605,Mimar Sinan Guzel Sanatlar Universitesi,TUR,Universities
+1606,Southwestern University of Finance and Economics,CHN,Universities
+1606,Udmurt State University,RUS,Universities
+1608,Universidad Loyola Andalucia,ESP,Universities
+1608,Universidad Autonoma de Baja California,MEX,Universities
+1610,Centros Regionales CONICYT *,CHL,Government
+1611,Universidade Federal de Santa Maria *,BRA,Universities
+1612,Near East University,CYP,Universities
+1612,Czech Technical University in Prague,CZE,Universities
+1614,Annamalai University,IND,Universities
+1615,"California State University, Sacramento",USA,Universities
+1615,Manipal University,IND,Universities
+1617,Dokuz Eylul University *,TUR,Universities
+1618,Jawaharlal Nehru University,IND,Universities
+1619,Universite du Quebec en Trois-Rivieres,CAN,Universities
+1620,Beijing Jiaotong University,CHN,Universities
+1621,Universidade da Integracao Internacional da Lusofonia Afro-Brasileira,BRA,Universities
+1622,Universidad Nacional del Litoral *,ARG,Universities
+1622,University of Crete,GRC,Universities
+1624,Universidade Federal do Maranhao,BRA,Universities
+1625,Universita degli Studi della Tuscia,ITA,Universities
+1626,Kuban State University,RUS,Universities
+1627,Fund for Scientific Research Flanders,BEL,Government
+1627,Imam Abdulrahman Bin Faisal University *,SAU,Universities
+1629,Western New England University,USA,Universities
+1630,"Universidad Santo Tomas, Colombia",COL,Universities
+1631,Istituto di Geoscienze e Georisorse,ITA,Government
+1631,Kemerovo State University,RUS,Universities
+1633,Ajou University,KOR,Universities
+1634,Bergische Universitat Wuppertal,DEU,Universities
+1635,Prince Sattam Bin Abdulaziz University,SAU,Universities
+1636,Graduate University for Advanced Studies,JPN,Universities
+1636,Firat University,TUR,Universities
+1638,Children's Hospital of Philadelphia,USA,Health
+1638,Liverpool Hope University,GBR,Universities
+1640,Ferdowsi University of Mashhad,IRN,Universities
+1641,Yerevan State University,ARM,Universities
+1642,University of Debrecen,HUN,Universities
+1642,Universite de Poitiers *,FRA,Universities
+1642,University of the Highlands and Islands,GBR,Universities
+1645,"Universidad Iberoamericana, Mexico",MEX,Universities
+1646,Universite de Rouen Normandie *,FRA,Universities
+1647,Central Michigan University,USA,Universities
+1647,Royal Children's Hospital Melbourne,AUS,Health
+1649,Tata Institute of Fundamental Research,IND,Universities
+1650,Bartin University,TUR,Universities
+1651,Fonds de la Recherche Scientifique,BEL,Government
+1651,University Malaysia Terengganu,MYS,Universities
+1651,Seoul National University of Science & Technology,KOR,Universities
+1651,Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,RUS,Universities
+1655,University of Zielona Gora,POL,Universities
+1656,Mount Holyoke College,USA,Universities
+1656,Barnard College,USA,Universities
+1658,Makerere University *,UGA,Universities
+1659,Bahria University,PAK,Universities
+1660,Universidad Autonoma de Queretaro,MEX,Universities
+1661,U.S. Air Force,USA,Government
+1662,Ufa University of Science and Technology,RUS,Universities
+1663,Idaho State University,USA,Universities
+1664,Australian Nuclear Science & Technology Organisation,AUS,Government
+1665,Swarthmore College,USA,Universities
+1666,The University of Lahore,PAK,Universities
+1667,Shanghai Normal University,CHN,Universities
+1667,"Indian Institute of Technology, Kharagpur",IND,Universities
+1669,University of Arkansas for Medical Sciences,USA,Universities
+1669,University of Tirana,ALB,Universities
+1671,University of Malaysia Kelantan,MYS,Universities
+1672,Hainan University,CHN,Universities
+1673,Ivan Franko National University of Lviv,UKR,Universities
+1674,Belarusian State University,BLR,Universities
+1674,Poznan University of Medical Sciences,POL,Universities
+1676,Universidade Federal de Mato Grosso do Sul,BRA,Universities
+1676,University of South Alabama *,USA,Universities
+1678,Institut National des Sciences Appliquees de Lyon *,FRA,Universities
+1679,Colgate University,USA,Universities
+1680,Naval Postgraduate School,USA,Universities
+1681,"California State Polytechnic University, Pomona",USA,Universities
+1682,Universita degli Studi di Enna Kore,ITA,Universities
+1683,Institute of Mathematics and Informatics Bulgarian Academy of Sciences,BGR,Government
+1684,Corvinus University of Budapest,HUN,Universities
+1685,Escuela Superior Politecnica del Litoral,ECU,Universities
+1686,Lampung University,IDN,Universities
+1687,Nazarbayev University,KAZ,Universities
+1688,Walailak University,THA,Universities
+1689,"National Institute of Technology, Tiruchirappalli",IND,Universities
+1690,Furman University,USA,Universities
+1691,Associate Laboratory of Robotics and Engineering Systems *,PRT,Non-Profit
+1692,Serbian Academy of Sciences and Arts *,SRB,Government
+1693,Amur State University,RUS,Universities
+1693,King Abdullah International Medical Research Center,SAU,Health
+1695,Gauhati University,IND,Universities
+1696,Universita degli Studi di Napoli Parthenope,ITA,Universities
+1697,Marmara University *,TUR,Universities
+1698,National Academy of Sciences of Armenia *,ARM,Government
+1699,Universidade Federal de Sergipe,BRA,Universities
+1700,Universite Polytechnique des Hauts-de-France *,FRA,Universities
+1701,Indonesia University of Education,IDN,Universities
+1701,Free University of Bozen,ITA,Universities
+1701,Bowdoin College,USA,Universities
+1701,Universitas Negeri Semarang,IDN,Universities
+1705,Ernst-Moritz-Arndt-Universitat Greifswald *,DEU,Universities
+1705,Wright State University,USA,Universities
+1705,Instituto Tecnologico Autonomo de Mexico,MEX,Universities
+1708,University of the Sunshine Coast,AUS,Universities
+1709,Universidad Finis Terrae,CHL,Universities
+1710,Universidad Arturo Prat *,CHL,Universities
+1710,Pontificia Universidad Catolica del Ecuador,ECU,Universities
+1710,University of South Florida-Saint Petersburg,USA,Universities
+1713,Rhodes College,USA,Universities
+1714,Universidad Mayor de San Andres,BOL,Universities
+1715,Universidad Autonoma del Estado de Mexico,MEX,Universities
+1716,Cumhuriyet University *,TUR,Universities
+1716,Yangzhou University,CHN,Universities
+1718,Srinakharinwirot University,THA,Universities
+1718,Warsaw School of Economics,POL,Universities
+1720,Universidad Veracruzana,MEX,Universities
+1720,Jamia Millia Islamia Central University,IND,Universities
+1720,Jordan University of Science and Technology,JOR,Universities
+1723,Universita degli Studi di Sassari,ITA,Universities
+1723,Universita degli Studi Mediterranea di Reggio Calabria,ITA,Universities
+1723,National Taiwan University of Science and Technology,TWN,Universities
+1726,Kaunas University of Technology ,LTU,Universities
+1726,Guangdong University of Foreign Studies,CHN,Universities
+1726,Universidade Federal do ABC,BRA,Universities
+1729,Lakehead University,CAN,Universities
+1730,Universidade da Cidade de Macau - City University of Macau,MAC,Universities
+1731,Universidad Catolica de Valencia San Vicente Martir,ESP,Universities
+1731,Xi'an Jiaotong-Liverpool University,CHN,Universities
+1733,Universita IUAV di Venezia,ITA,Universities
+1733,Universidade Federal do Reconcavo da Bahia,BRA,Universities
+1735,Interdisciplinary Center Herzliya,ISR,Universities
+1736,King Fahd University of Petroleum and Minerals,SAU,Universities
+1737,National Yang Ming Chiao Tung University,TWN,Universities
+1738,University of Isfahan,IRN,Universities
+1739,Pedagogical University of Kielce,POL,Universities
+1739,Institute of Computer Science of the ASCR,CZE,Government
+1741,Universite Paris Dauphine,FRA,Universities
+1741,University of Pecs,HUN,Universities
+1743,University of Mohaghegh Ardabili,IRN,Universities
+1744,"Moscow Aviation Institute, State University of Aerospace Technologies",RUS,Universities
+1745,Moscow Institute of Physics and Technology,RUS,Universities
+1746,Prince of Songkla University,THA,Universities
+1747,Universidad Bernardo O'Higgins,CHL,Universities
+1748,Universidade Federal da Integracao Latino-Americana,BRA,Universities
+1748,Fondazione Santa Lucia IRCCS,ITA,Health
+1750,Sunway University,MYS,Universities
+1751,Universitat Luzern,CHE,Universities
+1751,Universidad de Puerto Rico *,PRI,Universities
+1751,Colby College,USA,Universities
+1754,Universidad Nacional del Sur *,ARG,Universities
+1755,"University of Michigan, Dearborn",USA,Universities
+1755,Mount Saint Vincent University,CAN,Universities
+1757,Hankuk University of Foreign Studies,KOR,Universities
+1757,Wichita State University,USA,Universities
+1757,Assam University,IND,Universities
+1757,"Government College University, Faisalabad",PAK,Universities
+1761,Ithaca College,USA,Universities
+1761,"University of Maryland, Baltimore County",USA,Universities
+1763,"Junia, Grande Ecole d'Ingenieurs *",FRA,Universities
+1764,Lublin University of Technology,POL,Universities
+1764,Universite du Maine *,FRA,Universities
+1766,Hopitaux Universitaires de Geneve,CHE,Health
+1766,Council of Scientific and Industrial Research *,IND,Government
+1766,Pontificia Universidade Catolica de Minas Gerais,BRA,Universities
+1769,University of Surabaya,IDN,Universities
+1770,Khalifa University *,ARE,Universities
+1770,Towson University,USA,Universities
+1772,Chiba University *,JPN,Universities
+1773,Universidad de Guanajuato,MEX,Universities
+1773,Universite de Haute-Alsace Mulhouse-Colmar *,FRA,Universities
+1775,University of North Florida,USA,Universities
+1775,Universidade da Beira Interior,PRT,Universities
+1775,American University of Sharjah,ARE,Universities
+1775,Universidad Europea de Madrid,ESP,Universities
+1779,University of Northern Colorado *,USA,Universities
+1780,VID Specialized University,NOR,Universities
+1781,Universidade Estadual do Centro-Oeste,BRA,Universities
+1782,Mizoram University,IND,Universities
+1782,Amity University *,IND,Universities
+1782,University of Banja Luka,BIH,Universities
+1785,Ecole Centrale de Lyon *,FRA,Universities
+1785,Gujarat University,IND,Universities
+1787,Nord University,NOR,Universities
+1788,Universite de Cergy-Pontoise *,FRA,Universities
+1789,Pavol Jozef Safarik University in Kosice,SVK,Universities
+1789,Sakarya University *,TUR,Universities
+1791,Brandon University,CAN,Universities
+1791,Duquesne University,USA,Universities
+1793,Universidade Federal do Amazonas,BRA,Universities
+1794,Environnements et Paleoenvironnements Oceaniques et Continentaux,FRA,Government
+1794,University of South Wales,GBR,Universities
+1796,Howard University *,USA,Universities
+1797,Colorado School of Mines,USA,Universities
+1797,Smith College,USA,Universities
+1797,Universidad Externado de Colombia,COL,Universities
+1800,"California State University, Los Angeles",USA,Universities
+1801,National University Kiev-Mohyla Academy,UKR,Universities
+1802,Panjab University,IND,Universities
+1803,Ondokuz Mayis University *,TUR,Universities
+1803,Chinese Academy of Social Sciences,CHN,Government
+1805,Ege University,TUR,Universities
+1805,Tokyo Institute of Technology,JPN,Universities
+1807,University of Dar es Salaam,TZA,Universities
+1808,Beijing Foreign Studies University,CHN,Universities
+1808,University of San Francisco,USA,Universities
+1808,Karaganda Buketov University,KAZ,Universities
+1811,Hope College,USA,Universities
+1811,National Chengchi University,TWN,Universities
+1813,Tamkang University,TWN,Universities
+1813,Tun Hussein Onn University of Malaysia,MYS,Universities
+1813,Tadeusz Kosciuszko Cracow University of Technology,POL,Universities
+1813,University of Kashmir,IND,Universities
+1817,Claremont Graduate University,USA,Universities
+1818,VIT University,IND,Universities
+1818,Ankara Haci Bayram Veli University,TUR,Universities
+1820,Dongbei University of Finance and Economics,CHN,Universities
+1820,"Institute of Psychology, Chinese Academy of Sciences",CHN,Government
+1822,Universite de Pau et des Pays de l'Adour *,FRA,Universities
+1822,Adelphi University,USA,Universities
+1824,Universidade do Estado da Bahia,BRA,Universities
+1824,"University of Nottingham, Malaysia Campus",MYS,Universities
+1826,Irkutsk State Technical University,RUS,Universities
+1826,Japan Society for the Promotion of Science,JPN,Government
+1826,Donetsk National University,UKR,Universities
+1829,Ritsumeikan University,JPN,Universities
+1830,Wheaton College,USA,Universities
+1831,Universidad de Lima,PER,Universities
+1832,Lahore University of Management Sciences,PAK,Universities
+1833,"University of Houston, Clear Lake",USA,Universities
+1833,Oberlin College,USA,Universities
+1835,Universidad Nacional de Rio Cuarto,ARG,Universities
+1836,Zhejiang Normal University,CHN,Universities
+1837,Indian Institute of Science,IND,Universities
+1838,Occidental College,USA,Universities
+1839,Istanbul Sabahattin Zaim University,TUR,Universities
+1840,Sultan Qaboos University *,OMN,Universities
+1841,Centro Austral de Investigaciones Cientificas,ARG,Government
+1841,Alfred Health,AUS,Health
+1843,Samara University,RUS,Universities
+1844,"California Polytechnic State University, San Luis Obispo",USA,Universities
+1845,Chonbuk National University *,KOR,Universities
+1846,Surgut State University,RUS,Universities
+1847,St Michaels Hospital Toronto,CAN,Health
+1848,Universidad Politecnica de Cartagena *,ESP,Universities
+1848,Komi Scientific Center Russian Academy of Sciences,RUS,Government
+1850,Universidad Mayor *,CHL,Universities
+1850,Bharathiar University,IND,Universities
+1852,University of St. Thomas,USA,Universities
+1852,Medizinische Hochschule Hannover,DEU,Universities
+1852,Woosong University,KOR,Universities
+1852,Bandung Institute of Technology,IDN,Universities
+1852,Shiraz University,IRN,Universities
+1857,Fayoum University *,EGY,Universities
+1858,Transilvania University of Brasov,ROU,Universities
+1859,Universite de Limoges *,FRA,Universities
+1859,Hong Kong Metropolitan University,HKG,Universities
+1861,Dostoevsky Omsk State University,RUS,Universities
+1861,Seton Hall University,USA,Universities
+1861,Irkutsk State University,RUS,Universities
+1864,Xi'an University of Technology,CHN,Universities
+1864,Kwame Nkrumah University of Science and Technology,GHA,Universities
+1864,Far Eastern Federal University,RUS,Universities
+1867,Universidade Tecnologica Federal do Parana,BRA,Universities
+1868,Monash University Malaysia,MYS,Universities
+1869,"City University of New York, College of Staten Island",USA,Universities
+1869,Hashemite University,JOR,Universities
+1871,Selcuk University *,TUR,Universities
+1872,Tarbiat Modares University,IRN,Universities
+1872,Geological Survey of Israel,ISR,Government
+1874,Universidad Autonoma de Zacatecas,MEX,Universities
+1874,Chiang Mai University,THA,Universities
+1876,Washington and Lee University,USA,Universities
+1876,Universidad ICESI,COL,Universities
+1878,University of Peloponnese,GRC,Universities
+1878,Azusa Pacific University,USA,Universities
+1878,Hamilton College,USA,Universities
+1881,University of Pardubice,CZE,Universities
+1881,Universidad de Magallanes,CHL,Universities
+1883,Suffolk University,USA,Universities
+1884,Institute of Sociology Russian Academy of Sciences,RUS,Government
+1885,"University of Missouri, Kansas City",USA,Universities
+1886,University of Ontario Institute of Technology,CAN,Universities
+1886,"Indian Institute of Technology, Delhi",IND,Universities
+1888,Universidad Internacional Valenciana,ESP,Universities
+1889,Kangwon National University *,KOR,Universities
+1889,Universidade Federal do Piaui,BRA,Universities
+1891,Kanazawa University *,JPN,Universities
+1892,Naresuan University,THA,Universities
+1892,Pacific National University,RUS,Universities
+1894,St Georges University of London,GBR,Universities
+1894,Universite de Bretagne-Sud *,FRA,Universities
+1896,Carleton College,USA,Universities
+1896,University of Santo Tomas,PHL,Universities
+1898,University of Tampa,USA,Universities
+1899,Institute of Physicochemical and Biological Problems of Soil Science Russian Academy of Sciences,RUS,Government
+1899,Anna University,IND,Universities
+1901,Universite de Tunis *,TUN,Universities
+1902,University of Burdwan,IND,Universities
+1902,Universidade Estadual do Oeste do Parana,BRA,Universities
+1904,Universita degli Studi di Brescia,ITA,Universities
+1904,Katholische Universitat Eichstatt-Ingolstadt,DEU,Universities
+1906,Sri Ramaswamy Memorial University,IND,Universities
+1907,Richard L. Roudebush VA Medical Center,USA,Health
+1908,Kharazmi University,IRN,Universities
+1909,Al-Balqa Applied University,JOR,Universities
+1910,Cleveland State University,USA,Universities
+1910,Universidad Antonio de Nebrija,ESP,Universities
+1910,Universidad del Zulia,VEN,Universities
+1910,Utah Valley University,USA,Universities
+1914,Zhejiang University of Finance and Economics,CHN,Universities
+1914,"Universidad del Pacifico, Peru",PER,Universities
+1916,Lebanese American University *,LBN,Universities
+1917,Universidade dos Acores,PRT,Universities
+1918,University of Zimbabwe,ZWE,Universities
+1919,Rikkyo University,JPN,Universities
+1920,University of Sindh,PAK,Universities
+1921,Khon Kaen University,THA,Universities
+1922,Pepperdine University,USA,Universities
+1923,"New York University, Shanghai",CHN,Universities
+1924,Anadolu University,TUR,Universities
+1924,Bentley University,USA,Universities
+1926,Inha University,KOR,Universities
+1927,University of San Diego,USA,Universities
+1927,"University of Wisconsin, Oshkosh",USA,Universities
+1927,Northern Arctic Federal University,RUS,Universities
+1930,Laureate International Universities *,MUL,Universities
+1930,Universitas Negeri Jakarta,IDN,Universities
+1930,Gazi University,TUR,Universities
+1933,Universidade Estadual de Goias,BRA,Universities
+1934,Saint John's University,USA,Universities
+1935,University of Sharjah,ARE,Universities
+1936,Universidad Nacional del Nordeste *,ARG,Universities
+1936,Universidade Lusofona de Humanidades e Tecnologias,PRT,Universities
+1936,"Vietnam National University, Hanoi",VNM,Universities
+1939,Al Ain University,ARE,Universities
+1940,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+1941,University of Cape Coast,GHA,Universities
+1942,Georgia Southern University,USA,Universities
+1942,Yaroslavl State University,RUS,Universities
+1944,University of Fort Hare,ZAF,Universities
+1945,The College of Wooster,USA,Universities
+1945,Universidade Aberta,PRT,Universities
+1947,Montpellier Business School,FRA,Universities
+1948,University of Central Punjab,PAK,Universities
+1949,Reed College,USA,Universities
+1949,Hellenic Open University,GRC,Universities
+1949,Universidade do Estado de Minas Gerais,BRA,Universities
+1952,Alzahra University,IRN,Universities
+1953,Universidad Catolica San Antonio de Murcia,ESP,Universities
+1953,Universidad Privada del Norte,PER,Universities
+1955,Middle Tennessee State University,USA,Universities
+1956,King Mongkut's Institute of Technology Ladkrabang,THA,Universities
+1957,"Washington State University, Vancouver Campus",USA,Universities
+1958,State Oceanic Administration,CHN,Government
+1959,Pazmany Peter Catholic University,HUN,Universities
+1959,Corporacion Universitaria Minuto de Dios,COL,Universities
+1961,William Paterson University,USA,Universities
+1962,Universitas Sumatera Utara,IDN,Universities
+1963,Shahid Beheshti University,IRN,Universities
+1964,Kocaeli University *,TUR,Universities
+1964,Don State Technical University,RUS,Universities
+1966,University of Calabar,NGA,Universities
+1967,"University of Minnesota, Duluth",USA,Universities
+1968,University of West Attica,GRC,Universities
+1969,Centro Federal de Educacao Tecnologica Celso Suckow da Fonseca,BRA,Universities
+1969,Universite Jean Moulin Lyon 3 *,FRA,Universities
+1971,Sophia University,JPN,Universities
+1972,Universitat Hildesheim,DEU,Universities
+1973,Afyon Kocatepe University *,TUR,Universities
+1974,Universitatea Valahia din Targoviste,ROU,Universities
+1974,"University of Education, Winneba",GHA,Universities
+1976,South West University Neofit Rilski,BGR,Universities
+1976,Universidad San Sebastian,CHL,Universities
+1978,Universite d'Angers *,FRA,Universities
+1979,Alexandria University *,EGY,Universities
+1979,Chonnam National University,KOR,Universities
+1981,University of Pittsburgh Medical Center ,USA,Health
+1982,Uludag University,TUR,Universities
+1982,Universidad del Desarrollo,CHL,Universities
+1984,Universidad de La Serena,CHL,Universities
+1985,Klinikum Ludwig Maximilians Universitat Munchen,DEU,Health
+1986,Macalester College,USA,Universities
+1987,Sam Houston State University,USA,Universities
+1987,"Universidad de Las Americas, Chile",CHL,Universities
+1989,Obafemi Awolowo University,NGA,Universities
+1990,Kookmin University,KOR,Universities
+1990,University of Central Arkansas,USA,Universities
+1992,Providence College,USA,Universities
+1992,Zarqa University,JOR,Universities
+1994,Ecole Normale Superieure Paris-Saclay *,FRA,Universities
+1994,Istituto Universitario di Studi Superiori Pavia,ITA,Universities
+1996,Skidmore College,USA,Universities
+1996,Kuwait University *,KWT,Universities
+1998,Hofstra University *,USA,Universities
+1998,"University of Tennessee, Chattanooga",USA,Universities
+2000,The Islamia University of Bahawalpur,PAK,Universities
+2001,Addis Ababa University,ETH,Universities
+2002,Universitat Passau,DEU,Universities
+2002,Shanghai University of Finance and Economics,CHN,Universities
+2004,"California State University, Fresno",USA,Universities
+2005,Butler University,USA,Universities
+2006,University of International Business and Economics,CHN,Universities
+2006,Moscow State Regional University,RUS,Universities
+2008,Hubei University,CHN,Universities
+2009,Allama Iqbal Open University,PAK,Universities
+2010,Mashhad University of Medical Sciences,IRN,Universities
+2011,Universidad de San Buenaventura,COL,Universities
+2011,USF Health,USA,Universities
+2013,College of the Holy Cross,USA,Universities
+2014,Franklin & Marshall College,USA,Universities
+2014,Universidad de La Habana,CUB,Universities
+2016,Kennesaw State University,USA,Universities
+2017,University of Nairobi,KEN,Universities
+2017,Pusan National University,KOR,Universities
+2019,Universite de Reims Champagne-Ardenne *,FRA,Universities
+2020,Payame Noor University,IRN,Universities
+2021,"California State University, East Bay",USA,Universities
+2022,Indian Institute of Technology Patna,IND,Universities
+2023,Northeast Normal University,CHN,Universities
+2023,"National University of Science and Technology, Islamabad",PAK,Universities
+2023,Yeditepe University *,TUR,Universities
+2023,"Shaanxi Normal University, Xi'an",CHN,Universities
+2027,University of Nis,SRB,Universities
+2027,Mendel University in Brno,CZE,Universities
+2027,Teikyo University *,JPN,Universities
+2030,Penza State University,RUS,Universities
+2031,Charles Darwin University *,AUS,Universities
+2032,University of Ioannina,GRC,Universities
+2033,Universidad del Atlantico,COL,Universities
+2033,Ataturk University,TUR,Universities
+2035,Periyar University,IND,Universities
+2036,Fairfield University,USA,Universities
+2037,Cukurova University,TUR,Universities
+2037,University of West Florida,USA,Universities
+2037,Medical University of South Carolina *,USA,Universities
+2037,Chelyabinsk State University,RUS,Universities
+2041,Libera Universita Internazionale degli Studi Sociali Guido Carli,ITA,Universities
+2041,Texas Woman's University,USA,Universities
+2043,Central Washington University,USA,Universities
+2043,Orel State University,RUS,Universities
+2045,Dagestan Scientific Center Russian Academy of Sciences,RUS,Government
+2046,University of Jammu,IND,Universities
+2047,Centre Hospitalier Universitaire de Toulouse *,FRA,Health
+2047,National University of Science and Technology MISIS *,RUS,Universities
+2049,"University of Massachusetts, Dartmouth",USA,Universities
+2049,"Universite de Picardie Jules Verne, Amiens *",FRA,Universities
+2051,Laurentian University,CAN,Universities
+2051,"California State University, Chico",USA,Universities
+2053,"Indian Institute of Technology, Hyderabad",IND,Universities
+2053,Indian Institute of Technology Guwahati,IND,Universities
+2053,National Tsing Hua University,TWN,Universities
+2056,Bauman Moscow State Technical University,RUS,Universities
+2056,Universidad Nacional de San Juan *,ARG,Universities
+2056,Meiji University,JPN,Universities
+2059,Mount Royal College,CAN,Universities
+2060,"Asia University, Taiwan",TWN,Universities
+2061,Gyeongsang National University *,KOR,Universities
+2062,Fujian Normal University,CHN,Universities
+2062,Southern Illinois University Edwardsville,USA,Universities
+2064,Okinawa Institute of Science and Technology Graduate University,JPN,Universities
+2065,Shaoxing University,CHN,Universities
+2066,Universita degli Studi di Foggia,ITA,Universities
+2067,Donghua University,CHN,Universities
+2067,Davidson College,USA,Universities
+2069,University of Baghdad,IRQ,Universities
+2070,Indian Institute of Technology,IND,Universities
+2071,University of Madras,IND,Universities
+2071,Delta State University,NGA,Universities
+2073,Chuvash State University,RUS,Universities
+2074,University of Dhaka,BGD,Universities
+2075,Stevens Institute of Technology,USA,Universities
+2076,"Universidad Santo Tomas, Chile",CHL,Universities
+2076,Durban University of Technology,ZAF,Universities
+2078,Doshisha University,JPN,Universities
+2079,Universita degli Studi del Molise,ITA,Universities
+2080,Samford University,USA,Universities
+2080,Yildiz Technical University,TUR,Universities
+2082,Universite Paris-Nord 13 *,FRA,Universities
+2083,Pamukkale University,TUR,Universities
+2083,Universita degli Studi di Cassino,ITA,Universities
+2085,Ain Shams University *,EGY,Universities
+2086,Reykjavik University,ISL,Universities
+2087,Abant Izzet Baysal University *,TUR,Universities
+2088,Mongolian Academy of Sciences,MNG,Government
+2088,Vladimir State University,RUS,Universities
+2090,"Texas A&M University, Corpus Christi",USA,Universities
+2090,Ankara Yildirim Beyazit University,TUR,Universities
+2090,"Indian Institute of Technology, Bombay",IND,Universities
+2093,Universidade Feevale,BRA,Universities
+2094,Gonzaga University,USA,Universities
+2095,Nevsehir University,TUR,Universities
+2095,Universidade Federal de Lavras,BRA,Universities
+2095,University of Zululand,ZAF,Universities
+2098,Augusta University *,USA,Universities
+2099,Universidad Peruana de Ciencias Aplicadas,PER,Universities
+2100,Tver State University,RUS,Universities
+2100,Dankook University,KOR,Universities
+2100,University of Bahrain,BHR,Universities
+2103,Beijing Language and Culture University,CHN,Universities
+2104,Jadavpur University,IND,Universities
+2105,Chernivtsi National University,UKR,Universities
+2106,Nnamdi Azikiwe University,NGA,Universities
+2106,University of Mons,BEL,Universities
+2108,Shanghai International Studies University,CHN,Universities
+2109,University of Mysore,IND,Universities
+2110,KIIT University,IND,Universities
+2110,Assumption University,THA,Universities
+2112,Murray State University,USA,Universities
+2113,Deutsche Sporthochschule Koln,DEU,Universities
+2114,Erciyes University,TUR,Universities
+2114,Creighton University,USA,Universities
+2114,University of Oklahoma Health Sciences Center,USA,Universities
+2117,Ufa Scientific Center Russian Academy of Sciences,RUS,Government
+2117,University of Petra,JOR,Universities
+2117,Eastern Michigan University,USA,Universities
+2120,Fairleigh Dickinson University,USA,Universities
+2121,University of Tabriz,IRN,Universities
+2122,University of Malawi,MWI,Universities
+2123,Adnan Menderes University,TUR,Universities
+2123,Colorado College,USA,Universities
+2125,Minzu University of China,CHN,Universities
+2126,University of Health Sciences,TUR,Universities
+2127,Hebei Normal University,CHN,Universities
+2128,Albany Medical Center *,USA,Health
+2129,Aligarh Muslim University,IND,Universities
+2130,Inonu University,TUR,Universities
+2131,The College of New Jersey,USA,Universities
+2132,Western Kentucky University,USA,Universities
+2133,Institute of Plant and Animal Ecology Russian Academy of Sciences,RUS,Government
+2134,Bahcesehir University *,TUR,Universities
+2135,V.N. Karazin Kharkiv National University,UKR,Universities
+2136,University of Namur,BEL,Universities
+2137,University of Hartford,USA,Universities
+2137,Weber State University,USA,Universities
+2139,Birla Institute of Technology and Science *,IND,Universities
+2139,"Indian Institute of Technology, Roorkee",IND,Universities
+2139,"State University of New York, New Paltz",USA,Universities
+2139,"University of Alabama, Huntsville",USA,Universities
+2143,Democritus University Of Thrace,GRC,Universities
+2143,Istanbul Medeniyet University,TUR,Universities
+2145,Panteion University of Social and Political Sciences,GRC,Universities
+2146,Universita degli Studi Magna Graecia di Catanzaro,ITA,Universities
+2147,Albany Medical College,USA,Universities
+2148,University of Limpopo,ZAF,Universities
+2148,Jan Evangelista Purkyne University,CZE,Universities
+2150,State University of New York Upstate Medical University *,USA,Universities
+2151,Universidad San Francisco de Quito,ECU,Universities
+2152,Institute for Research in Fundamental Sciences,IRN,Government
+2153,Vassar College,USA,Universities
+2154,Ivane Javakhishvili Tbilisi State University,GEO,Universities
+2154,Christ University,IND,Universities
+2156,"Government College University, Lahore",PAK,Universities
+2156,Capital Normal University *,CHN,Universities
+2158,Yunnan University,CHN,Universities
+2159,Penn State Milton S. Hershey Medical Center,USA,Health
+2159,Fu Jen Catholic University,TWN,Universities
+2161,Chungbuk National University,KOR,Universities
+2162,University of Northern British Columbia,CAN,Universities
+2163,Universidad de Cartagena,COL,Universities
+2164,Zhongnan University of Economics and Law,CHN,Universities
+2165,Ilia State University,GEO,Universities
+2166,Yeshiva University,USA,Universities
+2167,Southern Connecticut State University,USA,Universities
+2168,Seattle University,USA,Universities
+2169,"Indian Institute of Technology, Madras",IND,Universities
+2170,Sevastopol State University,UKR,Universities
+2171,University of Dayton,USA,Universities
+2172,University of Prince Edward Island,CAN,Universities
+2172,Princess Nourah bint Abdul Rahman University *,SAU,Universities
+2174,United States Naval Academy,USA,Universities
+2175,University of Kerala,IND,Universities
+2176,University of Hyderabad,IND,Universities
+2177,"University of Wisconsin, Eau Claire",USA,Universities
+2178,Centre Hospitalier Universitaire de Nancy,FRA,Health
+2179,Monmouth University,USA,Universities
+2180,Telkom University,IDN,Universities
+2180,Astrakhan State University,RUS,Universities
+2182,Loyola University Maryland,USA,Universities
+2183,University of Northern Iowa,USA,Universities
+2183,Instituto Politecnico de Lisboa,PRT,Universities
+2185,"Lagos State University, Ojo",NGA,Universities
+2185,Bauhaus-Universitat Weimar,DEU,Universities
+2187,University of Lagos,NGA,Universities
+2188,Kenyon College,USA,Universities
+2189,MacEwan University,CAN,Universities
+2190,Osaka Metropolitan University *,JPN,Universities
+2190,Tel-Hai College,ISR,Universities
+2192,University of Ilorin,NGA,Universities
+2193,Umm Al-Qura University,SAU,Universities
+2194,Tshwane University of Technology,ZAF,Universities
+2195,Jiangxi University of Finance and Economics,CHN,Universities
+2196,Kadir Has University,TUR,Universities
+2196,Xavier University,USA,Universities
+2198,Haverford College in Pennsylvania,USA,Universities
+2199,Western Carolina University,USA,Universities
+2200,Bahir Dar University,ETH,Universities
+2201,Ozyegin University,TUR,Universities
+2202,University of Botswana,BWA,Universities
+2203,Mugla University,TUR,Universities
+2204,Libera Universita Maria Ss. Assunta,ITA,Universities
+2205,Norwegian School of Economics,NOR,Universities
+2206,Universite du Littoral Cote d'Opale *,FRA,Universities
+2206,Tokyo Metropolitan University,JPN,Universities
+2208,The American University in Cairo,EGY,Universities
+2209,St. Francis Xavier University,CAN,Universities
+2210,Jiangxi Normal University,CHN,Universities
+2211,Lafayette College,USA,Universities
+2212,University of Peshawar,PAK,Universities
+2213,Rollins College,USA,Universities
+2213,Middle East University,JOR,Universities
+2213,Central Connecticut State University,USA,Universities
+2213,Duke Kunshan University,CHN,Universities
+2213,United States Military Academy at West Point,USA,Universities
+2218,State University of West Georgia,USA,Universities
+2219,Baskent University *,TUR,Universities
+2220,Universite de Sfax *,TUN,Universities
+2221,College of Saint Catherine,USA,Universities
+2222,Structure et Fonctionnement des Systemes Hydriques Continentaux,FRA,Government
+2223,Manhattan College,USA,Universities
+2223,Afe Babalola University,NGA,Universities
+2225,University of Economics and Business,CZE,Universities
+2226,University of Port Harcourt,NGA,Universities
+2227,Sigmund Freud University,AUT,Universities
+2228,Quaid-i-Azam University,PAK,Universities
+2229,Universidade Eduardo Mondlane,MOZ,Universities
+2230,University of South Dakota,USA,Universities
+2230,Federal University of Technology Owerri,NGA,Universities
+2232,Tianjin Normal University,CHN,Universities
+2233,"Indian Institute of Technology, Kanpur",IND,Universities
+2234,Academic College of Tel Aviv-Yaffo,ISR,Universities
+2235,Pomona College,USA,Universities
+2235,Hangzhou Normal University *,CHN,Universities
+2237,Yasar University,TUR,Universities
+2238,Azerbaijan National Academy of Sciences *,AZE,Government
+2238,"University of Texas, Tyler",USA,Universities
+2240,Hitotsubashi University,JPN,Universities
+2241,Midlands State University,ZWE,Universities
+2242,Eskisehir Osmangazi University *,TUR,Universities
+2243, Centre Hospitalier de l'Universite de Montreal,CAN,Health
+2244,Goa University,IND,Universities
+2245,Chungnam National University,KOR,Universities
+2246,National Chung Cheng University,TWN,Universities
+2247,North-Eastern Hill University,IND,Universities
+2248,Toyo University,JPN,Universities
+2249,"University of Wisconsin, Whitewater",USA,Universities
+2249,Eastern Washington University,USA,Universities
+2251,Universite de Tunis El Manar *,TUN,Universities
+2252,Coastal Carolina University,USA,Universities
+2253,Allameh Tabatabai University,IRN,Universities
+2254,University of Calcutta,IND,Universities
+2255,Centre Hospitalier Universitaire de Clermont-Ferrand,FRA,Health
+2255,Ajman University of Science and Technology,ARE,Universities
+2257,"Northeastern University, China",CHN,Universities
+2258,University of Colombo,LKA,Universities
+2259,Mercer University,USA,Universities
+2260,Novgorod State University,RUS,Universities
+2261,Royal Military College of Canada,CAN,Universities
+2262,"California State University, Dominguez Hills",USA,Universities
+2263,Ming Chuan University,TWN,Universities
+2264,Liaoning Normal University,CHN,Universities
+2265,Qufu Normal University,CHN,Universities
+2266,Tinbergen Institute,NLD,Universities
+2267,Nipissing University,CAN,Universities
+2268,"University of Michigan, Flint",USA,Universities
+2269,Universite de Technologie de Compiegne *,FRA,Universities
+2270,Babasaheb Bhimrao Ambedkar University,IND,Universities
+2270,Sonoma State University,USA,Universities
+2272,Universite Sidi Mohamed Ben Abdellah *,MAR,Universities
+2273,Universite Saint-Joseph *,LBN,Universities
+2274,Centre Hospitalier Sainte Anne,FRA,Health
+2275,Sapir Academic College,ISR,Universities
+2276,Tezpur University,IND,Universities
+2277,Tumkur University,IND,Universities
+2278,University of Scranton,USA,Universities
+2279,University of North Bengal,IND,Universities
+2280,Dagestan State University,RUS,Universities
+2281,European University of Cyprus,CYP,Universities
+2282,University of North Georgia,USA,Universities
+2283,Adiyaman University,TUR,Universities
+2284,University of Portland,USA,Universities
+2285,Allahabad University,IND,Universities
+2286,Acadia University,CAN,Universities
+2287,"Arab Academy for Science, Technology and Maritime Transport",EGY,Universities
+2288,"University of Wisconsin, Green Bay",USA,Universities
+2289,The Max Stern Yezreel Valley College,ISR,Universities
+2290,"University of Wisconsin, Stevens Point",USA,Universities
+2291,Kyambogo University,UGA,Universities
+2292,Centre Hospitalo Universitaire Hedi Chaker,TUN,Health
+2293,Institut de Mecanique des Fluides de Toulouse,FRA,Government

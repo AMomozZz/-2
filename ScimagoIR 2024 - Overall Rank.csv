@@ -1,0 +1,2003 @@
+Global Rank,Institution,Country,Sector,Best Country Quartile
+1,Chinese Academy of Sciences *,CHN,Government,1
+2,Ministry of Education of the People's Republic of China,CHN,Government,1
+3,Centre National de la Recherche Scientifique *,FRA,Government,1
+4,Harvard University *,USA,Universities,1
+5,University of Chinese Academy of Sciences,CHN,Universities,1
+6,Tsinghua University *,CHN,Universities,1
+7,Harvard Medical School,USA,Universities,1
+8,Zhejiang University *,CHN,Universities,1
+9,Helmholtz Gemeinschaft *,DEU,Government,1
+10,Google International LLC,MUL,Companies,1
+11,Russian Academy of Sciences *,RUS,Government,1
+12,U.S. Department of Health & Human Services *,USA,Health,1
+13,Shanghai Jiao Tong University *,CHN,Universities,1
+14,National Institutes of Health,USA,Health,1
+15,DeepMind,MUL,Companies,1
+16,Peking University *,CHN,Universities,1
+17,Stanford University *,USA,Universities,1
+18,"DeepMind Technologies Ltd, UK",GBR,Companies,1
+19,Facebook Inc *,MUL,Companies,1
+20,State Grid Corporation of China *,CHN,Companies,1
+21,University of Oxford *,GBR,Universities,1
+22,American Cancer Society,USA,Health,1
+23,The New York Genome Center,USA,Health,1
+24,Johns Hopkins University *,USA,Universities,1
+25,Consejo Superior de Investigaciones Cientificas *,ESP,Government,1
+26,University College London *,GBR,Universities,1
+27,Alphabet Inc *,MUL,Companies,1
+28,Parker Institute for Cancer Immunotherapy,USA,Health,1
+29,Institut National de la Sante et de la Recherche Medicale *,FRA,Health,1
+30,Massachusetts Institute of Technology *,USA,Universities,1
+31,University of Toronto,CAN,Universities,1
+32,University of Washington *,USA,Universities,1
+33,"University of Michigan, Ann Arbor *",USA,Universities,1
+34,Huazhong University of Science and Technology *,CHN,Universities,1
+35,Microsoft Corp *,MUL,Companies,1
+36,University of Pennsylvania *,USA,Universities,1
+37,European Bioinformatics Institute EMBL,GBR,Government,1
+38,"Google Inc, USA",USA,Companies,1
+39,Allen Institute for Artificial Intelligence,USA,Non-Profit,1
+40,Veterans Affairs Medical Centers *,USA,Health,1
+41,Cornell University *,USA,Universities,1
+42,Max Planck Gesellschaft *,DEU,Government,1
+43,Baidu Inc *,MUL,Companies,1
+44,Columbia University *,USA,Universities,1
+45,Universidade de Sao Paulo *,BRA,Universities,1
+46,"Adobe Research, USA",USA,Companies,1
+47,University of Cambridge *,GBR,Universities,1
+48,"University of California, Los Angeles *",USA,Universities,1
+49,University of Melbourne *,AUS,Universities,1
+50,Sichuan University *,CHN,Universities,1
+51,Samsung Corp *,MUL,Companies,1
+52,National University of Singapore *,SGP,Universities,1
+53,National Center for Biotechnology Information,USA,Government,1
+54,Imperial College London,GBR,Universities,1
+55,NVIDIA Corp,USA,Companies,1
+56,Sun Yat-Sen University *,CHN,Universities,1
+57,"University of California, San Diego *",USA,Universities,1
+58,Central South University *,CHN,Universities,1
+59,"Facebook Inc, United States",USA,Companies,1
+60,Whitehead Institute for Biomedical Research,USA,Health,1
+61,Yale University *,USA,Universities,1
+62,Fudan University *,CHN,Universities,1
+63,Tencent America Llc,USA,Companies,1
+64,University of Amsterdam *,NLD,Universities,1
+65,"University of California, Berkeley *",USA,Universities,1
+66,"University of California, San Francisco *",USA,Universities,1
+67,University of Sydney *,AUS,Universities,1
+68,Massachusetts General Hospital,USA,Health,1
+69,Broad Institute of MIT and Harvard,USA,Health,1
+70,Harbin Institute of Technology,CHN,Universities,1
+71,Howard Hughes Medical Institute *,USA,Health,1
+72,Inception Institute of Artificial Intelligence,ARE,Non-Profit,1
+73,"Microsoft Research Asia, China",CHN,Companies,1
+74,Mayo Clinic *,USA,Health,1
+75,Xi'an Jiaotong University *,CHN,Universities,1
+76,Instituto de Salud Carlos III *,ESP,Health,1
+77,University of Chicago *,USA,Universities,1
+78,IBM United States,USA,Companies,1
+79,National Library of Medicine,USA,Health,1
+80,IBM Research *,MUL,Companies,1
+81,Tianjin University *,CHN,Universities,1
+82,University of New South Wales *,AUS,Universities,1
+83,"Monash University, Melbourne *",AUS,Universities,1
+84,Assistance Publique Hopitaux de Paris *,FRA,Health,1
+85,Duke University *,USA,Universities,1
+86,Johns Hopkins Medicine,USA,Health,1
+87,"Microsoft, USA",USA,Companies,1
+88,Huawei Technologies Co Ltd *,MUL,Companies,1
+89,"University of North Carolina, Chapel Hill *",USA,Universities,1
+90,"Ragon Institute of MGH, MIT and Harvard",USA,Health,1
+91,International Agency for Research on Cancer,FRA,Health,1
+92,Brigham and Women's Hospital *,USA,Health,1
+93,"Baidu Inc, United States",USA,Companies,1
+93,"Microsoft, China",CHN,Companies,1
+95,Sorbonne Universite *,FRA,Universities,1
+96,Adobe Inc *,MUL,Companies,1
+97,The University of Queensland *,AUS,Universities,1
+98,University of Tokyo *,JPN,Universities,1
+99,Centres de Recerca de Catalunya *,ESP,Non-Profit,1
+100,Wuhan University *,CHN,Universities,1
+101,"Northwestern University, Evanston *",USA,Universities,1
+102,NEC Corporation of America,USA,Companies,1
+103,South China University of Technology,CHN,Universities,1
+104,New York University *,USA,Universities,1
+105,Vrije Universiteit Amsterdam *,NLD,Universities,1
+106,Ludwig Institute for Cancer Research Lausanne,CHE,Health,1
+107,Harvard-MIT Division of Health Sciences and Tecnology,USA,Universities,1
+108,"University of Minnesota, Twin Cities *",USA,Universities,1
+109,Seoul National University *,KOR,Universities,1
+110,Consiglio Nazionale delle Ricerche *,ITA,Government,1
+111,Jilin University *,CHN,Universities,1
+112,"Southeast University, Nanjing *",CHN,Universities,1
+113,Nanyang Technological University *,SGP,Universities,1
+114,Tongji University *,CHN,Universities,1
+115,Shandong University *,CHN,Universities,1
+116,"University of Wisconsin, Madison *",USA,Universities,1
+117,Utrecht University *,NLD,Universities,1
+118,Swiss Federal Institute of Technology,CHE,Universities,1
+119,European Molecular Biology Laboratory Heidelberg,DEU,Government,1
+120,"Ohio State University, Columbus *",USA,Universities,1
+121,Kings College London,GBR,Universities,1
+122,University of Electronic Science and Technology of China *,CHN,Universities,1
+123,University of Science and Technology of China *,CHN,Universities,1
+124,Tencent Holdings Ltd *,MUL,Companies,1
+125,Singapore Immunology Network,SGP,Government,1
+126,Medical Research Council,GBR,Health,1
+127,Sarah Cannon Research Institute,USA,Health,1
+128,National Institute of Allergy and Infectious Diseases,USA,Health,1
+129,University of Copenhagen,DNK,Universities,1
+130,The University of Edinburgh *,GBR,Universities,1
+131,Catholic University of Leuven,BEL,Universities,1
+132,"Adobe Inc, USA",USA,Companies,1
+133,"Intel Labs, USA",USA,Companies,1
+134,BeiHang University *,CHN,Universities,1
+135,Regeneron Pharmaceuticals Inc *,USA,Companies,1
+136,Dana Farber Cancer Institute ,USA,Health,1
+137,McGill University *,CAN,Universities,1
+138,European Molecular Biology Organization *,DEU,Government,1
+139,"University of California, Davis *",USA,Universities,1
+140,University of Florida *,USA,Universities,1
+141,Mount Sinai Health System *,USA,Health,1
+142,Memorial Sloan-Kettering Cancer Center,USA,Health,1
+143,The University of British Columbia,CAN,Universities,1
+144,Stanford Medicine,USA,Health,1
+145,University of Pennsylvania Health System,USA,Health,1
+146,Scripps Research Institute,USA,Health,1
+147,Chan Zuckerberg Biohub,USA,Health,1
+148,University of Pittsburgh *,USA,Universities,1
+149,Leibniz Gemeinschaft *,DEU,Government,1
+150,Universite de Paris Cite *,FRA,Universities,1
+151,The University of Manchester *,GBR,Universities,1
+152,Genentech Inc,USA,Companies,1
+153,University of Southern California *,USA,Universities,1
+154,"Amazon.com, Inc *",MUL,Companies,1
+154,University of Illinois at Urbana-Champaign *,USA,Universities,1
+156,Washington University in Saint Louis *,USA,Universities,1
+157,"Microsoft Research Redmond, USA",USA,Companies,1
+158,Pennsylvania State University *,USA,Universities,1
+159,Ludwig Institute for Cancer Research *,USA,Health,1
+160,Wellcome Trust Sanger Institute,GBR,Health,1
+161,F Hoffmann-La Roche *,MUL,Companies,1
+162,University of Texas M.D. Anderson Cancer Center ,USA,Health,1
+163,Technische Universitat Munchen *,DEU,Universities,1
+164,"University of Texas, Austin",USA,Universities,1
+165,Yale University Health & Medicine,USA,Health,1
+166,Universite Paris-Saclay *,FRA,Universities,1
+167,The Chinese University of Hong Kong *,HKG,Universities,1
+168,Emory University *,USA,Universities,1
+169,Weill Cornell Medicine,USA,Universities,1
+170,"Wuhan Institute of Virology, Chinese Academy of Sciences",CHN,Government,1
+171,Mitsubishi Electric Research Laboratories,USA,Companies,1
+172,National Cancer Institute,USA,Health,1
+173,"Hoffmann-La Roche Ltd, United States",USA,Companies,1
+174,Karolinska Institute,SWE,Universities,1
+175,"Novartis Institutes for Biomedical Research, United States",USA,Companies,1
+176,Wellcome Trust,GBR,Health,1
+177,Toyota Group *,MUL,Companies,1
+178,J. David Gladstone Institutes,USA,Health,1
+179,Columbia University Irving Medical Center,USA,Health,1
+180,Max Planck Institut fur Informatik,DEU,Government,1
+181,"Samsung Electronics, South Korea",KOR,Companies,1
+182,Nanjing University *,CHN,Universities,1
+183,"Mitsubishi Electric Corp, USA",USA,Companies,1
+184,Cold Spring Harbor Laboratory,USA,Health,1
+185,Beijing Institute of Technology,CHN,Universities,1
+186,IBM Switzerland,CHE,Companies,1
+187,Ministry of Agriculture,CHN,Government,1
+188,Universitat de Barcelona *,ESP,Universities,1
+189,University of Groningen *,NLD,Universities,1
+190,Vanderbilt University *,USA,Universities,1
+191,Universita degli Studi di Milano,ITA,Universities,1
+192,Purdue University,USA,Universities,1
+193,Universita degli Studi di Roma La Sapienza,ITA,Universities,1
+194,Zhengzhou University *,CHN,Universities,1
+195,Georgia Institute of Technology *,USA,Universities,1
+196,Taiwan Semiconductor Manufacturing Company Ltd.,TWN,Companies,1
+197,Boston University *,USA,Universities,1
+198,Cancer Research UK,GBR,Health,1
+199,Erasmus University Rotterdam *,NLD,Universities,1
+200,Chinese Academy of Agricultural Sciences *,CHN,Government,1
+201,Qualcomm Inc *,MUL,Companies,1
+202,Carnegie Mellon University *,USA,Universities,1
+203,Intel Corp *,MUL,Companies,1
+204,LG Corporation *,MUL,Companies,1
+205,Universidad Nacional Autonoma de Mexico,MEX,Universities,1
+206,Northwestern Polytechnical University,CHN,Universities,1
+207,University of Alberta,CAN,Universities,1
+208,"Tencent Holdings Ltd, China",CHN,Companies,1
+209,Universitat Autonoma de Barcelona *,ESP,Universities,1
+210,Ericsson *,MUL,Companies,1
+211,Nokia Corp *,MUL,Companies,1
+212,Academisch Medisch Centrum,NLD,Health,1
+213,Ericsson Sweden,SWE,Companies,1
+214,Leiden University *,NLD,Universities,1
+215,Yonsei University *,KOR,Universities,1
+216,"Rutgers, The State University of New Jersey",USA,Universities,1
+217,The University of Hong Kong *,HKG,Universities,1
+218,"Huawei Technologies Ltd, Germany",DEU,Companies,1
+219,Institute for Health Metrics and Evaluation,USA,Health,1
+220,Centers for Disease Control and Prevention,USA,Health,1
+221,"Baidu Inc, China",CHN,Companies,1
+222,AstraZeneca *,MUL,Companies,1
+223,United States Department of Agriculture,USA,Government,1
+224,Consejo Nacional de Investigaciones Cientificas y Tecnicas *,ARG,Government,1
+225,Frederick National Laboratory for Cancer Research,USA,Health,1
+226,Aarhus University *,DNK,Universities,1
+227,Dalian University of Technology *,CHN,Universities,1
+228,NEC Corp *,MUL,Companies,1
+229,Polish Academy of Sciences *,POL,Government,1
+230,"Intel Corp, USA",USA,Companies,1
+231,Wistar Institute,USA,Health,1
+232,"Huawei Software Technology Co Ltd, China",CHN,Companies,1
+233,Icahn School of Medicine at Mount Sinai,USA,Universities,1
+234,"Soochow University, Suzhou *",CHN,Universities,1
+235,IBM Thomas J Watson Research Center,USA,Companies,1
+236,Washington University Medical Center ,USA,Health,1
+237,Chongqing University,CHN,Universities,1
+238,Vector Institute for Artificial Intelligence,CAN,Non-Profit,1
+239,"Samsung Research, South Korea",KOR,Companies,1
+240,Salk Institute for Biological Studies,USA,Health,1
+241,Chinese Academy of Medical Sciences and Peking Union Medical College *,CHN,Universities,1
+241,University of Helsinki,FIN,Universities,1
+243,Ghent University,BEL,Universities,1
+244,UCSF Helen Diller Family Comprehensive Cancer Center,USA,Health,1
+245,Gilead Sciences *,MUL,Companies,1
+246,"Microsoft, United Kingdom",GBR,Companies,1
+247,"Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences",CHN,Government,1
+248,University of Liverpool *,GBR,Universities,1
+249,Universitat Zurich,CHE,Universities,1
+250,"University of Maryland, College Park *",USA,Universities,1
+251,"Qualcomm Inc, USA",USA,Companies,1
+252,UCLA Health System,USA,Health,1
+253,Deutsches Krebsforschungszentrum,DEU,Government,1
+254,Singapore-MIT Alliance,SGP,Government,1
+255,Sanford Burnham Prebys Medical Discovery Institute,USA,Health,1
+256,Universita degli Studi di Napoli Federico II,ITA,Universities,1
+257,Vall d’Hebron Instituto de Oncologia,ESP,Health,1
+258,Bristol-Myers Squibb Company *,MUL,Companies,1
+259,Woodruff Health Sciences Center,USA,Health,1
+260,"Texas A&M University, College Station *",USA,Universities,1
+261,Cleveland Clinic *,USA,Health,1
+262,"University of California, Irvine *",USA,Universities,1
+262,Biogen Inc *,MUL,Companies,1
+262,Robert H. Lurie Comprehensive Cancer Center,USA,Health,1
+265,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government,1
+266,Erasmus Medical Center,NLD,Health,1
+267,Kyoto University *,JPN,Universities,1
+268,Arizona State University *,USA,Universities,1
+269,Duke Medicine,USA,Health,1
+270,University of Nottingham *,GBR,Universities,1
+271,Michigan State University,USA,Universities,1
+272,Universita degli Studi di Padova,ITA,Universities,1
+273,Nankai University *,CHN,Universities,1
+274,University of Utah *,USA,Universities,1
+275,Doe Joint Genome Institute,USA,Government,1
+276,Korea University *,KOR,Universities,1
+277,NYU Langone Health,USA,Health,1
+278,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities,1
+279,"Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences",CHN,Government,1
+280,Fred Hutchinson Cancer Research Center *,USA,Health,1
+281,"Centro de Investigacion Biomedica en Red de Cancer, Barcelona",ESP,Health,1
+282,Lunds University,SWE,Universities,1
+283,Ecole Polytechnique Federale de Lausanne,CHE,Universities,1
+284,Centre de Visio per Computador,ESP,Government,1
+285,Shenzhen University,CHN,Universities,1
+286,University of Birmingham,GBR,Universities,1
+287,Max Planck Institut fur Intelligente Systeme,DEU,Government,1
+288,University of Glasgow *,GBR,Universities,1
+288,National Aeronautics and Space Administration *,USA,Government,1
+290,Charite - Universitatsmedizin Berlin *,DEU,Health,1
+291,University of Oslo,NOR,Universities,1
+292,Princeton University,USA,Universities,1
+293,"Biogen Inc, USA",USA,Companies,1
+294,Joint BioEnergy Institute,USA,Government,1
+295,California Institute of Technology *,USA,Universities,1
+296,Genome Institute of Singapore,SGP,Government,1
+297,Delft University of Technology,NLD,Universities,1
+298,University Medical Center Utrecht,NLD,Health,1
+299,University of Calgary *,CAN,Universities,1
+300,"Gilead Sciences Inc, United States",USA,Companies,1
+301,Beijing University of Posts and Telecommunications,CHN,Universities,1
+302,Universidade de Lisboa *,PRT,Universities,1
+302,Translational Genomics Research Institute,USA,Health,1
+304,Ludwig-Maximilians Universitat Munchen *,DEU,Universities,1
+305,UC San Diego Health System,USA,Health,1
+306,University of Arizona *,USA,Universities,1
+307,National Centre for Infectious Diseases,SGP,Health,1
+308,Children's Hospital Boston  *,USA,Health,1
+309,Xidian University,CHN,Universities,1
+310,King Saud University *,SAU,Universities,1
+311,"Agency for Science, Technology and Research Singapore *",SGP,Government,1
+312,"Sanofi, United States",USA,Companies,1
+313,Hong Kong Polytechnic University,HKG,Universities,1
+314,University of Bristol *,GBR,Universities,1
+315,Universite PSL *,FRA,Universities,1
+316,"Hoffmann-La Roche, GmbH., Germany",DEU,Companies,1
+317,National Heart Lung and Blood Institute,USA,Health,1
+318,Wageningen University and Research Centre,NLD,Universities,1
+319,Pfizer *,MUL,Companies,1
+320,"Institute of Automation, Chinese Academy of Sciences",CHN,Government,1
+321,Flanders Interuniversity Institute for Biotechnology *,BEL,Government,1
+322,"University of Colorado, Denver *",USA,Universities,1
+323,Peking University Health Science Center,CHN,Universities,1
+323,University of Leeds,GBR,Universities,1
+323,"Queen Mary, University of London",GBR,Universities,1
+326,Jackson Laboratory,USA,Health,1
+327,National Institute on Aging,USA,Health,1
+328,Xiamen University *,CHN,Universities,1
+329,Technical University of Denmark,DNK,Universities,1
+330,Universidad Complutense de Madrid *,ESP,Universities,1
+331,Institute for Systems Biology,USA,Health,1
+332,"Bristol-Myers Squibb Company, United States",USA,Companies,1
+333,University of Virginia *,USA,Universities,1
+334,Jiangnan University *,CHN,Universities,1
+335,Korea Advanced Institute of Science and Technology *,KOR,Universities,1
+336,Novo Nordisk *,MUL,Companies,1
+337,Novartis *,MUL,Companies,1
+338,"Novartis Institutes for Biomedical Research, Switzerland",CHE,Companies,1
+339,Hunan University,CHN,Universities,1
+340,National Institute of Arthritis and Musculoskeletal and Skin Diseases,USA,Health,1
+341,"Newcastle University, Newcastle upon Tyne",GBR,Universities,1
+342,Mitsubishi Corp *,MUL,Companies,1
+343,Mitsubishi Electric Corp,MUL,Companies,1
+344,GlaxoSmithKline *,MUL,Companies,1
+345,Leiden University Medical Center,NLD,Health,1
+346,Max Planck Institut fur Biochemie,DEU,Government,1
+347,Johnson & Johnson *,MUL,Companies,1
+348,"GlaxoSmithKline, United States",USA,Companies,1
+349,The Francis Crick Institute,GBR,Health,1
+350,Vancouver Prostate Centre,CAN,Health,1
+351,Universidad Autonoma de Madrid *,ESP,Universities,1
+352,The Rockefeller University *,USA,Universities,1
+353,Institut Pasteur de Paris,FRA,Health,1
+354,Tel Aviv University,ISR,Universities,1
+355,Swiss Institute of Bioinformatics,CHE,Non-Profit,1
+356,Universitat de Valencia *,ESP,Universities,1
+357,"University of Colorado, Boulder *",USA,Universities,1
+358,National Taiwan University,TWN,Universities,1
+359,Forschungszentrum fur Molekulare Medizin der Osterreichischen Akademie der Wissenschaften,AUT,Government,1
+359,National Institute of Dental and Craniofacial Research,USA,Health,1
+361,Centro Nacional de Investigaciones Oncologicas,ESP,Health,1
+362,German Cancer Consortium,DEU,Government,1
+363,Sanofi *,MUL,Companies,1
+364,The University of Sheffield,GBR,Universities,1
+365,University of Waterloo *,CAN,Universities,1
+366,Max Planck Institut fur Molekulare Genetik,DEU,Government,1
+367,North Carolina State University,USA,Universities,1
+368,The Buck Institute for Research on Aging,USA,Health,1
+369,"Toyota Research Institute, USA",USA,Companies,1
+370,"AstraZeneca, United Kingdom",GBR,Companies,1
+370,Universidade do Porto *,PRT,Universities,1
+372,Janssen,MUL,Companies,1
+373,Institut Catala de la Salut Barcelona *,ESP,Health,1
+374,"Microsoft Research Cambridge, UK",GBR,Companies,1
+375,University Medical Center Groningen,NLD,Health,1
+376,University of Southampton,GBR,Universities,1
+376,Lawrence Berkeley National Laboratory *,USA,Government,1
+378,Fraunhofer Gesellschaft *,DEU,Government,1
+379,Fujitsu *,MUL,Companies,1
+380,Max Planck Institut fur Medizinische Forschung,DEU,Government,1
+380,"Orange SA, France",FRA,Companies,1
+382,Universita degli Studi di Firenze,ITA,Universities,1
+383,Fraunhofer Institut fur Nachrichtentechnik Heinrich Hertz Institut,DEU,Government,1
+384,Eli Lilly *,MUL,Companies,1
+385,Universitat Hamburg *,DEU,Universities,1
+386,University of Michigan Health System,USA,Health,1
+386,World Health Organization *,MUL,Health,1
+388,Radboud University Nijmegen Medical Centre,NLD,Health,1
+389,Uppsala University,SWE,Universities,1
+389,"Toyota Motor Corp, USA",USA,Companies,1
+391,Jiangsu University *,CHN,Universities,1
+392,National Institute of Diabetes and Digestive and Kidney Diseases,USA,Health,1
+393,Copenhagen University Hospital,DNK,Health,1
+394,Universitat Heidelberg,DEU,Universities,1
+395,Max Planck Institut fur Biologie Tubingen,DEU,Government,1
+396,Vanderbilt University Medical Center,USA,Health,1
+397,Alibaba Group *,MUL,Companies,1
+398,"University of Colorado, Anschutz Medical Campus",USA,Universities,1
+399,Canadian Institute for Advanced Research,CAN,Non-Profit,1
+400,"Institute of Biophysics, Chinese Academy of Sciences",CHN,Government,1
+400,Osaka University *,JPN,Universities,1
+402,City University of Hong Kong *,HKG,Universities,1
+402,Fondazione Telethon *,ITA,Non-Profit,1
+404,"AstraZeneca, United States",USA,Companies,1
+405,University of Rochester *,USA,Universities,1
+406,McMaster University *,CAN,Universities,1
+407,Japan Agency for Medical Research and Development,JPN,Health,1
+408,"Philips Research, Eindhoven",NLD,Companies,1
+409,"Nokia Bell Labs, United States",USA,Companies,1
+410,Baylor College of Medicine,USA,Universities,1
+411,Robert Bosch *,MUL,Companies,1
+412,"University of Technology, Sydney",AUS,Universities,1
+413,Brown University,USA,Universities,1
+414,Sony Corp *,MUL,Companies,1
+415,Koninklijke Philips NV *,MUL,Companies,1
+416,University Health Network *,CAN,Health,1
+417,Tianjin Institute of Industrial Biotechnology,CHN,Government,1
+418,The University of Western Australia,AUS,Universities,1
+419,University of Texas Southwestern Medical Center ,USA,Universities,1
+420,China Agricultural University,CHN,Universities,1
+421,Academy of Sciences of the Czech Republic *,CZE,Government,1
+422,"University of Illinois, Chicago *",USA,Universities,1
+423,Commissariat a l'Energie Atomique et aux Energies Alternatives *,FRA,Government,1
+424,Sungkyunkwan University,KOR,Universities,1
+425,Novo Nordisk A/S,DNK,Companies,1
+426,"Nokia, United States",USA,Companies,1
+426,King Abdullah University of Science and Technology,SAU,Universities,1
+428,Institute of Cancer Research,GBR,Health,1
+429,Zhejiang University of Technology,CHN,Universities,1
+430,Cardiff University,GBR,Universities,1
+431,Norwegian University of Science and Technology,NOR,Universities,1
+432,Universita degli Studi di Torino,ITA,Universities,1
+433,Jinan University *,CHN,Universities,1
+434,Amgen *,MUL,Companies,1
+435,Virginia Polytechnic Institute and State University *,USA,Universities,1
+436,Nanjing University of Aeronautics and Astronautics,CHN,Universities,1
+437,Case Western Reserve University,USA,Universities,1
+438,University of Iowa *,USA,Universities,1
+438,"Saudi Arabian Oil Co, USA",USA,Companies,1
+440,NIHR Oxford Biomedical Research Centre,GBR,Health,1
+441,Centro de Biologia Molecular Severo Ochoa,ESP,Government,1
+442,"University of Alabama, Birmingham *",USA,Universities,1
+443,"Institute of Chemistry, Chinese Academy of Sciences",CHN,Government,1
+444,"University of Maryland, Baltimore",USA,Universities,1
+445,"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",CHN,Government,1
+446,"National Institute of Biological Sciences, Beijing",CHN,Government,1
+447,"Amazon.com Inc, United States",USA,Companies,1
+448,Canon Inc *,MUL,Companies,1
+449,Universitat Bern *,CHE,Universities,1
+450,University of Gothenburg,SWE,Universities,1
+451,The University of Adelaide,AUS,Universities,1
+452,Tehran University of Medical Sciences *,IRN,Universities,1
+453,St Jude Childrens Research Hospital,USA,Health,1
+453,Cisco Systems Inc *,MUL,Companies,1
+455,Cancer Research Institute Ghent,BEL,Health,1
+456,"AstraZeneca, Sweden",SWE,Companies,1
+456,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities,1
+458,Capital University of Medical Sciences *,CHN,Universities,1
+459,Wuhan University of Technology *,CHN,Universities,1
+460,Tohoku University *,JPN,Universities,1
+461,Institute of Molecular and Cell Biology,SGP,Government,1
+462,Institut Gustave Roussy *,FRA,Health,1
+463,National Institute of Neurological Disorders and Stroke,USA,Health,1
+464,Foundation Medicine Inc,USA,Companies,1
+464,"Pfizer Inc, United States",USA,Companies,1
+466,Commonwealth Scientific and Industrial Research Organization *,AUS,Government,1
+467,Aix-Marseille Universite *,FRA,Universities,1
+468,University of Auckland,NZL,Universities,1
+469,Max-Delbruck-Centrum fur Molekulare Medizin ,DEU,Government,1
+470,"Roche Products Ltd, United Kingdom",GBR,Companies,1
+471,Siemens *,MUL,Companies,1
+472,Universidad de Granada *,ESP,Universities,1
+473,"Institute of Computing Technology, Chinese Academy of Sciences",CHN,Government,1
+474,China University of Geosciences,CHN,Universities,1
+475,Nippon Telegraph and Telephone Corporation *,MUL,Companies,1
+476,"Siemens Healthineers, USA",USA,Companies,1
+476,University of Warwick,GBR,Universities,1
+478,Panasonic Corp *,MUL,Companies,1
+479,Center for Disease Control and Prevention China,CHN,Health,1
+480,Merck & Co Inc *,MUL,Companies,1
+481,University of Miami *,USA,Universities,1
+482,"University of California, Santa Barbara",USA,Universities,1
+483,Indiana University-Bloomington,USA,Universities,1
+484,Telethon Institute of Genetics and Medicine,ITA,Non-Profit,1
+485,Council of Scientific and Industrial Research *,IND,Government,1
+486,Centre International de Recherche en Infectiologie,FRA,Government,1
+487,Institut Micalis,FRA,Government,1
+488,Fondazione IFOM Istituto Firc di Oncologia Molecolare,ITA,Health,1
+488,Boston University Medical Campus ,USA,Health,1
+490,Medizinische Universitat Wien,AUT,Universities,1
+491,Boehringer Ingelheim *,MUL,Companies,1
+492,Oregon Health & Science University *,USA,Universities,1
+492,National Eye Institute,USA,Health,1
+494,Universite Montpellier *,FRA,Universities,1
+495,"LG Electronics, South Korea",KOR,Companies,1
+496,Ontario Institute for Cancer Research,CAN,Non-Profit,1
+497,Merck KGaA *,MUL,Companies,1
+498,Australian National University,AUS,Universities,1
+499,Janssen Biotech Inc,USA,Companies,1
+500,Telefonica *,MUL,Companies,1
+501,National University of Defense Technology,CHN,Universities,1
+502,"Nippon Telegraph and Telephone Corp, Japan",JPN,Companies,1
+503,"Beijing Institute of Genomics, Chinese Academy of Sciences",CHN,Government,1
+504,The Hong Kong University of Science and Technology,HKG,Universities,1
+505,Cedars-Sinai Medical Center ,USA,Health,1
+506,Universite Grenoble-Alpes *,FRA,Universities,1
+507,Technische Universitat Dresden *,DEU,Universities,1
+508,Center for Life Sciences,CHN,Government,1
+509,Beijing Normal University *,CHN,Universities,1
+510,"Eli Lilly and Company, United States",USA,Companies,1
+511,Deutsches Primatenzentrum,DEU,Government,1
+512,"Northeastern University, USA",USA,Universities,1
+513,RIKEN-Institute of Physical and Chemical Research,JPN,Government,1
+513,Babraham Institute,GBR,Government,1
+515,Japan Science & Technology Agency,JPN,Government,1
+516,Beth Israel Deaconess Medical Center,USA,Health,1
+517,University of Georgia,USA,Universities,1
+518,University of Cincinnati *,USA,Universities,1
+519,University of Exeter,GBR,Universities,1
+520,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities,1
+521,Institut Eurecom,FRA,Universities,1
+522,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities,1
+523,"Hoffmann-La Roche Ltd, Switzerland",CHE,Companies,1
+524,"ParisTech, Institut des Sciences et Technologies de Paris - PRES *",FRA,Government,1
+525,"Institute of Microbiology, Chinese Academy of Sciences",CHN,Government,1
+526,Sun Health  *,USA,Health,1
+527,University of Science and Technology Beijing,CHN,Universities,1
+527,Orange SA *,MUL,Companies,1
+529,Takeda Pharmaceuticals International Inc *,MUL,Companies,2
+530,UCB Pharma SA *,MUL,Companies,1
+531,Collaborative Innovation Center of Chemical Science and Engineering,CHN,Government,1
+531,Bayer *,MUL,Companies,2
+533,Hanyang University *,KOR,Universities,1
+534,China University of Mining and Technology,CHN,Universities,1
+535,Karolinska University Hospital,SWE,Health,1
+536,"Exploration and Petroleum Engineering Advanced Research Center, SAU",SAU,Companies,1
+537,City of Hope,USA,Health,1
+538,Ohio State University Wexner Medical Center,USA,Health,1
+539,ZTE Corp *,MUL,Companies,1
+540,Universidad de Sevilla *,ESP,Universities,1
+541,National Institute of Environmental Health Sciences,USA,Health,1
+542,Charles University *,CZE,Universities,1
+543,"Institute of Genetics and Developmental Biology, Chinese Academy of Sciences",CHN,Government,1
+543,University of Pittsburgh Medical Center  *,USA,Health,1
+545,National Institute of Health Clinical Center,USA,Health,1
+546,University of Pittsburgh Health Sciences,USA,Universities,1
+547,Institute for Molecular Medicine,FIN,Health,1
+548,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities,1
+549,Walter and Eliza Hall Institute of Medical Research,AUS,Health,1
+550,Collaborative Innovation Center of Geospatial Technology,CHN,Government,1
+551,Deakin University *,AUS,Universities,1
+552,Universitat Politecnica de Valencia *,ESP,Universities,1
+553,John Innes Center,GBR,Government,1
+554,National Human Genome Research Institute,USA,Health,1
+555,"Amgen, USA",USA,Companies,1
+556,Southern Medical University *,CHN,Universities,1
+556,Karlsruher Institut fur Technologie,DEU,Universities,1
+558,Nanjing University of Science and Technology,CHN,Universities,1
+559,King Abdulaziz University *,SAU,Universities,1
+560,University of Ottawa,CAN,Universities,1
+561,University of Western Ontario,CAN,Universities,1
+562,Aalborg University *,DNK,Universities,1
+563,SLAC National Accelerator Laboratory,USA,Government,1
+564,National Center for Nanoscience and Technology of China,CHN,Government,1
+565,National Institute of Standards and Technology *,USA,Government,1
+566,Universita degli Studi di Pisa,ITA,Universities,1
+567,Albert-Ludwigs-Universitat Freiburg im Breisgau,DEU,Universities,1
+568,Universidade Estadual de Campinas *,BRA,Universities,1
+569,London School of Hygiene and Tropical Medicine,GBR,Universities,1
+570,Centro de Investigacion Biomedica en Red de Cancer,ESP,Health,1
+571,"Institute of Biological Chemistry, Academia Sinica",TWN,Government,1
+572,National Institute on Alcohol Abuse and Alcoholism,USA,Health,1
+573,AbbVie *,MUL,Companies,2
+574,Van Andel Institute,USA,Health,1
+575,Institut National de Recherche en Informatique et en Automatique *,FRA,Government,1
+576,Boyce Thompson Institute for Plant Research,USA,Non-Profit,1
+577,University of Athens,GRC,Universities,1
+578,Iowa State University,USA,Universities,1
+579,"Changchun Institute of Applied Chemistry, Chinese Academy of Sciences",CHN,Government,1
+580,Royal Institute of Technology *,SWE,Universities,1
+581,Paul Ehrlich Institut,DEU,Government,1
+582,Qatar Computing Research Institute,QAT,Government,1
+583,Helmholtz Zentrum Munchen Forschungszentrum fur Umwelt und Gesundheit,DEU,Government,1
+584,"Dalian Institute of Chemical Physics, Chinese Academy of Sciences",CHN,Government,1
+585,Leibniz Institut fur Molekulare Pharmakologie,DEU,Government,1
+586,Minatec Campus d'Innovation en Micro et Nanotechnologies,FRA,Non-Profit,1
+587,Universite de Montreal,CAN,Universities,1
+588,Temple University *,USA,Universities,1
+588,UC Davis Health System,USA,Health,1
+590,National Renewable Energy Laboratory,USA,Government,1
+591,European Commission *,MUL,Government,1
+592,H. Lee Moffitt Cancer Center and Research Institute,USA,Health,1
+593,US Food and Drug Administration,USA,Government,1
+594,Huazhong Agricultural University,CHN,Universities,1
+595,Hokkaido University *,JPN,Universities,1
+596,CGIAR Consortium of International Agricultural Research *,MUL,Non-Profit,1
+596,Southwest Jiaotong University,CHN,Universities,1
+598,Fraunhofer Institut fur Molekularbiologie und Angewandte Oekologie,DEU,Government,1
+599,"University of Connecticut, Storrs *",USA,Universities,1
+600,Eberhard-Karls-Universitat Tubingen,DEU,Universities,1
+601,Sony Japan,JPN,Companies,1
+602,Indiana University-Purdue University Indianapolis,USA,Universities,1
+603,China Pharmaceutical University,CHN,Universities,1
+603,"University of Massachusetts, Amherst",USA,Universities,1
+603,National Institute on Drug Abuse,USA,Health,1
+606,Centro Nacional de Biotecnologia,ESP,Government,1
+606,"Janssen Research & Development, LLC",BEL,Companies,1
+608,University College Dublin,IRL,Universities,1
+608,Research Center for Information Technology Innovation Academia Sinica,TWN,Government,1
+610,Universitatsklinikum Heidelberg,DEU,Health,1
+611,Nanjing Medical University *,CHN,Universities,1
+612,IMEC International,BEL,Companies,1
+613,Center for Excellence in Brain Science and Intelligence Technology,CHN,Government,1
+614,Children's Hospital of Philadelphia,USA,Health,1
+615,Kyushu University *,JPN,Universities,1
+616,Royal Netherlands Academy of Arts and Sciences *,NLD,Government,1
+617,"Merck & Co Inc, United States",USA,Companies,1
+618,"University of Tennessee, Knoxville *",USA,Universities,1
+618,Queensland University of Technology,AUS,Universities,1
+620,Oxford University Hospitals NHS Trust,GBR,Health,1
+621,"Colorado State University, Fort Collins *",USA,Universities,1
+622,Danone *,MUL,Companies,1
+623,"Genomics Research Center, Academia Sinica",TWN,Government,1
+624,Max Planck Institut fur Pflanzenzuchtungsforschung,DEU,Government,1
+625,National Institute of Child Health and Human Development,USA,Health,1
+626,University of South Florida,USA,Universities,1
+627,Universidade Federal de Minas Gerais,BRA,Universities,1
+628,"Sanofi, France",FRA,Companies,1
+628,Pasteur Network *,MUL,Health,1
+630,Centre de Recherche des Cordeliers,FRA,Government,1
+631,Universidad del Pais Vasco *,ESP,Universities,1
+632,Politecnico di Milano,ITA,Universities,1
+633,"Institute of Biomedical Science, Academia Sinica",TWN,Government,1
+633,"State University of New York, Buffalo",USA,Universities,1
+635,"Fujitsu, Japan",JPN,Companies,1
+636,Queen's University Belfast,GBR,Universities,1
+637,Guangdong University of Technology,CHN,Universities,1
+638,Institut de Recerca Biomedica Barcelona,ESP,Health,1
+639,University of Ljubljana *,SVN,Universities,1
+640,Joint Quantum Institute,USA,Government,1
+641,British Columbia Cancer Research Centre,CAN,Health,1
+642,Environmental Molecular Sciences Laboratory,USA,Government,1
+643,University of Kentucky *,USA,Universities,1
+644,"Microsoft, India",IND,Companies,1
+645,University of Massachusetts Medical School,USA,Universities,1
+646,Aalto University,FIN,Universities,1
+647,George Washington University *,USA,Universities,1
+648,Universidade Federal do Rio de Janeiro *,BRA,Universities,1
+649,Fuzhou University,CHN,Universities,1
+649,"Academy of Military Medical Sciences, Academy of Military Sciences of PLA",CHN,Health,1
+651,Kyung Hee University *,KOR,Universities,1
+652,Westfalische Wilhelms-Universitat Munster *,DEU,Universities,1
+653,"University of Nebraska, Lincoln",USA,Universities,1
+654,"Nokia Bell Labs, France",FRA,Companies,1
+654,City University of New York *,USA,Universities,1
+656,Oak Ridge National Laboratory,USA,Government,1
+657,Oslo University Hospital,NOR,Health,1
+658,Beijing University of Chemical Technology,CHN,Universities,1
+659,NEC Japan,JPN,Companies,1
+660,CareGroup Healthcare System *,USA,Health,1
+661,National Institute of Mental Health,USA,Health,1
+662,Max Planck Institut fur Molekulare Pflanzenphysiologie,DEU,Government,1
+662,Max Planck Institut fur Multidisziplinare Naturwissenschaften,DEU,Government,1
+664,Toshiba Corp *,MUL,Companies,1
+665,Institucio Catalana de Recerca i Estudis Avancats,ESP,Government,1
+666,"Bosch, Germany",DEU,Companies,1
+667,Max Planck Institut fur Polymerforschung,DEU,Government,1
+668,University of Kansas *,USA,Universities,1
+669,Cincinnati Children's Hospital Medical Center,USA,Health,1
+670,Instituto de Agroquimica y Tecnologia de Alimentos ,ESP,Government,1
+671,Tufts University,USA,Universities,1
+672,"Merck KGaA, Germany",DEU,Companies,1
+673,Weizmann Institute of Science,ISR,Universities,1
+674,West China Hospital,CHN,Health,1
+675,Freie Universitat Berlin,DEU,Universities,1
+676,Universite de Geneve,CHE,Universities,1
+677,Fraunhofer-Institut fur Integrierte Schaltungen,DEU,Government,1
+678,"Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences",CHN,Government,1
+679,Guangzhou International Bio Island,CHN,Government,1
+680,Institut des Maladies Genetiques Imagine,FRA,Government,1
+681,Universite Claude Bernard Lyon 1 *,FRA,Universities,1
+681,Universitatsklinikum Hamburg Eppendorf,DEU,Health,1
+683,North China Electric Power University,CHN,Universities,1
+684,Nanchang University *,CHN,Universities,1
+685,Universitatsspital Zurich,CHE,Health,1
+686,Pontificia Universidad Catolica de Chile *,CHL,Universities,1
+687,Argonne National Laboratory *,USA,Government,1
+688,Biotechnology and Biological Sciences Research Council *,GBR,Government,1
+689,University Hospitals Leuven,BEL,Health,1
+690,Universitat Basel *,CHE,Universities,1
+690,National Yang Ming Chiao Tung University,TWN,Universities,1
+690,University of North Carolina Health Care,USA,Health,1
+693,Center for Global Infectious Disease Research,USA,Health,1
+693,Netherlands Cancer Institute - Antoni van Leeuwenhoek Hospital,NLD,Health,1
+695,"Bayer AG, Germany",DEU,Companies,1
+696,Samsung Advanced Institute Technology,KOR,Non-Profit,1
+697,"Tata Consultancy Services Ltd, India",IND,Companies,1
+698,British Columbia Cancer Agency *,CAN,Health,1
+699,Trinity College Dublin *,IRL,Universities,1
+700,Hospital Clinic de Barcelona,ESP,Health,1
+700,South China Agricultural University *,CHN,Universities,1
+702,Griffith University,AUS,Universities,1
+703,University of Central Florida,USA,Universities,1
+704,IDIAP Research Institute,CHE,Government,1
+705,Quadram Institute,GBR,Health,1
+706,The Royal Marsden NHS Foundation Trust,GBR,Health,1
+707,Eindhoven University of Technology,NLD,Universities,1
+708,Guys & Saint Thomas NHS Foundation Trust,GBR,Health,1
+709,"Takeda Pharmaceutical Co Inc, Japan",JPN,Companies,1
+710,"Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences",CHN,Government,1
+710,China Southern Power Grid Co Ltd *,CHN,Companies,1
+712,Nanjing Tech University,CHN,Universities,1
+713,University of Rochester Medical Center,USA,Health,1
+714,Linkoping University,SWE,Universities,1
+715,Ngee Ann Polytechnic,SGP,Universities,1
+716,Stockholm University *,SWE,Universities,1
+716,"BMW AG, Germany",DEU,Companies,1
+718,Universidade Federal do Rio Grande do Sul,BRA,Universities,1
+719,"University of California, Riverside",USA,Universities,1
+720,Korea Institute of Science and Technology,KOR,Government,1
+721,Morgridge Institute for Research,USA,Health,1
+722,Centro de Regulacion Genomica,ESP,Health,1
+722,Universidad de Chile *,CHL,Universities,1
+724,"State University of New York, Stony Brook *",USA,Universities,1
+725,Shanghai University,CHN,Universities,1
+726,University of Minnesota Health and Medicine,USA,Universities,1
+727,Beijing Jiaotong University,CHN,Universities,1
+728,Texas Instruments *,MUL,Companies,1
+729,Clinica Universidad de Navarra,ESP,Health,1
+730,Istituto per l'Endocrinologia e l'Oncologia Gaetano Salvatore,ITA,Government,1
+731,Institut Curie,FRA,Health,1
+732,Johannes Gutenberg-Universitat Mainz *,DEU,Universities,1
+733,Sanquin Blood Supply,NLD,Health,1
+734,Istituto Clinico Humanitas,ITA,Health,1
+735,Universite de Strasbourg *,FRA,Universities,1
+736,Universite de Bordeaux *,FRA,Universities,1
+737,Northwest A and F University,CHN,Universities,1
+738,Emory Healthcare,USA,Health,1
+739,Hefei University of Technology *,CHN,Universities,1
+739,Jagiellonian University,POL,Universities,1
+741,Garvan Institute of Medical Research,AUS,Health,1
+742,Keio University *,JPN,Universities,1
+743,McGowan Institute for Regenerative Medicine,USA,Health,1
+744,"Northeastern University, China",CHN,Universities,1
+745,New York State Department of Health *,USA,Health,1
+746,Universidad de Navarra *,ESP,Universities,1
+747,Institute of Enzymology Hungarian Academy of Sciences,HUN,Government,1
+747,Cambridge University Hospitals NHS Foundation Trust,GBR,Health,1
+749,Center for Biologics Evaluation and Research,USA,Government,1
+749,Danone Nederland BV,NLD,Companies,1
+751,"Takeda Pharmaceuticals International Inc, USA",USA,Companies,1
+752,Lomonosov  Moscow State University,RUS,Universities,1
+753,China Petroleum and Chemical Corporation *,CHN,Companies,1
+754,Institut Catala d'Oncologia *,ESP,Health,1
+755,East China Normal University *,CHN,Universities,1
+756,"Nokia, France",FRA,Companies,1
+756,Georgetown University *,USA,Universities,1
+758,Max Planck Institut fur Kohlenforschung,DEU,Government,1
+759,Virginia Commonwealth University *,USA,Universities,1
+760,Oregon State University,USA,Universities,1
+761,Hohai University,CHN,Universities,1
+761,Nestle *,MUL,Companies,2
+763,Simon Fraser University,CAN,Universities,1
+764,"Ningbo Institute of Material Technology and Engineering, Chinese Academy of Sciences",CHN,Government,1
+765,"Telefonica SA, Spain",ESP,Companies,1
+765,University of Houston,USA,Universities,1
+767,CIC bioGUNE,ESP,Government,1
+768,Nanjing Forestry University,CHN,Universities,1
+769,Academia Sinica *,TWN,Government,1
+770,Chalmers University of Technology *,SWE,Universities,1
+771,Shionogi & Co Ltd,JPN,Companies,1
+772,Instituto de Ciencia y Tecnologia de Polimeros,ESP,Government,1
+773,National Oceanic and Atmospheric Administration,USA,Government,1
+774,Universitat Leipzig *,DEU,Universities,1
+775,University of Surrey,GBR,Universities,1
+776,Curtin University *,AUS,Universities,1
+777,National Digital Switching System Engineering and Technological Research Center,CHN,Government,1
+778,Royal Melbourne Institute of Technology *,AUS,Universities,1
+779,University of Zagreb,HRV,Universities,1
+779,University of Miami Health System,USA,Health,1
+779,University of Utah Health Care,USA,Health,1
+779,Seattle Cancer Care Alliance ,USA,Health,1
+783,Montefiore Medical Center *,USA,Health,1
+784,Universitat Wien,AUT,Universities,1
+785,Universitat Duisburg Essen *,DEU,Universities,1
+786,Barcelona Institute of Science and Technology *,ESP,Government,1
+786,Johann Wolfgang Goethe-Universitat Frankfurt am Main *,DEU,Universities,1
+788,University of Colorado Cancer Center,USA,Health,1
+789,University of York,GBR,Universities,1
+790,Centro Pfizer - Universidad de Granada - Junta de Andalucia de Genomica e Investigacion Oncologica,ESP,Government,1
+791,Institute for Infocomm Research,SGP,Government,1
+792,University of Washington Medicine ,USA,Health,1
+793,Fundacao Oswaldo Cruz *,BRA,Health,1
+794,Northwestern Medicine,USA,Health,1
+795,National Health Commission of the People's Republic of China *,CHN,Health,1
+796,Rice University,USA,Universities,1
+797,Alan Turing Institute,GBR,Government,1
+797,Aramco *,MUL,Companies,2
+799,European Centre for Medium-Range Weather Forecasts,GBR,Government,1
+799,The Arizona Cancer Center,USA,Health,1
+801,China National Petroleum Corp *,CHN,Companies,1
+802,Deutsches Zentrum fur Neurodegenerative Erkrankungen,DEU,Government,1
+803,Fondazione IRCCS San Raffaele del Monte Tabor,ITA,Health,1
+804,National Cancer Center,JPN,Health,1
+805,Wuhan Union Hospital,CHN,Health,1
+806,Harbin Engineering University,CHN,Universities,1
+806,Fraunhofer-Institut fur Zelltherapie und Immunologie,DEU,Government,1
+808,BMW Group *,MUL,Companies,2
+809,Nagoya University *,JPN,Universities,1
+810,"Huawei Technologies Co Ltd, Hong Kong",HKG,Companies,1
+811,Max Planck Institut fur Kolloid und Grenzflachenforschung,DEU,Government,1
+812,Boehringer Ingelheim GmbH Germany,DEU,Companies,1
+813,Max Planck Institut fur Molekulare Zellbiologie und Genetik,DEU,Government,1
+814,University of Southern Denmark,DNK,Universities,1
+815,ZEISS Group *,MUL,Companies,2
+816,National Institute of Informatics,JPN,Government,1
+817,"AbbVie Inc, United States",USA,Companies,1
+818,Technische Universitat Berlin *,DEU,Universities,1
+819,"Daiichi Sankyo Co., Ltd. Japan",JPN,Companies,1
+820,Universite de Lausanne,CHE,Universities,1
+821,"GlaxoSmithKline, United Kingdom",GBR,Companies,1
+821,Bioinformatics Institute,SGP,Government,2
+823,"Universite Paul Sabatier, Toulouse III *",FRA,Universities,1
+824,"UCB Pharma SA, Belgium",BEL,Companies,1
+825,Maastricht University,NLD,Universities,1
+825,"Alibaba Group, China",CHN,Companies,1
+827,University of Tehran,IRN,Universities,1
+827,The First Affiliated Hospital of Zhejiang University,CHN,Health,1
+827,Beijing National Laboratory for Molecular Sciences,CHN,Government,1
+830,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities,1
+830,BASF Group *,MUL,Companies,2
+832,Singapore University of Technology and Design,SGP,Universities,2
+833,Centre Hospitalier Universitaire Vaudois ,CHE,Health,1
+834,Ministry of Health ,SGP,Health,1
+835,Wayne State University,USA,Universities,1
+836,Macquarie University *,AUS,Universities,1
+836,Institut de Microelectronica de Barcelona,ESP,Government,1
+838,University of Cape Town,ZAF,Universities,1
+839,East China University of Science and Technology,CHN,Universities,1
+840,Asan Medical Center Seoul *,KOR,Health,1
+840,BGC Trust University Bangladesh,BGD,Universities,1
+842,Sumitomo Group *,MUL,Companies,1
+842,State Key Laboratory of Millimeter Waves,HKG,Government,1
+842,Peter Maccallum Cancer Centre,AUS,Health,1
+845,Statens Serum Institut,DNK,Health,1
+846,Universita Cattolica del Sacro Cuore,ITA,Universities,1
+847,Hitachi *,MUL,Companies,2
+848,Helmholtz Zentrum fur Infektionsforschung,DEU,Government,1
+849,Joslin Diabetes Center,USA,Health,1
+850,Instituto de Investigaciones Biomedicas Sols-Morreale,ESP,Government,1
+851,University of Antwerp,BEL,Universities,1
+852,"Corteva Agriscience, USA",USA,Companies,1
+853,Nanjing Agricultural University,CHN,Universities,1
+854,Africa Health Research Institute,ZAF,Health,1
+855,Qingdao University *,CHN,Universities,1
+855,Technion - Israel Institute of Technology *,ISR,Universities,1
+857,Southwest University *,CHN,Universities,1
+858,University of Twente,NLD,Universities,2
+858,Harvard-Smithsonian Center for Astrophysics,USA,Government,1
+860,Universidad Politecnica de Madrid *,ESP,Universities,1
+861,Humboldt-Universitat zu Berlin *,DEU,Universities,1
+862,Universitat Politecnica de Catalunya *,ESP,Universities,1
+863,Smithsonian Institution *,USA,Government,1
+864,Nanjing University of Posts and Telecommunications,CHN,Universities,1
+865,Bill and Melinda Gates Foundation,USA,Non-Profit,1
+866,National Research Council Canada *,CAN,Government,1
+867,China Medical University Hospital,TWN,Health,1
+867,Hebrew University of Jerusalem,ISR,Universities,1
+869,Hospital Universitari Vall d'Hebron,ESP,Health,1
+870,Cairo University *,EGY,Universities,1
+871,Medizinische Hochschule Hannover,DEU,Universities,1
+872,Universitat Ulm *,DEU,Universities,1
+873,Junta de Andalucia *,MUL,Government,1
+873,Jet Propulsion Laboratory,USA,Government,1
+875,University of Bath,GBR,Universities,1
+876,Lockheed Martin Corp *,USA,Companies,1
+876,Agilent Technologies *,MUL,Companies,2
+878,Yangzhou University,CHN,Universities,1
+879,Lancaster University *,GBR,Universities,1
+880,Dartmouth College *,USA,Universities,1
+881,University of Manitoba,CAN,Universities,1
+882,ShanghaiTech University *,CHN,Universities,1
+883,Institut de Quimica Avancada de Catalunya,ESP,Government,1
+884,Imperial College Healthcare NHS Trust,GBR,Health,1
+885,Berlin Institute of Health,DEU,Health,1
+886,Southern University of Science and Technology,CHN,Universities,1
+887,Institut Cochin,FRA,Government,1
+887,Baylor Scott & White Health,USA,Health,1
+889,Molecular Foundry,USA,Government,1
+890,Laval University,CAN,Universities,1
+890,University of Notre Dame,USA,Universities,1
+892,Universite du Quebec en Quebec *,CAN,Universities,1
+893,Waters Corp *,MUL,Companies,2
+894,Roswell Park Cancer Institute,USA,Health,1
+895,Universidade Nova de Lisboa *,PRT,Universities,1
+896,Tampere University,FIN,Universities,1
+897,Radboud University Nijmegen,NLD,Universities,1
+897,Centro de Investigaciones Biologicas Margarita Salas,ESP,Government,1
+899,Korea Research Institute of Bioscience and Biotechnology,KOR,Government,1
+900,Istituto Nazionale Malattie Infettive Lazzaro Spallanzani IRCCS,ITA,Health,1
+901,Aristotle University of Thessaloniki,GRC,Universities,1
+901,University of Oklahoma *,USA,Universities,1
+903,Dalhousie University *,CAN,Universities,1
+904,University of Belgrade,SRB,Universities,1
+904,Korea Research Institute of Chemical Technology,KOR,Government,1
+906,Pacific Northwest National Laboratory *,USA,Government,1
+907,National Institute of Advanced Industrial Science & Technology,JPN,Government,1
+908,"Washington State University, Pullman *",USA,Universities,1
+909,"University of Science, Malaysia *",MYS,Universities,1
+909,Shenzhen Research Institute of Big Data,CHN,Government,1
+911,Hungarian Academy of Sciences *,HUN,Government,1
+912,Heinrich Heine Universitat Dusseldorf  *,DEU,Universities,1
+913,University Putra Malaysia,MYS,Universities,1
+914,Helsinki University Central Hospital,FIN,Health,1
+915,Shenyang Pharmaceutical University,CHN,Universities,1
+916,Friedrich-Schiller-Universitat Jena *,DEU,Universities,1
+917,Pohang University of Science and Technology,KOR,Universities,1
+918,University of Wollongong *,AUS,Universities,1
+919,Institut Catala de Nanociencia i Nanotecnologia,ESP,Government,1
+920,University of New Mexico *,USA,Universities,1
+921,SRI International,USA,Non-Profit,1
+922,Houston Methodist,USA,Health,1
+923,University of Leicester,GBR,Universities,1
+924,Universidad de Murcia *,ESP,Universities,1
+925,University of Strathclyde *,GBR,Universities,1
+926,Barbara Ann Karmanos Cancer Institute,USA,Health,1
+927,Great Ormond Street Hospital for Children NHS Trust,GBR,Health,1
+928,Florida State University *,USA,Universities,1
+929,Institut de Pharmacologie et de Biologie Structurale,FRA,Government,1
+930,Applied Materials Inc *,MUL,Companies,2
+931,University of East Anglia *,GBR,Universities,1
+932,"Pfizer Inc, Spain",ESP,Companies,1
+932,Samsung Medical Center Seoul,KOR,Health,1
+934,"Siemens AG, USA",USA,Companies,1
+935,Hochschule fur Wirtschaft und Recht Berlin,DEU,Universities,1
+936,"Daiichi Sankyo Co., Ltd. *",MUL,Companies,2
+937,Institut Mondor de Recherche Biomedicale,FRA,Government,1
+938,University of Bergen,NOR,Universities,1
+938,"University of California, Santa Cruz",USA,Universities,1
+940,U.S. Department of Energy *,USA,Government,1
+940,General Electric Company *,MUL,Companies,2
+942,Lanzhou University *,CHN,Universities,1
+942,Blood Systems Research Institute,USA,Health,1
+944,Beijing University of Technology,CHN,Universities,1
+945,University of Oulu,FIN,Universities,1
+946,"China Medical University, Taichung *",TWN,Universities,1
+947,"Siemens AG, Germany",DEU,Companies,1
+948,GeneDx,USA,Companies,1
+949,Ludwig Boltzmann Institute for Traumatology,AUT,Health,1
+950,University College London Hospital NHS Trust,GBR,Health,1
+951,Wenzhou Medical University *,CHN,Universities,1
+952,Centro de Quimica Organica Manuel Lora Tamayo CS,ESP,Government,1
+953,Shenzhen Municipal People’s Government *,CHN,Government,1
+954,University of Malaya *,MYS,Universities,1
+955,Ocean University of China,CHN,Universities,1
+956,Deutsches Zentrum fur Herz Kreislauf Forschung,DEU,Health,1
+957,California Department of Public Health,USA,Health,1
+958,Fox Chase Cancer Center,USA,Health,1
+959,Public Health England,GBR,Health,1
+959,Universidade de Coimbra *,PRT,Universities,1
+961,Ulsan National Institute of Science and Technology *,KOR,Universities,1
+962,Agriculture and Agri-Food Canada,CAN,Government,1
+963,Albert Einstein College of Medicine,USA,Universities,1
+964,Shanghai Public Health Clinical Center,CHN,Health,1
+964,Academy of Military Sciences of the Chinese People's Liberation Army *,CHN,Government,1
+966,Universitat d'Alacant *,ESP,Universities,1
+967,United States Geological Survey,USA,Government,1
+968,"World Health Organization, Switzerland",CHE,Health,1
+969,Universita degli Studi di Genova,ITA,Universities,1
+970,University of Southern California Health Sciences Campus,USA,Health,1
+971,Universidad de Salamanca *,ESP,Universities,1
+972,Institut de Recherche en Cancerologie de Montpellier,FRA,Government,1
+973,Catholic University of Louvain,BEL,Universities,1
+974,University of Delaware,USA,Universities,1
+975,"University of Missouri, Columbia *",USA,Universities,1
+976,University Hospital Maastricht,NLD,Health,1
+977,Shanghai Cancer Institute,CHN,Health,1
+978,Klinikum Rechts der Isar der Technische Universitat Munchen,DEU,Health,1
+978,Forschungszentrum Informatik,DEU,Government,1
+980,Istituto Italiano di Tecnologia *,ITA,Non-Profit,1
+981,"Institute of Information Science, Academia Sinica",TWN,Government,1
+982,"University of Texas, Dallas",USA,Universities,1
+983,Drexel University,USA,Universities,1
+984,Universita degli Studi di Roma Tor Vergata,ITA,Universities,1
+985,NXP Semiconductors NV *,MUL,Companies,2
+986,Centro Nacional de Investigaciones Cardiovasculares,ESP,Health,1
+986,"ZTE, China",CHN,Companies,1
+988,IrsiCaixa AIDS Research Institute,ESP,Health,1
+989,Masaryk University,CZE,Universities,1
+990,"Novartis, Switzerland",CHE,Companies,1
+991,University of Warsaw,POL,Universities,1
+991,Deutsches Zentrum fur Luft- und Raumfahrt,DEU,Government,1
+993,University of Macau,MAC,Universities,1
+993,"Hypertension Arterielle, Pulmonaire: Physiopathologie et Innovation Therapeutique",FRA,Companies,1
+995,"Lanzhou Institute of Chemical Physics, Chinese Academy of Sciences",CHN,Government,1
+996,University of Dundee,GBR,Universities,1
+997,Princess Margaret Cancer Centre,CAN,Health,1
+998,Universidad de Zaragoza *,ESP,Universities,1
+998,"University of Texas, Health Science Center at Houston",USA,Universities,1
+1000,Universidad Nacional de Colombia *,COL,Universities,1
+1001,"Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas, Madrid",ESP,Health,1
+1002,University of Durham,GBR,Universities,1
+1003,University of South Carolina *,USA,Universities,1
+1003,Kyungpook National University *,KOR,Universities,1
+1005,"Union Hospital, Tongji Medical College",CHN,Health,1
+1006,Istituto di Farmacologia Traslazionale,ITA,Government,1
+1007,Royal North Shore Hospital,AUS,Health,1
+1008,Universita degli Studi di Pavia,ITA,Universities,1
+1009,Universita degli Studi di Bari,ITA,Universities,1
+1009,Oklahoma Medical Research Foundation,USA,Health,1
+1011,Princess Maxima Center,NLD,Health,1
+1012,United Nations *,MUL,Non-Profit,1
+1013,Generalitat de Catalunya *,MUL,Government,1
+1014,Institute of Materials Research and Engineering,SGP,Government,2
+1014,Yonsei University Health System,KOR,Health,1
+1014,La Trobe University *,AUS,Universities,1
+1017,Klinikum Ludwig Maximilians Universitat Munchen,DEU,Health,1
+1017,Centre Mediterraneen de Medecine Moleculaire,FRA,Government,1
+1019,Swiss Federal Laboratories for Materials Science and Technology,CHE,Government,1
+1019,Universitat Pompeu Fabra *,ESP,Universities,1
+1021,Nestle Switzerland,CHE,Companies,1
+1022,Universitatsspital Basel *,CHE,Health,2
+1023,China University of Petroleum,CHN,Universities,1
+1024,Ruhr-Universitat Bochum *,DEU,Universities,1
+1025,"University of Hawaii, Manoa *",USA,Universities,1
+1025,Konica Minolta Inc *,MUL,Companies,2
+1027,OHSU Knight Cancer Institute,USA,Health,1
+1027,Chulalongkorn University,THA,Universities,1
+1029,IHU Mediterranee Infection,FRA,Health,1
+1030,Lawrence Livermore National Laboratory *,USA,Government,1
+1031,Istituto Nazionale dei Tumori Fondazione Giovanni Pascale IRCCS,ITA,Health,1
+1032,National Institute of Public Health of Japan,JPN,Health,1
+1032,University of South Florida System *,USA,Universities,1
+1034,Met Office,GBR,Government,1
+1035,"Suzhou Institute of Nano-Tech and Nano-Bionics, Chinese Academy of Sciences",CHN,Government,1
+1036,Universita degli Studi di Milano-Bicocca,ITA,Universities,1
+1037,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Barcelona",ESP,Health,1
+1038,Wake Forest University *,USA,Universities,1
+1039,"General Electric Co, USA",USA,Companies,1
+1039,Seattle Children's Hospital *,USA,Health,1
+1041,China Aerospace Science and Technology Corp *,CHN,Government,1
+1042,Kavli Institute for Particle Astrophysics and Cosmology,USA,Non-Profit,1
+1043,Hospital for Sick Children,CAN,Health,1
+1044,Max Planck Institut fur Quantenoptik,DEU,Government,1
+1045,Institut de Recherche pour le Developpement *,MUL,Government,1
+1046,University of Sussex *,GBR,Universities,1
+1047,National Heart Centre Singapore,SGP,Health,1
+1047,Seoul National University Hospital *,KOR,Health,1
+1049,Universite de Rennes 1 *,FRA,Universities,1
+1049,University of Indonesia,IDN,Universities,1
+1051,Oxford Health NHS Foundation Trust,GBR,Health,1
+1052,Shanghai Medical College of Fudan University,CHN,Universities,1
+1053,"Siemens Healthineers, Germany",DEU,Companies,1
+1053,"Boehringer Ingelheim, USA",USA,Companies,1
+1055,Qatar Foundation *,QAT,Non-Profit,1
+1055,Hopitaux Universitaires de Geneve,CHE,Health,1
+1057,Instituto de Biologia Molecular y Celular de Plantas Eduardo Primo Yufera,ESP,Government,1
+1058,Universidade de Santiago de Compostela *,ESP,Universities,1
+1059,Instituto de Quimica-Fisica Rocasolano,ESP,Government,1
+1059,Public Health Scotland,GBR,Health,1
+1061,University of Florida Health Science Center,USA,Health,1
+1062,Tokyo Institute of Technology,JPN,Universities,1
+1062,Universidade do Minho,PRT,Universities,1
+1064,Australian Research Council *,AUS,Government,1
+1065,"Sandia National Laboratories, New Mexico",USA,Government,1
+1066,University of Tsukuba *,JPN,Universities,1
+1067,The Florida A&M University and The Florida State University College of Engineering,USA,Universities,1
+1067,Clalit Health Services *,ISR,Health,1
+1067,Corteva Agriscience *,MUL,Companies,2
+1067,CEINGE-Biotecnologie Avanzate,ITA,Non-Profit,1
+1071,Queen's University,CAN,Universities,1
+1071,University College Cork *,IRL,Universities,1
+1073,Qatar University,QAT,Universities,1
+1073,Politecnico di Torino *,ITA,Universities,1
+1073,Universite de Lille *,FRA,Universities,1
+1076,Medtronic *,MUL,Companies,2
+1077,Volkswagen AG *,MUL,Companies,2
+1078,Texas Biomedical Research Institute,USA,Health,1
+1079,Queensland Institute of Medical Research,AUS,Health,1
+1080,Instituto de Catalisis y Petroleoquimica ,ESP,Government,1
+1081,"Shanghai Institute of Ceramics, Chinese Academy of Sciences",CHN,Government,1
+1082,Southwest Petroleum University,CHN,Universities,1
+1082,"Consejo Nacional de Humanidades, Ciencias y Tecnologias *",MEX,Government,1
+1082,University of Turku,FIN,Universities,1
+1085,Institut Necker Enfants Malades,FRA,Government,1
+1085,Georgetown University Medical Center,USA,Health,1
+1087,University of Texas Medical Branch ,USA,Universities,1
+1087,Ospedale Pediatrico Bambino Gesu,VAT,Health,1
+1087,University Hospital of Bern,CHE,Health,2
+1090,Universitat zu Koln,DEU,Universities,1
+1091,First Affiliated Hospital of Zhengzhou University,CHN,Health,1
+1092,University of Otago,NZL,Universities,1
+1093,The University of Newcastle,AUS,Universities,1
+1094,National Cheng Kung University,TWN,Universities,1
+1095,Electronics Telecommunication Research Institute,KOR,Government,1
+1096,Center for Nanoscale Materials,USA,Government,1
+1097,Korea University of Science and Technology,KOR,Universities,1
+1098,Universidad Carlos III de Madrid *,ESP,Universities,1
+1099,Universitatsmedizin der Johannes Gutenberg-Universitat Mainz,DEU,Health,1
+1100,Mahidol University *,THA,Universities,1
+1101,Hangzhou Dianzi University,CHN,Universities,1
+1101,Institute for Basic Science,KOR,Government,1
+1103,McGill University Health Centre,CAN,Health,1
+1104,Institut de Genetique et Biologie Moleculaire et Cellulaire,FRA,Government,1
+1105,Universite de Lorraine *,FRA,Universities,1
+1106,Nationwide Children's Hospital ,USA,Health,1
+1106,Olivia Newton-John Cancer Research Institute *,AUS,Health,1
+1108,Florida International University,USA,Universities,1
+1109,Fundacio de Recerca Clinic Barcelona-Institut d’Investigacions Biomediques August Pi i Sunyer,ESP,Health,1
+1109,Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas,ESP,Health,1
+1111,National Jewish Health,USA,Health,1
+1112,Umea University *,SWE,Universities,1
+1112,Loughborough University,GBR,Universities,1
+1114,Westmead Hospital ,AUS,Health,1
+1115,Northwell Health *,USA,Health,1
+1116,Wake Forest University Baptist Medical Center,USA,Health,2
+1116,Centre de Recherches en Cancerologie de Toulouse,FRA,Government,1
+1118,Vrije Universiteit Brussel,BEL,Universities,1
+1119,Centre Interuniversitaire de Recherche et d'Ingenierie des Materiaux,FRA,Government,1
+1120,Shandong University of Science and Technology,CHN,Universities,1
+1121,Universitatsklinikum Essen,DEU,Health,1
+1122,"GlaxoSmithKline, Belgium",BEL,Companies,1
+1123,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,ITA,Health,1
+1124,"Weill Cornell Medicine, Qatar",QAT,Universities,1
+1125,Leibniz-Institut fur Neue Materialien,DEU,Government,1
+1126,Instituto de Biologia Molecular y Celular del Cancer de Salamanca,ESP,Government,1
+1127,University of Wisconsin Health,USA,Health,2
+1128,New York Presbyterian Hospital,USA,Health,1
+1128,Kavli Institute for Cosmology,GBR,Government,1
+1128,Temple Health,USA,Health,1
+1128,BioTechMed-Graz,AUT,Government,1
+1132,Institut pour l'Avancee des Biosciences,FRA,Government,1
+1133,Istituto Nazionale di Fisica Nucleare *,ITA,Government,1
+1134,The University of Reading,GBR,Universities,1
+1135,Max Planck Institut fur Psychiatrie,DEU,Government,1
+1135,Institut de Chimie des Substances Naturelles,FRA,Government,1
+1137,Gujarat Pollution Control Board,IND,Government,1
+1138,Technische Universitat Graz *,AUT,Universities,1
+1139,Universita degli Studi di Catania,ITA,Universities,1
+1140,Forschungszentrum Julich in der Helmholtz Gemeinschaft,DEU,Government,1
+1141,Rutgers Cancer Institute of New Jersey,USA,Health,1
+1142,Institut Pasteur de Lille,FRA,Health,1
+1143,Universitatsklinikum Freiburg,DEU,Health,1
+1143,"Springer Nature, New Zealand",NZL,Companies,1
+1145,Fundacion Josep Carreras *,ESP,Non-Profit,1
+1146,Deutsche Telekom Headquarters *,MUL,Companies,2
+1147,Chung-Ang University *,KOR,Universities,1
+1148,"Louisiana State University, Baton Rouge",USA,Universities,1
+1149,ABB Group *,MUL,Companies,2
+1150,Universite de Nantes *,FRA,Universities,1
+1151,"Ford Motor Co, USA",USA,Companies,1
+1152,National Tsing Hua University,TWN,Universities,1
+1153,Istituto di Neuroscienze,ITA,Government,1
+1154,Qingdao University of Science and Technology,CHN,Universities,1
+1155,Universidad de Buenos Aires *,ARG,Universities,1
+1156,Cardiovascular Research Foundation,USA,Health,1
+1156,The University of Kent,GBR,Universities,1
+1158,Istituto Superiore di Sanita,ITA,Health,1
+1159,National Taiwan University Hospital,TWN,Health,1
+1160,University of Nebraska Medical Center,USA,Universities,1
+1160,Universita degli Studi di Modena e Reggio Emilia,ITA,Universities,1
+1160,Corning *,MUL,Companies,2
+1163,National Institute for Public Health and the Environment,NLD,Health,1
+1164,Max Planck Institut fur Chemische Energiekonversion,DEU,Government,2
+1165,Indian Council of Agricultural Research *,IND,Government,1
+1166,CIC biomaGUNE,ESP,Government,1
+1167,University of Cincinnati Medical Center,USA,Health,2
+1168,University of Ulsan *,KOR,Universities,1
+1169,Chongqing Medical University *,CHN,Universities,1
+1170,University of Saskatchewan,CAN,Universities,1
+1171,Tulane University *,USA,Universities,1
+1172,"BASF, Germany",DEU,Companies,1
+1173,London School of Economics and Political Science,GBR,Universities,1
+1174,"Kunming Institute of Zoology, Chinese Academy of Sciences",CHN,Government,1
+1174,Laboratoire des Signaux et Systemes,FRA,Government,1
+1176,Public Health Wales,GBR,Health,1
+1177,Max Planck Institut fur Mikrostrukturphysik,DEU,Government,2
+1177,Universite Libre de Bruxelles,BEL,Universities,1
+1179,Pusan National University,KOR,Universities,1
+1179,Universidad de Malaga *,ESP,Universities,1
+1179,Centre de Recherche de l'Institut du Cerveau et de la Moelle Epiniere,FRA,Government,1
+1182,Toronto Western Hospital,CAN,Health,1
+1183,"Institut Catala d'Oncologia, Badalona",ESP,Health,1
+1184,University of South Australia,AUS,Universities,1
+1185,Christian-Albrechts-Universitat zu Kiel,DEU,Universities,1
+1185,National Institute of Genetics,JPN,Health,1
+1185,National University Cancer Institute,SGP,Health,2
+1188,Sun Yat-sen University Cancer Center,CHN,Health,1
+1189,Centro de Investigacion Biomedica en Red sobre Enfermedades Neurodegenerativas,ESP,Health,1
+1190,The General Hospital of the People's Liberation Army *,CHN,Health,1
+1191,Aarhus University Hospital,DNK,Health,2
+1191,The Christie NHS Trust,GBR,Health,1
+1191,Hospices Civils de Lyon *,FRA,Health,1
+1194,Nanjing University of Information Science and Technology,CHN,Universities,1
+1195,Leibniz-Institut fur Altersforschung - Fritz-Lipmann-Institut,DEU,Government,1
+1196,Swinburne University of Technology *,AUS,Universities,1
+1197,National Cancer Centre,SGP,Health,2
+1198,Chongqing University of Post and Telecommunications,CHN,Universities,1
+1199,Institut de Sciences des Materiaux de Mulhouse,FRA,Government,1
+1199,Astellas Pharma Inc *,MUL,Companies,2
+1201,"GE Global Research, USA",USA,Companies,1
+1201,Translational Research Institute,AUS,Companies,1
+1203,South Eastern Sydney Local Health District *,AUS,Health,1
+1204,Brookhaven National Laboratory *,USA,Government,1
+1204,Universita degli Studi di Trento,ITA,Universities,1
+1206,Universitatsklinikum Tubingen,DEU,Health,1
+1207,Singapore Management University,SGP,Universities,1
+1208,Ben-Gurion University of the Negev *,ISR,Universities,1
+1208,Universidade Federal de Santa Catarina *,BRA,Universities,1
+1210,National University of Malaysia *,MYS,Universities,1
+1211,University of Guelph,CAN,Universities,1
+1212,NASA Goddard Institute for Space Studies,USA,Government,1
+1212,Los Alamos National Laboratory *,USA,Government,1
+1214,Georgia State University,USA,Universities,1
+1215,Victor Chang Cardiac Research Institute,AUS,Health,1
+1216,Donghua University,CHN,Universities,1
+1217,Waseda University,JPN,Universities,1
+1218,Sejong University,KOR,Universities,1
+1219,Justus-Liebig-Universitat Giessen *,DEU,Universities,1
+1219,Swansea University,GBR,Universities,1
+1221,Institut de Bioenginyeria de Catalunya,ESP,Government,1
+1222,Georg-August-Universitat Gottingen,DEU,Universities,1
+1223,Kunming University of Science and Technology,CHN,Universities,1
+1224,Max Planck Institut fur Softwaresysteme,DEU,Government,2
+1225,Hospital Quironsalud Barcelona,ESP,Health,1
+1225,Universite Cote d’Azur *,FRA,Universities,1
+1227,Public Health Agency of Sweden,SWE,Health,1
+1228,Moorfields Eye Hospital NHS Trust,GBR,Health,1
+1228,Virginia Mason Medical Center ,USA,Health,1
+1230,Ajou University,KOR,Universities,1
+1230,Royal Brompton and Harefield NHS Foundation Trust,GBR,Health,1
+1232,Luxembourg Institute of Health,LUX,Health,1
+1232,"China Medical University, Shenyang *",CHN,Universities,1
+1232,West Virginia University *,USA,Universities,1
+1235,Medical University of South Carolina *,USA,Universities,1
+1235,University Hospital Southampton NHS Foundation Trust,GBR,Health,1
+1235,Australian Research Council Centre of Excellence for Electromaterials Science,AUS,Government,1
+1238,York University,CAN,Universities,1
+1239,US Environmental Protection Agency,USA,Government,1
+1240,Ford Motor Company *,MUL,Companies,1
+1241,Konkuk University *,KOR,Universities,1
+1242,Humanitas University *,ITA,Universities,1
+1243,Manchester University NHS Foundation Trust,GBR,Health,1
+1244,Universitat des Saarlandes *,DEU,Universities,1
+1245,Thales Group *,MUL,Companies,2
+1245,University of Virginia Health System,USA,Health,2
+1247,"University of the Witwatersrand, Johannesburg",ZAF,Universities,1
+1248,Centro de Biotecnologia y Genomica de Plantas,ESP,Government,1
+1248,Medical College of Wisconsin,USA,Universities,1
+1250,Centrale Supelec,FRA,Universities,1
+1250,NHS Tayside,GBR,Health,1
+1252,Universita degli Studi di Verona,ITA,Universities,1
+1252,Institut de la Vision,FRA,Government,1
+1252,Universita degli Studi di Palermo,ITA,Universities,1
+1252,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina",ESP,Health,1
+1256,STMicroelectronics *,MUL,Companies,2
+1257,Xiangya Hospital Affiliated to Central South University,CHN,Health,1
+1258,Advanced Institutes of Convergence Technology,KOR,Government,1
+1259,Springer Nature *,MUL,Companies,2
+1260,Science and Technology Facilities Council *,GBR,Government,1
+1261,"Mitsubishi Electric Corp, Japan",JPN,Companies,1
+1262,Joint Institute for Laboratory Astrophysics,USA,Government,1
+1262,Universitat Regensburg *,DEU,Universities,1
+1264,COMSATS Institute of Information Technology *,PAK,Universities,1
+1265,Donald Danforth Plant Science Center,USA,Non-Profit,1
+1266,Melanoma Institute Australia,AUS,Government,1
+1267,Institut de Robotica i Informatica Industrial,ESP,Government,1
+1267,Technische Universitat Darmstadt,DEU,Universities,2
+1269,"Guangdong Institute of Microbiology, GDAS",CHN,Government,1
+1269,Universitatsklinikum Koln,DEU,Health,1
+1269,Nantong University *,CHN,Universities,1
+1272,University of South Alabama Health System,USA,Health,1
+1273,Sahlgrenska University Hospital,SWE,Health,2
+1273,University of St. Andrews,GBR,Universities,1
+1275,George Mason University,USA,Universities,1
+1276,Swedish University of Agricultural Sciences,SWE,Universities,1
+1277,Northumbria University,GBR,Universities,1
+1278,University of Victoria,CAN,Universities,1
+1279,University of Tartu,EST,Universities,1
+1280,European Commission - Joint Research Centre,MUL,Government,1
+1280,Cranfield University,GBR,Universities,1
+1280,Universitatsklinikum Gottingen,DEU,Health,2
+1283,Unilever *,MUL,Companies,2
+1284,University of Aberdeen,GBR,Universities,1
+1284,Fundacao Champalimaud,PRT,Health,1
+1284,Procter & Gamble Co *,MUL,Companies,2
+1287,Fraunhofer Institut fur Bildgestutzte Medizin,DEU,Government,1
+1288,Basque Center for Macromolecular Design and Engineering,ESP,Government,1
+1288,Medizinische Universitat Graz *,AUT,Universities,1
+1290,Ecole Superieure de Physique et de Chimie Industrielles de la Ville de Paris,FRA,Universities,1
+1291,National Veterinary Institute Sweden,SWE,Government,1
+1291,University Hospital Antwerp,BEL,Health,1
+1293,"Texas A&M University, Health Science Center",USA,Universities,1
+1294,Universitatsklinikum Wurzburg,DEU,Health,2
+1295,Stellenbosch University,ZAF,Universities,1
+1295,Technische Universitat Wien *,AUT,Universities,1
+1297,University of Pretoria,ZAF,Universities,1
+1298,Universite de Liege,BEL,Universities,1
+1298,Universidade Federal do Parana,BRA,Universities,1
+1298,Friedrich Loeffler Institutes Bundesforschungsinstitut fur Tiergesundheit,DEU,Government,1
+1301,Hamad Bin Khalifa University *,QAT,Universities,1
+1302,Centro de Investigacion y Desarrollo Pascual Vila CS,ESP,Government,1
+1303,Fraunhofer Institut fur Solare Energiesysteme,DEU,Government,1
+1304,"Institute of Process Engineering, Chinese Academy of Sciences",CHN,Government,1
+1305,VTT Technical Research Centre of Finland,FIN,Companies,1
+1306,Instituto de Ciencia y Tecnologia de Alimentos y Nutricion,ESP,Government,1
+1306,VA Northern California Health Care System,USA,Health,1
+1308,Max Planck Institut fur Struktur und Dynamik der Materie,DEU,Government,1
+1309,Universitatsklinikum Carl Gustav Carus Dresden,DEU,Health,2
+1310,PetroChina Co Ltd,CHN,Companies,1
+1310,"Applied Materials Inc, USA",USA,Companies,1
+1310,Ecole Nationale Superieure de Chimie de Paris,FRA,Universities,1
+1313,Hiroshima University *,JPN,Universities,1
+1313,Guangzhou University,CHN,Universities,1
+1315,Universitat Stuttgart,DEU,Universities,1
+1316,Institut de Science et d'Ingenierie Supramoleculaires,FRA,Government,1
+1317,University of Texas Health Science Center at San Antonio ,USA,Universities,2
+1317,Fritz Haber Institut Max Planck Gesellschaft,DEU,Government,2
+1319,Parque Tecnologico de Euskadi *,ESP,Non-Profit,1
+1320,Universite de Toulouse,FRA,Universities,1
+1321,Athinoula A Martinos Center for Biomedical Imaging,USA,Health,1
+1322,National Bureau of Economic Research,USA,Non-Profit,1
+1322,Institut de Recerca Hospital Universitari Vall d'Hebron,ESP,Health,1
+1324,Abbott Laboratories *,MUL,Companies,2
+1325,"Aerospace Information Research Institute, Chinese Academy of Sciences",CHN,Government,1
+1326,Tianjin University of Science and Technology,CHN,Universities,1
+1326,Institut de Recerca contra la Leucemia Josep Carreras,ESP,Health,1
+1328,Universidad de Cordoba *,ESP,Universities,1
+1329,Robert Koch Institut,DEU,Government,1
+1330,Hospital Clinico Universitario de Valencia *,ESP,Health,1
+1331,Max Planck Institut fur Herz und Lungenforschung,DEU,Government,1
+1332,China Electronics Technology Group Corp *,CHN,Companies,1
+1333,Universitatsklinikum Ulm,DEU,Health,1
+1334,Tokyo Medical and Dental University,JPN,Universities,1
+1335,Wadsworth Center,USA,Health,1
+1336,"Saudi Arabian Oil Co, Saudi Arabia",SAU,Companies,1
+1337,State Key Joint Laboratory of Integrated Optoelectronics,CHN,Government,1
+1338,New Jersey Institute of Technology,USA,Universities,1
+1338,St Michaels Hospital Toronto,CAN,Health,1
+1338,Institut de Recherche pour le Developpement France,FRA,Government,1
+1338,University of Connecticut Health Center,USA,Universities,1
+1342,Infineon Technologies Austria AG,AUT,Companies,1
+1343,Amman Arab University,JOR,Universities,1
+1344,Tsinghua-Berkeley Shenzhen Institute,CHN,Government,1
+1345,Institut des Sciences Moleculaires de Marseille,FRA,Government,1
+1346,"Institut de Chimie et Procedes pour l’Energie, l’Environnement et la Sante",FRA,Government,1
+1346,Indian Institute of Science,IND,Universities,1
+1348,Manchester Academic Health Science Centre,GBR,Health,1
+1349,Raytheon Technologies Corporation *,MUL,Companies,2
+1350,Second Military Medical University *,CHN,Universities,1
+1351,Museum National d'Histoire Naturelle *,FRA,Government,1
+1351,Saint Petersburg State University,RUS,Universities,1
+1353,Istituto di Nanotecnologia,ITA,Government,1
+1354,University of KwaZulu-Natal *,ZAF,Universities,1
+1355,Northeast Agricultural University,CHN,Universities,1
+1355,"Institute of Optics and Electronics, Chinese Academy of Sciences",CHN,Government,1
+1355,"Panasonic Corp, Japan",JPN,Companies,1
+1358,Arizona Health Sciences Center University of Arizona Tucson,USA,Health,1
+1359,"University of California, Merced",USA,Universities,1
+1360,Universitatsklinikum Erlangen,DEU,Health,2
+1360,Aston University,GBR,Universities,1
+1360,All India Institute of Medical Sciences,IND,Universities,1
+1363,Wuhan National Laboratory for Optoelectronics,CHN,Government,1
+1364,Red de Institutos IMDEA *,ESP,Government,1
+1365,Max Planck Institut fur Biogeochemie,DEU,Government,1
+1366,Universitatsklinikum Schleswig-Holstein,DEU,Health,1
+1366,Ludwig Boltzmann Gesellschaft *,AUT,Government,1
+1368,China Electronics Technology Group Corp No 54 Research Institute,CHN,Non-Profit,1
+1368,World Bank Group *,MUL,Non-Profit,1
+1370,Skane University Hospital,SWE,Health,1
+1371,Medizinische Universitat Innsbruck *,AUT,Universities,1
+1372,The Children's Hospital at Westmead,AUS,Health,1
+1372,Institut Jean-Pierre Bourgin,FRA,Government,1
+1372,"Changchun Institute of Optics Fine Mechanics and Physics, Chinese Academy of Sciences",CHN,Government,1
+1372,Harbin Medical University *,CHN,Universities,1
+1376,Universidad de Oviedo *,ESP,Universities,1
+1376,Instituto de Ciencia de Materiales de Madrid,ESP,Government,1
+1378,Universita degli Studi di Perugia,ITA,Universities,1
+1379,Henan University *,CHN,Universities,1
+1380,Universitat Innsbruck *,AUT,Universities,1
+1380,Fondazione IRCCS Istituto Nazionale Tumori di Milano,ITA,Health,1
+1382,Shahid Beheshti University of Medical Sciences and Health Services *,IRN,Universities,1
+1383,Beijing Technology and Business University,CHN,Universities,1
+1384,Thomas Jefferson University *,USA,Universities,1
+1385,"Fujian Institute of Research On the Structure of Matter, Chinese Academy of Sciences",CHN,Government,1
+1386,Zhongshan Hospital,CHN,Health,1
+1387,Universita degli Studi di Parma,ITA,Universities,1
+1388,Meteo-France *,FRA,Government,1
+1389,University Hospitals Birmingham NHS Foundation Trust,GBR,Health,2
+1390,Barts and the London NHS Trust,GBR,Health,1
+1391,"University of Illinois, College of Medicine at Chicago",USA,Health,2
+1392,King Fahd Medical Research Center,SAU,Health,1
+1393,"Kaiser Permanente Research, Washington",USA,Health,1
+1394,Royal Free London NHS Foundation Trust,GBR,Health,1
+1394,Universitat fur Bodenkultur Wien *,AUT,Universities,1
+1396,Renji Hospital,CHN,Health,1
+1397,Concordia University,CAN,Universities,1
+1397,California Pacific Medical Center,USA,Health,2
+1399,Infineon Technologies *,MUL,Companies,2
+1400,Rush University *,USA,Universities,1
+1401,Guangxi University,CHN,Universities,1
+1402,Semmelweis University,HUN,Universities,1
+1403,"Bayer Corp, USA",USA,Companies,1
+1403,Sheba Medical Center,ISR,Health,1
+1405,Centre Leon-Berard,FRA,Health,1
+1406,The Nottingham Trent University,GBR,Universities,2
+1407,VIT University,IND,Universities,1
+1408,Grupo Hospitalario Quironsalud *,MUL,Health,2
+1409,Maurice Wilkins Centre,NZL,Government,1
+1410,Tianjin Medical University *,CHN,Universities,1
+1411,Universidade de Aveiro,PRT,Universities,1
+1412,American Heart Association,USA,Non-Profit,1
+1413,"Hyundai Motor Co, South Korea",KOR,Companies,1
+1413,Army Medical University *,CHN,Universities,1
+1415,Catholic University of Korea *,KOR,Universities,1
+1416,Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo,BRA,Health,1
+1417,Imagerie et Cerveau,FRA,Government,1
+1417,Martin-Luther-Universitat Halle-Wittenberg *,DEU,Universities,1
+1417,Universite du Luxembourg,LUX,Universities,1
+1420,NHS Lothian,GBR,Health,2
+1420,Instituto IMDEA Energia,ESP,Government,1
+1422,"Texas Instruments, United States",USA,Companies,1
+1423,Tata Group *,MUL,Companies,2
+1423,Istituto Europeo di Oncologia,ITA,Health,1
+1425,City University of New York Graduate Center,USA,Universities,1
+1426,Clemson University,USA,Universities,1
+1427,Institut des Biomolecules Max Mousseron,FRA,Government,1
+1427,"Institute of Information Engineering, Chinese Academy of Sciences",CHN,Government,1
+1429,Dongguk University *,KOR,Universities,1
+1430,"European Commission - Joint Research Centre Ispra, Italy",ITA,Government,1
+1431,University of Tasmania,AUS,Universities,1
+1431,"Thales Group France, S.A.",FRA,Companies,1
+1431,The Leeds Teaching Hospitals NHS Trust,GBR,Health,2
+1434,University of Jinan,CHN,Universities,1
+1435,San Francisco General Hospital,USA,Health,1
+1436,National Physical Laboratory,GBR,Government,1
+1437,South China Normal University,CHN,Universities,1
+1437,Chang'an University ,CHN,Universities,1
+1437,Helmholtz Institute Ulm,DEU,Government,1
+1440,Natural Environment Research Council *,GBR,Government,1
+1441,Parque Cientifico y Tecnologico de Vizcaya,ESP,Non-Profit,1
+1441,"Abbott Laboratories, United States",USA,Companies,1
+1443,Royal Melbourne Hospital,AUS,Health,1
+1444,Gwangju Institute of Science and Technology,KOR,Universities,1
+1445,Deutsches Rheuma Forschungszentrum Berlin,DEU,Government,1
+1446,Dow Chemical Co *,MUL,Companies,2
+1446,"City University of New York, City College",USA,Universities,1
+1448,Forsyth Institute,USA,Health,1
+1449,VA St Louis Health Care System,USA,Health,1
+1449,Fimlab Laboratories,FIN,Health,1
+1451,Netherlands Institute for Neuroscience,NLD,Government,1
+1451,Hitachi Energy,MUL,Companies,1
+1451,Fundacio per al Foment de la Investigacio Sanitaria i Biomedica,ESP,Non-Profit,1
+1454,Environment Canada,CAN,Government,1
+1455,AB Volvo *,MUL,Companies,1
+1456,Osterreichische Akademie der Wissenschaften *,AUT,Government,1
+1457,"University of Texas, San Antonio",USA,Universities,2
+1458,Rush University Medical Center,USA,Health,1
+1458,Instituto de la Grasa de Sevilla,ESP,Government,1
+1460,Centro Superior de Investigacion en Salud Publica *,ESP,Health,1
+1460,VCU Medical Center,USA,Health,2
+1462,"University of California, Irvine Healthcare",USA,Health,2
+1463,Conselleria de Sanidad A Coruna,ESP,Health,1
+1463,Rensselaer Polytechnic Institute,USA,Universities,1
+1465,Chonnam National University,KOR,Universities,1
+1465,Ingenierie des Materiaux Polymeres,FRA,Government,1
+1467,Ghent University Hospital,BEL,Health,2
+1468,University of Eastern Finland,FIN,Universities,1
+1468,Chungnam National University,KOR,Universities,1
+1470,CIC energiGUNE,ESP,Government,1
+1470,Anhui University,CHN,Universities,1
+1472,Institute of Molecular and Clinical Ophthalmology Basel,CHE,Government,2
+1473,Gadjah Mada University,IDN,Universities,1
+1473,Telecom ParisTech,FRA,Universities,1
+1475,Sichuan Agricultural University,CHN,Universities,1
+1475,Royal Children's Hospital Melbourne,AUS,Health,1
+1475,Sherbrooke University *,CAN,Universities,1
+1478,Laboratoire d'Informatique Gaspard-Monge,FRA,Government,1
+1479,Max Planck Institut fur Evolutionare Anthropologie,DEU,Government,1
+1480,"Institute of Physics, Chinese Academy of Sciences",CHN,Government,1
+1481,Fraunhofer Institut fur Angewandte Optik und Feinmechanik,DEU,Government,1
+1482,Centre Hospitalier Universitaire de Nantes *,FRA,Health,1
+1483,Instituto Goncalo Moniz,BRA,Health,1
+1484,"Kunming Institute of Botany, Chinese Academy of Science",CHN,Government,1
+1485,Centre Hospitalier Regional Universitaire de Lille *,FRA,Health,1
+1486,"Corning, USA",USA,Companies,1
+1487,Max Planck Institut fur Chemische Okologie,DEU,Government,1
+1487,Karl Franzens Universitat Graz *,AUT,Universities,1
+1489,Universita della Svizzera Italiana *,CHE,Universities,2
+1490,USF Health,USA,Universities,1
+1491,Kansas State University,USA,Universities,1
+1491,National Institute for Health and Welfare,FIN,Health,1
+1493,Baker IDI Heart and Diabetes Institute,AUS,Health,1
+1493,National Institute for Materials Science,JPN,Government,1
+1495,"Xi'an Institute of Optics and Precision Mechanics, Chinese Academy of Sciences",CHN,Government,1
+1496,Instituto de Investigacion Sanitaria de Navarra,ESP,Health,1
+1497,NIHR Nottingham Biomedical Research Centre,GBR,Health,2
+1498,Institut fur Quantenoptik und Quanteninformation Osterreichische Akademie der Wissenschaften,AUT,Government,1
+1499,Universita degli Studi di Salerno,ITA,Universities,1
+1499,Kobe University *,JPN,Universities,1
+1501,"China University of Petroleum, Beijing",CHN,Universities,1
+1501,Mount Sinai Hospital Joseph and Wolf Lebovic Health Complex,CAN,Health,1
+1501,Nottingham University Hospitals NHS Trust,GBR,Health,2
+1504,University of Louisville *,USA,Universities,1
+1504,Simons Foundation,USA,Non-Profit,1
+1506,Taiyuan University of Technology,CHN,Universities,1
+1506,National Health Research Institutes,TWN,Health,1
+1506,Murdoch Children's Research Institute,AUS,Health,1
+1509,Universita degli Studi della Campania Luigi Vanvitelli,ITA,Universities,1
+1509,Max Planck Institut fur Festkorperforschung,DEU,Government,2
+1509,Instituto de Salud Global de Barcelona,ESP,Health,1
+1512,Max Planck Institut fur Evolutionsbiologie,DEU,Government,2
+1512,Ningbo University,CHN,Universities,1
+1514,Parc de Salut Mar de Barcelona *,ESP,Health,1
+1515,Mossakowski Medical Research Centre Polish Academy of Sciences,POL,Government,1
+1515,Institute of Chemical Biology and Fundamental Medicine Russian Academy of Sciences,RUS,Government,1
+1517,Max Planck Institut fur die Physik des Lichts,DEU,Government,1
+1517,Anhui Agricultural University,CHN,Universities,1
+1519,Basque Research and Technology Alliance *,ESP,Government,1
+1519,Boeing Co *,MUL,Companies,2
+1521,Institut de Psychiatrie et Neurosciences de Paris,FRA,Government,1
+1521,Istituto di Tecnologie Biomediche,ITA,Government,1
+1523,Institut Catala d'Investigacio Quimica,ESP,Government,1
+1523,National University Health System *,SGP,Health,1
+1525,Jiangsu Provincial Government *,CHN,Government,1
+1526,Hospital Universitario Fundacion Jimenez Diaz,ESP,Health,1
+1527,Universita degli Studi di Messina,ITA,Universities,1
+1528,Daegu Gyeongbuk Institute of Science and Technology,KOR,Universities,1
+1529,Universita Vita-Salute San Raffaele,ITA,Universities,1
+1530,Doheny Eye Institute,USA,Health,1
+1531,Mario Negri Istituto di Ricerche Farmacologiche,ITA,Health,1
+1531,Parque Tecnologico de Ciencias de la Salud,ESP,Non-Profit,1
+1531,Sunnybrook Health Sciences Centre,CAN,Health,1
+1534,The Manchester Metropolitan University,GBR,Universities,1
+1535,Helios Kliniken GmbH *,DEU,Health,1
+1535,Bernhard Nocht Institut fur Tropenmedizin,DEU,Health,1
+1537,Helmholtz Zentrum fur Umweltforschung,DEU,Government,1
+1538,Institute of Molecular Biology and Biotechnology,GRC,Government,1
+1538,AO Research Institute,CHE,Health,2
+1540,Peng Cheng Laboratory,CHN,Government,1
+1540,"National Institutes of Biomedical Innovation, Health and Nutrition",JPN,Health,1
+1542,Istituto Dalle Molle di Studi sull'Intelligenza Artificiale,CHE,Government,1
+1542,Henry Ford Health System,USA,Health,1
+1542,Universidad de Valladolid *,ESP,Universities,1
+1545,Institut de Genomique Fonctionnelle,FRA,Government,1
+1545,"Xinjiang Technical Institute of Physics and Chemistry, Chinese Academy of Sciences",CHN,Government,1
+1547,Max Planck Institut fur Dynamik Komplexer Technischer Systeme,DEU,Government,2
+1547,San Diego State University,USA,Universities,1
+1547,Deutsches Diabetes-Zentrum - Leibniz-Zentrum fur Diabetes-Forschung an der Heinrich-Heine-Universitat Dusseldorf,DEU,Government,2
+1550,Brunel University,GBR,Universities,2
+1550,Institut de Recherche en Informatique et Systemes Aleatoires,FRA,Government,1
+1552,Universite Paris-Est Creteil *,FRA,Universities,1
+1552,Heidelberger Institut fur Theoretische Studien,DEU,Non-Profit,1
+1554,Singapore National Eye Centre *,SGP,Health,2
+1554,Qilu University of Technology,CHN,Universities,1
+1554,Gachon University,KOR,Universities,1
+1557,Deutsches Institut fur Ernahrungsforschung Potsdam-Rehbrucke,DEU,Government,1
+1558,Universitatsklinikum Bonn,DEU,Health,2
+1559,Fujian Agriculture and Forestry University,CHN,Universities,1
+1560,Assistance Publique Hopitaux de Marseille *,FRA,Health,1
+1560,"Fondazione IRCCS Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena",ITA,Health,1
+1562,Technische Universitat Braunschweig,DEU,Universities,2
+1562,Universitatsklinikum Frankfurt,DEU,Health,2
+1564,Handong Global University,KOR,Universities,1
+1565,Chevron Corp,USA,Companies,1
+1566,Consorzio Nazionale Interuniversitario per le Telecomunicazioni,ITA,Government,1
+1567,University of Chicago Medical Center ,USA,Health,2
+1568,State University - Higher School of Economics,RUS,Universities,1
+1568,Laboratoire Traitement et Communication de l'Information,FRA,Government,1
+1570,Conselleria do Medio Rural Ourense,ESP,Government,1
+1571,"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",CHN,Government,1
+1571,Danish Cancer Society,DNK,Health,1
+1571,Auburn University,USA,Universities,1
+1574,Deutsche Forschungszentrum fur Kunstliche Intelligenz,DEU,Government,1
+1575,Changsha University of Science and Technology,CHN,Universities,1
+1576,Affiliated People's Hospital of Jiangsu University,CHN,Health,1
+1576,Royal Netherlands Meteorological Institute,NLD,Government,1
+1576,Chang Gung University,TWN,Universities,1
+1579,King Fahd University of Petroleum and Minerals,SAU,Universities,1
+1580,Universite de Lyon,FRA,Universities,1
+1581,Universitat Potsdam *,DEU,Universities,1
+1581,Gobierno de Aragon *,MUL,Government,1
+1583,University of Ulster,GBR,Universities,2
+1583,Carleton University,CAN,Universities,1
+1585,Seoul National University Bundang Hospital,KOR,Health,1
+1585,Ecole Normale Superieure de Paris *,FRA,Universities,1
+1587,Shriners Hospitals for Children *,MUL,Health,3
+1588,University of Western Sydney,AUS,Universities,1
+1588,Centre Henri Becquerel,FRA,Health,1
+1590,Conselleria de Sanitat Universal i Salut Publica Valencia,ESP,Health,1
+1591,General Motors Company *,MUL,Companies,1
+1592,Kings College Hospital NHS Foundation Trust,GBR,Health,2
+1593,Guangdong Power Grid Co Ltd,CHN,Companies,1
+1594,Utah State University *,USA,Universities,1
+1594,Korea Institute of Oriental Medicine,KOR,Government,1
+1594,University of Tromso - The Arctic University of Norway,NOR,Universities,1
+1597,Newcastle upon Tyne Hospitals NHS Foundation Trust,GBR,Health,2
+1598,Illinois Institute of Technology,USA,Universities,1
+1598,Inha University,KOR,Universities,1
+1600,China National Rice Research Institute,CHN,Government,1
+1600,Hacettepe University,TUR,Universities,1
+1600,"Institute of Semiconductors, Chinese Academy of Sciences",CHN,Government,1
+1603,Florey Neuroscience Institutes,AUS,Health,1
+1604,Eusko Jaurlaritza *,MUL,Government,1
+1604,L'Unite de Recherche de l'Institut du Thorax,FRA,Government,1
+1606,Institut Paoli Calmettes,FRA,Health,1
+1607,University of Delhi *,IND,Universities,1
+1607,Ikerbasque-Basque Foundation for Science,ESP,Government,1
+1609,Ton Duc Thang University,VNM,Universities,1
+1609,"Institute of Science and Technology, Austria",AUT,Government,1
+1611,National Center for Atmospheric Research,USA,Government,1
+1611,Hubei University,CHN,Universities,1
+1613,"World Health Organization Regional Office for the Eastern Mediterranean, Egypt",EGY,Health,1
+1614,"Kinderspital Zurich, Universitats-Kinderklinik",CHE,Health,2
+1615,Hospital Universitario HM Sanchinarro,ESP,Health,1
+1616,University Hospitals of Cleveland  *,USA,Health,1
+1617,Gobierno de Navarra  *,ESP,Government,1
+1618,"Northwest University, Xi'an",CHN,Universities,1
+1619,Universita degli Studi di Trieste,ITA,Universities,1
+1620,Norwegian Institute of Public Health,NOR,Health,1
+1621,Instituto de Recursos Naturales y Agrobiologia de Sevilla,ESP,Government,1
+1622,Flinders University,AUS,Universities,1
+1623,University of New Mexico Health Sciences Center,USA,Health,1
+1623,Universita degli Studi di Brescia,ITA,Universities,1
+1623,Synopsys Inc *,MUL,Companies,2
+1623,"Indian Institute of Technology, Kharagpur",IND,Universities,1
+1627,Institut de Ciencies Fotoniques,ESP,Government,1
+1627,Estacion Experimental del Zaidin ,ESP,Government,1
+1629,"Centro de Investigacion Biomedica en Red de Enfermedades Hepaticas y Digestivas, Madrid",ESP,Health,1
+1630,European Centre for Disease Prevention and Control,SWE,Health,1
+1631,Laboratoire Jean Kuntzmann,FRA,Government,1
+1632,Health Data Research UK,GBR,Non-Profit,1
+1632,Heuristique et Diagnostic des Systemes Complexes,FRA,Government,1
+1634,Instituto de Tecnologia Quimica,ESP,Government,1
+1634,University of Essex,GBR,Universities,1
+1634,Universidade de Brasilia,BRA,Universities,1
+1637,Carnegie Institution for Science *,USA,Non-Profit,1
+1638,The Fifth Medical Center of the PLA General Hospital,CHN,Health,1
+1639,Instituto Nacional de Infectologia Evandro Chagas,BRA,Health,1
+1640,Public Health Agency of Canada,CAN,Health,1
+1640,Fondazione Bruno Kessler,ITA,Non-Profit,1
+1642,"University of Arkansas, Fayetteville",USA,Universities,2
+1643,Ewha Womans University *,KOR,Universities,1
+1643,Children's Healthcare of Atlanta ,USA,Health,2
+1645,"Institute of Zoology, Chinese Academy of Sciences",CHN,Government,1
+1646,Universitatsklinikum Munster,DEU,Health,2
+1646,"Centro de Investigacion Biomedica en Red en Bioingenieria, Biomateriales y Nanomedicina, Madrid",ESP,Health,1
+1648,"Indian Institute of Technology, Delhi",IND,Universities,1
+1648,University of Hawai'i Cancer Center,USA,Health,1
+1648,Stevens Institute of Technology,USA,Universities,1
+1648,NHS Greater Glasgow and Clyde,GBR,Health,2
+1648,"New York University, Abu Dhabi",ARE,Universities,1
+1653,Astellas Pharma Inc,JPN,Companies,1
+1653,Istituto per la Tecnologia delle Membrane,ITA,Government,1
+1655,Mashhad University of Medical Sciences,IRN,Universities,1
+1656,"Nippon Telegraph and Telephone Corp, USA",USA,Companies,1
+1657,Institut de Recherche sur le Cancer de Lille *,FRA,Health,1
+1658,"Pfizer Inc, United Kingdom",GBR,Companies,1
+1658,Centre Tecnologic de Telecomunicacions de Catalunya,ESP,Non-Profit,1
+1660,Taipei Veterans General Hospital,TWN,Health,1
+1661,European Space Agency *,MUL,Government,1
+1661,Universidad Europea de Madrid *,ESP,Universities,1
+1663,James Cook University *,AUS,Universities,1
+1663,Liverpool John Moores University,GBR,Universities,2
+1665,Finnish Meteorological Institute,FIN,Government,1
+1666,Marine Biological Laboratory,USA,Non-Profit,2
+1666,"Medtronic Inc, USA",USA,Companies,1
+1668,Laboratoire de Genie Chimique de Toulouse,FRA,Government,1
+1669,"Unilever, United Kingdom",GBR,Companies,1
+1669,Ministry of Industry and Information Technology,CHN,Government,1
+1669,University of Kentucky HealthCare,USA,Health,1
+1672,University of Nevada-Reno,USA,Universities,1
+1672,Peking Union Medical College Hospital Beijing,CHN,Health,1
+1674,Hong Kong Baptist University,HKG,Universities,2
+1674,Irish Agriculture and Food Development Authority,IRL,Government,1
+1676,Centro de Edafologia y Biologia Aplicada del Segura,ESP,Government,1
+1677,Max Planck UCL Centre for Computational Psychiatry and Ageing Research,DEU,Government,1
+1677,Shandong Agricultural University,CHN,Universities,1
+1679,Instituto Oswaldo Cruz,BRA,Health,1
+1679,Universita Politecnica delle Marche,ITA,Universities,1
+1681,University of Kansas Medical Center,USA,Health,2
+1681,Texas Children's Hospital ,USA,Health,2
+1683,Second Xiangya Hospital Affiliated to Central South University,CHN,Health,1
+1684,"University of Technology, Malaysia",MYS,Universities,1
+1685,St Georges University of London,GBR,Universities,2
+1686,Diamond Light Source,GBR,Government,1
+1687,Air Force Medical University *,CHN,Universities,1
+1687,National Kyushu Cancer Center,JPN,Health,1
+1689,Korea Food Research Institute,KOR,Government,1
+1690,Honda Motor Co Ltd *,MUL,Companies,2
+1691,Philipps-Universitat Marburg *,DEU,Universities,1
+1692,West China Hospital of Stomatology,CHN,Health,1
+1693,Leibniz Institut fur Naturstoff-Forschung und Infektionsbiologie e.V. Hans-Knoll-Institut,DEU,Government,1
+1693,Max Planck Institut fur Biologische Kybernetik,DEU,Government,2
+1695,Ruijin Hospital,CHN,Health,1
+1696,"National University of Ireland, Galway",IRL,Universities,1
+1697,University of Mississippi *,USA,Universities,2
+1697,University of Iowa Health Care,USA,Health,2
+1699,University of Johannesburg,ZAF,Universities,1
+1700,Tabriz University of Medical Sciences,IRN,Universities,1
+1701,Hainan University,CHN,Universities,1
+1701,Smithsonian Environmental Research Center,USA,Government,1
+1703,"Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences",CHN,Government,1
+1703,Nanjing Normal University,CHN,Universities,1
+1705,National Taiwan University of Science and Technology,TWN,Universities,1
+1705,Renmin Hospital of Wuhan University,CHN,Health,1
+1707,The Ottawa Hospital  *,CAN,Health,1
+1708, Centre Hospitalier de l'Universite de Montreal,CAN,Health,2
+1709,Maccabi Health Care Services,ISR,Health,1
+1710,Singapore Eye Research Institute,SGP,Health,1
+1710,Juntendo University *,JPN,Universities,1
+1712,Gottfried Wilhelm Leibniz Universitat Hannover,DEU,Universities,2
+1713,"United Nations Educational, Scientific and Cultural Organization",MUL,Non-Profit,1
+1713,"Volkswagen AG, Germany",DEU,Companies,1
+1713,Atrium Health *,USA,Health,2
+1716,Instituto Regional de Investigacion y Desarrollo Agroalimentario y Forestal de Castilla La Mancha,ESP,Government,1
+1717,Universita degli Studi di Siena,ITA,Universities,1
+1718,Nicolaus Copernicus University,POL,Universities,1
+1719,"Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences",CHN,Government,1
+1720,George Institute for International Health *,AUS,Health,1
+1721,"Institute of Acoustics, Chinese Academy of Sciences",CHN,Government,1
+1722,Texas A&M University at Qatar,QAT,Universities,1
+1723,National Center of Neurology and Psychiatry,JPN,Health,1
+1723,Max Planck Institut fur Chemische Physik Fester Stoffe,DEU,Government,2
+1723,Heriot-Watt University *,MUL,Universities,2
+1726,Chonbuk National University *,KOR,Universities,1
+1726,Japanese Foundation for Cancer Research,JPN,Health,1
+1728,Instituto Tecnologico y de Estudios Superiores de Monterrey *,MEX,Universities,1
+1729,Yeungnam University,KOR,Universities,1
+1730,Bar-Ilan University,ISR,Universities,1
+1731,State University of New York at Binghamton,USA,Universities,2
+1732,Chiba University *,JPN,Universities,1
+1732,Netherlands Organisation for Applied Scientific Research *,MUL,Government,2
+1734,Istituto di Cristallografia,ITA,Government,1
+1734,Paul Scherrer Institute,CHE,Government,2
+1736,Okinawa Institute of Science and Technology Graduate University,JPN,Universities,1
+1736,Scuola Superiore S. Anna di Studi Universitari e di Perfezionamento *,ITA,Universities,1
+1738,University of Portsmouth,GBR,Universities,2
+1739,Swedish Health Services,USA,Health,2
+1739,Institut Hospital del Mar d’Investigacions Mediques,ESP,Health,1
+1739,Haukeland University Hospital,NOR,Health,1
+1742,Kwangwoon University,KOR,Universities,1
+1743,The Open University,GBR,Universities,1
+1743,Zhejiang Sci-Tech University,CHN,Universities,1
+1745,University of Tennessee Health Science Center,USA,Health,2
+1745,Institut MitoVasc,FRA,Government,1
+1745,Institut de Chimie de la Matiere Condensee de Bordeaux,FRA,Government,1
+1748,University of Vermont,USA,Universities,1
+1748,Duy Tan University,VNM,Universities,1
+1748,Netherlands Environmental Assessment Agency,NLD,Government,1
+1751,Papworth Hospital NHS Foundation Trust,GBR,Health,1
+1752,National Academy of Sciences of Ukraine *,UKR,Government,1
+1752,"Instituto de Investigacion Sanitaria FJD, UAM",ESP,Health,1
+1754,Institut Polytechnique de Grenoble *,FRA,Universities,1
+1755,Qingdao National Laboratory for Marine Science and Technology,CHN,Government,1
+1756,Universitat Rovira i Virgili *,ESP,Universities,1
+1756,"Cardiovasculaire, Metabolisme, Diabetologie & Nutrition",FRA,Government,1
+1758,Fraunhofer Institut fur Werkstoff- und Strahltechnik,DEU,Government,1
+1759,Institut de Biologie de l'Ecole Normale Superieure,FRA,Government,1
+1759,Centro di Riferimento Oncologico Aviano IRCCS,ITA,Health,1
+1761,Montreal Neurological Institute and Hospital,CAN,Health,1
+1761,Northeast Forestry University,CHN,Universities,1
+1761,Institut de Recerca i Tecnologia Agroalimentaries Barcelona,ESP,Government,1
+1764,Taipei Medical University,TWN,Universities,1
+1764,Shanghai Institute of Microsystem and Information Technology,CHN,Government,1
+1766,Institut de Diagnosi Ambiental i Estudis de l'Aigua,ESP,Government,1
+1766,"Kaiser Permanente Medical Center, San Francisco",USA,Health,1
+1768,Chiang Mai University,THA,Universities,1
+1768,Centre for Eye Research Australia,AUS,Health,1
+1768,Instituto Israelita de Ensino e Pesquisa Albert Einstein,BRA,Health,1
+1771,Bilkent University,TUR,Universities,1
+1771,Plymouth University,GBR,Universities,2
+1771,ExxonMobil *,MUL,Companies,2
+1771,Universita degli Studi di Cagliari,ITA,Universities,1
+1771,Frontiers Media SA,CHE,Companies,1
+1776,Budapest University of Technology and Economics,HUN,Universities,1
+1777,Xunta de Galicia *,MUL,Government,1
+1777,Austrian Institute of Technology,AUT,Government,1
+1779,Dublin City University,IRL,Universities,1
+1779,State Grid Zhejiang Electric Power Co,CHN,Companies,1
+1779,GlobalFoundries Inc *,MUL,Companies,2
+1779,Inova Fairfax Hospital,USA,Health,1
+1783,Barcelona Supercomputing Center *,ESP,Government,1
+1783,Generalitat Valenciana *,MUL,Government,1
+1785,State Key Laboratory of Cryptology,CHN,Government,1
+1785,Universitatsklinikums Aachen,DEU,Health,2
+1787,National Defense Medical Center,TWN,Health,1
+1787,"Novartis Pharmaceuticals, United States",USA,Companies,1
+1789,Sylhet Agricultural University,BGD,Universities,1
+1790,Wenzhou University,CHN,Universities,1
+1791,Sciences Chimiques de Rennes,FRA,Government,1
+1791,Guangzhou University of Traditional Chinese Medicine *,CHN,Universities,1
+1793,Centre de Cooperation Internationale en Recherche Agronomique pour le Developpement *,FRA,Government,1
+1794,Odense University Hospital,DNK,Health,2
+1795,First Hospital of Jilin University,CHN,Health,1
+1796,"Hefei Institutes of Physical Sciences, Chinese Academy of Sciences",CHN,Government,1
+1797,Flemish Institute for Technological Research,BEL,Government,2
+1798,"Toshiba Corp, Japan",JPN,Companies,1
+1799,Universitat Jaume I *,ESP,Universities,1
+1800,Empresa Brasileira de Pesquisa Agropecuaria *,BRA,Government,1
+1801,Manipal University,IND,Universities,1
+1801,"National Innovation Institute of Defense Technology, Academy of Military Sciences of PLA",CHN,Government,1
+1801,Centro de Investigacion Biomedica en Red de Enfermedades Raras,ESP,Health,1
+1804,Institut des Systemes Intelligents et de Robotique,FRA,Government,1
+1805,"World Health Organization, Denmark",DNK,Health,1
+1806,Lille Neuroscience et Cognition Research Centre,FRA,Health,1
+1807,VA Palo Alto Health Care System,USA,Health,1
+1808,"Sandia National Laboratories, California",USA,Government,1
+1808,Syngenta *,MUL,Companies,3
+1808,Max Planck Institut fur Dynamik und Selbstorganisation,DEU,Government,2
+1811,Universite Clermont-Auvergne,FRA,Universities,1
+1811,Centre Hospitalier Universitaire de Quebec,CAN,Health,1
+1811,Fundacao Calouste Gulbenkian *,PRT,Non-Profit,1
+1811,Shandong Normal University,CHN,Universities,1
+1815,Fraunhofer Institut fur Angewandte Informationstechnik,DEU,Government,2
+1816,"Fraunhofer-Institut fur Optronik, Systemtechnik und Bildauswertung",DEU,Government,1
+1816,Brigham Young University,USA,Universities,1
+1818,"International Centre for Genetic Engineering and Biotechnology, Trieste",ITA,Government,1
+1819,Istituto di Biostrutture e Bioimmagini,ITA,Government,1
+1819,China Electric Power Research Institute,CHN,Companies,1
+1821,Instituto IMDEA Materiales,ESP,Government,1
+1822,Shanghai Cancer Center Fudan University,CHN,Health,1
+1822,Texas Tech University,USA,Universities,2
+1824,Shaanxi University of Science and Technology,CHN,Universities,1
+1824,Ecole Nationale Superieure de Chimie de Montpellier *,FRA,Universities,1
+1826,Instituto Aggeu Magalhaes,BRA,Health,1
+1827,Institute of Macromolecular Chemistry of the ASCR,CZE,Government,1
+1827,Helmholtz-Zentrum fur Informationssicherheit,DEU,Government,2
+1829,Universidad de Alcala *,ESP,Universities,1
+1830,Xi'an University of Technology,CHN,Universities,1
+1831,"Computer Network Information Center, Chinese Academy of Sciences",CHN,Government,1
+1831,"Services Repartis, Architectures, Modelisation, Validation, Administration des Reseaux",FRA,Government,1
+1831,Kangwon National University *,KOR,Universities,1
+1834,Penn State Milton S. Hershey Medical Center,USA,Health,2
+1834,University of Oregon,USA,Universities,1
+1836,Universitat Bremen *,DEU,Universities,1
+1837,U.S. Air Force,USA,Government,2
+1838,Max Planck Institut fur Meteorologie,DEU,Government,1
+1839,Infrared Processing and Analysis Center,USA,Government,1
+1839,"University of Texas, Arlington",USA,Universities,2
+1841,Hillingdon Hospitals NHS Foundation Trust,GBR,Health,1
+1842,Universidad de Castilla-La Mancha *,ESP,Universities,1
+1842,Universidade Federal de Sao Paulo *,BRA,Universities,1
+1842,"Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",CHN,Government,1
+1845,Rede D’Or Sao Luiz *,BRA,Health,1
+1845,Camden and Islington NHS Foundation Trust,GBR,Health,1
+1845,First Affiliated Hospital of Xi'an Jiaotong University,CHN,Health,1
+1848,Institut d'Investigacio Biomedica de Bellvitge,ESP,Health,1
+1848,Veterinary Research Institute,CZE,Government,1
+1850,Instituto de Agricultura Sostenible ,ESP,Government,1
+1850,UCSF Benioff Children's Hospital,USA,Health,2
+1850,Ecole Nationale Superieure des Mines de Paris,FRA,Universities,1
+1853,GE Healthcare,MUL,Companies,3
+1854,Forschungszentrum Borstel – Leibniz-Zentrum fur Medizin und Biowissenschaften,DEU,Government,1
+1854,Institut Bergonie *,FRA,Government,1
+1856,South London and Maudsley NHS Foundation Trust,GBR,Health,1
+1856,Simula Research Laboratory,NOR,Government,1
+1858,Anhui Medical University *,CHN,Universities,1
+1858,Universita degli Studi di Ferrara,ITA,Universities,1
+1860,"Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid",ESP,Health,1
+1860,Istituto di Elettronica e di Ingegneria dell'Informazione e delle Telecomunicazioni,ITA,Government,1
+1862,Istituto Ortopedico Galeazzi,ITA,Health,1
+1862,Hudson Institute of Medical Research,AUS,Non-Profit,1
+1862,Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH,DEU,Non-Profit,1
+1865,Massachusetts Eye and Ear Infirmary ,USA,Health,2
+1866,"Lipides, Nutrition, Cancer",FRA,Government,1
+1866,Centre de Recherche Saint Antoine,FRA,Government,1
+1868,Instituto de Investigacion en Ciencias de la Salud Germans Trias i Pujol,ESP,Health,1
+1868,Centro de Investigacion Biomedica en Red Fisiopatologia de la Obesidad y Nutricion,ESP,Health,1
+1870,Azienda Ospedaliero Universitaria di Bologna - Policlinico di Sant'Orsola Malpighi,ITA,Health,1
+1871,Population Health Research Institute,CAN,Health,1
+1871,Universite de Bourgogne *,FRA,Universities,1
+1873,Institut National des Sciences Appliquees de Rennes *,FRA,Universities,1
+1874,Coventry University,GBR,Universities,1
+1875,George Washington The School of Medicine & Health Sciences,USA,Health,1
+1876,Fraunhofer Institut fur Produktionstechnik und Automatisierung,DEU,Government,2
+1877,Max Planck Institute fur Gravitationsphysik,DEU,Government,1
+1878,"Indian Institute of Technology, Bombay *",IND,Universities,1
+1878,Ministry of Health,ISR,Health,1
+1878,Hackensack University Medical Center,USA,Health,1
+1881,University of Huddersfield,GBR,Universities,2
+1882,Shanghai Academy of Agricultural Sciences,CHN,Government,1
+1882,"Kaiser Permanente, Oakland *",USA,Health,1
+1884,United Nations International Children's Emergency Fund *,MUL,Non-Profit,1
+1885,"Agence Nationale de la Securite Sanitaire de l'Alimentation, de l'Environnement et du Travail *",FRA,Health,1
+1885,"State University of New York, Albany",USA,Universities,2
+1885,Hopital Erasme,BEL,Health,2
+1885,Istituto Oncologico Veneto,ITA,Health,1
+1889,National Cancer Center,KOR,Health,1
+1889,Cliniques Universitaires Saint-Luc,BEL,Health,2
+1891,Max Planck Institut fur Physik Komplexer Systeme,DEU,Government,2
+1891,Instituto Mexicano del Seguro Social *,MEX,Health,1
+1893,Institut d'Electronique et des Technologies du Numerique,FRA,Government,1
+1893,Romanian Academy *,ROU,Government,1
+1895,Max Planck Institut fur Extraterrestrische Physik,DEU,Government,1
+1895,Research Centre for Natural Sciences,HUN,Government,1
+1897,University of Akron,USA,Universities,1
+1898,"Oklahoma State University, Stillwater *",USA,Universities,1
+1898,Rural Development Administration *,KOR,Government,1
+1900,Sir Mortimer B. Davis Jewish General Hospital,CAN,Health,1
+1900,Centre de Recherche en Acquisition et Traitement de l'Image pour la Sante,FRA,Government,1
+1900,"City University of New York, Hunter College",USA,Universities,1
+1900,Nanfang Hospital,CHN,Health,1
+1904,Khalifa University *,ARE,Universities,1
+1904,Netherlands Institute of Ecology,NLD,Government,2
+1906,Kennedy Krieger Institute,USA,Health,2
+1906,Hospital Israelita Albert Einstein,BRA,Health,1
+1906,Memorial University of Newfoundland,CAN,Universities,1
+1909,Tennessee Valley Healthcare System,USA,Health,2
+1910,Fundacion Agencia Aragonesa para la Investigacion y Desarrollo,ESP,Government,1
+1911,Fondazione IRCCS Policlinico San Matteo ,ITA,Health,2
+1911,Liverpool Hospital ,AUS,Health,1
+1913,Indiana University Health,USA,Health,2
+1914,Institute of Microelectronics,SGP,Government,2
+1914,Los Angeles Biomedical Research Institute,USA,Health,1
+1916,State University of Bangladesh,BGD,Universities,1
+1917,National Center for Geriatrics and Gerontology *,JPN,Health,1
+1917,Institut de Chimie de Strasbourg,FRA,Government,1
+1919,"National University of Science and Technology, Islamabad",PAK,Universities,1
+1920,Lankenau Institute for Medical Research,USA,Health,1
+1921,Ministerio de Ciencia e Innovacion *,MUL,Government,1
+1922,Food and Agriculture Organization of the United Nations,MUL,Non-Profit,1
+1922,Centro de Fisica Miguel Antonio Catalan CS,ESP,Government,1
+1922,Sun Yat-sen University Second Hospital,CHN,Health,1
+1922,Universidad de Antioquia *,COL,Universities,1
+1926,RISE Research Institutes of Sweden *,SWE,Government,1
+1927,Laboratoire d'Informatique de Paris 6,FRA,Government,1
+1927,KBR Inc *,MUL,Companies,2
+1929,University of Shanghai for Science and Technology,CHN,Universities,1
+1930,Rolls-Royce Holdings plc *,MUL,Companies,3
+1930,Beijing Forestry University,CHN,Universities,1
+1930,VA San Diego Healthcare System,USA,Health,2
+1930,National Center for Global Health and Medicine,JPN,Health,1
+1934,Ministry of Health,SAU,Health,1
+1935,National Cheng Kung University Hospital,TWN,Health,1
+1936,"Institute of Microelectronics, Chinese Academy of Sciences",CHN,Government,1
+1936,National Institute of Information and Communications Technology,JPN,Government,1
+1938,Institut National de Physique Nucleaire et de Physique des Particules,FRA,Government,1
+1938,Okayama University *,JPN,Universities,1
+1938,Toyota Technological Institute,MUL,Universities,2
+1938,Ecole Pratique des Hautes Etudes,FRA,Universities,1
+1942,"Grupo Hospitalario Quironsalud, Spain",ESP,Health,1
+1942,"International Institute of Information Technology, Hyderabad",IND,Universities,1
+1944,Smithsonian Conservation Biology Institute,USA,Government,1
+1944,Akershus University Hospital,NOR,Health,1
+1944,University of Rhode Island,USA,Universities,2
+1947,National Chung Hsing University,TWN,Universities,1
+1948,Folkhalsan,FIN,Health,2
+1949,"AgroParisTech, Institut des Sciences et Industries du Vivant et de l'Environnement",FRA,Universities,1
+1950,Universita degli Studi del Piemonte Orientale Amedeo Avogadro,ITA,Universities,1
+1950,Airbus SAS *,MUL,Companies,2
+1952,University of North Texas,USA,Universities,1
+1952,Centre Hospitalier Universitaire de Montpellier *,FRA,Health,1
+1954,U.S. Army *,USA,Government,1
+1955,International Iberian Nanotechnology Laboratory,PRT,Government,1
+1955,University of Jyvaskyla,FIN,Universities,2
+1957,Shanghai University of Traditional Chinese Medicine *,CHN,Universities,1
+1958,Michigan Technological University,USA,Universities,2
+1958,Institut Parisien de Chimie Moleculaire,FRA,Government,1
+1958,"Indian Institute of Technology, Madras",IND,Universities,1
+1958,Pharmaceutical Product Development LLC,USA,Companies,2
+1962,Nanjing Drum Tower Hospital,CHN,Health,1
+1963,Huzhou University,CHN,Universities,1
+1964,"Research Institute of Industrial Science & Technology, Pohang",KOR,Government,1
+1965,Adam Mickiewicz University,POL,Universities,1
+1965,McLean Hospital,USA,Health,2
+1965,Instituto Smithsonian de Investigaciones Tropicales,PAN,Government,1
+1968,Grenoble Institut des Neurosciences,FRA,Government,2
+1969,Instituto Rene Rachou,BRA,Health,1
+1970,Augusta University *,USA,Universities,2
+1970,Universitatsklinikum Leipzig,DEU,Health,1
+1970,University of Szeged,HUN,Universities,1
+1973,Instituto Carlos Chagas,BRA,Health,1
+1974,Public Health Ontario,CAN,Health,1
+1974,"Institute of Software, Chinese Academy of Science",CHN,Government,1
+1976,"Institute of Atomic and Molecular Sciences, Academia Sinica",TWN,Government,1
+1976,Hangzhou Normal University *,CHN,Universities,1
+1978,Hallym University *,KOR,Universities,1
+1978,Ankara University,TUR,Universities,1
+1980,Basque Excellence Research Centre *,ESP,Government,1
+1981,State Grid Sichuan Electric Power Research Institute,CHN,Non-Profit,1
+1981,University of Lodz,POL,Universities,1
+1981,Montreal Heart Institute,CAN,Health,1
+1981,Technische Universitat Dortmund *,DEU,Universities,1
+1985,Centre Antoine Lacassagne *,FRA,Health,1
+1985,Ecole Polytechnique de Montreal,CAN,Universities,1
+1987,Abo Academy University,FIN,Universities,1
+1987,Instituto de Investigacion Sanitaria Fundacion para la Investigacion del Hospital Clinico de Valencia - INCLIVA,ESP,Health,1
+1989,Junta de Comunidades de Castilla-La Mancha Ciudad Real,ESP,Government,1
+1990,Ospedale Policlinico San Martino,ITA,Health,2
+1990,Huaqiao University,CHN,Universities,1
+1992,Swiss Federal Institute of Aquatic Science and Technology,CHE,Government,2
+1992,Tokyo Metropolitan Institute of Medical Science,JPN,Health,1
+1994,National Energy Technology Laboratory,USA,Government,2
+1995,State Key Joint Laboratory of Environmental Simulation and Pollution Control,CHN,Government,1
+1996,Rochester Institute of Technology *,USA,Universities,2
+1996,Yanshan University,CHN,Universities,1
+1998,Swedish Meteorological and Hydrological Institute,SWE,Government,1
+1999,Ottawa Hospital Research Institute,CAN,Health,2
+2000,Harry Perkins Institute of Medical Research,AUS,Health,1
+2000,Universidad de La Rioja *,ESP,Universities,1
+2000,Institut Europeen des Membranes,FRA,Government,1

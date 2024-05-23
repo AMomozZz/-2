@@ -1,0 +1,765 @@
+Global Rank,Institution,Country,Sector
+1,Veterans Affairs Medical Centers *,USA,Health
+2,Institut National de la Sante et de la Recherche Medicale *,FRA,Health
+3,Assistance Publique Hopitaux de Paris *,FRA,Health
+4,Mayo Clinic *,USA,Health
+5,Johns Hopkins University *,USA,Universities
+6,Harvard University *,USA,Universities
+7,Harvard Medical School,USA,Universities
+8,Columbia University *,USA,Universities
+9,University of Washington *,USA,Universities
+10,University of Pennsylvania *,USA,Universities
+11,Mount Sinai Health System *,USA,Health
+12,Columbia University Irving Medical Center,USA,Health
+13,Brigham and Women's Hospital *,USA,Health
+14,Yale University *,USA,Universities
+15,"University of California, San Francisco *",USA,Universities
+16,University of Groningen *,NLD,Universities
+17,Johns Hopkins Medicine,USA,Health
+18,University of Sydney *,AUS,Universities
+19,"University of Michigan, Ann Arbor *",USA,Universities
+20,National Institutes of Health,USA,Health
+21,University Medical Center Groningen,NLD,Health
+22,Universite de Paris Cite *,FRA,Universities
+23,Icahn School of Medicine at Mount Sinai,USA,Universities
+24,U.S. Department of Health & Human Services *,USA,Health
+25,Stanford University *,USA,Universities
+26,Vanderbilt University *,USA,Universities
+27,Sorbonne Universite *,FRA,Universities
+28,Peking University *,CHN,Universities
+29,University of Pennsylvania Health System,USA,Health
+30,Charite - Universitatsmedizin Berlin *,DEU,Health
+31,Karolinska Institute,SWE,Universities
+32,"Northwestern University, Evanston *",USA,Universities
+33,Centre National de la Recherche Scientifique *,FRA,Government
+34,University College London *,GBR,Universities
+35,University of Amsterdam *,NLD,Universities
+36,Yale University Health & Medicine,USA,Health
+37,George Institute for International Health *,AUS,Health
+38,University of Pittsburgh *,USA,Universities
+39,Vanderbilt University Medical Center,USA,Health
+40,The University of Queensland *,AUS,Universities
+41,Washington University Medical Center ,USA,Health
+42,Peking University Health Science Center,CHN,Universities
+43,Washington University in Saint Louis *,USA,Universities
+44,Universidad Autonoma de Madrid *,ESP,Universities
+45,Massachusetts General Hospital,USA,Health
+46,"University of California, Los Angeles *",USA,Universities
+47,Radboud University Nijmegen Medical Centre,NLD,Health
+48,"University of Minnesota, Twin Cities *",USA,Universities
+49,Tufts Medical Center,USA,Health
+50,"Ohio State University, Columbus *",USA,Universities
+51,Steno Diabetes Center,DNK,Health
+52,Northwell Health *,USA,Health
+53,University Health Network *,CAN,Health
+54,Duke University *,USA,Universities
+55,Hofstra University *,USA,Universities
+55,Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,USA,Universities
+57,"University of California, San Diego *",USA,Universities
+58,Vrije Universiteit Amsterdam *,NLD,Universities
+59,Catholic University of Leuven,BEL,Universities
+60,"University of Colorado, Denver *",USA,Universities
+61,Stanford Medicine,USA,Health
+62,Hospital Universitario Fundacion Jimenez Diaz,ESP,Health
+63,Grupo Hospitalario Quironsalud *,MUL,Health
+64,Academisch Medisch Centrum,NLD,Health
+65,"Monash University, Melbourne *",AUS,Universities
+66,University of Toronto,CAN,Universities
+67,University of Tokyo *,JPN,Universities
+68,Leiden University *,NLD,Universities
+69,Leiden University Medical Center,NLD,Health
+70,"Grupo Hospitalario Quironsalud, Spain",ESP,Health
+71,"University of Colorado, Anschutz Medical Campus",USA,Universities
+72,Cleveland Clinic *,USA,Health
+73,Huazhong University of Science and Technology *,CHN,Universities
+74,Institut Catala de la Salut Barcelona *,ESP,Health
+75,Rheinisch-Westfalische Technische Hochschule Aachen,DEU,Universities
+76,University Hospitals Leuven,BEL,Health
+77,"University of Alabama, Birmingham *",USA,Universities
+78,Northwestern Medicine,USA,Health
+79,Centres de Recerca de Catalunya *,ESP,Non-Profit
+80,UCLA Health System,USA,Health
+81,University of Pittsburgh Health Sciences,USA,Universities
+82,UC San Diego Health System,USA,Health
+83,Shanghai Jiao Tong University *,CHN,Universities
+84,University of Texas Southwestern Medical Center ,USA,Universities
+85,Baylor College of Medicine,USA,Universities
+86,"University of California, Irvine *",USA,Universities
+87,"Instituto de Investigacion Sanitaria FJD, UAM",ESP,Health
+88,"University of North Carolina, Chapel Hill *",USA,Universities
+89,Friedrich-Alexander-Universitat Erlangen-Nurnberg *,DEU,Universities
+90,Ohio State University Wexner Medical Center,USA,Health
+91,Centre Hospitalier Universitaire de Nantes *,FRA,Health
+92,Universitatsklinikum Hamburg Eppendorf,DEU,Health
+93,Universitat Hamburg *,DEU,Universities
+94,Wake Forest University *,USA,Universities
+95,Institut Necker Enfants Malades,FRA,Government
+96,Universitatsklinikum Gottingen,DEU,Health
+97,Wake Forest University Baptist Medical Center,USA,Health
+98,National Institute of Diabetes and Digestive and Kidney Diseases,USA,Health
+99,Imperial College London,GBR,Universities
+100,Instituto de Salud Carlos III *,ESP,Health
+101,Universitat Heidelberg,DEU,Universities
+102,Centre de Recherche des Cordeliers,FRA,Government
+103,VA Salt Lake City Health Care System,USA,Health
+104,Helmholtz Gemeinschaft *,DEU,Government
+105,Medizinische Hochschule Hannover,DEU,Universities
+106,Duke Medicine,USA,Health
+107,Klinikum Ludwig Maximilians Universitat Munchen,DEU,Health
+108,Ben-Gurion University of the Negev *,ISR,Universities
+109,The Children's Hospital at Westmead,AUS,Health
+110,The University of British Columbia,CAN,Universities
+111,Emory University *,USA,Universities
+112,Montefiore Medical Center *,USA,Health
+113,Universita degli Studi di Milano,ITA,Universities
+114,Albert Einstein College of Medicine,USA,Universities
+115,University of Melbourne *,AUS,Universities
+116,Samsung Corp *,MUL,Companies
+117,Tulane University *,USA,Universities
+118,Woodruff Health Sciences Center,USA,Health
+119,University of Chicago *,USA,Universities
+120,Ghent University Hospital,BEL,Health
+121,University of Calgary *,CAN,Universities
+122,University of Alberta,CAN,Universities
+123,Princess Alexandra Hospital ,AUS,Health
+124,Mario Negri Istituto di Ricerche Farmacologiche,ITA,Health
+125,Universitat Zurich,CHE,Universities
+126,University of Michigan Health System,USA,Health
+127,Southern Medical University *,CHN,Universities
+128,University of Minnesota Health and Medicine,USA,Universities
+129,Karolinska University Hospital,SWE,Health
+130,University of Leicester,GBR,Universities
+131,Erasmus Medical Center,NLD,Health
+132,University of Cambridge *,GBR,Universities
+133,Central South University *,CHN,Universities
+134,Imperial College Healthcare NHS Trust,GBR,Health
+135,Institut Mondor de Recherche Biomedicale,FRA,Government
+136,Erasmus University Rotterdam *,NLD,Universities
+137,University of New South Wales *,AUS,Universities
+138,Universite de Nantes *,FRA,Universities
+139,Case Western Reserve University,USA,Universities
+140,The University of Hong Kong *,HKG,Universities
+141,Centre Hospitalier Universitaire de Poitiers,FRA,Health
+142,Seoul National University *,KOR,Universities
+143,Hospital Universitari Vall d'Hebron,ESP,Health
+144,University of Copenhagen,DNK,Universities
+145,Fudan University *,CHN,Universities
+146,Medical Research Council,GBR,Health
+147,The University of Edinburgh *,GBR,Universities
+148,San Francisco VA Medical Center,USA,Health
+149,Hospices Civils de Lyon *,FRA,Health
+150,Showa University *,JPN,Universities
+151,George Washington University *,USA,Universities
+152,Boston University *,USA,Universities
+153,Tufts University,USA,Universities
+154,University of Utah *,USA,Universities
+155,Sichuan University *,CHN,Universities
+156,Bayer *,MUL,Companies
+157,Utrecht University *,NLD,Universities
+158,Boston University Medical Campus ,USA,Health
+159,VA San Diego Healthcare System,USA,Health
+160,Yonsei University *,KOR,Universities
+161,University of Oxford *,GBR,Universities
+162,University Medical Center Utrecht,NLD,Health
+163,Queen Mary Hospital Hong Kong,HKG,Health
+164,Medizinische Universitat Wien,AUT,Universities
+165,Cincinnati Children's Hospital Medical Center,USA,Health
+166,Ospedale Pediatrico Bambino Gesu,VAT,Health
+167,Children's Hospital Boston  *,USA,Health
+168,Universite Claude Bernard Lyon 1 *,FRA,Universities
+169,Universite Paris-Est Creteil *,FRA,Universities
+170,Kings College London,GBR,Universities
+171,University of Virginia *,USA,Universities
+172,Nanfang Hospital,CHN,Health
+173,Great Ormond Street Hospital for Children NHS Trust,GBR,Health
+174,Tel Aviv University,ISR,Universities
+175,Centre Hospitalier Universitaire de Rouen,FRA,Health
+176,Cliniques Universitaires Saint-Luc,BEL,Health
+177,Azienda Sanitaria Ulss 6 Vicenza,ITA,Health
+178,"University of California, Irvine Healthcare",USA,Health
+179,Catholic University of Louvain,BEL,Universities
+180,Universitatsklinikums Aachen,DEU,Health
+181,"Universite Paul Sabatier, Toulouse III *",FRA,Universities
+182,Seoul National University Hospital *,KOR,Health
+183,The Chinese University of Hong Kong *,HKG,Universities
+184,Centre Hospitalier Universitaire de Nancy,FRA,Health
+185,Uppsala University,SWE,Universities
+186,Institut des Maladies Genetiques Imagine,FRA,Government
+187,St Michaels Hospital Toronto,CAN,Health
+188,Universitat Autonoma de Barcelona *,ESP,Universities
+189,Universitat Regensburg *,DEU,Universities
+190,"Union Hospital, Tongji Medical College",CHN,Health
+191,University of Ottawa,CAN,Universities
+192,Westfalische Wilhelms-Universitat Munster *,DEU,Universities
+193,New York University *,USA,Universities
+193,Translational Research Institute,AUS,Companies
+195,Centro de Investigacion Biomedica en Red de Enfermedades Cardiovasculares,ESP,Health
+196,Aristotle University of Thessaloniki,GRC,Universities
+197,Osaka University *,JPN,Universities
+198,Toronto General Hospital,CAN,Health
+199,McGill University *,CAN,Universities
+200,Ministry of Health of the Russian Federation,RUS,Health
+201,"Fondazione IRCCS Ospedale Maggiore Policlinico, Mangiagalli e Regina Elena",ITA,Health
+202,Cedars-Sinai Medical Center ,USA,Health
+203,Hospital for Sick Children,CAN,Health
+204,Cornell University *,USA,Universities
+205,Universidad Complutense de Madrid *,ESP,Universities
+206,Parc de Salut Mar de Barcelona *,ESP,Health
+207,Universitatsspital Zurich,CHE,Health
+208,Children's Healthcare of Atlanta ,USA,Health
+209,George Washington The School of Medicine & Health Sciences,USA,Health
+210,Monash Health *,AUS,Health
+211,Hospital Universitario 12 de Octubre *,ESP,Health
+212,Chulalongkorn University,THA,Universities
+213,Indiana University-Purdue University Indianapolis,USA,Universities
+214,McMaster University *,CAN,Universities
+215,Kobe University *,JPN,Universities
+216,University Hospital Maastricht,NLD,Health
+217,NYU Langone Health,USA,Health
+218,Guys & Saint Thomas NHS Foundation Trust,GBR,Health
+219,National Health Commission of the People's Republic of China *,CHN,Health
+220,Weill Cornell Medicine,USA,Universities
+221,Sun Yat-Sen University *,CHN,Universities
+222,Zhejiang University *,CHN,Universities
+223,Helsinki University Central Hospital,FIN,Health
+224,Beth Israel Deaconess Medical Center,USA,Health
+225,University of Tennessee Health Science Center,USA,Health
+226,Nationwide Children's Hospital ,USA,Health
+227,Royal Free London NHS Foundation Trust,GBR,Health
+228,Zhengzhou University *,CHN,Universities
+229,Richard L. Roudebush VA Medical Center,USA,Health
+229,Institut de Recerca Hospital Universitari Vall d'Hebron,ESP,Health
+231,Juntendo University *,JPN,Universities
+232,Shahid Beheshti University of Medical Sciences and Health Services *,IRN,Universities
+233,"University of Maryland, Baltimore",USA,Universities
+234,St Vincent's Hospital Melbourne,AUS,Health
+235,MetroHealth System ,USA,Health
+236,University of Western Ontario,CAN,Universities
+237,Universita degli Studi di Torino,ITA,Universities
+238,Centre Hospitalier Regional et Universitaire de Tours,FRA,Health
+239,Universite de Bordeaux *,FRA,Universities
+240,Julius-Maximilians-Universitat Wurzburg *,DEU,Universities
+241,The Jikei University School of Medicine *,JPN,Universities
+242,Jilin University *,CHN,Universities
+243,University of Rochester Medical Center,USA,Health
+244,Lunds University,SWE,Universities
+245,AstraZeneca *,MUL,Companies
+246,University of Glasgow *,GBR,Universities
+247,"Newcastle University, Newcastle upon Tyne",GBR,Universities
+248,Hospital Clinic de Barcelona,ESP,Health
+249,Centre Hospitalier Universitaire de Toulouse *,FRA,Health
+250,CareGroup Healthcare System *,USA,Health
+251,University of Rochester *,USA,Universities
+252,Berlin Institute of Health,DEU,Health
+253,University College Dublin,IRL,Universities
+254,Aarhus University *,DNK,Universities
+255,Xi'an Jiaotong University *,CHN,Universities
+256,Universita degli Studi del Piemonte Orientale Amedeo Avogadro,ITA,Universities
+257,Westmead Hospital ,AUS,Health
+258,Fondazione IRCCS San Raffaele del Monte Tabor,ITA,Health
+259,University of Kentucky *,USA,Universities
+260,"Kaiser Permanente, Oakland *",USA,Health
+261,"University of Illinois, Chicago *",USA,Universities
+262,University of Cincinnati *,USA,Universities
+263,University of Miami *,USA,Universities
+264,"University of Wisconsin, Madison *",USA,Universities
+265,Henry Ford Health System,USA,Health
+266,The University of Manchester *,GBR,Universities
+267,Indiana University Health,USA,Health
+268,Ramathibodi Hospital,THA,Health
+269,Universitatsklinikum Koln,DEU,Health
+270,West China Hospital,CHN,Health
+271,Centre Hospitalier Universitaire de Bordeaux,FRA,Health
+272,Children's Hospital of Philadelphia,USA,Health
+273,Universite de Lorraine *,FRA,Universities
+274,Universita degli Studi di Bari,ITA,Universities
+275,Sahlgrenska University Hospital,SWE,Health
+276,Consiglio Nazionale delle Ricerche *,ITA,Government
+277,University of Southern California *,USA,Universities
+278,Tennessee Valley Healthcare System,USA,Health
+279,Leibniz Gemeinschaft *,DEU,Government
+280,"Southeast University, Nanjing *",CHN,Universities
+281,Universita degli Studi della Campania Luigi Vanvitelli,ITA,Universities
+282,Tokai University *,JPN,Universities
+283,Ministry of Education of the People's Republic of China,CHN,Government
+284,Universitatsklinikum Wurzburg,DEU,Health
+285,Centre Hospitalier Universitaire de Liege,BEL,Health
+286,Universita degli Studi di Padova,ITA,Universities
+287,Medizinische Universitat Innsbruck *,AUT,Universities
+288,Barts and the London NHS Trust,GBR,Health
+289,National University of Singapore *,SGP,Universities
+290,"AstraZeneca, Sweden",SWE,Companies
+291,University of Gothenburg,SWE,Universities
+292,Universite Francois Rabelais de Tours *,FRA,Universities
+293,Friedrich-Schiller-Universitat Jena *,DEU,Universities
+294,University of Medicine and Pharmacy Grigore T. Popa of Iasi,ROU,Universities
+295,Aix-Marseille Universite *,FRA,Universities
+296,Rheinische Friedrich-Wilhelms-Universitat Bonn *,DEU,Universities
+297,Johann Wolfgang Goethe-Universitat Frankfurt am Main *,DEU,Universities
+298,Koc University,TUR,Universities
+299,McGill University Health Centre,CAN,Health
+300,University Hospitals Leicester NHS Trust,GBR,Health
+301,University of Miami Health System,USA,Health
+302,All India Institute of Medical Sciences,IND,Universities
+303,Kings College Hospital NHS Foundation Trust,GBR,Health
+304,Murdoch Children's Research Institute,AUS,Health
+305,Universidad Europea de Madrid *,ESP,Universities
+306,Clalit Health Services *,ISR,Health
+307,University of Pittsburgh Medical Center  *,USA,Health
+308,Oxford University Hospitals NHS Trust,GBR,Health
+309,The Ottawa Hospital  *,CAN,Health
+310,Copenhagen University Hospital,DNK,Health
+311,Universita degli Studi di Pavia,ITA,Universities
+312,University Hospitals of Cleveland  *,USA,Health
+313,Centre Hospitalier Universitaire Vaudois ,CHE,Health
+314,Universitatsklinikum Freiburg,DEU,Health
+315,Ministerio de Ciencia e Innovacion *,MUL,Government
+316,Fundacio Puigvert,ESP,Health
+316,University of Southern California Health Sciences Campus,USA,Health
+318,Tohoku University *,JPN,Universities
+319,Concord Repatriation General Hospital ,AUS,Health
+320,Hospital Universitari de Bellvitge,ESP,Health
+321,"Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas",ESP,Government
+322,Yonsei University Health System,KOR,Health
+323,University of Washington Medicine ,USA,Health
+324,Universita degli Studi di Brescia,ITA,Universities
+325,Second Xiangya Hospital Affiliated to Central South University,CHN,Health
+326,Rush University *,USA,Universities
+327,Skane University Hospital,SWE,Health
+328,Medical University of South Carolina *,USA,Universities
+329,Azienda Ospedaliera Careggi,ITA,Health
+330,University of Iowa *,USA,Universities
+331,Queen's University,CAN,Universities
+332,University of Manitoba,CAN,Universities
+333,University of Cincinnati Medical Center,USA,Health
+334,Jichi Medical University *,JPN,Universities
+335,Nanjing Medical University *,CHN,Universities
+336,Universite Libre de Bruxelles,BEL,Universities
+337,Wayne State University,USA,Universities
+338,Institut Catala de la Salut Metropolitana Sud,ESP,Health
+339,University of Kansas *,USA,Universities
+340,Capital University of Medical Sciences *,CHN,Universities
+341,Ministerio de Ciencia e Innovacion Madrid,ESP,Government
+342,University of Nottingham *,GBR,Universities
+343,Instituto de Investigacion Hospital 12 de Octubre,ESP,Health
+344,Instituto Nacional de Cardiologia Ignacio Chavez,MEX,Health
+345,Mahidol University *,THA,Universities
+346,Hacettepe University,TUR,Universities
+347,University of Florida *,USA,Universities
+348,University of Virginia Health System,USA,Health
+349,Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran,MEX,Health
+350,Charles University *,CZE,Universities
+351,Medical College of Wisconsin,USA,Universities
+352,Cambridge University Hospitals NHS Foundation Trust,GBR,Health
+353,University of Bristol *,GBR,Universities
+354,Kagawa University *,JPN,Universities
+355,"AstraZeneca, United States",USA,Companies
+356,Ottawa Hospital Research Institute,CAN,Health
+357,Newcastle upon Tyne Hospitals NHS Foundation Trust,GBR,Health
+358,Universidade de Sao Paulo *,BRA,Universities
+359,Sheffield Teaching Hospitals NHS Trust,GBR,Health
+360,University Hospitals Birmingham NHS Foundation Trust,GBR,Health
+361,Universita degli Studi di Firenze,ITA,Universities
+362,Tehran University of Medical Sciences *,IRN,Universities
+363,First Affiliated Hospital of Zhengzhou University,CHN,Health
+364,Centre Hospitalier Universitaire de Montpellier *,FRA,Health
+365,Maastricht University,NLD,Universities
+366,Boston Medical Center ,USA,Health
+367,Manchester University NHS Foundation Trust,GBR,Health
+368,National Cancer Institute,USA,Health
+369,"University of California, Davis *",USA,Universities
+369,Technische Universitat Dresden *,DEU,Universities
+371,University of Antwerp,BEL,Universities
+372,Universita degli Studi di Modena e Reggio Emilia,ITA,Universities
+373,"George Institute for International Health, India",IND,Health
+374,University of Athens,GRC,Universities
+375,London Health Sciences Centre,CAN,Health
+376,Arizona Health Sciences Center University of Arizona Tucson,USA,Health
+377,Hopital Erasme,BEL,Health
+378,Ospedale Policlinico San Martino,ITA,Health
+379,Cairo University *,EGY,Universities
+380,Medizinische Universitat Graz *,AUT,Universities
+381,Royal Melbourne Hospital,AUS,Health
+382,Hippokration General Hospital,GRC,Health
+383,Universitatsklinikum Heidelberg,DEU,Health
+384,Tokyo Womens Medical University *,JPN,Universities
+385,Spedali Civili di Brescia,ITA,Health
+386,National Center for Global Health and Medicine,JPN,Health
+387,Universitatsklinikum Carl Gustav Carus Dresden,DEU,Health
+388,Hospital de la Santa Creu i Sant Pau *,ESP,Health
+389,Flinders University,AUS,Universities
+390,Virginia Commonwealth University *,USA,Universities
+391,Providence Health Care,CAN,Health
+392,Centre Hospitalier Universitaire de Nice *,FRA,Health
+393,Kyoto University *,JPN,Universities
+394,Jagiellonian University,POL,Universities
+395,Universitatsklinikum Mannheim,DEU,Health
+396,Universitatsklinikum Jena,DEU,Health
+397,South Eastern Sydney Local Health District *,AUS,Health
+398,University of Mississippi *,USA,Universities
+399,University of Arizona *,USA,Universities
+400,Rush University Medical Center,USA,Health
+401,Universite Paris-Saclay *,FRA,Universities
+402,Sunnybrook Health Sciences Centre,CAN,Health
+403,University of Birmingham,GBR,Universities
+404,University of New Mexico *,USA,Universities
+405,Ludwig-Maximilians Universitat Munchen *,DEU,Universities
+405,"Soochow University, Suzhou *",CHN,Universities
+407,Kanazawa University *,JPN,Universities
+408,Kyushu University *,JPN,Universities
+409,Keio University *,JPN,Universities
+409,Seoul National University Bundang Hospital,KOR,Health
+411,Universite de Geneve,CHE,Universities
+412,Universita degli Studi di Messina,ITA,Universities
+413,North Bristol NHS Trust,GBR,Health
+413,VA Palo Alto Health Care System,USA,Health
+415,Russian Academy of Sciences *,RUS,Government
+416,The University of Hull,GBR,Universities
+417,Otto-von-Guericke-Universitat Magdeburg *,DEU,Universities
+418,Niigata University *,JPN,Universities
+419,Assistance Publique Hopitaux de Marseille *,FRA,Health
+420,Hospital del Mar,ESP,Health
+421,"Prince of Wales Hospital, Hong Kong",HKG,Health
+422,Tsinghua University *,CHN,Universities
+423,King Chulalongkorn Memorial Hospital,THA,Health
+424,Ann & Robert H Lurie Children s Hospital,USA,Health
+425,University of Mississippi Medical Center,USA,Universities
+426,Chang Gung University,TWN,Universities
+427,Hospital Universitario Puerta de Hierro Majadahonda *,ESP,Health
+428,Catholic University of Korea *,KOR,Universities
+429,"Chang Gung Memorial Hospital, Taipei *",TWN,Health
+430,Hallym University *,KOR,Universities
+431,Shandong University *,CHN,Universities
+432,Nagoya University *,JPN,Universities
+433,University of Electronic Science and Technology of China *,CHN,Universities
+434,Hopitaux Universitaires de Geneve,CHE,Health
+435,Deakin University *,AUS,Universities
+436,The University of Sheffield,GBR,Universities
+437,Ospedale Luigi Sacco,ITA,Health
+438,The University of Western Australia,AUS,Universities
+438,University of Texas M.D. Anderson Cancer Center ,USA,Health
+440,Hospital Clinico Universitario de Valencia *,ESP,Health
+441,Korea University *,KOR,Universities
+442,Jinling Hospital,CHN,Health
+443,"Rutgers, The State University of New Jersey",USA,Universities
+444,Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau    ,ESP,Health
+445,"Saint Louis University, Saint Louis *",USA,Universities
+446,University of Wisconsin Health,USA,Health
+446,Los Angeles Biomedical Research Institute,USA,Health
+448,Deutsches Zentrum fur Herz Kreislauf Forschung,DEU,Health
+449,Universidade Federal de Sao Paulo *,BRA,Universities
+450,Linkoping University,SWE,Universities
+451,Universite de Lausanne,CHE,Universities
+452,Chinese Academy of Medical Sciences and Peking Union Medical College *,CHN,Universities
+452,Oregon Health & Science University *,USA,Universities
+454,Universita degli Studi di Roma La Sapienza,ITA,Universities
+455,Universitat de Valencia *,ESP,Universities
+456,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement *",FRA,Government
+457,London School of Hygiene and Tropical Medicine,GBR,Universities
+457,Universita degli Studi di Genova,ITA,Universities
+459,Medical University of Warsaw,POL,Universities
+460,VA Long Beach Healthcare System,USA,Health
+461,Third Hospital Affiliated to Central South University,CHN,Health
+462,Hallym University Medical Center,KOR,Health
+463,NHS Greater Glasgow and Clyde,GBR,Health
+464,Semmelweis University,HUN,Universities
+465,Postgraduate Institute of Medical Education and Research,IND,Universities
+466,Royal Prince Alfred Hospital ,AUS,Health
+467,VCU Medical Center,USA,Health
+468,Azienda Ospedaliero Universitaria di Bologna - Policlinico di Sant'Orsola Malpighi,ITA,Health
+469,University College London Hospital NHS Trust,GBR,Health
+470,Universite de Montreal,CAN,Universities
+471,Pontificia Universidade Catolica do Parana,BRA,Universities
+472,Centre Hospitalier Regional Universitaire de Lille *,FRA,Health
+473,Universite de Versailles Saint Quentin en Yvelines *,FRA,Universities
+474,University of South Australia,AUS,Universities
+475,Albert-Ludwigs-Universitat Freiburg im Breisgau,DEU,Universities
+476,Russian Academy of Medical Sciences,RUS,Health
+477,Istanbul University *,TUR,Universities
+477,University of Kansas Medical Center,USA,Health
+479,University of Iowa Health Care,USA,Health
+480,University of Vermont,USA,Universities
+481,Universita degli Studi di Milano-Bicocca,ITA,Universities
+482,The University of Adelaide,AUS,Universities
+483,Universite Montpellier *,FRA,Universities
+484,University of Tsukuba *,JPN,Universities
+485,Universitat Duisburg Essen *,DEU,Universities
+486,Ernst-Moritz-Arndt-Universitat Greifswald *,DEU,Universities
+487,Austin Health *,AUS,Health
+488,Istituto Giannina Gaslini Ospedale Pediatrico IRCCS,ITA,Health
+489,Pennsylvania State University *,USA,Universities
+490,Zhongda Hospital,CHN,Health
+491,Te Whatu Ora Health New Zealand *,NZL,Health
+492,Universitat des Saarlandes *,DEU,Universities
+493,Toho University *,JPN,Universities
+494,Hospital Universitario Infanta Leonor,ESP,Health
+495,Iran University of Medical Sciences *,IRN,Universities
+496,Manipal Global Education Group *,MUL,Companies
+497,Centro Hospitalar de Lisboa Central,PRT,Health
+498,Tabriz University of Medical Sciences,IRN,Universities
+499,Universitat de Barcelona *,ESP,Universities
+500,Institute for Clinical Evaluative Sciences *,CAN,Health
+501,Manchester Academic Health Science Centre,GBR,Health
+502,Osaka Metropolitan University *,JPN,Universities
+503,Akron Children's Hospital,USA,Health
+504,Georgetown University *,USA,Universities
+505,Griffith University,AUS,Universities
+506,Nara Medical University *,JPN,Universities
+507,Hospital General Universitario Gregorio Maranon *,ESP,Health
+508,Brown University,USA,Universities
+509,Medical University of Gdansk,POL,Universities
+510,University Hospital Antwerp,BEL,Health
+511,Universita degli Studi di Pisa,ITA,Universities
+511,Alberta Health Services *,CAN,Health
+511,Universitatsklinikum des Saarlandes,DEU,Health
+514,Azienda Ospedaliera di Verona,ITA,Health
+515,University of Belgrade,SRB,Universities
+516,Houston Methodist,USA,Health
+517,Michael E. DeBakey VA Medical Center,USA,Health
+518,University General Hospital,CZE,Health
+518,Oslo University Hospital,NOR,Health
+520,Aarhus University Hospital,DNK,Health
+521,University of Cape Town,ZAF,Universities
+522,"University of Illinois, College of Medicine at Chicago",USA,Health
+523,Royal Children's Hospital Melbourne,AUS,Health
+524,University of Auckland,NZL,Universities
+525, Centre Hospitalier de l'Universite de Montreal,CAN,Health
+526,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,ITA,Health
+527,Universita degli Studi di Verona,ITA,Universities
+528,Peking Union Medical College Hospital Beijing,CHN,Health
+529,Universitat Leipzig *,DEU,Universities
+530,Philipps-Universitat Marburg *,DEU,Universities
+531,Universite de Liege,BEL,Universities
+532,St Marianna University School of Medicine *,JPN,Universities
+533,Universidade do Porto *,PRT,Universities
+534,University of Louisville *,USA,Universities
+535,Teikyo University *,JPN,Universities
+536,Loyola University of Chicago *,USA,Universities
+537,Nanchang University *,CHN,Universities
+538,"Chang Gung Memorial Hospital, Taoyuan",TWN,Health
+539,Max-Delbruck-Centrum fur Molekulare Medizin ,DEU,Government
+540,Hospital Universitario de La Princesa *,ESP,Health
+541,Royal Adelaide Hospital ,AUS,Health
+542,Sun Yat-sen University First Hospital,CHN,Health
+543,Dana Farber Cancer Institute ,USA,Health
+544,Centre Hospitalier Universitaire de Reims,FRA,Health
+545,Singapore General Hospital,SGP,Health
+546,Texas Children's Hospital ,USA,Health
+547,Penn State Milton S. Hershey Medical Center,USA,Health
+548,Universita Vita-Salute San Raffaele,ITA,Universities
+549,Hebrew University of Jerusalem,ISR,Universities
+550,Tokyo Medical and Dental University,JPN,Universities
+551,Tongji University *,CHN,Universities
+552,University General Hospital of Thessaloniki AHEPA,GRC,Health
+553,Freie Universitat Berlin,DEU,Universities
+554,First Affiliated Hospital of Xi'an Jiaotong University,CHN,Health
+555,Isfahan University of Medical Sciences *,IRN,Universities
+556,Umea University *,SWE,Universities
+557,Seattle Children's Hospital *,USA,Health
+558,Salford Royal Hospitals NHS Trust,GBR,Health
+559,Universidade Federal Fluminense,BRA,Universities
+560,Odense University Hospital,DNK,Health
+561,Klinikum Rechts der Isar der Technische Universitat Munchen,DEU,Health
+562,Universita degli Studi di Parma,ITA,Universities
+563,Frederick National Laboratory for Cancer Research,USA,Health
+564,Shaare Zedek Medical Center,ISR,Health
+565,Manipal University,IND,Universities
+566,Meir Medical Center,ISR,Health
+567,L'Alma Mater Studiorum - Universita di Bologna,ITA,Universities
+568,University of New Mexico Health Sciences Center,USA,Health
+569,Universita degli Studi di Napoli Federico II,ITA,Universities
+570,Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo,BRA,Health
+571,First Hospital of Jilin University,CHN,Health
+572,Royal Brisbane and Women's Hospital *,AUS,Health
+573,UC Davis Health System,USA,Health
+574,Umberto I Policlinico di Roma,ITA,Health
+575,Universita Cattolica del Sacro Cuore,ITA,Universities
+576,Royal North Shore Hospital,AUS,Health
+577,Hamilton Health Sciences *,CAN,Health
+578,University of Oslo,NOR,Universities
+579,National Research Institute for Child Health and Development,JPN,Health
+580,University of Health Sciences,TUR,Universities
+581,Hopitaux Universitaires de Strasbourg,FRA,Health
+581,Ruhr-Universitat Bochum *,DEU,Universities
+583,University of Tasmania,AUS,Universities
+584,King Saud University *,SAU,Universities
+585,Kitasato University *,JPN,Universities
+586,Fundacio de Recerca Clinic Barcelona-Institut d’Investigacions Biomediques August Pi i Sunyer,ESP,Health
+587,University of Bergen,NOR,Universities
+588,Istanbul University Cerrahpasa *,TUR,Universities
+589,University of Utah Health Care,USA,Health
+590,Children's Hospital Colorado,USA,Health
+591,Complejo Hospitalario Regional Reina Sofia,ESP,Health
+592,Hokkaido University *,JPN,Universities
+592,Hospital Universitari Germans Trias i Pujol,ESP,Health
+594,Marienhospital Herne,DEU,Health
+595,Anhui Medical University *,CHN,Universities
+596,Hospital Universitario La Paz,ESP,Health
+597,Saitama Medical University *,JPN,Universities
+598,Universitatsklinikum Essen,DEU,Health
+599,Sir Charles Gairdner Hospital ,AUS,Health
+600,University of Ulsan *,KOR,Universities
+601,Azienda Ospedaliera di Parma,ITA,Health
+602,Hebei Medical University *,CHN,Universities
+603,Harbor–UCLA Medical Center,USA,Health
+604,Fujita Health University *,JPN,Universities
+605,I.M. Sechenov First Moscow State Medical University,RUS,Universities
+606,The General Hospital of the People's Liberation Army *,CHN,Health
+607,Medical University of Silesia,POL,Universities
+608,Second Military Medical University *,CHN,Universities
+609,Wenzhou Medical University *,CHN,Universities
+610,Sanjay Gandhi Postgraduate Institute of Medical Sciences,IND,Universities
+611,University of Ljubljana *,SVN,Universities
+612,Instituto Mexicano del Seguro Social *,MEX,Health
+613,Institut Catala de la Salut Metropolitana Nord,ESP,Health
+614,Tianjin Medical University *,CHN,Universities
+615,Istituto di Fisiologia Clinica,ITA,Government
+616,Population Health Research Institute,CAN,Health
+617,Universidade Estadual Paulista Julio de Mesquita Filho,BRA,Universities
+618,Jawaharlal Institute of Postgraduate Medical Education and Research,IND,Universities
+619,University of Illinois at Urbana-Champaign *,USA,Universities
+620,King Abdulaziz University *,SAU,Universities
+621,Jinan University *,CHN,Universities
+622,University of Miyazaki *,JPN,Universities
+623,Gazi University,TUR,Universities
+624,Istituto Europeo di Oncologia,ITA,Health
+625,Renji Hospital,CHN,Health
+626,BC Children's Hospital and Sunny Hill Health Centre for Children Vancouver,CAN,Health
+627,Centre Hospitalier Universitaire de Rennes,FRA,Health
+627,Lancashire Teaching Hospitals NHS Trust,GBR,Health
+629,National University Health System *,SGP,Health
+630,Landspitali National University Hospital,ISL,Health
+631,Universidade Federal de Minas Gerais,BRA,Universities
+632,Shiraz University of Medical Sciences *,IRN,Universities
+633,Haukeland University Hospital,NOR,Health
+634,Mansoura University *,EGY,Universities
+635,St.John's National Academy of Health Sciences *,IND,Health
+636,Centre Hospitalier Universitaire de Nimes,FRA,Health
+637,Universitat Bern *,CHE,Universities
+638,Army Medical University *,CHN,Universities
+639,Guangzhou University of Traditional Chinese Medicine *,CHN,Universities
+640,Yokohama City University *,JPN,Universities
+641,Dalhousie University *,CAN,Universities
+642,University of Otago,NZL,Universities
+643,Townsville University Hospital,AUS,Health
+643,Temple University *,USA,Universities
+645,Ankara University,TUR,Universities
+646,St George Hospital ,AUS,Health
+647,University of the Ryukyus *,JPN,Universities
+648,Azienda Ospedaliera Sant Andrea,ITA,Health
+649,Second Affiliated Hospital of Guangzhou University of Traditional Chinese Medicine,CHN,Health
+650,Universidade de Lisboa *,PRT,Universities
+651,University of Southern Denmark,DNK,Universities
+652,National Taiwan University,TWN,Universities
+653,Medical Radiological Scientific Centre of the Russian Academy of Medical Sciences,RUS,Health
+654,Shanghai Changzheng Hospital,CHN,Health
+655,Universidade Federal do Parana,BRA,Universities
+656,Istituto Clinico Humanitas,ITA,Health
+657,Huashan Hospital,CHN,Health
+658,Ministry of Health *,TUR,Health
+659,Hiroshima University *,JPN,Universities
+660,Kyungpook National University *,KOR,Universities
+661,Hospital Universitario Marques de Valdecilla,ESP,Health
+662,National Taiwan University Hospital,TWN,Health
+663,Vilnius University,LTU,Universities
+664,Universidade Federal do Rio Grande do Sul,BRA,Universities
+665,Universite de Lyon,FRA,Universities
+666,"AstraZeneca, United Kingdom",GBR,Companies
+667,First Affiliated Hospital of Nanchang University,CHN,Health
+668,The Leeds Teaching Hospitals NHS Trust,GBR,Health
+669,University of Iceland,ISL,Universities
+670,Nippon Medical School *,JPN,Universities
+671,VA Puget Sound Health Care System,USA,Health
+672,Seoul National University Boramae Hospital,KOR,Health
+673,Universidade Federal do Rio de Janeiro *,BRA,Universities
+673,"University of Texas, Austin",USA,Universities
+675,University of Wollongong *,AUS,Universities
+676,Centre Hospitalier Universitaire de Caen *,FRA,Health
+677,"Christian Medical College, Vellore",IND,Universities
+678,Samsung Medical Center Seoul,KOR,Health
+679,Shanghai Sixth People's Hospital,CHN,Health
+680,Beijing University of Chinese Medicine *,CHN,Universities
+681,Mashhad University of Medical Sciences,IRN,Universities
+682,Center for Life Sciences,CHN,Government
+683,Bezmialem Vakif University,TUR,Universities
+684,Marmara University *,TUR,Universities
+685,Toranomon Hospital,JPN,Health
+686,Okayama University *,JPN,Universities
+687,St Petersburg Pavlov State Medical University,RUS,Universities
+688,Humboldt-Universitat zu Berlin *,DEU,Universities
+688,Instituto Maimonides de Investigacion Biomedica de Cordoba,ESP,Health
+690,Keimyung University,KOR,Universities
+691,Erciyes University,TUR,Universities
+692,Yokohama City University Medical Center,JPN,Health
+693,Nanyang Technological University *,SGP,Universities
+694,Shandong Provincial Hospital,CHN,Health
+695,Tokyo Medical University *,JPN,Universities
+696,"University of Missouri, Kansas City",USA,Universities
+697,Universita degli Studi Magna Graecia di Catanzaro,ITA,Universities
+698,St. Joseph's Healthcare Hamilton,CAN,Health
+699,Universitatsklinikum Bonn,DEU,Health
+700,University of Malaya *,MYS,Universities
+701,University Hospital Centre Zagreb,HRV,Health
+702,Universite de Rennes 1 *,FRA,Universities
+703,Ankara Training and Research Hospital,TUR,Health
+704,Cukurova University,TUR,Universities
+705,Universidade Estadual de Campinas *,BRA,Universities
+706,Uludag University,TUR,Universities
+707,"Cardiovasculaire, Metabolisme, Diabetologie & Nutrition",FRA,Government
+708,Humanitas University *,ITA,Universities
+709,Institut National des Sciences Appliquees de Lyon *,FRA,Universities
+710,University of Nigeria,NGA,Universities
+711,West Virginia University *,USA,Universities
+712,Hospital Regional Universitario de Malaga,ESP,Health
+713,Oakland University,USA,Universities
+714,Kwame Nkrumah University of Science and Technology,GHA,Universities
+715,Universita degli Studi di Foggia,ITA,Universities
+716,Beaumont Health System,USA,Health
+717,"University of Texas, Health Science Center at Houston",USA,Universities
+718,National Academy of Medical Sciences of Ukraine,UKR,Health
+719,Nantong University *,CHN,Universities
+720,Universidade Federal da Bahia,BRA,Universities
+721,Nagasaki University *,JPN,Universities
+722,University of Western Sydney,AUS,Universities
+723,Baskent University *,TUR,Universities
+724,Universita degli Studi di Trieste,ITA,Universities
+725,Azienda Ospedaliera di Padova,ITA,Health
+726,Zhujiang Hospital,CHN,Health
+727,Pirogov Russian National Research Medical University,RUS,Universities
+728,Ege University,TUR,Universities
+729,Hamamatsu University School of Medicine *,JPN,Universities
+729,Wroclaw Medical University,POL,Universities
+731,International University of Health and Welfare *,JPN,Universities
+732,Hospital Universitario Ramon y Cajal *,ESP,Health
+733,Albany Medical Center *,USA,Health
+734,Necmettin Erbakan University,TUR,Universities
+734,University of Delhi *,IND,Universities
+736,First Affiliated Hospital of Anhui Medical University,CHN,Health
+737,First People's Hospital Affiliated to Shanghai Jiao Tong University,CHN,Health
+737,St. Lukes International Hospital,JPN,Health
+739,Complejo Hospitalario Virgen del Rocio,ESP,Health
+740,National Yang Ming Chiao Tung University,TWN,Universities
+741,Hiroshima University Hospital,JPN,Health
+742,Taipei Medical University,TWN,Universities
+743,Universidade de Tras-os-Montes e Alto Douro,PRT,Universities
+744,Universita degli Studi Gabriele d'Annunzio di Chieti e Pescara,ITA,Universities
+745,Universidade de Brasilia,BRA,Universities
+746,Pontificia Universidade Catolica do Rio Grande do Sul,BRA,Universities
+747,Kahramanmaras Sutcu Imam University,TUR,Universities
+748,Kocaeli University *,TUR,Universities
+749,Saint Petersburg State University,RUS,Universities
+750,Eskisehir Osmangazi University *,TUR,Universities
+751,Guilan University of Medical Sciences,IRN,Universities
+752,Complejo Universitario de San Carlos *,ESP,Health
+753,Kanazawa Medical University *,JPN,Universities
+754,Pamukkale University,TUR,Universities
+755,North-Western State Medical University,RUS,Universities
+756,Complejo Hospitalario Dr Negrin,ESP,Health
+757,Universidad de Cartagena,COL,Universities
+758,Universita Campus Bio-Medico di Roma,ITA,Universities
+759,Universite de Tunis El Manar *,TUN,Universities
+760,Hopital Charles Nicolle,TUN,Health
+761,Uniao Brasileira de Educacao e Assistencia *,BRA,Non-Profit
+762,Maulana Azad Medical College,IND,Health
+763,Hospital Universitario Virgen de La Arrixaca,ESP,Health
+764,Izmir Katip Celebi University *,TUR,Universities
